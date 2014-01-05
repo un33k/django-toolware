@@ -5,7 +5,7 @@ from setuptools import setup
 import re
 import os
 import sys
-+import codecs
+import codecs
 
 
 name = 'django-toolware'
