@@ -25,7 +25,7 @@ class FieldSetNode(template.Node):
         if "exclude" in self.opcode:
             nform.fields = SortedDict([(key, oform.fields[key]) for key in oform.fields if key not in self.fields])
         context[self.new_form] = nform
-        return u''
+        return ''
 
 @register.tag
 def trim_form(parser, token):
