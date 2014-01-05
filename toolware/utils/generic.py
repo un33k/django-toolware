@@ -8,7 +8,7 @@ if six.PY2:
     import urlparse
 elif six.PY3:
     import urllib.parse as urlparse
-from django.utils.encoding import smart_str, smart_unicode
+from django.utils.encoding import smart_str
 from django.contrib.sites.models import Site
 from django.core.exceptions import ValidationError
 from django.core.validators import validate_email
