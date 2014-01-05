@@ -15,7 +15,7 @@ url = 'https://github.com/un33k/django-toolware'
 author = 'Val Neekman'
 author_email = 'info@neekware.com'
 license = 'BSD'
-install_requires = ['']
+install_requires = ['six>=1.4.1']
 classifiers = [
     'Development Status :: 3 - Alpha',
     'Environment :: Web Environment',

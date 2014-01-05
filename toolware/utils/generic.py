@@ -3,7 +3,11 @@ import uuid
 import datetime
 import hashlib
 import urllib
-import urlparse
+import six
+if six.PY2:
+    import urlparse
+elif six.PY3:
+    import urllib.parse as urlparse
 from django.utils.encoding import smart_str, smart_unicode
 from django.contrib.sites.models import Site
 from django.core.exceptions import ValidationError
