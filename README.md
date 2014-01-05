@@ -11,7 +11,7 @@ Django Finalware
 Overview
 ====================
 
-A utility application that offers the most commonly-used tools and Mixins.
+A utility application that offers the most commonly-used tools and mixins.
 
 
 How to install
