@@ -2,7 +2,7 @@ __author__ = 'Val Neekman [neekware.com]'
 __description__ = 'This application handles all common tasks. (hint: DRY)'
 __version__ = '0.0.1'
 
-import defaults
+from . import defaults
 
 if defaults.TOOLWARE_TEMPLATE_TAGS_AUTO_LOAD:
     from django import template

@@ -1,7 +1,7 @@
 import datetime, re
 from django.db.models import Q
 
-from generic import get_integer, get_days_ago, get_days_from_now
+from .generic import get_integer, get_days_ago, get_days_from_now
 
 def get_text_tokenizer(query_string):
     """
