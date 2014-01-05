@@ -2,6 +2,7 @@ from django import template
 register = template.Library()
 
 
+
 @register.assignment_tag()
 def sizeof(collection):
     """
@@ -18,5 +19,3 @@ def sizeof(collection):
 def splitBy(data, num):
     """ Turn a list to list of list """
     return [data[i:i+num] for i in range(0, len(data), num)]
-
-

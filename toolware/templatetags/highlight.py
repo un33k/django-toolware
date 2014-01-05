@@ -9,6 +9,8 @@ from ..utils.query import get_text_tokenizer
 
 register = template.Library()
 
+
+
 def highlight_text(needles, haystack, cls_name='highlighted', words=False, case=False):
     """ Applies cls_name to all needles found in haystack. """
 
@@ -56,7 +58,3 @@ def highlight_words(string, keywords):
     include, exclude = get_text_tokenizer(keywords)
     highlighted = highlight_text(include, string, words=True)
     return highlighted
-
-
-
-

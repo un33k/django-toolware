@@ -26,4 +26,3 @@ class TestStringTokenizerCase(TestCase):
         includes, excludes = get_text_tokenizer(text)
         self.assertEquals('-'.join(includes), "This-is-a-test")
         self.assertEquals('-'.join(excludes), "This-is-NOT-a-test")
-

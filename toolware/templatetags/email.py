@@ -5,12 +5,14 @@ from django.template import Library
 
 register = Library()
 
+
+
 @register.filter()
 def obfuscate(email, linktext=None, autoescape=None):
     """
     Given a string representing an email address,
 	returns a mailto link with rot13 JavaScript obfuscation.
-	
+
     Accepts an optional argument to use as the link text;
 	otherwise uses the email address itself.
     """
@@ -33,5 +35,3 @@ def obfuscate(email, linktext=None, autoescape=None):
         (c=c.charCodeAt(0)+13)?c:c-26);}));</script>""" % (email, linktext)
     return mark_safe(rotten_link)
 obfuscate.needs_autoescape = True
-
-

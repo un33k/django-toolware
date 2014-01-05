@@ -1,16 +1,16 @@
 """
 http://djangosnippets.org/snippets/703/
 
-If you try to use multiple inheritance with a modelform 
+If you try to use multiple inheritance with a modelform
 (to mix in some fields from an already existing form class for example)
 you'll get the following rather terrifying error:
 
-"Error when calling the metaclass bases metaclass conflict: 
-the metaclass of a derived class must be a (non-strict) subclass of 
+"Error when calling the metaclass bases metaclass conflict:
+the metaclass of a derived class must be a (non-strict) subclass of
 the metaclasses of all its bases"
 
 The solution is to first create the ModelForm, then create a NEW class
-that inherits from both the ModelForm and the form you want to mixin, 
+that inherits from both the ModelForm and the form you want to mixin,
 then finally apply the recipe from here:
 
 Example:
@@ -76,7 +76,7 @@ def get_noconflict_metaclass(bases, left_metas, right_metas):
     elif len(needed_metas) == 1: # another trivial case
        meta = needed_metas[0]
     # check for recursion, can happen i.e. for Zope ExtensionClasses
-    elif needed_metas == bases: 
+    elif needed_metas == bases:
         raise TypeError("Incompatible root metatypes", needed_metas)
     else: # gotta work ...
         metaname = '_' + ''.join([m.__name__ for m in needed_metas])
@@ -89,6 +89,3 @@ def classmaker(left_metas=(), right_metas=()):
         metaclass = get_noconflict_metaclass(bases, left_metas, right_metas)
         return metaclass(name, bases, adict)
     return make_class
-
-
-

@@ -23,13 +23,13 @@ class StaffRequiredMixin(object):
     def dispatch(self, request, *args, **kwargs):
         if request.user.is_staff:
             return super(StaffRequiredMixin, self).dispatch(request, *args, **kwargs)
-        messages.error( 
+        messages.error(
                 request,
                 'user lacks sufficient permissions to perform the requested operation')
         return redirect(defaults.LOGIN_URL)
 
 
-class SuperUserRequiredMixin(object): 
+class SuperUserRequiredMixin(object):
     @method_decorator(login_required)
     def dispatch(self, request, *args, **kwargs):
         if request.user.is_superuser:
@@ -91,6 +91,3 @@ class CleanSpacesMixin(object):
 
     class Meta:
         abstract = True
-
-
-

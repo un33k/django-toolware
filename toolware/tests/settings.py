@@ -48,5 +48,3 @@ INSTALLED_APPS = [
 
 ROOT_URLCONF = 'toolware.tests.urls'
 SITE_ID = 1
-
-

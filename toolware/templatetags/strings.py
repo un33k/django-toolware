@@ -2,6 +2,8 @@ import string
 from django import template
 register = template.Library()
 
+
+
 @register.filter()
 def contains(value, arg):
     """
@@ -54,6 +56,3 @@ def double_quoted(keywords):
 
     quoted = '"{}"'.format(keywords)
     return quoted
-
-
-
