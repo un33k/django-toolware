@@ -46,5 +46,8 @@ INSTALLED_APPS = [
     'toolware',
 ]
 
+MIDDLEWARE_CLASSES = []
 ROOT_URLCONF = 'toolware.tests.urls'
 SITE_ID = 1
+TEST_RUNNER = 'django.test.simple.DjangoTestSuiteRunner'
+
