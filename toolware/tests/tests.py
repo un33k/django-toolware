@@ -1,19 +1,19 @@
-from django.conf import settings
 from django.test import TestCase
+from django.conf import settings
 
 from ..utils.query import get_text_tokenizer
 
 
 
-class SiteTestCase(TestCase):
-    """
-    Site objects are created
-    """
-    def setUp(self):
-        self.resp = self.client.get('/admin')
+# class SiteTestCase(TestCase):
+#     """
+#     Site objects are created
+#     """
+#     def setUp(self):
+#         self.resp = self.client.get('/admin')
 
-    def test_admin_page(self):
-        self.assertEqual(self.resp.status_code, 200)
+#     def test_admin_page(self):
+#         self.assertEqual(self.resp.status_code, 200)
 
 
 class TestStringTokenizerCase(TestCase):
