@@ -4,7 +4,6 @@ from django import template
 register = template.Library()
 
 
-
 class SetVarNode(template.Node):
 
     def __init__(self, var_name, var_value):
@@ -27,7 +26,7 @@ def setvar(parser, token):
     try:
         setvar, var_name, to_, var_value = token.split_contents()
     except ValueError:
-        raise template.TemplateSyntaxError('Invalid arguments for %r'  % token.split_contents()[0])
+        raise template.TemplateSyntaxError('Invalid arguments for %r' % token.split_contents()[0])
 
     return SetVarNode(var_name, var_value)
 

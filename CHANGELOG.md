@@ -1,3 +1,11 @@
+## 0.0.5
+
+BugFix:
+
+  - add compatibility file to handle py3 related.
+  - pep8 complaint
+
+
 ## 0.0.4
 
 Features:

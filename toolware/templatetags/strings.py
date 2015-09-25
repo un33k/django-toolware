@@ -1,7 +1,7 @@
 import string
 from django import template
-register = template.Library()
 
+register = template.Library()
 
 
 @register.filter()
@@ -17,6 +17,7 @@ def contains(value, arg):
 
     return arg in value
 
+
 @register.filter()
 def str2tokens(string, delimiter):
     """
@@ -26,6 +27,7 @@ def str2tokens(string, delimiter):
 
     token_list = [token.strip() for token in string.split(delimiter)]
     return token_list
+
 
 @register.assignment_tag()
 def str2tokenstags(string, delimiter):
@@ -37,6 +39,7 @@ def str2tokenstags(string, delimiter):
     token_list = [token.strip() for token in string.split(delimiter)]
     return token_list
 
+
 @register.assignment_tag()
 def get_python_string(*args, **kwargs):
     """
@@ -46,6 +49,7 @@ def get_python_string(*args, **kwargs):
     """
 
     return string
+
 
 @register.assignment_tag()
 def double_quoted(keywords):

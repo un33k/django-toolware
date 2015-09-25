@@ -5,6 +5,7 @@ from django.utils.safestring import mark_safe
 
 register = template.Library()
 
+
 @register.filter
 def roundplus(number):
     """
@@ -22,11 +23,11 @@ def roundplus(number):
     if digits < 3:
         rounded = num
     elif digits == 3:
-        rounded = num[0]+'00+'
+        rounded = num[0] + '00+'
     elif digits == 4:
-        rounded = num[0]+'K+'
+        rounded = num[0] + 'K+'
     elif digits == 5:
-        rounded = num[:1]+'K+'
+        rounded = num[:1] + 'K+'
     else:
         rounded = '100K+'
 

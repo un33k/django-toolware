@@ -263,9 +263,11 @@ COUNTRIES = sorted(ALL_COUNTRIES, key=lambda country: country[1])
 # COUNTRIES = PRIORITY_COUNTRIES + COUNTRIES
 SORTED_COUNTRIES = COUNTRIES
 
+
 def isValidCountry(field_data, all_data):
-    if not field_data in [lang[0] for lang in COUNTRIES]:
-        raise ValidationError, ugettext("This value must be in COUNTRIES setting in localflavor.generic package.")
+    if field_data not in [lang[0] for lang in COUNTRIES]:
+        raise ugettext("This value must be in COUNTRIES setting in localflavor.generic package.")
+
 
 class CountryField(CharField):
     def __init__(self, *args, **kwargs):

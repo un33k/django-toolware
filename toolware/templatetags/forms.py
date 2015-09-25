@@ -7,7 +7,6 @@ from django.utils.datastructures import SortedDict
 register = template.Library()
 
 
-
 class FieldSetNode(template.Node):
     """ Returns a subset of given form """
 
@@ -26,6 +25,7 @@ class FieldSetNode(template.Node):
             nform.fields = SortedDict([(key, oform.fields[key]) for key in oform.fields if key not in self.fields])
         context[self.new_form] = nform
         return ''
+
 
 @register.tag
 def trim_form(parser, token):
@@ -51,6 +51,6 @@ def trim_form(parser, token):
     try:
         trim_form, orig_form, opcode, fields, as_, new_form = token.split_contents()
     except ValueError:
-        raise template.TemplateSyntaxError('Invalid arguments for %r'  % token.split_contents()[0])
+        raise template.TemplateSyntaxError('Invalid arguments for %r' % token.split_contents()[0])
 
     return FieldSetNode(opcode, fields.split(','), orig_form, new_form)

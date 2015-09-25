@@ -1,7 +1,6 @@
 from django.db import models
 
 
-
 class EmailFieldLowerCase(models.EmailField):
     """Case-Insensitive Email (lower case)"""
 

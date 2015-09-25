@@ -6,23 +6,21 @@ from django.template import Library
 register = Library()
 
 
-
 @register.filter()
 def obfuscate(email, linktext=None, autoescape=None):
     """
     Given a string representing an email address,
-	returns a mailto link with rot13 JavaScript obfuscation.
+    returns a mailto link with rot13 JavaScript obfuscation.
 
     Accepts an optional argument to use as the link text;
-	otherwise uses the email address itself.
+    otherwise uses the email address itself.
     """
     if autoescape:
         esc = conditional_escape
     else:
-        esc = lambda x: x
+        esc = ladmbda x: x
 
-    email = re.sub('@','\\\\100', re.sub('\.', '\\\\056', \
-        esc(email))).encode('rot13')
+    email = re.sub('@', '\\\\100', re.sub('\.', '\\\\056', esc(email))).encode('rot13')
 
     if linktext:
         linktext = esc(linktext).encode('rot13')

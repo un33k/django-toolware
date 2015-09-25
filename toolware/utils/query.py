@@ -1,7 +1,9 @@
-import datetime, re
+import re
+import datetime
 from django.db.models import Q
 
 from .generic import get_integer, get_days_ago, get_days_from_now
+
 
 def get_text_tokenizer(query_string):
     """
@@ -16,12 +18,12 @@ def get_text_tokenizer(query_string):
     dash_cleanup_pattern = re.compile('^[-]{2,}')
 
     # Return the list of keywords.
-    keywords = [dash_cleanup_pattern.sub('-', space_cleanup_pattern.sub(' ', t.strip(' "\''))) \
-                    for t in split_pattern.findall(query_string) \
-                        if len(t.strip(' "\'')) > 0]
-    include = [ word for word in keywords if not word.startswith('-')]
-    exclude = [ word.lstrip('-') for word in keywords if word.startswith('-')]
+    keywords = [dash_cleanup_pattern.sub('-', space_cleanup_pattern.sub(' ', t.strip(' "\'')))
+        for t in split_pattern.findall(query_string) if len(t.strip(' "\'')) > 0]
+    include = [word for word in keywords if not word.startswith('-')]
+    exclude = [word.lstrip('-') for word in keywords if word.startswith('-')]
     return include, exclude
+
 
 def get_query_includes(tokenized_terms, search_fields):
     """
@@ -42,6 +44,7 @@ def get_query_includes(tokenized_terms, search_fields):
             query = query & or_query
     return query
 
+
 def get_query_excludes(tokenized_terms, search_fields):
     """
     Builds a query for excluded terms in a text search.
@@ -61,6 +64,7 @@ def get_query_excludes(tokenized_terms, search_fields):
             query = query | or_query
     return query
 
+
 def get_text_query(query_string, search_fields):
     """
     Builds a query for both included & excluded terms in a text search.
@@ -77,6 +81,7 @@ def get_text_query(query_string, search_fields):
         query = ~exclude_q
     return query
 
+
 def get_date_greater_query(days, date_field):
     """
     Query for if date_field is within number of "days" ago.
@@ -87,6 +92,7 @@ def get_date_greater_query(days, date_field):
         past = get_days_ago(days)
         query = Q(**{"%s__gte" % date_field: past.isoformat()})
     return query
+
 
 def get_date_less_query(days, date_field):
     """
@@ -99,6 +105,7 @@ def get_date_less_query(days, date_field):
         query = Q(**{"%s__lte" % date_field: future.isoformat()})
     return query
 
+
 def get_null_query(field=None):
     """
     Query for null field.
@@ -107,6 +114,7 @@ def get_null_query(field=None):
         return field
     null_q = Q(**{"%s__isnull" % field: True})
     return null_q
+
 
 def get_blank_query(field=None):
     """.
@@ -117,6 +125,7 @@ def get_blank_query(field=None):
     blank_q = Q(**{field: ''})
     return blank_q
 
+
 def get_null_or_blank_query(field=None):
     """
     Query for null or blank field.
@@ -126,6 +135,7 @@ def get_null_or_blank_query(field=None):
     null_q = get_null_query(field)
     blank_q = get_blank_query(field)
     return (null_q | blank_q)
+
 
 def get_not_null_and_not_blank_query(field=None):
     """

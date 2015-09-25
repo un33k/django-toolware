@@ -10,7 +10,9 @@ from django.http import HttpResponse
 from django.conf import settings
 from django.views.decorators.http import require_http_methods
 
-from .. import defaults
+from .. import defaults as defs
+from .. import compat as cmpt
+
 
 class LoginRequiredMixin(object):
     @method_decorator(login_required)
@@ -23,10 +25,9 @@ class StaffRequiredMixin(object):
     def dispatch(self, request, *args, **kwargs):
         if request.user.is_staff:
             return super(StaffRequiredMixin, self).dispatch(request, *args, **kwargs)
-        messages.error(
-                request,
-                'user lacks sufficient permissions to perform the requested operation')
-        return redirect(defaults.LOGIN_URL)
+        messages.error(request,
+            'user lacks sufficient permissions to perform the requested operation')
+        return redirect(defs.LOGIN_URL)
 
 
 class SuperUserRequiredMixin(object):
@@ -34,10 +35,9 @@ class SuperUserRequiredMixin(object):
     def dispatch(self, request, *args, **kwargs):
         if request.user.is_superuser:
             return super(SuperUserRequiredMixin, self).dispatch(request, *args, **kwargs)
-        messages.error(
-                request,
-                'user lacks sufficient permissions to perform the requested operation')
-        return redirect(defaults.LOGIN_URL)
+        messages.error(request,
+            'user lacks sufficient permissions to perform the requested operation')
+        return redirect(defs.LOGIN_URL)
 
 
 class SensitivePostParametersMixin(object):
@@ -66,15 +66,18 @@ class DeleteMixin(DeleteView):
         else:
             return super(DeleteMixin, self).delete(request, *args, **kwargs)
 
+
 class PostRequestOnlyMixin(object):
     @require_http_methods(["POST"])
     def dispatch(self, *args, **kwargs):
         return super(PostRequestOnlyMixin, self).dispatch(*args, **kwargs)
 
+
 class GetRequestOnlyMixin(object):
     @require_http_methods(["GET"])
     def dispatch(self, *args, **kwargs):
         return super(GetRequestOnlyMixin, self).dispatch(*args, **kwargs)
+
 
 class GetOrHeadOnlyMixin(object):
     @require_http_methods(["GET", "HEAD"])
@@ -85,7 +88,7 @@ class GetOrHeadOnlyMixin(object):
 class CleanSpacesMixin(object):
     def clean(self):
         for field in self.cleaned_data:
-            if isinstance(self.cleaned_data[field], basestring):
+            if isinstance(self.cleaned_data[field], cmpt.basestring):
                 self.cleaned_data[field] = self.cleaned_data[field].strip()
         return super(CleanSpacesMixin, self).clean()
 
