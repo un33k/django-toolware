@@ -1,3 +1,9 @@
+## 0.0.6
+
+BugFix:
+
+  - Typo fix for lambda
+
 ## 0.0.5
 
 BugFix:
