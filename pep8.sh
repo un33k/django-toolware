@@ -7,6 +7,6 @@
 #  -- E128 continuation line under-indented for visual indent
 #  -- E225 missing whitespace around operator
 #  -- E501 line too long
-#  -- E701 avoid lambda and use def
+#  -- E731 avoid lambda and use def
 
-pep8 --exclude=migrations --ignore=E125,E128,E225,E501,E701 .
+pep8 --exclude=migrations --ignore=E125,E128,E225,E501,E731 .
