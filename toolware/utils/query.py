@@ -1,8 +1,48 @@
 import re
 import datetime
 from django.db.models import Q
+from django.db import models
+from django.db.models.query import QuerySet
 
 from .generic import get_integer, get_days_ago, get_days_from_now
+
+
+class CaseInsensitiveQuerySet(QuerySet):
+    """
+    Custom QuerySet to treat queries on special field(s) as case insensitive.
+    Models fields that should be treated as case-insensitive should be place in
+    CASE_INSENSITIVE_FIELDS with in the model class.
+    Example: CASE_INSENSITIVE_FIELDS = ['username', 'email',]
+    """
+    def case_insensitive(self, **kwargs):
+        """
+        Converts queries to case insensitive for special fields.
+        """
+        for field in self.model.CASE_INSENSITIVE_FIELDS:
+            if field in kwargs:
+                kwargs[field + '__iexact'] = kwargs[field]
+                del kwargs[field]
+
+    def filter(self, *args, **kwargs):
+        self.case_insensitive(**kwargs)
+        return super(CaseInsensitiveQuerySet, self).filter(*args, **kwargs)
+
+    def exclude(self, *args, **kwargs):
+        self.case_insensitive(**kwargs)
+        return super(CaseInsensitiveQuerySet, self).exclude(*args, **kwargs)
+
+    def complex_filter(self, filter_obj):
+        if isinstance(dict, filter_obj):
+            self.case_insensitive(**filter_obj)
+        return super(CaseInsensitiveQuerySet, self).complex_filter(**filter_obj)
+
+
+class CaseInsensitiveManager(models.Manager):
+    """
+    Custom Case Insensitive Manager Class.
+    """
+    def get_queryset(self):
+        return CaseInsensitiveQuerySet(self.model)
 
 
 def get_text_tokenizer(query_string):

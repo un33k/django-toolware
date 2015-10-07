@@ -1,8 +1,16 @@
+## 0.0.7
+
+Features:
+
+  - Add Custom Manager for Case Insensitive QuerySet
+
+
 ## 0.0.6
 
 BugFix:
 
   - Typo fix for lambda
+
 
 ## 0.0.5
 
@@ -18,11 +26,13 @@ Features:
 
   - add_to_builtins moved to django.template.base
 
+
 ## 0.0.2
 
 Features:
 
   - PY3 support
+
 
 ## 0.0.1
 
