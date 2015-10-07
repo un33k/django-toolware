@@ -14,14 +14,14 @@ class CaseInsensitiveQuerySet(QuerySet):
     CASE_INSENSITIVE_FIELDS with in the model class.
     Example: CASE_INSENSITIVE_FIELDS = ['username', 'email',]
     """
-    def case_insensitive(self, **kwargs):
+    def case_insensitive(self, **fields_dict):
         """
         Converts queries to case insensitive for special fields.
         """
         for field in self.model.CASE_INSENSITIVE_FIELDS:
-            if field in kwargs:
-                kwargs[field + '__iexact'] = kwargs[field]
-                del kwargs[field]
+            if field in fields_dict:
+                fields_dict[field + '__iexact'] = fields_dict[field]
+                del fields_dict[field]
 
     def filter(self, *args, **kwargs):
         self.case_insensitive(**kwargs)
@@ -32,9 +32,9 @@ class CaseInsensitiveQuerySet(QuerySet):
         return super(CaseInsensitiveQuerySet, self).exclude(*args, **kwargs)
 
     def complex_filter(self, filter_obj):
-        if isinstance(dict, filter_obj):
+        if isinstance(filter_obj, dict):
             self.case_insensitive(**filter_obj)
-        return super(CaseInsensitiveQuerySet, self).complex_filter(**filter_obj)
+        return super(CaseInsensitiveQuerySet, self).complex_filter(filter_obj)
 
 
 class CaseInsensitiveManager(models.Manager):

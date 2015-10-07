@@ -1,3 +1,10 @@
+## 0.0.8
+
+BugFix:
+
+  - Fix for complex_filter method.
+
+
 ## 0.0.7
 
 Features:
