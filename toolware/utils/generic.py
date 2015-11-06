@@ -10,11 +10,12 @@ from django.core.validators import validate_email
 from django.utils import timezone
 
 from ..compat import urlparse
+from ..compat import parse_qs
 
 simple_email_re = re.compile(r'^\S+@\S+\.\S+$')
 
 
-def uuid(length=32, version=1):
+def get_uuid(length=32, version=1):
     """
     Returns a unique ID of a given length.
     User `version=2` for cross-systems uniqueness.
@@ -129,3 +130,15 @@ def is_valid_email(email):
     if simple_email_re.match(email):
         return True
     return False
+
+
+def get_domain(url):
+    if 'http' not in url.lower():
+        url = 'http://{}'.format(url)
+    return urlparse(url).hostname
+
+
+def get_url_args(url):
+    url_data = urlparse.urlparse(url)
+    arg_dict = parse_qs(url_data.query)
+    return arg_dict

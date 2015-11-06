@@ -1,3 +1,9 @@
+## 0.0.9
+
+Features:
+
+  - Add combat related and few more utility functions.
+
 ## 0.0.8
 
 BugFix:
