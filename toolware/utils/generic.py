@@ -1,5 +1,6 @@
 import re
 import uuid
+import six
 import datetime
 import hashlib
 import urllib
@@ -42,7 +43,7 @@ def get_hashed(key):
     Returns a hashed version of a given key.
     One way encryption.
     """
-    return hashlib.md5(key).hexdigest()
+    return hashlib.md5(key.encode('utf-8')).hexdigest()
 
 
 def get_days_ago(days=0):
