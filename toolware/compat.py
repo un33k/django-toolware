@@ -20,3 +20,8 @@ try:
     unescape = HTMLParser.HTMLParser()
 except ImportError:
     from html import unescape
+
+if six.PY2:
+    import urllib
+elif six.PY3:
+    import urllib.parse as urllib

@@ -35,26 +35,26 @@ def highlight_text(needles, haystack, cls_name='highlighted', words=False, case=
 
 
 @register.filter
-def highlight(string, keywords):
-    """ Given an list of words, this fuction highlights the match text in the given string. """
+def highlight(string, keywords, cls_name='highlighted'):
+    """ Given an list of words, this function highlights the matched text in the given string. """
 
     if not keywords:
         return string
     if not string:
         return ''
     include, exclude = get_text_tokenizer(keywords)
-    highlighted = highlight_text(include, string)
+    highlighted = highlight_text(include, string, cls_name)
     return highlighted
 
 
 @register.filter
-def highlight_words(string, keywords):
-    """ Given an list of words, this fuction highlights the match words in the given string. """
+def highlight_words(string, keywords, cls_name='highlighted'):
+    """ Given an list of words, this function highlights the matched words in the given string. """
 
     if not keywords:
         return string
     if not string:
         return ''
     include, exclude = get_text_tokenizer(keywords)
-    highlighted = highlight_text(include, string, words=True)
+    highlighted = highlight_text(include, string, cls_name, words=True)
     return highlighted
