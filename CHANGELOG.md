@@ -1,3 +1,9 @@
+## 0.0.10
+
+Features:
+
+  -- Added 1.9 to travis
+
 ## 0.0.9
 
 Features:
