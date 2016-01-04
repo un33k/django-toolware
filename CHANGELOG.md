@@ -1,3 +1,9 @@
+## 0.0.11
+
+Features:
+
+  -- Fix compatibility issues with PY2/3
+
 ## 0.0.10
 
 Features:

@@ -2,6 +2,7 @@ from django.test import TestCase
 from django.conf import settings
 
 from ..utils.query import get_text_tokenizer
+from ..compat import *
 
 
 class TestStringTokenizerCase(TestCase):

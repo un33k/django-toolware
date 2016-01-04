@@ -1,7 +1,7 @@
 import six
 
 if six.PY2:
-    import basestring
+    basestring = basestring
 elif six.PY3:
     basestring = (str, bytes)
 
@@ -17,11 +17,13 @@ except ImportError:
 
 try:
     import HTMLParser
-    unescape = HTMLParser.HTMLParser()
+
+    def unescape(html):
+        return HTMLParser.HTMLParser().unescape(html)
 except ImportError:
     from html import unescape
 
 if six.PY2:
-    import urllib
+    from urllib import quote
 elif six.PY3:
-    import urllib.parse as urllib
+    from urllib.parse import quote
