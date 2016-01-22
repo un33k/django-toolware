@@ -1,6 +1,13 @@
+## 0.0.12
+
+BugFix & Enhancement:
+
+ -- Shorten country names
+ -- Fix missing import
+
 ## 0.0.11
 
-Features:
+BugFix:
 
   -- Fix compatibility issues with PY2/3
 

@@ -1,4 +1,6 @@
 import json
+
+from django.conf import settings
 from django.contrib.auth.decorators import login_required
 from django.views.decorators.debug import sensitive_post_parameters
 from django.views.decorators.csrf import csrf_protect
@@ -7,7 +9,7 @@ from django.views.generic import DeleteView
 from django.utils.decorators import method_decorator
 from django.shortcuts import redirect
 from django.http import HttpResponse
-from django.conf import settings
+from django.contrib import messages
 from django.views.decorators.http import require_http_methods
 
 from .. import defaults as defs
