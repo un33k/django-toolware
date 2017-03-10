@@ -4,13 +4,13 @@ language: python
 python:
   - "3.5"
   - "3.4"
-  - "3.3"
   - "2.7"
   - pypy
 
 env:
-  - DJANGO="django==1.9"
-  - DJANGO="django==1.8.7"
+  - DJANGO="django==1.10.6"
+  - DJANGO="django==1.9.12"
+  - DJANGO="django==1.8.17"
 
 install:
   - pip install $DJANGO
@@ -23,11 +23,6 @@ install:
 before_script:
   - "pep8 --exclude=migrations --ignore=E125,E128,E225,E501 ."
   - if [[ $TRAVIS_PYTHON_VERSION == '2.7' ]]; then pyflakes -x W toolware; fi
-
-matrix:
-  exclude:
-   - python: "3.3"
-     env: DJANGO="django==1.9"
 
 script: coverage run --source=toolware manage.py test
 

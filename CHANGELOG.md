@@ -1,3 +1,9 @@
+## 0.0.13
+
+Feature:
+
+ -- Added GetUniqueOrNoneManager
+
 ## 0.0.12
 
 BugFix & Enhancement:

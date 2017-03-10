@@ -45,6 +45,19 @@ class CaseInsensitiveManager(models.Manager):
         return CaseInsensitiveQuerySet(self.model)
 
 
+class GetUniqueOrNoneManager(models.Manager):
+    """
+    Adds get_unique_or_none method to objects
+    """
+    def get_unique_or_none(self, *args, **kwargs):
+        try:
+            return self.get(*args, **kwargs)
+        except self.model.DoesNotExist:
+            return None
+        except self.model.MultipleObjectsReturned:
+            return None
+
+
 def get_text_tokenizer(query_string):
     """
     Tokenize the input string and return two lists, exclude list is for words that
