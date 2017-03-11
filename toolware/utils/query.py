@@ -18,13 +18,11 @@ class CaseInsensitiveQuerySet(QuerySet):
         """
         Converts queries to case insensitive for special fields.
         """
-        try:
+        if hasattr(self.model, 'CASE_INSENSITIVE_FIELDS'):
             for field in self.model.CASE_INSENSITIVE_FIELDS:
                 if field in fields_dict:
                     fields_dict[field + '__iexact'] = fields_dict[field]
                     del fields_dict[field]
-        except AttributeError:
-            pass
 
     def filter(self, *args, **kwargs):
         self.case_insensitive(**kwargs)
