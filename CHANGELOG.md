@@ -1,4 +1,10 @@
-## 0.0.13
+## 0.0.14
+
+BugFix:
+
+ -- Better handle Attribute Errors
+
+ ## 0.0.13
 
 Feature:
 
