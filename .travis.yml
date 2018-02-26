@@ -5,25 +5,18 @@ python:
   - "3.6"
   - "3.5"
   - "3.4"
-  - "2.7"
-  - pypy
 
 env:
   - DJANGO="django==2.0.2"
-  - DJANGO="django==1.11.10"
-  - DJANGO="django==1.8.18"
 
 install:
   - pip install $DJANGO
-  - pip install -r requirements.txt
   - pip install -e .
   - pip install pycodestyle
-  - pip install https://github.com/un33k/pyflakes/tarball/master
   - pip install coveralls
 
 before_script:
   - bash formatter.sh
-  - if [[ $TRAVIS_PYTHON_VERSION == '2.7' ]]; then pyflakes -x W toolware; fi
 
 script: coverage run --source=toolware manage.py test
 
