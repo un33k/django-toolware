@@ -1,3 +1,11 @@
+## 1.0.0
+
+BugFix:
+
+ -- Upgrade Django
+ -- Remove pattern reference
+ -- Replace pep8 with pycodestyles
+
 ## 0.0.14
 
 BugFix:

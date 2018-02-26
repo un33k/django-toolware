@@ -22,7 +22,7 @@ install:
   - pip install coveralls
 
 before_script:
-  - "formatter.sh"
+  - "./formatter.sh"
   - if [[ $TRAVIS_PYTHON_VERSION == '2.7' ]]; then pyflakes -x W toolware; fi
 
 script: coverage run --source=toolware manage.py test
