@@ -25,7 +25,7 @@ How to install
     4. wget https://github.com/un33k/django-toolware/zipball/master
         a. unzip the downloaded file
         b. cd into django-toolware-* directory
-        c. run python setup.py
+        c. run python setup.py install
 
 
 How to use
@@ -64,7 +64,7 @@ To run the unit test:
 License
 ====================
 
-Released under a ([BSD](LICENSE.md)) license.
+Released under a ([MIT](LICENSE)) license.
 
 
 [build-status-image-travis]: https://secure.travis-ci.org/un33k/django-toolware.png?branch=master

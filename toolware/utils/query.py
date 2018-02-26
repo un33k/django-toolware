@@ -48,7 +48,7 @@ class CaseInsensitiveManager(models.Manager):
 
 class GetUniqueOrNoneManager(models.Manager):
     """
-    Adds get_unique_or_none method to objects
+    Adds get_unique_or_none method to a manager class
     """
     def get_unique_or_none(self, *args, **kwargs):
         try:
@@ -57,6 +57,13 @@ class GetUniqueOrNoneManager(models.Manager):
             return None
         except self.model.MultipleObjectsReturned:
             return None
+
+
+class CaseInsensitiveUniqueManager(GetUniqueOrNoneManager, CaseInsensitiveManager):
+    """
+    Add case insensitive and unique mixins to an class
+    """
+    pass
 
 
 def get_text_tokenizer(query_string):
