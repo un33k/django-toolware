@@ -57,6 +57,7 @@ class GetUniqueOrNoneManager(models.Manager):
             return None
         except self.model.MultipleObjectsReturned:
             return None
+        return None
 
 
 class GetOrCreateUniqueManager(models.Manager):
