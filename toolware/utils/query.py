@@ -59,7 +59,41 @@ class GetUniqueOrNoneManager(models.Manager):
             return None
 
 
-class CaseInsensitiveUniqueManager(GetUniqueOrNoneManager, CaseInsensitiveManager):
+class GetOrCreateUniqueManager(models.Manager):
+    """
+    Adds get_or_create_unique method to a manager class
+    """
+    def get_or_create_unique(self, defaults, unique_fields):
+        """
+        Returns a tuple of (object, created), where object is the retrieved
+        or created object and created is a boolean specifying whether a new object was created.
+        """
+        if not unique_fields or not defaults:
+            return (None, False)
+
+        query = {k: v for k, v in defaults.items() if k in unique_fields}
+
+        try:
+            with transaction.atomic():
+                instance, created = self.model.DoesNotExist.objects.get_or_create(defaults=defaults, **query)
+        except IntegrityError:
+            try:
+                instance, created = self.model(**defaults).save(), True
+            except Exception as err:
+                return (None, False)
+        except Exception as err:
+            return (None, False)
+
+        if instance and not created:
+            for attr, value in defaults.items():
+                if getattr(instance, attr):
+                    setattr(instance, attr, value)
+            instance.save()
+
+        return (instance, created)
+
+
+class CaseInsensitiveUniqueManager(GetUniqueOrNoneManager, GetOrCreateUniqueManager, CaseInsensitiveManager):
     """
     Add case insensitive and unique mixins to an class
     """
