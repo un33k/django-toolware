@@ -67,15 +67,16 @@ class GetOrCreateUniqueManager(models.Manager):
         """
         Returns a tuple of (object, created), where object is the retrieved
         or created object and created is a boolean specifying whether a new object was created.
+        The value for the unique fields must be present in the defaults dictionary
         """
         if not unique_fields or not defaults:
             return (None, False)
 
-        query = {k: v for k, v in defaults.items() if k in unique_fields}
+        uniqueness_query = {k: v for k, v in defaults.items() if k in unique_fields}
 
         try:
             with transaction.atomic():
-                instance, created = self.model.DoesNotExist.objects.get_or_create(defaults=defaults, **query)
+                instance, created = self.model.objects.get_or_create(defaults=defaults, **uniqueness_query)
         except IntegrityError:
             try:
                 instance, created = self.model(**defaults).save(), True
