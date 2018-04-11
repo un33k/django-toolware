@@ -1,6 +1,5 @@
 import re
 import uuid
-import six
 import datetime
 import hashlib
 import urllib
@@ -9,9 +8,6 @@ from django.contrib.sites.models import Site
 from django.core.exceptions import ValidationError
 from django.core.validators import validate_email
 from django.utils import timezone
-
-from ..compat import urlparse
-from ..compat import parse_qs
 
 simple_email_re = re.compile(r'^\S+@\S+\.\S+$')
 
@@ -75,7 +71,7 @@ def get_encoded_url_to_dict(string):
     Converts an encoded URL to a dict.
     Example: given string = 'a=1&b=2' it returns {'a': 1, 'b': 2}
     """
-    data = urlparse.parse_qsl(string, keep_blank_values=True)
+    data = urllib.parse.parse_qsl(string, keep_blank_values=True)
     data = dict(data)
     return data
 
@@ -136,10 +132,10 @@ def is_valid_email(email):
 def get_domain(url):
     if 'http' not in url.lower():
         url = 'http://{}'.format(url)
-    return urlparse(url).hostname
+    return urllib.parse(url).hostname
 
 
 def get_url_args(url):
-    url_data = urlparse.urlparse(url)
-    arg_dict = parse_qs(url_data.query)
+    url_data = urllib.parse.urlparse(url)
+    arg_dict = urllib.parse.parse_qs(url_data.query)
     return arg_dict

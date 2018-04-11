@@ -2,27 +2,21 @@ sudo: false
 language: python
 
 python:
+  - "3.6"
   - "3.5"
   - "3.4"
-  - "2.7"
-  - pypy
 
 env:
-  - DJANGO="django==1.10.6"
-  - DJANGO="django==1.9.12"
-  - DJANGO="django==1.8.17"
+  - DJANGO="django==2.0.2"
 
 install:
   - pip install $DJANGO
-  - pip install -r requirements.txt
   - pip install -e .
-  - pip install pep8
-  - pip install https://github.com/un33k/pyflakes/tarball/master
+  - pip install pycodestyle
   - pip install coveralls
 
 before_script:
-  - "pep8 --exclude=migrations --ignore=E128,E225,E501,E731 ."
-  - if [[ $TRAVIS_PYTHON_VERSION == '2.7' ]]; then pyflakes -x W toolware; fi
+  - bash formatter.sh
 
 script: coverage run --source=toolware manage.py test
 

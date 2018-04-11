@@ -13,7 +13,6 @@ from django.contrib import messages
 from django.views.decorators.http import require_http_methods
 
 from .. import defaults as defs
-from .. import compat as cmpt
 
 
 class LoginRequiredMixin(object):
@@ -90,7 +89,7 @@ class GetOrHeadOnlyMixin(object):
 class CleanSpacesMixin(object):
     def clean(self):
         for field in self.cleaned_data:
-            if isinstance(self.cleaned_data[field], cmpt.basestring):
+            if isinstance(self.cleaned_data[field], (str, bytes)):
                 self.cleaned_data[field] = self.cleaned_data[field].strip()
         return super(CleanSpacesMixin, self).clean()
 

@@ -32,4 +32,6 @@ def obfuscate(email, linktext=None, autoescape=None):
         function(c){return String.fromCharCode((c<="Z"?90:122)>=\
         (c=c.charCodeAt(0)+13)?c:c-26);}));</script>""" % (email, linktext)
     return mark_safe(rotten_link)
+
+
 obfuscate.needs_autoescape = True
