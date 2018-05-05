@@ -7,6 +7,49 @@ from django.db.models.query import QuerySet
 from .generic import get_integer, get_days_ago, get_days_from_now
 
 
+def get_unique_or_none(klass, *args, **kwargs):
+    """ Returns a unique instance of `klass` or None """
+    try:
+        return klass.objects.get(*args, **kwargs)
+    except klass.DoesNotExist:
+        return None
+    except klass.MultipleObjectsReturned:
+        return None
+    return None
+
+
+def get_or_create_unique(klass, defaults, unique_fields):
+    """
+    Returns a tuple of (instance, created), where `instance` is the retrieved
+    or created instance of `klass` and `created` is a boolean specifying whether
+    a new object was created. The value for the unique fields must be present in
+    the defaults dictionary.
+    """
+    if not unique_fields or not defaults:
+        return (None, False)
+
+    uniqueness_query = {k: v for k, v in defaults.items() if k in unique_fields}
+
+    try:
+        with transaction.atomic():
+            instance, created = klass.objects.get_or_create(defaults=defaults, **uniqueness_query)
+    except IntegrityError:
+        try:
+            instance, created = klass(**defaults).save(), True
+        except Exception as err:
+            return (None, False)
+    except Exception as err:
+        return (None, False)
+
+    if instance and not created:
+        for attr, value in defaults.items():
+            if getattr(instance, attr):
+                setattr(instance, attr, value)
+        instance.save()
+
+    return (instance, created)
+
+
 class CaseInsensitiveQuerySet(QuerySet):
     """
     Custom QuerySet to treat queries on special field(s) as case insensitive.
@@ -50,14 +93,8 @@ class GetUniqueOrNoneManager(models.Manager):
     """
     Adds get_unique_or_none method to a manager class
     """
-    def get_unique_or_none(self, *args, **kwargs):
-        try:
-            return self.get(*args, **kwargs)
-        except self.model.DoesNotExist:
-            return None
-        except self.model.MultipleObjectsReturned:
-            return None
-        return None
+    instance = get_unique_or_none(self, *args, **kwargs)
+    return instance
 
 
 class GetOrCreateUniqueManager(models.Manager):
@@ -65,33 +102,7 @@ class GetOrCreateUniqueManager(models.Manager):
     Adds get_or_create_unique method to a manager class
     """
     def get_or_create_unique(self, defaults, unique_fields):
-        """
-        Returns a tuple of (object, created), where object is the retrieved
-        or created object and created is a boolean specifying whether a new object was created.
-        The value for the unique fields must be present in the defaults dictionary
-        """
-        if not unique_fields or not defaults:
-            return (None, False)
-
-        uniqueness_query = {k: v for k, v in defaults.items() if k in unique_fields}
-
-        try:
-            with transaction.atomic():
-                instance, created = self.model.objects.get_or_create(defaults=defaults, **uniqueness_query)
-        except IntegrityError:
-            try:
-                instance, created = self.model(**defaults).save(), True
-            except Exception as err:
-                return (None, False)
-        except Exception as err:
-            return (None, False)
-
-        if instance and not created:
-            for attr, value in defaults.items():
-                if getattr(instance, attr):
-                    setattr(instance, attr, value)
-            instance.save()
-
+        instance, created = get_or_create_unique(self, defaults, unique_fields)
         return (instance, created)
 
 
