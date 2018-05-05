@@ -1,3 +1,9 @@
+## 1.0.1
+
+Enhancements:
+
+ -- Steamlined query utils
+
 ## 1.0.0
 
 BugFix:
