@@ -93,8 +93,9 @@ class GetUniqueOrNoneManager(models.Manager):
     """
     Adds get_unique_or_none method to a manager class
     """
-    instance = get_unique_or_none(self, *args, **kwargs)
-    return instance
+    def get_unique_or_none(self, *args, **kwargs):
+        instance = get_unique_or_none(self, *args, **kwargs)
+        return instance
 
 
 class GetOrCreateUniqueManager(models.Manager):
