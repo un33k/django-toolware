@@ -2,6 +2,8 @@ import re
 import datetime
 from django.db.models import Q
 from django.db import models
+from django.db import transaction
+from django.db import IntegrityError
 from django.db.models.query import QuerySet
 
 from .generic import get_integer, get_days_ago, get_days_from_now
@@ -94,7 +96,7 @@ class GetUniqueOrNoneManager(models.Manager):
     Adds get_unique_or_none method to a manager class
     """
     def get_unique_or_none(self, *args, **kwargs):
-        instance = get_unique_or_none(self, *args, **kwargs)
+        instance = get_unique_or_none(self.model, *args, **kwargs)
         return instance
 
 
@@ -103,7 +105,7 @@ class GetOrCreateUniqueManager(models.Manager):
     Adds get_or_create_unique method to a manager class
     """
     def get_or_create_unique(self, defaults, unique_fields):
-        instance, created = get_or_create_unique(self, defaults, unique_fields)
+        instance, created = get_or_create_unique(self.model, defaults, unique_fields)
         return (instance, created)
 
 
