@@ -1,19 +1,17 @@
-from djang.conf import settings
+from django.conf import settings
 from django.core.mail import EmailMultiAlternatives
-
-from .convert import singleline_content
 
 DEFAULT_FROM_EMAIL = getattr(settings, 'DEFAULT_FROM_EMAIL')
 
 
 def prepare_email_subject(content):
     """ Email subject must be text and a single line """
-    subject = singleline_content(content)
+    subject = ''.join(content.splitlines())
     return subject
 
 
 def send_multi_alt_email(
-    subject,
+    subject_line,
     body_text,
     to_emails,
     body_html=None,

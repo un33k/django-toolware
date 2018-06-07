@@ -2,6 +2,15 @@ import html2text
 import markdown
 
 
+def html_to_text(content):
+    """ Converts html content to plain text """
+    text = None
+    h2t = html2text.HTML2Text()
+    h2t.ignore_links = False
+    text = h2t.handle(content)
+    return text
+
+
 def md_to_html(content):
     """ Converts markdown content to HTML """
     html = markdown.markdown(content)
@@ -15,22 +24,6 @@ def md_to_text(content):
     if html:
         text = html_to_text(content)
     return text
-
-
-def md_to_plain(content):
-    """ Converts markdown content to plain text """
-    plain = None
-    html = markdown.markdown(content)
-    if html:
-      h2t = html2text.HTML2Text()
-      h2t.ignore_links = False
-      plain = h2t.handle(html)
-    return plain
-
-
-def singleline_content(content):
-    """ Converts multiline content to a single line """
-    return ''.join(content.splitlines())
 
 
 def parts_to_uri(base_uri, uri_parts):
