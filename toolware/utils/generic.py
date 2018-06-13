@@ -3,6 +3,8 @@ import uuid
 import datetime
 import hashlib
 import urllib
+
+from django.conf import settings
 from django.utils.encoding import smart_str
 from django.contrib.sites.models import Site
 from django.core.exceptions import ValidationError
@@ -130,12 +132,19 @@ def is_valid_email(email):
 
 
 def get_domain(url):
+    """ Returns domain name portion of a URL """
     if 'http' not in url.lower():
         url = 'http://{}'.format(url)
     return urllib.parse(url).hostname
 
 
 def get_url_args(url):
+    """ Returns a dictionary from a URL params """
     url_data = urllib.parse.urlparse(url)
     arg_dict = urllib.parse.parse_qs(url_data.query)
     return arg_dict
+
+def get_site_proto():
+    """ Retuns the protocol of site, or http """
+    proto = getattr(settings, 'PROTOCOL', 'http')
+    return proto
