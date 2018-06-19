@@ -135,7 +135,7 @@ def get_domain(url):
     """ Returns domain name portion of a URL """
     if 'http' not in url.lower():
         url = 'http://{}'.format(url)
-    return urllib.parse(url).hostname
+    return urllib.parse.urlparse(url).hostname
 
 
 def get_url_args(url):
@@ -143,6 +143,7 @@ def get_url_args(url):
     url_data = urllib.parse.urlparse(url)
     arg_dict = urllib.parse.parse_qs(url_data.query)
     return arg_dict
+
 
 def get_site_proto():
     """ Retuns the protocol of site, or http """
