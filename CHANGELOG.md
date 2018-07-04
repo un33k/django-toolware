@@ -1,3 +1,9 @@
+## 1.0.5
+
+Enhancements:
+
+ -- added HTML only email option
+
 ## 1.0.4
 
 BugFix:
