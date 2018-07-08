@@ -1,0 +1,1265 @@
+# Translation of ISO-3166 (gu.po) to Gujarati
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   - translations from ICU-3.0
+#
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   Kartik Mistry <kartik@debian.org>, 2006, 2007, 2008, 2012, 2013.
+#   Ankit Patel <ankit644@yahoo.com>, 2010.
+#   Sweta Kothari <swkothar@redhat.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-02-13 11:22+0530\n"
+"Last-Translator: Kartik Mistry <kartik@debian.org>\n"
+"Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "એન્ડોરા"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "પ્રિન્સીપાલિટી ઓફ અેન્ડોરા"
+
+msgid "ISO_3166-1.AE"
+msgstr "યુનાઇટેડ આરબ અમીરાત"
+
+msgid "ISO_3166-1.AF"
+msgstr "અફઘાનિસ્તાન"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "ઇસ્લામિક રીપબ્લિક ઓફ અફઘાનિસ્તાન"
+
+msgid "ISO_3166-1.AG"
+msgstr "એન્ટિગુઆ અને બાર્બુડા"
+
+msgid "ISO_3166-1.AI"
+msgstr "એન્ગુલિઆ"
+
+msgid "ISO_3166-1.AL"
+msgstr "અલ્બેનિયા"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "રીપબ્લિક ઓફ અલ્બેનિયા"
+
+msgid "ISO_3166-1.AM"
+msgstr "આર્મેનિયા"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "રીપબ્લિક ઓફ આર્મેનિયા"
+
+msgid "ISO_3166-1.AO"
+msgstr "અંગોલા"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "રીપબ્લિક ઓફ અંગોલા"
+
+msgid "ISO_3166-1.AQ"
+msgstr "એન્ટાર્કટિકા"
+
+msgid "ISO_3166-1.AR"
+msgstr "આર્જેન્ટિના"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "આર્જેન્ટિન રીપબ્લિક"
+
+msgid "ISO_3166-1.AS"
+msgstr "અમેરિકન સામોઆ"
+
+msgid "ISO_3166-1.AT"
+msgstr "ઓસ્ટ્રિયા"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "રીપબ્લિક ઓફ ઓસ્ટ્રિયા"
+
+msgid "ISO_3166-1.AU"
+msgstr "ઓસ્ટ્રેલિયા"
+
+msgid "ISO_3166-1.AW"
+msgstr "અરૂબા"
+
+msgid "ISO_3166-1.AX"
+msgstr "અલેન્ડ ટાપુઓ"
+
+msgid "ISO_3166-1.AZ"
+msgstr "અઝરબૈઝાન"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "રીપબ્લિક ઓફ અઝરબૈઝાન"
+
+msgid "ISO_3166-1.BA"
+msgstr "બોસ્નિયા અને હર્ઝેગોવીનીઆ"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "રીપબ્લિક ઓફ બોસ્નિયા અને હર્ઝેગોવીનીઆ"
+
+msgid "ISO_3166-1.BB"
+msgstr "બાર્બાડોસ"
+
+msgid "ISO_3166-1.BD"
+msgstr "બાંગ્લાદેશ"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "પીપલ્સ રીપબ્લિક ઓફ બાંગ્લાદેશ"
+
+msgid "ISO_3166-1.BE"
+msgstr "બેલ્જીયમ"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "કિંગડમ ઓફ બેલ્જીયમ"
+
+msgid "ISO_3166-1.BF"
+msgstr "બુર્કિના ફાસો"
+
+msgid "ISO_3166-1.BG"
+msgstr "બલ્ગેરિયા"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "રીપબ્લિક ઓફ બલ્ગેરિયા"
+
+msgid "ISO_3166-1.BH"
+msgstr "બહેરિન"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "કિંગડમ ઓફ બહેરિન"
+
+msgid "ISO_3166-1.BI"
+msgstr "બુરુન્ડી"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "રીપબ્લિક ઓફ બુરુન્ડી"
+
+msgid "ISO_3166-1.BJ"
+msgstr "બેનિન"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "રીપબ્લિક ઓફ બેનિન"
+
+msgid "ISO_3166-1.BL"
+msgstr "સેન્ટ બાર્થેલેમિ"
+
+msgid "ISO_3166-1.BM"
+msgstr "બર્મ્યુડા"
+
+msgid "ISO_3166-1.BN"
+msgstr "બ્રુનેઇ દારુસલેમ"
+
+msgid "ISO_3166-1.BO"
+msgstr "બોલિવિયા"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "બોલિવિઆ નું પ્લુરિનશ્નલ રાજ્ય"
+
+msgid "ISO_3166-1.BQ"
+msgstr "બોનાએર, સિન્ટ ઈસ્ટાટિસુસ એન્ડ સાબા"
+
+msgid "ISO_3166-1.BR"
+msgstr "બ્રાઝિલ"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "ફેડરેટીવ રીપબ્લિક ઓફ બ્રાઝિલ"
+
+msgid "ISO_3166-1.BS"
+msgstr "બહામાસ"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "કોમનવેલ્થ ઓફ બહામાસ"
+
+msgid "ISO_3166-1.BT"
+msgstr "ભુટાન"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "કિંગડમ ઓફ ભુટાન"
+
+msgid "ISO_3166-1.BV"
+msgstr "બોઉવેટ ટાપુઓ"
+
+msgid "ISO_3166-1.BW"
+msgstr "બોટ્સ્વાના"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "રીપબ્લિક ઓફ બોટ્સ્વાના"
+
+msgid "ISO_3166-1.BY"
+msgstr "બેલારુસ"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "રીપબ્લિક ઓફ બેલારુસ"
+
+msgid "ISO_3166-1.BZ"
+msgstr "બેલિઝ"
+
+msgid "ISO_3166-1.CA"
+msgstr "કેનેડા"
+
+msgid "ISO_3166-1.CC"
+msgstr "કોકોસ (કીલીંગ) ટાપુઓ"
+
+msgid "ISO_3166-1.CD"
+msgstr "કોન્ગો, ડેમોક્રેટિક રીપબ્લિક ઓફ"
+
+msgid "ISO_3166-1.CF"
+msgstr "સેન્ટ્રલ આફ્રિકન રીપબ્લિક"
+
+msgid "ISO_3166-1.CG"
+msgstr "કોન્ગો"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "રીપબ્લિક ઓફ કોન્ગો"
+
+msgid "ISO_3166-1.CH"
+msgstr "સ્વિત્ઝરલેન્ડ"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "સ્વિસ કોન્ફેડેરસન"
+
+msgid "ISO_3166-1.CI"
+msgstr "કોટે ડીઆઇવરી"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "રીપબ્લિક ઓફ કોટે ડીઆઇવરી"
+
+msgid "ISO_3166-1.CK"
+msgstr "કૂક ટાપુઓ"
+
+msgid "ISO_3166-1.CL"
+msgstr "ચીલી"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "રીપબ્લિક ઓફ ચીલી"
+
+msgid "ISO_3166-1.CM"
+msgstr "કેમેરુન"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "રીપબ્લિક ઓફ કેમેરુન"
+
+msgid "ISO_3166-1.CN"
+msgstr "ચીન"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "પીપલ્સ રીપબ્લિક ઓફ ચાઇના"
+
+msgid "ISO_3166-1.CO"
+msgstr "કોલોમ્બિયા"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "રીપબ્લિક ઓફ કોલોમ્બિયા"
+
+msgid "ISO_3166-1.CR"
+msgstr "કોસ્ટા રીકા"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "રીપબ્લિક ઓફ કોસ્ટા રીકા"
+
+msgid "ISO_3166-1.CU"
+msgstr "ક્યુબા"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "રીપબ્લિક ઓફ ક્યુબા"
+
+msgid "ISO_3166-1.CV"
+msgstr "કેપ વર્દે"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "રીપબ્લિક ઓફ કેપ વર્દે"
+
+msgid "ISO_3166-1.CW"
+msgstr "કુરાકાઓ"
+
+msgid "ISO_3166-1.CX"
+msgstr "ક્રિસમસ ટાપુઓ"
+
+msgid "ISO_3166-1.CY"
+msgstr "સાયપ્રસ"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "રીપબ્લિક ઓફ સાયપ્રસ"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "ચેઝ રીપબ્લિક"
+
+msgid "ISO_3166-1.DE"
+msgstr "જર્મની"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "રીપબ્લિક ઓફ જર્મની"
+
+msgid "ISO_3166-1.DJ"
+msgstr "જીબૂટી"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "રીપબ્લિક ઓફ જીબૂટી"
+
+msgid "ISO_3166-1.DK"
+msgstr "ડેનમાર્ક"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "કિંગડમ ઓફ ડેનમાર્ક"
+
+msgid "ISO_3166-1.DM"
+msgstr "ડોમિનિકા"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "કોમનવેલ્થ ઓફ ડોમિનિકા"
+
+msgid "ISO_3166-1.DO"
+msgstr "ડોમિનિકન રીપબ્લિક"
+
+msgid "ISO_3166-1.DZ"
+msgstr "અલ્જેરિયા"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "પીપલ્સ ડેમોક્રેટિક રીપબ્લિક ઓફ અલ્જેરિયા"
+
+msgid "ISO_3166-1.EC"
+msgstr "ઇક્વાડોર"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "રીપબ્લિક ઓફ ઇક્વાડોર"
+
+msgid "ISO_3166-1.EE"
+msgstr "ઇસ્ટોનિયા"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "રીપબ્લિક ઓફ ઇસ્ટોનિયા"
+
+msgid "ISO_3166-1.EG"
+msgstr "ઇજીપ્ત"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "આરબ રીપબ્લિક ઓફ ઇજીપ્ત"
+
+msgid "ISO_3166-1.EH"
+msgstr "વેસ્ટર્ન સહારા"
+
+msgid "ISO_3166-1.ER"
+msgstr "ઇરીટરીઆ"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "ધ સ્ટેટ ઓફ ઇરીટરીઆ"
+
+msgid "ISO_3166-1.ES"
+msgstr "સ્પેન"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "કિંગડમ ઓફ સ્પેન"
+
+msgid "ISO_3166-1.ET"
+msgstr "ઇથોપિયા"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "ફેડરલ ડેમોક્રેટિક રીપબ્લિક ઓફ ઇથોપિયા"
+
+msgid "ISO_3166-1.FI"
+msgstr "ફિનલેન્ડ"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "રીપબ્લિક ઓફ ફિનલેન્ડ"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ફીજી"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "રીપબ્લિક ઓફ ફીજી"
+
+msgid "ISO_3166-1.FK"
+msgstr "ફોકલેન્ડ ટાપુઓ (માલ્વિનસ)"
+
+msgid "ISO_3166-1.FM"
+msgstr "માઇક્રોનેશિયા, ફેડરસ સ્ટેટ્સ ઓફ"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "ફેડરસ સ્ટેટ્સ ઓફ માઇક્રોનેશિયા"
+
+msgid "ISO_3166-1.FO"
+msgstr "ફારો ટાપુઓ"
+
+msgid "ISO_3166-1.FR"
+msgstr "ફ્રાન્સ"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "ફ્રેન્ચ રીપબ્લિક"
+
+msgid "ISO_3166-1.GA"
+msgstr "ગેબોન"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "ગેબોનીઝ રીપબ્લિક"
+
+msgid "ISO_3166-1.GB"
+msgstr "યુનાઇટેડ કિંગડમ"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "યુનાઇટેડ કિંગડમ ઓફ ગ્રેટ બ્રિટન એન્ડ નોર્ધન આર્યલેન્ડ"
+
+msgid "ISO_3166-1.GD"
+msgstr "ગ્રેનેડા"
+
+msgid "ISO_3166-1.GE"
+msgstr "જર્યોજિયા"
+
+msgid "ISO_3166-1.GF"
+msgstr "ફ્રેન્ચ ગુએના"
+
+msgid "ISO_3166-1.GG"
+msgstr "ગુર્નસે"
+
+msgid "ISO_3166-1.GH"
+msgstr "ઘાના"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "રીપબ્લિક ઓફ ઘાના"
+
+msgid "ISO_3166-1.GI"
+msgstr "જીબ્રાલ્ટર"
+
+msgid "ISO_3166-1.GL"
+msgstr "ગ્રીનલેન્ડ"
+
+msgid "ISO_3166-1.GM"
+msgstr "ગામ્બિયા"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "રીપબ્લિક ઓફ ગામ્બિયા"
+
+msgid "ISO_3166-1.GN"
+msgstr "ગિએના"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "રીપબ્લિક ઓફ ગિએના"
+
+msgid "ISO_3166-1.GP"
+msgstr "ગ્ડેલોપે"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ઇક્વોરીઅલ ગુએના"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "રીપબ્લિક ઓફ ઇક્વોરીઅલ ગુએના"
+
+msgid "ISO_3166-1.GR"
+msgstr "ગ્રીસ"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "હેલેનીક રીપબ્લિક"
+
+msgid "ISO_3166-1.GS"
+msgstr "દક્ષિણ જર્યોજીયા અને દક્ષિણ સેન્ડવિચ ટાપુઓ"
+
+msgid "ISO_3166-1.GT"
+msgstr "ગ્વાટેમાલા"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "રીપબ્લિક ઓફ ગ્વાટેમાલા"
+
+msgid "ISO_3166-1.GU"
+msgstr "ગુઆમ"
+
+msgid "ISO_3166-1.GW"
+msgstr "ગિએના-બિસાઉ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "રીપબ્લિક ઓફ ગિએના-બિસાઉ"
+
+msgid "ISO_3166-1.GY"
+msgstr "ગુયાના"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "રીપબ્લિક ઓફ ગુયાના"
+
+msgid "ISO_3166-1.HK"
+msgstr "હોંગ કોંગ"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "હોંગ કોંગ સ્પેશિયન એડમિનિસ્ટ્રેટિવ રીજીઅન ઓફ ચાઇના"
+
+msgid "ISO_3166-1.HM"
+msgstr "હેર્ડ ટાપુઓ અને મેકડોનાલ્ડ ટાપુઓ"
+
+msgid "ISO_3166-1.HN"
+msgstr "હોન્ડુરાસ"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "રીપબ્લિક ઓફ હોન્ડુરાસ"
+
+msgid "ISO_3166-1.HR"
+msgstr "ક્રોએશિયા"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "રીપબ્લિક ઓફ ક્રોએશિયા"
+
+msgid "ISO_3166-1.HT"
+msgstr "હૈતી"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "રીપબ્લિક ઓફ હૈતી"
+
+msgid "ISO_3166-1.HU"
+msgstr "હંગેરી"
+
+msgid "ISO_3166-1.ID"
+msgstr "ઇન્ડોનેશિયા"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "રીપબ્લિક ઓફ ઇન્ડોનેશિયા"
+
+msgid "ISO_3166-1.IE"
+msgstr "આયરલેન્ડ"
+
+msgid "ISO_3166-1.IL"
+msgstr "ઇઝરાયેલ"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "સ્ટેટ ઓફ ઇઝરાયેલ"
+
+msgid "ISO_3166-1.IM"
+msgstr "આઇસ્લે ઓફ મેન"
+
+msgid "ISO_3166-1.IN"
+msgstr "ભારત"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "રીપબ્લિક ઓફ ઇન્ડિયા"
+
+msgid "ISO_3166-1.IO"
+msgstr "બ્રિટિશ ઇન્ડિયન ઓસન ટેરીટરી"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ઇરાક"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "રીપબ્લિક ઓફ ઇરાક"
+
+msgid "ISO_3166-1.IR"
+msgstr "ઇરાન, ઇસ્લામિક રીપબ્લિક ઓફ"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ઇસ્લામિક રીપબ્લિક ઓફ ઇરાન"
+
+msgid "ISO_3166-1.IS"
+msgstr "આઇસલેન્ડ"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "રીપબ્લિક ઓફ આઇસલેન્ડ"
+
+msgid "ISO_3166-1.IT"
+msgstr "ઇટાલી"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ઇટાલીયન રીપબ્લિક"
+
+msgid "ISO_3166-1.JE"
+msgstr "જર્સી"
+
+msgid "ISO_3166-1.JM"
+msgstr "જમૈકા"
+
+msgid "ISO_3166-1.JO"
+msgstr "જોર્ડન"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "હાશ્મીતે કિંગડમ ઓફ જોર્ડન"
+
+msgid "ISO_3166-1.JP"
+msgstr "જાપાન"
+
+msgid "ISO_3166-1.KE"
+msgstr "કેન્યા"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "રીપબ્લિક ઓફ કેન્યા"
+
+msgid "ISO_3166-1.KG"
+msgstr "કિર્ગિસ્તાન"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "કિર્ગ રીપબ્લિક"
+
+msgid "ISO_3166-1.KH"
+msgstr "કંબોડિઆ"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "કિંગડમ ઓફ કંબોડિઆ"
+
+msgid "ISO_3166-1.KI"
+msgstr "કીરીબાતી"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "રીપબ્લિક ઓફ કીરીબાતી"
+
+msgid "ISO_3166-1.KM"
+msgstr "કોમોરોસ"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "યુનિયન ઓફ કોમોરોસ"
+
+msgid "ISO_3166-1.KN"
+msgstr "સેન્ટ કીટ્સ અને નેવિસ"
+
+msgid "ISO_3166-1.KP"
+msgstr "ઉત્તર કોરિયા"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "ડેમોક્રેટિક પીપલ્સ રીપબ્લિક ઓફ કોરિયા"
+
+msgid "ISO_3166-1.KR"
+msgstr "રીપબ્લિક ઓફ કોરિયા"
+
+msgid "ISO_3166-1.KW"
+msgstr "કુવૈત"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "સ્ટેટ ઓફ કુવૈત"
+
+msgid "ISO_3166-1.KY"
+msgstr "કેમેન ટાપુઓ"
+
+msgid "ISO_3166-1.KZ"
+msgstr "કઝાખસ્તાન"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "રીપબ્લિક ઓફ કઝાખસ્તાન"
+
+msgid "ISO_3166-1.LA"
+msgstr "લાઓ પીપલ્સ ડેમોક્રેટિક રીપબ્લિક"
+
+msgid "ISO_3166-1.LB"
+msgstr "લેબેનોન"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "લેબેનીઝ રીપબ્લિક"
+
+msgid "ISO_3166-1.LC"
+msgstr "સેન્ટ લ્યુસિઆ"
+
+msgid "ISO_3166-1.LI"
+msgstr "લીચટેન્સટાઇન"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "પ્રિન્સીપાલિટી ઓફ લીચટેન્સટાઇન"
+
+msgid "ISO_3166-1.LK"
+msgstr "શ્રી લંકા"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "ડેમોક્રેટિક સોશ્યાલિસ્ટ રીપબ્લિક ઓફ શ્રી લંકા"
+
+msgid "ISO_3166-1.LR"
+msgstr "લાઇબેરિયા"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "રીપબ્લિક ઓફ લાઇબેરિયા"
+
+msgid "ISO_3166-1.LS"
+msgstr "લેસોથો"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "કીંગડમ ઓફ લેસોથો"
+
+msgid "ISO_3166-1.LT"
+msgstr "લિથુઆનીઆ"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "રીપબ્લિક ઓફ લિથુઆનીઆ"
+
+msgid "ISO_3166-1.LU"
+msgstr "લક્ઝમબર્ગ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "ગ્રાન્ડ ડચી ઓફ લક્ઝમબર્ગ"
+
+msgid "ISO_3166-1.LV"
+msgstr "લેટવિયા"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "રીપબ્લિક ઓફ"
+
+msgid "ISO_3166-1.LY"
+msgstr "લિબયા"
+
+msgid "ISO_3166-1.MA"
+msgstr "મોરક્કો"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "કિંગડમ ઓફ મોરક્કો"
+
+msgid "ISO_3166-1.MC"
+msgstr "મોનેકો"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "પ્રિન્સીપાલિટી ઓફ મોનેકો"
+
+msgid "ISO_3166-1.MD"
+msgstr "મોલ્ડોવા"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "રીપબ્લિક ઓફ મોલ્ડોવા"
+
+msgid "ISO_3166-1.ME"
+msgstr "મોન્ટેનેગરો"
+
+msgid "ISO_3166-1.MF"
+msgstr "સેન્ટ માર્ટિન (ફ્રેન્ચ વિસ્તાર)"
+
+msgid "ISO_3166-1.MG"
+msgstr "માડાગાસ્કર"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "રીપબ્લિક ઓફ માડાગાસ્કર"
+
+msgid "ISO_3166-1.MH"
+msgstr "માર્શલ ટાપુઓ"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "રીપબ્લિક ઓફ ધ માર્શલ આઇલેન્ડ્સ"
+
+msgid "ISO_3166-1.MK"
+msgstr "રીપબ્લિક ઓફ મેસેડોનિયા"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "ધ ફોર્મર યુગોસ્લાવ રીપબ્લિક ઓફ મેસેડોનિયા"
+
+msgid "ISO_3166-1.ML"
+msgstr "માલી"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "રીપબ્લિક ઓફ માલી"
+
+msgid "ISO_3166-1.MM"
+msgstr "મ્યાનમાર"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "રીપબ્લિક ઓફ મ્યાનમાર"
+
+msgid "ISO_3166-1.MN"
+msgstr "મોંગોલિયા"
+
+msgid "ISO_3166-1.MO"
+msgstr "મકાઉ"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "મકાઉ સ્પેશિઅલ એડમિનીસ્ટ્રેટિવ રીજીઅન ઓફ ચાઇના"
+
+msgid "ISO_3166-1.MP"
+msgstr "ઉત્તરી મારીઆના ટાપુઓ"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "કોમનવેલ્થ ઓફ ધ નોર્ધન મારીઆના આઇલેન્ડ્સ"
+
+msgid "ISO_3166-1.MQ"
+msgstr "માર્ટિનિક"
+
+msgid "ISO_3166-1.MR"
+msgstr "મોરિશિઆના"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "ઇસ્લામિક રીપબ્લિક ઓફ મોરિશિઆના"
+
+msgid "ISO_3166-1.MS"
+msgstr "મોન્ટસેરાન્ટ"
+
+msgid "ISO_3166-1.MT"
+msgstr "માલ્ટા"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "રીપબ્લિક ઓફ માલ્ટા"
+
+msgid "ISO_3166-1.MU"
+msgstr "મોરિશિયસ"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "રીપબ્લિક ઓફ મોરિશિયસ"
+
+msgid "ISO_3166-1.MV"
+msgstr "માલ્દીવ્સ"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "રીપબ્લિક ઓફ માલ્દીવ્સ"
+
+msgid "ISO_3166-1.MW"
+msgstr "માલાવી"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "રીપબ્લિક ઓફ માલાવી"
+
+msgid "ISO_3166-1.MX"
+msgstr "મેક્સિકો"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "યુનાઇટેડ મેક્સિકન સ્ટેટ્સ"
+
+msgid "ISO_3166-1.MY"
+msgstr "મલેશિયા"
+
+msgid "ISO_3166-1.MZ"
+msgstr "મોઝામ્બિક"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "રીપબ્લિક ઓફ મોઝામ્બિક"
+
+msgid "ISO_3166-1.NA"
+msgstr "નામિબિયા"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "રીપબ્લિક ઓફ નામિબિયા"
+
+msgid "ISO_3166-1.NC"
+msgstr "ન્યુ કેલેડોનિયા"
+
+msgid "ISO_3166-1.NE"
+msgstr "નાઇજર"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "રીપબ્લિક ઓફ નાઇજર"
+
+msgid "ISO_3166-1.NF"
+msgstr "નોર્ફોક ટાપુઓ"
+
+msgid "ISO_3166-1.NG"
+msgstr "નાઇજેરિયા"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "ફેડરલ રીપબ્લિક ઓફ નાઇજેરિયા"
+
+msgid "ISO_3166-1.NI"
+msgstr "નિકારાગુઆ"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "રીપબ્લિક ઓફ નિકારાગુઆ"
+
+msgid "ISO_3166-1.NL"
+msgstr "નેધરલેન્ડ્સ"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "કિંગડમ ઓફ નેધરલેન્ડ્સ"
+
+msgid "ISO_3166-1.NO"
+msgstr "નોર્વે"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "કિંગડમ ઓફ નોર્વે"
+
+msgid "ISO_3166-1.NP"
+msgstr "નેપાળ"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "ફેડરલ ડેમોક્રેટિક રીપબ્લિક ઓફ નેપાલ"
+
+msgid "ISO_3166-1.NR"
+msgstr "નાઉરુ"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "રીપબ્લિક ઓફ નાઉરુ"
+
+msgid "ISO_3166-1.NU"
+msgstr "નિયુ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "ન્યુ ઝીલેન્ડ"
+
+msgid "ISO_3166-1.OM"
+msgstr "ઓમાન"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "સલ્તનત ઓફ ઓમાન"
+
+msgid "ISO_3166-1.PA"
+msgstr "પનામા"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "રીપબ્લિક ઓફ પનામા"
+
+msgid "ISO_3166-1.PE"
+msgstr "પેરુ"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "રીપબ્લિક ઓફ પેરુ"
+
+msgid "ISO_3166-1.PF"
+msgstr "ફ્રેન્ચ પોલિનેશિયા"
+
+msgid "ISO_3166-1.PG"
+msgstr "પાપુઆ ન્યુ ગીની"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "ઇન્ડિપેન્ડન્ટ સ્ટેટ ઓફ સામોઆ"
+
+msgid "ISO_3166-1.PH"
+msgstr "ફિલિપાઇન્સ"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "રીપબ્લિક ઓફ ધ ફિલિપાઇન્સ"
+
+msgid "ISO_3166-1.PK"
+msgstr "પાકિસ્તાન"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "ઇસ્લામિક રીપબ્લિક ઓફ પાકિસ્તાન"
+
+msgid "ISO_3166-1.PL"
+msgstr "પોલેન્ડ"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "રીપબ્લિક ઓફ પોલેન્ડ"
+
+msgid "ISO_3166-1.PM"
+msgstr "સેન્ટ પીએરી અને મિક્યુલોન"
+
+msgid "ISO_3166-1.PN"
+msgstr "પીટેકેર્ન"
+
+msgid "ISO_3166-1.PR"
+msgstr "પુર્ટો રીકો"
+
+msgid "ISO_3166-1.PS"
+msgstr "પેલેસ્ટાઇન, સ્ટેટ ઓફ"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "ધ સ્ટેટ ઓફ પેલેસ્ટાઇન"
+
+msgid "ISO_3166-1.PT"
+msgstr "પોર્ટુગલ"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "પોર્ટુગીઝ રીપબ્લિક"
+
+msgid "ISO_3166-1.PW"
+msgstr "પાલાઉ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "રીપબ્લિક ઓફ પાલાઉ"
+
+msgid "ISO_3166-1.PY"
+msgstr "પારાગ્વે"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "રીપબ્લિક ઓફ પારાગ્વે"
+
+msgid "ISO_3166-1.QA"
+msgstr "કતાર"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "સ્ટેટ ઓફ કતાર"
+
+msgid "ISO_3166-1.RE"
+msgstr "રીયુનિયન"
+
+msgid "ISO_3166-1.RO"
+msgstr "રોમાનિયા"
+
+msgid "ISO_3166-1.RS"
+msgstr "સર્બિઆ"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "રીપબ્લિક ઓફ સર્બિઆ"
+
+msgid "ISO_3166-1.RU"
+msgstr "રશિયન ફેડરેશન"
+
+msgid "ISO_3166-1.RW"
+msgstr "રવાન્ડા"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "રવાન્ડેસે રીપબ્લિક"
+
+msgid "ISO_3166-1.SA"
+msgstr "સાઉદી અરેબિયા"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "કિંગડમ ઓફ સાઉદી અરેબિયા"
+
+msgid "ISO_3166-1.SB"
+msgstr "સોલોમન ટાપુઓ"
+
+msgid "ISO_3166-1.SC"
+msgstr "સેશેલ્સ"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "રીપબ્લિક ઓફ સેશેલ્સ"
+
+msgid "ISO_3166-1.SD"
+msgstr "સુદાન"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "રીપબ્લિક ઓફ ધ સુદાન"
+
+msgid "ISO_3166-1.SE"
+msgstr "સ્વિડન"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "કિંગડમ ઓફ સ્વિડન"
+
+msgid "ISO_3166-1.SG"
+msgstr "સિંગાપુર"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "રીપબ્લિક ઓફ સિંગાપુર"
+
+msgid "ISO_3166-1.SH"
+msgstr "સંત હેલેના, અસેન્શન અને ટ્રીસ્તાન ડ કુન્હા"
+
+msgid "ISO_3166-1.SI"
+msgstr "સ્લોવેનિયા"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "રીપબ્લિક ઓફ સ્લોવેનિયા"
+
+msgid "ISO_3166-1.SJ"
+msgstr "સ્વાલબાર્ડ અને જાન માયેન"
+
+msgid "ISO_3166-1.SK"
+msgstr "સ્લોવેકિઆ"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "સ્લોવેક રીપબ્લિક"
+
+msgid "ISO_3166-1.SL"
+msgstr "સિએરા લીઓન"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "રીપબ્લિક ઓફ સીએરા લીઓન"
+
+msgid "ISO_3166-1.SM"
+msgstr "સાન મરિનો"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "રીપબ્લિક ઓફ સાન મરિનો"
+
+msgid "ISO_3166-1.SN"
+msgstr "સેનેગલ"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "રીપબ્લિક ઓફ સેનેગલ"
+
+msgid "ISO_3166-1.SO"
+msgstr "સોમાલિયા"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "રીપબ્લિક ઓફ જર્મની"
+
+msgid "ISO_3166-1.SR"
+msgstr "સુરિનામ"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "રીપબ્લિક ઓફ સુરિનામ"
+
+msgid "ISO_3166-1.SS"
+msgstr "દક્ષિણ સુદાન"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "રીપબ્લિક ઓફ સાઉથ સુદાન"
+
+msgid "ISO_3166-1.ST"
+msgstr "સાઓ ટોમે અને પ્રિન્સિપે"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "ડેમોક્રેટિક રીપબ્લિક ઓફ સાઓ ટોમે અને પ્રિન્સિપે"
+
+msgid "ISO_3166-1.SV"
+msgstr "અલ સાલ્વાડોર"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "રીપબ્લિક ઓફ અલ સાલ્વાડોર"
+
+msgid "ISO_3166-1.SX"
+msgstr "સિન્ટ માર્ટેન (ડચ વિસ્તાર)"
+
+msgid "ISO_3166-1.SY"
+msgstr "સીરીયન આરબ રીપબ્લિક"
+
+msgid "ISO_3166-1.SZ"
+msgstr "સ્વાઝિલેન્ડ"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "કિંગડમ ઓફ સ્વાઝિલેન્ડ"
+
+msgid "ISO_3166-1.TC"
+msgstr "તુર્કસ અને કેઇકોસ ટાપુઓ"
+
+msgid "ISO_3166-1.TD"
+msgstr "ચાડ"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "રીપબ્લિક ઓફ ચાડ"
+
+msgid "ISO_3166-1.TF"
+msgstr "ફ્રેન્ચ સર્થન ટેરિટરીસ"
+
+msgid "ISO_3166-1.TG"
+msgstr "ટોગો"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "રીપબ્લિક ટોગોલેઝ"
+
+msgid "ISO_3166-1.TH"
+msgstr "થાઇલેન્ડ"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "કિંગડમ ઓફ થાઇલેન્ડ"
+
+msgid "ISO_3166-1.TJ"
+msgstr "તાજીકિસ્તાન"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "રીપબ્લિક ઓફ તાજીકિસ્તાન"
+
+msgid "ISO_3166-1.TK"
+msgstr "ટોકેલાઉ"
+
+msgid "ISO_3166-1.TL"
+msgstr "તિમોર-લેસ્ટે"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "ડેમોક્રેટિક રીપબ્લિક ઓફ તિમોર-લેસ્ટે"
+
+msgid "ISO_3166-1.TM"
+msgstr "તુર્કમેનિસ્તાન"
+
+msgid "ISO_3166-1.TN"
+msgstr "ટ્યુનિશિયા"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "રીપબ્લિક ઓફ ટ્યુનિશિયા"
+
+msgid "ISO_3166-1.TO"
+msgstr "ટોંગા"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "કિંગડમ ઓફ ટોંગા"
+
+msgid "ISO_3166-1.TR"
+msgstr "તુર્કી"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "રીપબ્લિક ઓફ તુર્કી"
+
+msgid "ISO_3166-1.TT"
+msgstr "ટ્રિનિડાડ અને ટોબેગો"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "રીપબ્લિક ઓફ ટ્રિનિડાડ અને ટોબેગો"
+
+msgid "ISO_3166-1.TV"
+msgstr "ટુવાલુ"
+
+msgid "ISO_3166-1.TW"
+msgstr "તાઇવાન"
+
+msgid "ISO_3166-1.TZ"
+msgstr "ટાન્ઝાનિયા, યુનાઇટેડ રીપબ્લિક ઓફ"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "યુનાઇટેડ રીપબ્લિક ઓફ ટાન્ઝાનિયા"
+
+msgid "ISO_3166-1.UA"
+msgstr "યુક્રેન"
+
+msgid "ISO_3166-1.UG"
+msgstr "યુગાન્ડા"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "રીપબ્લિક ઓફ યુગાન્ડા"
+
+msgid "ISO_3166-1.UM"
+msgstr "યુનાઇટેડ સ્ટેટ્સ માઇનોર આઉટલાઇંગ આઇલેન્ડસ"
+
+msgid "ISO_3166-1.US"
+msgstr "યુનાઇટેડ સ્ટેટ્સ"
+
+msgid "ISO_3166-1.US#official"
+msgstr "યુનાઇટેડ સ્ટેટ્સ ઓફ અમેરિકા"
+
+msgid "ISO_3166-1.UY"
+msgstr "ઉરુગ્વે"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "ઇસ્ટર્ન રીપબ્લિક ઓફ ઉરુગ્વે"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ઉઝબેકિસ્તાન"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "રીપબ્લિક ઓફ ઉઝબેકિસ્તાન"
+
+msgid "ISO_3166-1.VA"
+msgstr "હોલી સી (વેટિકન સીટી સ્ટેટ)"
+
+msgid "ISO_3166-1.VC"
+msgstr "સેન્ટ વિન્સેન્ટ અને ગ્રેનેડીન્સ"
+
+msgid "ISO_3166-1.VE"
+msgstr "વેનેઝુએલા"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "બોલિવિયન રીપબ્લિક ઓફ વેનેઝુએલા"
+
+msgid "ISO_3166-1.VG"
+msgstr "બ્રિટિશ વર્જીન ટાપુઓ"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "બ્રિટિશ વર્જીન આઇલેન્ડસ"
+
+msgid "ISO_3166-1.VI"
+msgstr "વર્જીન ટાપુઓ, યુ.એસ."
+
+msgid "ISO_3166-1.VI#official"
+msgstr "વર્જીન આઇલેન્ડસ ઓફ ધ યુનાઇટેડ સ્ટેટ્સ"
+
+msgid "ISO_3166-1.VN"
+msgstr "વિયેત નામ"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "સોસ્યાલિસ્ટ રીપબ્લિક ઓફ વિયેત નામ"
+
+msgid "ISO_3166-1.VU"
+msgstr "વાનુટુ"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "રીપબ્લિક ઓફ વાનુટુ"
+
+msgid "ISO_3166-1.WF"
+msgstr "વાલીસ અને ફુટુના"
+
+msgid "ISO_3166-1.WS"
+msgstr "સામોઆ"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "ઇન્ડિપેન્ડન્ટ સ્ટેટ ઓફ સામોઆ"
+
+msgid "ISO_3166-1.YE"
+msgstr "યમન"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "રીપબ્લિક ઓફ યમન"
+
+msgid "ISO_3166-1.YT"
+msgstr "માયોટે"
+
+msgid "ISO_3166-1.ZA"
+msgstr "દક્ષિણ આફ્રિકા"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "રીપબ્લિક ઓફ સાઉથ આફ્રિકા"
+
+msgid "ISO_3166-1.ZM"
+msgstr "ઝાંબિયા"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "રીપબ્લિક ઓફ ઝાંબિયા"
+
+msgid "ISO_3166-1.ZW"
+msgstr "ઝીમ્બાબવે"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "રીપબ્લિક ઓફ ઝીમ્બાબવે"

@@ -1,0 +1,395 @@
+# Translation of ISO-3166 (country names) to Faroese
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2004-08-08 10:00+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Faroese\n"
+"Language: fo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AE"
+msgstr "Sameindu Emirríkini"
+
+msgid "ISO_3166-1.AF"
+msgstr "Afganistan"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigua og Barbuda"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Antarktis"
+
+msgid "ISO_3166-1.AT"
+msgstr "Eysturríki"
+
+msgid "ISO_3166-1.AU"
+msgstr "Avstralia"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Aserbajdsjan"
+
+msgid "ISO_3166-1.BA"
+msgstr "Bosnia-Hersegovina"
+
+msgid "ISO_3166-1.BD"
+msgstr "Bangladesj"
+
+msgid "ISO_3166-1.BE"
+msgstr "Belgia"
+
+msgid "ISO_3166-1.BR"
+msgstr "Brasilia"
+
+msgid "ISO_3166-1.BT"
+msgstr "Butan"
+
+msgid "ISO_3166-1.BW"
+msgstr "Botsvana"
+
+msgid "ISO_3166-1.BY"
+msgstr "Hvítarussland"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Belis"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.CF"
+msgstr "Miðafrikalýðveldið"
+
+msgid "ISO_3166-1.CG"
+msgstr "Kongo"
+
+msgid "ISO_3166-1.CH"
+msgstr "Sveis"
+
+msgid "ISO_3166-1.CL"
+msgstr "Kili"
+
+msgid "ISO_3166-1.CM"
+msgstr "Kamerun"
+
+msgid "ISO_3166-1.CN"
+msgstr "Kina"
+
+msgid "ISO_3166-1.CO"
+msgstr "Kolombia"
+
+msgid "ISO_3166-1.CR"
+msgstr "Kosta Rika"
+
+msgid "ISO_3166-1.CU"
+msgstr "Kuba"
+
+msgid "ISO_3166-1.CV"
+msgstr "Grønhøvdaoyggjarnar"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Domingo lýðveldið"
+
+msgid "ISO_3166-1.CY"
+msgstr "Kýpros"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Kekkia"
+
+msgid "ISO_3166-1.DE"
+msgstr "Týskland"
+
+msgid "ISO_3166-1.DK"
+msgstr "Danmørk"
+
+msgid "ISO_3166-1.DM"
+msgstr "Dominika"
+
+msgid "ISO_3166-1.DO"
+msgstr "Domingo lýðveldið"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ekvador"
+
+msgid "ISO_3166-1.EE"
+msgstr "Estland"
+
+msgid "ISO_3166-1.EG"
+msgstr "Egyptaland"
+
+msgid "ISO_3166-1.ES"
+msgstr "Spania"
+
+msgid "ISO_3166-1.ET"
+msgstr "Etiopia"
+
+msgid "ISO_3166-1.FI"
+msgstr "Finnland"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Domingo lýðveldið"
+
+msgid "ISO_3166-1.FO"
+msgstr "Føroyar"
+
+msgid "ISO_3166-1.FR"
+msgstr "Frakland"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Domingo lýðveldið"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Ekvator Guinea"
+
+msgid "ISO_3166-1.GR"
+msgstr "Grikkaland"
+
+msgid "ISO_3166-1.GW"
+msgstr "Guinea Bissau"
+
+msgid "ISO_3166-1.GY"
+msgstr "Gujana"
+
+msgid "ISO_3166-1.HR"
+msgstr "Kroatia"
+
+msgid "ISO_3166-1.HU"
+msgstr "Ungarn"
+
+msgid "ISO_3166-1.IE"
+msgstr "Írland"
+
+msgid "ISO_3166-1.IL"
+msgstr "Ísrael"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Irak"
+
+msgid "ISO_3166-1.IS"
+msgstr "Ísland"
+
+msgid "ISO_3166-1.IT"
+msgstr "Italia"
+
+msgid "ISO_3166-1.JM"
+msgstr "Jameika"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kenja"
+
+msgid "ISO_3166-1.KG"
+msgstr "Kirgisia"
+
+msgid "ISO_3166-1.KH"
+msgstr "Kambodja"
+
+msgid "ISO_3166-1.KM"
+msgstr "Komorooyggjarnar"
+
+msgid "ISO_3166-1.KN"
+msgstr "Saint Kitts og Nevis"
+
+msgid "ISO_3166-1.KW"
+msgstr "Kuvait"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Kasakstan"
+
+msgid "ISO_3166-1.LB"
+msgstr "Libanon"
+
+msgid "ISO_3166-1.LC"
+msgstr "Saint Lusia"
+
+msgid "ISO_3166-1.LI"
+msgstr "Liktenstein"
+
+msgid "ISO_3166-1.LS"
+msgstr "Lesoto"
+
+msgid "ISO_3166-1.LT"
+msgstr "Litava"
+
+msgid "ISO_3166-1.LU"
+msgstr "Luksemborg"
+
+msgid "ISO_3166-1.LV"
+msgstr "Lettland"
+
+msgid "ISO_3166-1.MA"
+msgstr "Marokko"
+
+msgid "ISO_3166-1.MC"
+msgstr "Monako"
+
+msgid "ISO_3166-1.MD"
+msgstr "Domingo lýðveldið"
+
+msgid "ISO_3166-1.MG"
+msgstr "Madagaskar"
+
+msgid "ISO_3166-1.MH"
+msgstr "Marshalloyggjarnar"
+
+msgid "ISO_3166-1.MK"
+msgstr "Domingo lýðveldið"
+
+msgid "ISO_3166-1.MR"
+msgstr "Móritania"
+
+msgid "ISO_3166-1.MU"
+msgstr "Móritius"
+
+msgid "ISO_3166-1.MV"
+msgstr "Maldivuoyggjarnar"
+
+msgid "ISO_3166-1.MW"
+msgstr "Malavi"
+
+msgid "ISO_3166-1.MX"
+msgstr "Meksiko"
+
+msgid "ISO_3166-1.MY"
+msgstr "Maleisia"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Mosambik"
+
+msgid "ISO_3166-1.NI"
+msgstr "Nikaragua"
+
+msgid "ISO_3166-1.NL"
+msgstr "Niðurlond"
+
+msgid "ISO_3166-1.NO"
+msgstr "Noreg"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Miðafrikalýðveldið"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Ný Sæland"
+
+msgid "ISO_3166-1.PE"
+msgstr "Perú"
+
+msgid "ISO_3166-1.PG"
+msgstr "Papua Nýguinea"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Papua Nýguinea"
+
+msgid "ISO_3166-1.PH"
+msgstr "Filipsoyggjar"
+
+msgid "ISO_3166-1.PL"
+msgstr "Pólland"
+
+msgid "ISO_3166-1.PY"
+msgstr "Paraguei"
+
+msgid "ISO_3166-1.QA"
+msgstr "Katar"
+
+msgid "ISO_3166-1.RO"
+msgstr "Rumenia"
+
+msgid "ISO_3166-1.RS"
+msgstr "Aserbajdsjan"
+
+msgid "ISO_3166-1.RW"
+msgstr "Ruanda"
+
+msgid "ISO_3166-1.SA"
+msgstr "Saudi-Arábia"
+
+msgid "ISO_3166-1.SB"
+msgstr "Sálomonoyggjarnar"
+
+msgid "ISO_3166-1.SC"
+msgstr "Seyskelloyggjarnar"
+
+msgid "ISO_3166-1.SE"
+msgstr "Svøríki"
+
+msgid "ISO_3166-1.SG"
+msgstr "Singapor"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Miðafrikalýðveldið"
+
+msgid "ISO_3166-1.SR"
+msgstr "Surinam"
+
+msgid "ISO_3166-1.SS"
+msgstr "Domingo lýðveldið"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Domingo lýðveldið"
+
+msgid "ISO_3166-1.ST"
+msgstr "Sao Tome og Prinsipi"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Svasiland"
+
+msgid "ISO_3166-1.TD"
+msgstr "Kjad"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Tadsjikistan"
+
+msgid "ISO_3166-1.TN"
+msgstr "Tunesia"
+
+msgid "ISO_3166-1.TR"
+msgstr "Turkaland"
+
+msgid "ISO_3166-1.TT"
+msgstr "Trinidad og Tobago"
+
+msgid "ISO_3166-1.TW"
+msgstr "Teivan"
+
+msgid "ISO_3166-1.UA"
+msgstr "Ukreina"
+
+msgid "ISO_3166-1.US"
+msgstr "Sambandsríki Amerika"
+
+msgid "ISO_3166-1.UY"
+msgstr "Uruguei"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Usbekistan"
+
+msgid "ISO_3166-1.VC"
+msgstr "Saint Vinsent og Grenadinoyggjar"
+
+msgid "ISO_3166-1.VE"
+msgstr "Venesuela"
+
+msgid "ISO_3166-1.WS"
+msgstr "Sámoa"
+
+msgid "ISO_3166-1.YE"
+msgstr "Jemen"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Suðurafrika"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Sambia"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Simbabvi"

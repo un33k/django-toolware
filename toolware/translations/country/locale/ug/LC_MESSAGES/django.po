@@ -1,0 +1,1260 @@
+# Translation of ISO 3166 (country names) to Uyghur
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Abduqadir Abliz <sahran.ug@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-02-13 11:28+0600\n"
+"Last-Translator: Sahran <sahran.ug@gmail.com>\n"
+"Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "ئاندوررا"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "ئاندوررا بەگلىكى"
+
+msgid "ISO_3166-1.AE"
+msgstr "ئەرەب بىرلەشمە خەلىپىلىكى"
+
+msgid "ISO_3166-1.AF"
+msgstr "ئافغانىستان"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "ئافغانىستان ئىسلام جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.AG"
+msgstr "ئانتىگۋا ۋە باربۇدا"
+
+msgid "ISO_3166-1.AI"
+msgstr "ئانگۋىللا"
+
+msgid "ISO_3166-1.AL"
+msgstr "ئالبانىيە"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "ئالبانىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.AM"
+msgstr "ئەرمېنىيە"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "ئەرمېنىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.AO"
+msgstr "ئانگولا"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "ئانگولا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.AQ"
+msgstr "ئانتاركتىكا"
+
+msgid "ISO_3166-1.AR"
+msgstr "ئارگېنتىنا"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "ئارگېنتىنا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.AS"
+msgstr "ئامېرىكىغا قاراشلىق ساموئا"
+
+msgid "ISO_3166-1.AT"
+msgstr "ئاۋسترىيە"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "ئاۋسترىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.AU"
+msgstr "ئاۋسترالىيە"
+
+msgid "ISO_3166-1.AW"
+msgstr "ئارۇبا"
+
+msgid "ISO_3166-1.AX"
+msgstr "ئالاند تاقىم ئاراللىرى"
+
+msgid "ISO_3166-1.AZ"
+msgstr "ئەزەربەيجان"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "ئەزەربەيجان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BA"
+msgstr "بوسنىيە گېرتسېگوۋىنا"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "بوسنىيە-گېرتسېگوۋىنا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BB"
+msgstr "باربادوس"
+
+msgid "ISO_3166-1.BD"
+msgstr "باڭلادىش"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "باڭلادىش خەلق جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BE"
+msgstr "بېلگىيە"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "بېلگىيە پادىشاھلىقى"
+
+msgid "ISO_3166-1.BF"
+msgstr "بۇركىنا-فاسو"
+
+msgid "ISO_3166-1.BG"
+msgstr "بۇلغارىيە"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "بۇلغارىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BH"
+msgstr "بەھرەين"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "بەھرەين پادىشاھلىقى"
+
+msgid "ISO_3166-1.BI"
+msgstr "بۇرۇندى"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "بۇرۇندى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BJ"
+msgstr "بېنىن"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "بېنىن جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BL"
+msgstr "ساينىت-بارتھېلەمي"
+
+msgid "ISO_3166-1.BM"
+msgstr "بېرمۇدا"
+
+msgid "ISO_3166-1.BN"
+msgstr "بىرۇنېي دارېسسالام"
+
+msgid "ISO_3166-1.BO"
+msgstr "بولىۋىيە"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "كۆپ مىللەتلىك بولىۋىيە دۆلىتى"
+
+msgid "ISO_3166-1.BQ"
+msgstr "بونەر، ساينىت يۇستىفەس ۋە سابا"
+
+msgid "ISO_3166-1.BR"
+msgstr "بىرازىلىيە"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "بىرازىلىيە فېدېراتىپ جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BS"
+msgstr "باھاما ئاراللىرى"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "باھاما دۆلىتى"
+
+msgid "ISO_3166-1.BT"
+msgstr "بۇتان"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "بۇتان پادىشاھلىقى"
+
+msgid "ISO_3166-1.BV"
+msgstr "بۇۋېت ئارىلى"
+
+msgid "ISO_3166-1.BW"
+msgstr "بوتسۋانا"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "بوتسۋانا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BY"
+msgstr "بېلارۇسىيە"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "بېلارۇسىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.BZ"
+msgstr "بېلىز"
+
+msgid "ISO_3166-1.CA"
+msgstr "كانادا"
+
+msgid "ISO_3166-1.CC"
+msgstr "كوكۇس (كېلىڭ)ئارىلى"
+
+msgid "ISO_3166-1.CD"
+msgstr "كونگو دېموكراتىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CF"
+msgstr "ئوتتۇرا ئافرىقا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CG"
+msgstr "كونگو"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "كونگو جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CH"
+msgstr "شىۋېيىتسارىيە"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "شىۋېيىتسارىيە فېدېراتسىيەسى"
+
+msgid "ISO_3166-1.CI"
+msgstr "كوتىدىۋور"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "كوتېدىۋويرې جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CK"
+msgstr "كۇك ئارىلى"
+
+msgid "ISO_3166-1.CL"
+msgstr "چىلى"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "چىلى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CM"
+msgstr "كامېرون"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "كامېرون جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CN"
+msgstr "جۇڭگو"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "جۇڭخۇا خەلق جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CO"
+msgstr "كولومبىيە"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "كولومبىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CR"
+msgstr "كوستارىكا"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "كوستارىكا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CU"
+msgstr "كۇبا"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "كۇبا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CV"
+msgstr "يېشىل تۇمشۇق"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "يېشىل تۇمشۇق جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CW"
+msgstr "كۇراسو"
+
+msgid "ISO_3166-1.CX"
+msgstr "روژدېستۋو ئارىلى"
+
+msgid "ISO_3166-1.CY"
+msgstr "سىپرۇس"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "سىپرۇس جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "چېخ جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.DE"
+msgstr "گېرمانىيە"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "گېرمانىيە ئىتتىپاقداش جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.DJ"
+msgstr "جىبۇتى"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "جىبۇتى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.DK"
+msgstr "دانىيە"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "دانىيە پادىشاھلىقى"
+
+msgid "ISO_3166-1.DM"
+msgstr "دومىنىكا"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "دومىنىكا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.DO"
+msgstr "دومىنىكا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.DZ"
+msgstr "ئالجىرىيە"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "ئالجىرىيە خەلق دېموكراتىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.EC"
+msgstr "ئېكۋادور"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "ئېكۋادور جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.EE"
+msgstr "ئېستونىيە"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "ئېستونىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.EG"
+msgstr "مىسىر"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "مىسىر ئەرەب جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.EH"
+msgstr "غەربىي ساخارا"
+
+msgid "ISO_3166-1.ER"
+msgstr "ئېرىترېيە"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "ئېرىترىيە دۆلىتى"
+
+msgid "ISO_3166-1.ES"
+msgstr "ئىسپانىيە"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "ئىسپانىيە پادىشاھلىقى"
+
+msgid "ISO_3166-1.ET"
+msgstr "ئېفىيوپىيە"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "ئېفىيوپىيە بىرلەشمە دېموكراتىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.FI"
+msgstr "فىنلاندىيە"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "فىنلاندىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.FJ"
+msgstr "فىجى"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "فىجى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.FK"
+msgstr "فالكلاند تاقىم ئاراللىرى (مالۋىناس)"
+
+msgid "ISO_3166-1.FM"
+msgstr "مىكرونېزىيە فېدېراتسىيەسى"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "مىكرونېزىيە فېدېراتسىيەسى"
+
+msgid "ISO_3166-1.FO"
+msgstr "فائېرو تاقىم ئاراللىرى (دانىيە)"
+
+msgid "ISO_3166-1.FR"
+msgstr "فىرانسىيە"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "فىرانسىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GA"
+msgstr "گابون"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "گابون جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GB"
+msgstr "ئەنگلىيە"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "بۈيۈك بىرىتانىيە ۋە شىمالىي ئىرېلاندىيە بىرلەشمە پادىشاھلىقى"
+
+msgid "ISO_3166-1.GD"
+msgstr "گىرېنادا"
+
+msgid "ISO_3166-1.GE"
+msgstr "گىرۇزىيە"
+
+msgid "ISO_3166-1.GF"
+msgstr "فىرانسىيەگە قاراشلىق گىۋىيانا"
+
+msgid "ISO_3166-1.GG"
+msgstr "گېرىنسى"
+
+msgid "ISO_3166-1.GH"
+msgstr "گانا"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "گانا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GI"
+msgstr "جەبىلتارىق"
+
+msgid "ISO_3166-1.GL"
+msgstr "گىرېنلاند"
+
+msgid "ISO_3166-1.GM"
+msgstr "گامبىيە"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "گامبىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GN"
+msgstr "گىۋىنېيە"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "گىۋىنېيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GP"
+msgstr "گىۋادېلۇپ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ئېكۋاتور گىۋىنېيەسى"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "ئېكۋاتور گىۋىنېيەسى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GR"
+msgstr "گىرېتسىيە"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "گىرېتسىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GS"
+msgstr "جەنۇبىي جورجىيە ۋە جەنۇبىي ساندىۋىچ ئارىلى"
+
+msgid "ISO_3166-1.GT"
+msgstr "گىۋاتېمالا"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "گىۋاتېمالا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GU"
+msgstr "گۇئام"
+
+msgid "ISO_3166-1.GW"
+msgstr "گىۋىنېيە بىسسائۇ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "گىۋىنېيە بىسسائۇ جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.GY"
+msgstr "گىۋىيانا"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "گىۋىيانا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.HK"
+msgstr "شياڭگاڭ"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "جۇڭگو شياڭگاڭ ئالاھىدە مەمۇرىي رايونى"
+
+msgid "ISO_3166-1.HM"
+msgstr "خېرد ئارىلى ۋە ماك-دونالد ئارىلى"
+
+msgid "ISO_3166-1.HN"
+msgstr "ھوندۇراس"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "ھوندۇراس جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.HR"
+msgstr "كىرودىيە"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "كىرودىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.HT"
+msgstr "ھايتى"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "ھايتى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.HU"
+msgstr "ۋېنگىرىيە"
+
+msgid "ISO_3166-1.ID"
+msgstr "ھىندونېزىيە"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "ھىندونېزىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.IE"
+msgstr "ئىرېلاندىيە"
+
+msgid "ISO_3166-1.IL"
+msgstr "ئىسرائىلىيە"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "ئىسرائىلىيە دۆلىتى"
+
+msgid "ISO_3166-1.IM"
+msgstr "مەن ئارىلى"
+
+msgid "ISO_3166-1.IN"
+msgstr "ھىندىستان"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "ھىندىستان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.IO"
+msgstr "ئەنگلىيەنىڭ ھىندى ئوكياندىكى زېمىنى"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ئىراق"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "ئىراق جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.IR"
+msgstr "ئىران ئىسلام جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ئىران ئىسلام جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.IS"
+msgstr "ئىسلاندىيە"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "ئىسلاندىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.IT"
+msgstr "ئىتالىيە"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ئىتالىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.JE"
+msgstr "جېرسېي"
+
+msgid "ISO_3166-1.JM"
+msgstr "يامايكا"
+
+msgid "ISO_3166-1.JO"
+msgstr "ئىيوردانىيە"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "ئىيوردانىيە ھاشىمى پادىشاھلىقى"
+
+msgid "ISO_3166-1.JP"
+msgstr "ياپونىيە"
+
+msgid "ISO_3166-1.KE"
+msgstr "كېنىيە"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "كېنىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.KG"
+msgstr "قىرغىزىستان"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "قىرغىزىستان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.KH"
+msgstr "كامبودژا"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "كامبودژا پادىشاھلىقى"
+
+msgid "ISO_3166-1.KI"
+msgstr "كىرىباتى"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "كىرىباتى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.KM"
+msgstr "كوموروس"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "كومورو ئىتتىپاقى"
+
+msgid "ISO_3166-1.KN"
+msgstr "ساينىت-كىرىستوفېر ۋە نېۋىس"
+
+msgid "ISO_3166-1.KP"
+msgstr "چاۋشيەن"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "كورېيە خەلق دېموكراتىك خەلق جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.KR"
+msgstr "كورېيە"
+
+msgid "ISO_3166-1.KW"
+msgstr "كۇۋەيت"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "كۇۋەيت دۆلىتى"
+
+msgid "ISO_3166-1.KY"
+msgstr "كايمان تاقىم ئاراللىرى"
+
+msgid "ISO_3166-1.KZ"
+msgstr "قازاقىستان"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "قازاقىستان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.LA"
+msgstr "لائوس خەلق دېموكراتىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.LB"
+msgstr "لىۋان"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "لىۋان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.LC"
+msgstr "ساينىت-لۇسىيە"
+
+msgid "ISO_3166-1.LI"
+msgstr "لىچتېنشتېين"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "لىچتېنشتېين بەگلىكى"
+
+msgid "ISO_3166-1.LK"
+msgstr "سىرىلانكا"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "سىرىلانكا دېموكراتىك سوتسىيالىستىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.LR"
+msgstr "لىبېرىيە"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "لىبېرىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.LS"
+msgstr "لېسوتو"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "لېسوتو پادىشاھلىقى"
+
+msgid "ISO_3166-1.LT"
+msgstr "لىتۋانىيە"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "لىتۋانىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.LU"
+msgstr "لىيۇكسېمبۇرگ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "لىيۇكسېمبۇرگ بەگلىكى"
+
+msgid "ISO_3166-1.LV"
+msgstr "لاتۋىيە"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "لاتۋىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.LY"
+msgstr "لىۋىيە"
+
+msgid "ISO_3166-1.MA"
+msgstr "ماراكەش"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "ماراكەش پادىشاھلىقى"
+
+msgid "ISO_3166-1.MC"
+msgstr "موناكو"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "موناكو كىنەزلىكى"
+
+msgid "ISO_3166-1.MD"
+msgstr "مولدوۋا"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "مولدوۋا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.ME"
+msgstr "مونتېنېگرو"
+
+msgid "ISO_3166-1.MF"
+msgstr "ساينىت-مارتېن"
+
+msgid "ISO_3166-1.MG"
+msgstr "ماداغاسقار"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "ماداغاسقار جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MH"
+msgstr "مارشال تاقىم ئارىلى"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "مارشال ئاراللىرى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MK"
+msgstr "ماكېدونىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "سابىق يۇگوسلاۋىيەنىڭ ماكېدونىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.ML"
+msgstr "مالى"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "مالى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MM"
+msgstr "بىرما"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "بىرما جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MN"
+msgstr "موڭغۇلىيە"
+
+msgid "ISO_3166-1.MO"
+msgstr "ئاۋمېن"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "جۇڭگو ئاۋمېن ئالاھىدە مەمۇرىي رايونى"
+
+msgid "ISO_3166-1.MP"
+msgstr "شىمالىي مارىيانا ئارىلى"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "شىمالىي مارىيانا ئىتتىپاقى"
+
+msgid "ISO_3166-1.MQ"
+msgstr "مارتىنىكا"
+
+msgid "ISO_3166-1.MR"
+msgstr "ماۋرىتانىيە"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "ماۋرىتانىيە ئىسلام جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MS"
+msgstr "مونتسېررات"
+
+msgid "ISO_3166-1.MT"
+msgstr "مالتا"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "مالتا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MU"
+msgstr "ماۋرىتىئۇس"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "ماۋرىتىئۇس جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MV"
+msgstr "مالدىۋې"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "مالدىۋې جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MW"
+msgstr "مالاۋى"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "مالاۋى جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.MX"
+msgstr "مېكسىكا"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "مېكسىكا قوشما شتاتلىرى"
+
+msgid "ISO_3166-1.MY"
+msgstr "مالايشىيا"
+
+msgid "ISO_3166-1.MZ"
+msgstr "موزامبىك"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "موزامبىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.NA"
+msgstr "نامىبىيە"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "نامىبىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.NC"
+msgstr "يېڭى كالېدونىيە"
+
+msgid "ISO_3166-1.NE"
+msgstr "نىگېر"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "نېگىر جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.NF"
+msgstr "نورفولك ئارىلى"
+
+msgid "ISO_3166-1.NG"
+msgstr "نىگېرىيە"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "نىگېرىيە فېدېراتىپ جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.NI"
+msgstr "نىكاراگۇئا"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "نىكاراگۇئا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.NL"
+msgstr "گوللاندىيە"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "گوللاندىيە پادىشاھلىقى"
+
+msgid "ISO_3166-1.NO"
+msgstr "نورۋېگىيە"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "نورۋېگىيە پادىشاھلىقى"
+
+msgid "ISO_3166-1.NP"
+msgstr "نېپال"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "نېپال بىرلەشمە دېموكراتىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.NR"
+msgstr "ناۋرۇ"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "ناۋرۇ جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.NU"
+msgstr "نىيۇئې"
+
+msgid "ISO_3166-1.NZ"
+msgstr "يېڭى زېلاندىيە"
+
+msgid "ISO_3166-1.OM"
+msgstr "ئومان"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ئومان سۇلتانلىقى"
+
+msgid "ISO_3166-1.PA"
+msgstr "پاناما"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "پاناما جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.PE"
+msgstr "پېرۇ"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "پېرۇ جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.PF"
+msgstr "فىرانسىيەگە قاراشلىق پولىنېزىيە"
+
+msgid "ISO_3166-1.PG"
+msgstr "پاپۇئا يېڭى گىۋىنېيەسى"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "ساموئا مۇستەقىل دۆلىتى"
+
+msgid "ISO_3166-1.PH"
+msgstr "فىلىپپىن"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "فىلىپپىن جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.PK"
+msgstr "پاكىستان"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "پاكىستان ئىسلام جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.PL"
+msgstr "پولشا"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "پولشا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.PM"
+msgstr "ساينىت-پىئېر ئارىلى ۋە مىكېلون تاقىم ئاراللىرى"
+
+msgid "ISO_3166-1.PN"
+msgstr "پىتكاير"
+
+msgid "ISO_3166-1.PR"
+msgstr "پۇئېرتو-رىكو"
+
+msgid "ISO_3166-1.PS"
+msgstr "پەلەستىن دۆلىتى"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "پەلەستىن دۆلىتى"
+
+msgid "ISO_3166-1.PT"
+msgstr "پورتۇگالىيە"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "پورتۇگالىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.PW"
+msgstr "پالاۋ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "پالاۋ جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.PY"
+msgstr "پاراگۋاي"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "پاراگۋاي جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.QA"
+msgstr "قاتار"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "قاتار دۆلىتى"
+
+msgid "ISO_3166-1.RE"
+msgstr "رېئونىيون"
+
+msgid "ISO_3166-1.RO"
+msgstr "رۇمىنىيە"
+
+msgid "ISO_3166-1.RS"
+msgstr "سېربىيە"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "سېربىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.RU"
+msgstr "رۇسىيە فېدېراتسىيەسى"
+
+msgid "ISO_3166-1.RW"
+msgstr "رىۋاندا"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "رىۋاندا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SA"
+msgstr "سەئۇدى ئەرەبىستان"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "سەئۇدى ئەرەبىستانى پادىشاھلىقى"
+
+msgid "ISO_3166-1.SB"
+msgstr "سولومون ئارىلى"
+
+msgid "ISO_3166-1.SC"
+msgstr "سېيشېل"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "سېيشېل جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SD"
+msgstr "سۇدان"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "سۇدان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SE"
+msgstr "شىۋېتسىيە"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "شىۋېتسىيە پادىشاھلىقى"
+
+msgid "ISO_3166-1.SG"
+msgstr "سىنگاپور"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "سىنگاپور جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SH"
+msgstr "ساينىت ھېلېنا ۋە ئاسسېنسىيون تىرىستان دا كۇنخا"
+
+msgid "ISO_3166-1.SI"
+msgstr "سىلوۋېنىيە"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "سىلوۋېنىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SJ"
+msgstr "سىۋالبارد تاقىم ئاراللىرى ۋە يان-مايېن ئارىلى"
+
+msgid "ISO_3166-1.SK"
+msgstr "سىلوۋاكىيە"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "سىلوۋاكىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SL"
+msgstr "سېررالېئون"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "سېررالېئون جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SM"
+msgstr "سان-مارىنو"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "سان مارىنو جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SN"
+msgstr "سېنېگال"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "سېنېگال جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SO"
+msgstr "سومالى"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "گېرمانىيە ئىتتىپاقداش جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SR"
+msgstr "سۇرىنام"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "سۇرىنام جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SS"
+msgstr "جەنۇبىي سۇدان "
+
+msgid "ISO_3166-1.SS#official"
+msgstr "جەنۇبىي سۇدان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.ST"
+msgstr "سان-تومې ۋە پىرىنسىپى"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "سان-تومې ۋە پىرىنسىپى دېموكراتىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SV"
+msgstr "سالۋادور"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "سالۋادور جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SX"
+msgstr "سىنت مارتېن(گوللاندىيە بۆلىكى)"
+
+msgid "ISO_3166-1.SY"
+msgstr "سۈرىيە ئەرەب جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.SZ"
+msgstr "سىۋېزىلاند"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "سىۋېزىلاند پادىشاھلىقى"
+
+msgid "ISO_3166-1.TC"
+msgstr "تۇركس ۋە كايكوس ئارىلى"
+
+msgid "ISO_3166-1.TD"
+msgstr "چاد"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "چاد جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.TF"
+msgstr "فىرانسىيەگە قاراشلىق جەنۇبىي زېمىن"
+
+msgid "ISO_3166-1.TG"
+msgstr "توگو"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "توگو جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.TH"
+msgstr "تايلاند"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "تايلاند پادىشاھلىقى"
+
+msgid "ISO_3166-1.TJ"
+msgstr "تاجىكىستان"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "تاجىكىستان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.TK"
+msgstr "توكېلاۋ"
+
+msgid "ISO_3166-1.TL"
+msgstr "شەرقىي تىمور"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "شەرقىي تىمور دېموكراتىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.TM"
+msgstr "تۈركمەنىستان"
+
+msgid "ISO_3166-1.TN"
+msgstr "تۇنىس"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "تۇنىس جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.TO"
+msgstr "تونگا"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "تونگا پادىشاھلىقى"
+
+msgid "ISO_3166-1.TR"
+msgstr "تۈركىيە"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "تۈركىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.TT"
+msgstr "تىرىنىداد ۋە توباگو"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "تىرىنىداد ۋە توباگو جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.TV"
+msgstr "تۇۋالۇ"
+
+msgid "ISO_3166-1.TW"
+msgstr "تەيۋەن"
+
+msgid "ISO_3166-1.TZ"
+msgstr "تانزانىيە قوشما جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "تانزانىيە بىرلەشمە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.UA"
+msgstr "ئۇكرائىنا"
+
+msgid "ISO_3166-1.UG"
+msgstr "ئۇگاندا"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "ئۇگاندا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.UM"
+msgstr "ئامېرىكا قوشما شتاتلىرى سىرتىدىكى ئاراللار"
+
+msgid "ISO_3166-1.US"
+msgstr "ئامېرىكا"
+
+msgid "ISO_3166-1.US#official"
+msgstr "ئامېرىكا قوشما شتاتلىرى"
+
+msgid "ISO_3166-1.UY"
+msgstr "ئۇرۇگۋاي"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "شەرقىي ئۇرۇگۋاي جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ئۆزبېكىستان"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "ئۆزبېكىستان جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.VA"
+msgstr "ۋاتىكان"
+
+msgid "ISO_3166-1.VC"
+msgstr "ساينىت-ۋىنسېنت ۋە گىرېنادىنېس"
+
+msgid "ISO_3166-1.VE"
+msgstr "ۋېنېزۇئېلا"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "ۋېنېزۇئېلا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.VG"
+msgstr "ئەنگلىيەگە قاراشلىق ۋىرجىن تاقىم ئاراللىرى"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ئەنگلىيەگە قاراشلىق ۋىرجىن تاقىم ئاراللىرى"
+
+msgid "ISO_3166-1.VI"
+msgstr "ئامېرىكىغا قاراشلىق ۋىرجىن تاقىم ئاراللىرى"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "ئامېرىكىغا قاراشلىق ۋىرجىن ئارىلى"
+
+msgid "ISO_3166-1.VN"
+msgstr "ۋىيېتنام"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "ۋىيېتنام سوتسىيالىستىك جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.VU"
+msgstr "ۋانۇئاتۇ"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "ۋانۇئاتۇ جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.WF"
+msgstr "ۋالىس ۋە فۇتۇنا"
+
+msgid "ISO_3166-1.WS"
+msgstr "غەربىي ساموئا"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "ساموئا مۇستەقىل دۆلىتى"
+
+msgid "ISO_3166-1.YE"
+msgstr "يەمەن"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "يەمەن جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.YT"
+msgstr "مايوتتې"
+
+msgid "ISO_3166-1.ZA"
+msgstr "جەنۇبىي ئافرىقا"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "جەنۇبىي ئافرىقا جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.ZM"
+msgstr "زامبىيە"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "زامبىيە جۇمھۇرىيىتى"
+
+msgid "ISO_3166-1.ZW"
+msgstr "زىمبابۋې"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "زىمبابۋې جۇمھۇرىيىتى"

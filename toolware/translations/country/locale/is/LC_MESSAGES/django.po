@@ -1,0 +1,1264 @@
+# translation of iso_3166-3.60.is.po to Icelandic
+# Icelandic translations of ISO 3166 place names
+# Íslenskar þýðingar á staðarnöfnum skv. ISO 3166 staðli
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) 2002-2013 Free Software Foundation, Inc.
+# Translations taken from KDE:
+# Þórarinn Rúnar Einarsson <thori@mindspring.com>
+#
+# Alastair McKinstry, <mckinstry@computer.org>, 2002.
+# Sveinn í Felli <sveinki@nett.is>, 2010, 2011, 2012, 2013, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2015-08-22 16:01+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Andorra"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Furstadæmið Andorra"
+
+msgid "ISO_3166-1.AE"
+msgstr "Sameinuðu arabísku furstadæmin"
+
+msgid "ISO_3166-1.AF"
+msgstr "Afganistan"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Íslamska lýðveldið Afghanistan"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigúa og Barbúda"
+
+msgid "ISO_3166-1.AI"
+msgstr "Angvíla"
+
+msgid "ISO_3166-1.AL"
+msgstr "Albanía"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Lýðveldið Albanía"
+
+msgid "ISO_3166-1.AM"
+msgstr "Armenía"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Lýðveldið Armenía"
+
+msgid "ISO_3166-1.AO"
+msgstr "Angóla"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Lýðveldið Angóla"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Suðurskautslandið"
+
+msgid "ISO_3166-1.AR"
+msgstr "Argentína"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Lýðveldið Argentína"
+
+msgid "ISO_3166-1.AS"
+msgstr "Bandarísku Samóaeyjar"
+
+msgid "ISO_3166-1.AT"
+msgstr "Austurríki"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Lýðveldið Austurríki"
+
+msgid "ISO_3166-1.AU"
+msgstr "Ástralía"
+
+msgid "ISO_3166-1.AW"
+msgstr "Arúba"
+
+msgid "ISO_3166-1.AX"
+msgstr "Álandseyjar"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Aserbaídsjan"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Lýðveldið Aserbaídsjan"
+
+msgid "ISO_3166-1.BA"
+msgstr "Bosnía og Herzegóvína"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Lýðveldið Bosnía og Herzegóvína"
+
+msgid "ISO_3166-1.BB"
+msgstr "Barbados"
+
+msgid "ISO_3166-1.BD"
+msgstr "Bangladess"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Alþýðulýðveldið Bangladess"
+
+msgid "ISO_3166-1.BE"
+msgstr "Belgía"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Konungsríkið Belgía"
+
+msgid "ISO_3166-1.BF"
+msgstr "Búrkína Fasó"
+
+msgid "ISO_3166-1.BG"
+msgstr "Búlgaría"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Lýðveldið Búlgaría"
+
+msgid "ISO_3166-1.BH"
+msgstr "Barein"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Konungsríkið Barein"
+
+msgid "ISO_3166-1.BI"
+msgstr "Búrúndí"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Lýðveldið Búrúndí"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Benín"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Lýðveldið Benín"
+
+msgid "ISO_3166-1.BL"
+msgstr "Sankti Bartelemí"
+
+msgid "ISO_3166-1.BM"
+msgstr "Bermúda"
+
+msgid "ISO_3166-1.BN"
+msgstr "Brúnei Darussalam"
+
+msgid "ISO_3166-1.BO"
+msgstr "Bólivía"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Fjölþjóðaríkið Bólivía"
+
+msgid "ISO_3166-1.BQ"
+msgstr "Bonaire, Sankti Eustatius og Saba"
+
+msgid "ISO_3166-1.BR"
+msgstr "Brasilía"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Sambandslýðveldið Brasilía"
+
+msgid "ISO_3166-1.BS"
+msgstr "Bahamaeyjar"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "Samveldisríki Bahamaeyja"
+
+msgid "ISO_3166-1.BT"
+msgstr "Bútan"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Konungsríkið Bútan"
+
+msgid "ISO_3166-1.BV"
+msgstr "Bouvet eyja"
+
+msgid "ISO_3166-1.BW"
+msgstr "Botsvana"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Lýðveldið Botsvana"
+
+msgid "ISO_3166-1.BY"
+msgstr "Hvítarússland"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Lýðveldið Hvítarússland"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Belís"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.CC"
+msgstr "Kókoseyjar (Keeling-eyjar)"
+
+msgid "ISO_3166-1.CD"
+msgstr "Kongó, sambandslýðveldið"
+
+msgid "ISO_3166-1.CF"
+msgstr "Miðafríkulýðveldið"
+
+msgid "ISO_3166-1.CG"
+msgstr "Kongó"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Lýðveldið Kongó"
+
+msgid "ISO_3166-1.CH"
+msgstr "Sviss"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Svissneska ríkjasambandið"
+
+msgid "ISO_3166-1.CI"
+msgstr "Fílabeinsströnd"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Lýðveldið Fílabeinsströnd"
+
+msgid "ISO_3166-1.CK"
+msgstr "Cook-eyjar"
+
+msgid "ISO_3166-1.CL"
+msgstr "Síle"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Lýðveldið Síle"
+
+msgid "ISO_3166-1.CM"
+msgstr "Kamerún"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Lýðveldið Kamerún"
+
+msgid "ISO_3166-1.CN"
+msgstr "Kína"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Alþýðulýðveldið Kína"
+
+msgid "ISO_3166-1.CO"
+msgstr "Kólumbía"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Lýðveldið Kólumbía"
+
+msgid "ISO_3166-1.CR"
+msgstr "Kosta Ríka"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Lýðveldið Kosta-Ríka"
+
+msgid "ISO_3166-1.CU"
+msgstr "Kúba"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Lýðveldið Kúba"
+
+msgid "ISO_3166-1.CV"
+msgstr "Grænhöfðaeyjar"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Lýðveldið Grænhöfðaeyjar"
+
+msgid "ISO_3166-1.CW"
+msgstr "Curaçao"
+
+msgid "ISO_3166-1.CX"
+msgstr "Jólaeyja"
+
+msgid "ISO_3166-1.CY"
+msgstr "Kýpur"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Lýðveldið Kýpur"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Lýðveldið Tékkland"
+
+msgid "ISO_3166-1.DE"
+msgstr "Þýskaland"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Sambandslýðveldið Þýskaland"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Djíbútí"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Lýðveldið Djíbútí"
+
+msgid "ISO_3166-1.DK"
+msgstr "Danmörk"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Konungsríkið Danmörk"
+
+msgid "ISO_3166-1.DM"
+msgstr "Dóminíka"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "Samveldisríkið Dóminíka"
+
+msgid "ISO_3166-1.DO"
+msgstr "Lýðveldið Dóminíka"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Alsír"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Alþýðulýðveldið Alsír"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ekvador"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Lýðveldið Ekvador"
+
+msgid "ISO_3166-1.EE"
+msgstr "Eistland"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Lýðveldið Eistland"
+
+msgid "ISO_3166-1.EG"
+msgstr "Egyptaland"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Arabíska lýðveldið Egyptaland"
+
+msgid "ISO_3166-1.EH"
+msgstr "Vestur-Sahara"
+
+msgid "ISO_3166-1.ER"
+msgstr "Erítrea"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Erítreuríki"
+
+msgid "ISO_3166-1.ES"
+msgstr "Spánn"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Spænska konungsríkið"
+
+msgid "ISO_3166-1.ET"
+msgstr "Eþíópía"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Sambandsalþýðulýðveldið Eþíópía"
+
+msgid "ISO_3166-1.FI"
+msgstr "Finnland"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Lýðveldið Finnland"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Fídjieyjar"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Lýðveldið Fídji"
+
+msgid "ISO_3166-1.FK"
+msgstr "Falklandseyjar (Malvinaeyjar)"
+
+msgid "ISO_3166-1.FM"
+msgstr "Míkrónesía, Sambandsríki"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "Sambandsríki Míkrónesíu"
+
+msgid "ISO_3166-1.FO"
+msgstr "Færeyjar"
+
+msgid "ISO_3166-1.FR"
+msgstr "Frakkland"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Lýðveldið Frakkland"
+
+msgid "ISO_3166-1.GA"
+msgstr "Gabon"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Lýðveldið Gabon"
+
+msgid "ISO_3166-1.GB"
+msgstr "Breska samveldið"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Samveldi Stóra-Bretlands og Norður-Írlands"
+
+msgid "ISO_3166-1.GD"
+msgstr "Grenada"
+
+msgid "ISO_3166-1.GE"
+msgstr "Georgía"
+
+msgid "ISO_3166-1.GF"
+msgstr "Franska Gvæjana"
+
+msgid "ISO_3166-1.GG"
+msgstr "Guernsey"
+
+msgid "ISO_3166-1.GH"
+msgstr "Gana"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Lýðveldið Gana"
+
+msgid "ISO_3166-1.GI"
+msgstr "Gíbraltar"
+
+msgid "ISO_3166-1.GL"
+msgstr "Grænland"
+
+msgid "ISO_3166-1.GM"
+msgstr "Gambía"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Lýðveldið Gambía"
+
+msgid "ISO_3166-1.GN"
+msgstr "Gínea"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Lýðveldið Gínea"
+
+msgid "ISO_3166-1.GP"
+msgstr "Gvadalúp"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Miðbaugs-Gínea"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Lýðveldið Miðbaugs-Gínea"
+
+msgid "ISO_3166-1.GR"
+msgstr "Grikkland"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Helleníska lýðveldið"
+
+msgid "ISO_3166-1.GS"
+msgstr "Suður-Georgía og Suður-Sandwich eyjar"
+
+msgid "ISO_3166-1.GT"
+msgstr "Gvatemala"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Lýðveldið Gvatemala"
+
+msgid "ISO_3166-1.GU"
+msgstr "Gvam"
+
+msgid "ISO_3166-1.GW"
+msgstr "Gínea-Bissá"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Lýðveldið Gínea-Bissá"
+
+msgid "ISO_3166-1.GY"
+msgstr "Gvæjana"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Lýðveldið Gvæjana"
+
+msgid "ISO_3166-1.HK"
+msgstr "Hong Kong"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Hong Kong sérstakt stjórnsýslusvæði Kína"
+
+msgid "ISO_3166-1.HM"
+msgstr "Heard-eyja og McDonald-eyjur"
+
+msgid "ISO_3166-1.HN"
+msgstr "Hondúras"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Lýðveldið Hondúras"
+
+msgid "ISO_3166-1.HR"
+msgstr "Króatía"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Lýðveldið Króatía"
+
+msgid "ISO_3166-1.HT"
+msgstr "Haítí"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Lýðveldið Haítí"
+
+msgid "ISO_3166-1.HU"
+msgstr "Ungverjaland"
+
+msgid "ISO_3166-1.ID"
+msgstr "Indónesía"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Lýðveldið Indónesía"
+
+msgid "ISO_3166-1.IE"
+msgstr "Írland"
+
+msgid "ISO_3166-1.IL"
+msgstr "Ísrael"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Ísraelsríki"
+
+msgid "ISO_3166-1.IM"
+msgstr "Eyjan Mön"
+
+msgid "ISO_3166-1.IN"
+msgstr "Indland"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Lýðveldið Indland"
+
+msgid "ISO_3166-1.IO"
+msgstr "Bresku Indlandshafseyjar"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Írak"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Lýðveldið Írak"
+
+msgid "ISO_3166-1.IR"
+msgstr "Íran, íslamska lýðveldið"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Íslamska lýðveldið Íran"
+
+msgid "ISO_3166-1.IS"
+msgstr "Ísland"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Lýðveldið Ísland"
+
+msgid "ISO_3166-1.IT"
+msgstr "Ítalía"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Lýðveldið Ítalía"
+
+msgid "ISO_3166-1.JE"
+msgstr "Jersey"
+
+msgid "ISO_3166-1.JM"
+msgstr "Jamaíka"
+
+msgid "ISO_3166-1.JO"
+msgstr "Jórdanía"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "Hasemíta konungsríkið í Jórdaníu"
+
+msgid "ISO_3166-1.JP"
+msgstr "Japan"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kenía"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Lýðveldið Kenía"
+
+msgid "ISO_3166-1.KG"
+msgstr "Kirgisistan"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Kirgíska lýðveldið"
+
+msgid "ISO_3166-1.KH"
+msgstr "Kambódía"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Konungsríkið Kambódía"
+
+msgid "ISO_3166-1.KI"
+msgstr "Kíribatí"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Lýðveldið Kíribatí"
+
+msgid "ISO_3166-1.KM"
+msgstr "Kómoreyjar"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Kómoreyjasambandið"
+
+msgid "ISO_3166-1.KN"
+msgstr "Sankti Kitts og Neviseyjur"
+
+msgid "ISO_3166-1.KP"
+msgstr "Norður-Kórea, sambandsalþýðulýðveldið"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Sambandsalþýðulýðveldið Norður-Kórea"
+
+msgid "ISO_3166-1.KR"
+msgstr "Lýðveldið Suður-Kórea"
+
+msgid "ISO_3166-1.KW"
+msgstr "Kúveit"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Kúveitríki"
+
+msgid "ISO_3166-1.KY"
+msgstr "Cayman-eyjar"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Kasakstan"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Lýðveldið Kasakstan"
+
+msgid "ISO_3166-1.LA"
+msgstr "Alþýðulýðveldið Laó"
+
+msgid "ISO_3166-1.LB"
+msgstr "Líbanon"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Lýðveldið Líbanon"
+
+msgid "ISO_3166-1.LC"
+msgstr "Sankti Lúsía"
+
+msgid "ISO_3166-1.LI"
+msgstr "Liechtenstein"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Furstadæmið Liechtenstein"
+
+msgid "ISO_3166-1.LK"
+msgstr "Srí Lanka"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Sambandsríki sósíalíska lýðveldisins Srí Lanka"
+
+msgid "ISO_3166-1.LR"
+msgstr "Líbería"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Lýðveldið Líbería"
+
+msgid "ISO_3166-1.LS"
+msgstr "Lesótó"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Konungsríkið Lesótó"
+
+msgid "ISO_3166-1.LT"
+msgstr "Litháen"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Lýðveldið Litháen"
+
+msgid "ISO_3166-1.LU"
+msgstr "Lúxemborg"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Stórhertogadæmið Lúxemborg"
+
+msgid "ISO_3166-1.LV"
+msgstr "Lettland"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Lýðveldið Lettland"
+
+msgid "ISO_3166-1.LY"
+msgstr "Líbýa"
+
+msgid "ISO_3166-1.MA"
+msgstr "Marokkó"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Konungsríkið Marokkó"
+
+msgid "ISO_3166-1.MC"
+msgstr "Mónakó"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Furstadæmið Mónakó"
+
+msgid "ISO_3166-1.MD"
+msgstr "Moldavía"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Lýðveldið Moldóvía"
+
+msgid "ISO_3166-1.ME"
+msgstr "Svartfjallaland"
+
+msgid "ISO_3166-1.MF"
+msgstr "Sankti Martin (franski hluti)"
+
+msgid "ISO_3166-1.MG"
+msgstr "Madagaskar"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Lýðveldið Madagaskar"
+
+msgid "ISO_3166-1.MH"
+msgstr "Marshalleyjar"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Lýðveldi Marshalleyja"
+
+msgid "ISO_3166-1.MK"
+msgstr "Lýðveldið Makedónía"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Fyrrum júgóslavíulýðveldið Makedónía"
+
+msgid "ISO_3166-1.ML"
+msgstr "Malí"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Lýðveldið Malí"
+
+msgid "ISO_3166-1.MM"
+msgstr "Mjanmar"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Lýðveldið Mjanmar"
+
+msgid "ISO_3166-1.MN"
+msgstr "Mongólía"
+
+msgid "ISO_3166-1.MO"
+msgstr "Makaó"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "Makaó sérstakt stjórnsýslusvæði Kína"
+
+msgid "ISO_3166-1.MP"
+msgstr "Norður-Maríanaeyjar"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Samveldisríki Norður-Maríanaeyja"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Martiník"
+
+msgid "ISO_3166-1.MR"
+msgstr "Máritanía"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Íslamska lýðveldið Máritanía"
+
+msgid "ISO_3166-1.MS"
+msgstr "Montserrat"
+
+msgid "ISO_3166-1.MT"
+msgstr "Malta"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Lýðveldið Malta"
+
+msgid "ISO_3166-1.MU"
+msgstr "Máritus"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Lýðveldið Máritus"
+
+msgid "ISO_3166-1.MV"
+msgstr "Maldíveyjar"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Lýðveldi Maldíveyja"
+
+msgid "ISO_3166-1.MW"
+msgstr "Malaví"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Lýðveldið Malaví"
+
+msgid "ISO_3166-1.MX"
+msgstr "Mexíkó"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Bandaríki Mexíkó"
+
+msgid "ISO_3166-1.MY"
+msgstr "Malasía"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Mósambík"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Lýðveldið Mósambík"
+
+msgid "ISO_3166-1.NA"
+msgstr "Namibía"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Lýðveldið Namibía"
+
+msgid "ISO_3166-1.NC"
+msgstr "Nýja Kaledónía"
+
+msgid "ISO_3166-1.NE"
+msgstr "Níger"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Lýðveldið Níger"
+
+msgid "ISO_3166-1.NF"
+msgstr "Norfolkeyja"
+
+msgid "ISO_3166-1.NG"
+msgstr "Nígería"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Sambandslýðveldið Nígería"
+
+msgid "ISO_3166-1.NI"
+msgstr "Níkaragva"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Lýðveldið Níkaragva"
+
+msgid "ISO_3166-1.NL"
+msgstr "Holland"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Konungsríkið Niðurlönd"
+
+msgid "ISO_3166-1.NO"
+msgstr "Noregur"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Norska konungsríkið"
+
+msgid "ISO_3166-1.NP"
+msgstr "Nepal"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Sambandsalþýðulýðveldið Nepal"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nárú"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Lýðveldið Nárú"
+
+msgid "ISO_3166-1.NU"
+msgstr "Niue"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Nýja Sjáland"
+
+msgid "ISO_3166-1.OM"
+msgstr "Óman"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Soldánsdæmið Óman"
+
+msgid "ISO_3166-1.PA"
+msgstr "Panama"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Lýðveldið Panama"
+
+msgid "ISO_3166-1.PE"
+msgstr "Perú"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Lýðveldið Perú"
+
+msgid "ISO_3166-1.PF"
+msgstr "Franska Pólýnesía"
+
+msgid "ISO_3166-1.PG"
+msgstr "Papúa Nýja-Gínea"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Sjálfstætt ríki Papúa Nýju-Gíneu"
+
+msgid "ISO_3166-1.PH"
+msgstr "Filippseyjar"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Lýðveldi Filippseyja"
+
+msgid "ISO_3166-1.PK"
+msgstr "Pakistan"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Íslamska lýðveldið Pakistan"
+
+msgid "ISO_3166-1.PL"
+msgstr "Pólland"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Lýðveldið Pólland"
+
+msgid "ISO_3166-1.PM"
+msgstr "Sankti Pierre og Miquelon"
+
+msgid "ISO_3166-1.PN"
+msgstr "Pitkairn-eyja"
+
+msgid "ISO_3166-1.PR"
+msgstr "Puerto Ríko"
+
+msgid "ISO_3166-1.PS"
+msgstr "Palestína"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Palestínuríki"
+
+msgid "ISO_3166-1.PT"
+msgstr "Portúgal"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Lýðveldið Portúgal"
+
+msgid "ISO_3166-1.PW"
+msgstr "Palá"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Lýðveldið Palá"
+
+msgid "ISO_3166-1.PY"
+msgstr "Paragvæ"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Lýðveldið Paragvæ"
+
+msgid "ISO_3166-1.QA"
+msgstr "Katar"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Katarríki"
+
+msgid "ISO_3166-1.RE"
+msgstr "Réunion"
+
+msgid "ISO_3166-1.RO"
+msgstr "Rúmenía"
+
+msgid "ISO_3166-1.RS"
+msgstr "Serbía"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Lýðveldið Serbía"
+
+msgid "ISO_3166-1.RU"
+msgstr "Rússneska sambandið"
+
+msgid "ISO_3166-1.RW"
+msgstr "Rúanda"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Lýðveldið Rúanda"
+
+msgid "ISO_3166-1.SA"
+msgstr "Sádí-Arabía"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Konungsríkið Sádí-Arabía"
+
+msgid "ISO_3166-1.SB"
+msgstr "Salómonseyjar"
+
+msgid "ISO_3166-1.SC"
+msgstr "Seychelles-eyjar"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Lýðveldi Seychelles-eyja"
+
+msgid "ISO_3166-1.SD"
+msgstr "Súdan"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Lýðveldið Súdan"
+
+msgid "ISO_3166-1.SE"
+msgstr "Svíþjóð"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Sænska konungsríkið"
+
+msgid "ISO_3166-1.SG"
+msgstr "Singapúr"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Lýðveldið Singapúr"
+
+msgid "ISO_3166-1.SH"
+msgstr "Sankti Helena, Ascension og Tristan da Cunha"
+
+msgid "ISO_3166-1.SI"
+msgstr "Slóvenía"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Lýðveldið Slóvenía"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Svalbarði og Jan Mayen"
+
+msgid "ISO_3166-1.SK"
+msgstr "Slóvakía"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Lýðveldið Slóvakía"
+
+msgid "ISO_3166-1.SL"
+msgstr "Síerra Leóne"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Lýðveldið Síerra Leóne"
+
+msgid "ISO_3166-1.SM"
+msgstr "San Marínó"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Lýðveldið San Marino"
+
+msgid "ISO_3166-1.SN"
+msgstr "Senegal"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Lýðveldið Senegal"
+
+msgid "ISO_3166-1.SO"
+msgstr "Sómalía"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Sambandslýðveldið Sómalía"
+
+msgid "ISO_3166-1.SR"
+msgstr "Súrínam"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Lýðveldið Súrínam"
+
+msgid "ISO_3166-1.SS"
+msgstr "Suður-súdan"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Lýðveldið Suður-súdan"
+
+msgid "ISO_3166-1.ST"
+msgstr "Saó Tóme og Prinsípe"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "Sambandslýðveldi Saó Tóme og Prinsípe"
+
+msgid "ISO_3166-1.SV"
+msgstr "El Salvador"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Lýðveldið El Salvador"
+
+msgid "ISO_3166-1.SX"
+msgstr "Sankti Maarten (hollenski hluti)"
+
+msgid "ISO_3166-1.SY"
+msgstr "Sýrlenska arabalýðveldið"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Svasíland"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Konungsríkið Svasíland"
+
+msgid "ISO_3166-1.TC"
+msgstr "Turks og Kaikós eyjar"
+
+msgid "ISO_3166-1.TD"
+msgstr "Tsjad"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Lýðveldið Tsjad"
+
+msgid "ISO_3166-1.TF"
+msgstr "Frönsku suðurhafshéruðin"
+
+msgid "ISO_3166-1.TG"
+msgstr "Tógó"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Lýðveldið Tógo"
+
+msgid "ISO_3166-1.TH"
+msgstr "Tæland"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Konungsríkið Tæland"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Tadsíkistan"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Lýðveldið Tadsíkistan"
+
+msgid "ISO_3166-1.TK"
+msgstr "Tókelá"
+
+msgid "ISO_3166-1.TL"
+msgstr "Tímor-Leste"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Sambandslýðveldið Tímor-Leste"
+
+msgid "ISO_3166-1.TM"
+msgstr "Túrkmenistan"
+
+msgid "ISO_3166-1.TN"
+msgstr "Túnis"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Lýðveldið Túnis"
+
+msgid "ISO_3166-1.TO"
+msgstr "Tonga"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Konungsríkið Tonga"
+
+msgid "ISO_3166-1.TR"
+msgstr "Tyrkland"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Lýðveldið Tyrkland"
+
+msgid "ISO_3166-1.TT"
+msgstr "Trínidad og Tóbagó"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Lýðveldið Trínidad og Tóbagó"
+
+msgid "ISO_3166-1.TV"
+msgstr "Túvalú"
+
+msgid "ISO_3166-1.TW"
+msgstr "Tævan"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Tansanía"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Sameinaða lýðveldið Tansanía"
+
+msgid "ISO_3166-1.UA"
+msgstr "Úkraína"
+
+msgid "ISO_3166-1.UG"
+msgstr "Úganda"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Lýðveldið Úganda"
+
+msgid "ISO_3166-1.UM"
+msgstr "Ytri-smáeyjar Bandaríkjanna"
+
+msgid "ISO_3166-1.US"
+msgstr "Bandaríkin"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Bandaríki Norður-Ameríku"
+
+msgid "ISO_3166-1.UY"
+msgstr "Úrúgvæ"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Austurlýðveldi Úrúgvæ"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Úsbekistan"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Lýðveldið Úsbekistan"
+
+msgid "ISO_3166-1.VA"
+msgstr "Borgríkið Vatíkanið"
+
+msgid "ISO_3166-1.VC"
+msgstr "Sankti Vincent og Grenadineeyjar"
+
+msgid "ISO_3166-1.VE"
+msgstr "Venesúela"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Bólívaríska lýðveldið Venesúela"
+
+msgid "ISO_3166-1.VG"
+msgstr "Jómfrúareyjar, bresku"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Bresku Jómfrúreyjar"
+
+msgid "ISO_3166-1.VI"
+msgstr "Jómfrúareyjar, BNA"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Bandarísku Jómfrúareyjar"
+
+msgid "ISO_3166-1.VN"
+msgstr "Víetnam"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Sósíalíska lýðveldið Víetnam"
+
+msgid "ISO_3166-1.VU"
+msgstr "Vanuatú"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Lýðveldið Vanuatú"
+
+msgid "ISO_3166-1.WF"
+msgstr "Wallis- og Fútúnaeyjar"
+
+msgid "ISO_3166-1.WS"
+msgstr "Samóa"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Sjálfstætt ríki Samóa"
+
+msgid "ISO_3166-1.YE"
+msgstr "Jemen"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Lýðveldið Jemen"
+
+msgid "ISO_3166-1.YT"
+msgstr "Mayott"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Suður Afríka"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Lýðveldið Suður Afríka"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Sambía"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Lýðveldið Sambía"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Simbabve"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Lýðveldið Simbabve"

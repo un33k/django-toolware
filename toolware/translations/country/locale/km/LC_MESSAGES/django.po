@@ -1,0 +1,1261 @@
+# translation of iso-codes_iso_3166_km.po to Khmer
+# Translation of ISO-3166 (country names) to Khmer
+# This file is distributed under the same license as the iso-codes package.
+#   eng vannak <evannak@khmeros.info>, 2006.
+#   auk piseth <piseth_dv@khmeros.info>, 2006.
+#   Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2010.
+# Copyright (C)
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2010-06-16 14:55+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"X-Language: km-KH\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "អង់ដូរ៉ា"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "ព្រះ​រាជាណាចក្រ​អង់ដូរ៉ា​"
+
+msgid "ISO_3166-1.AE"
+msgstr "អារ៉ាប់​រួម"
+
+msgid "ISO_3166-1.AF"
+msgstr "អាហ្គានីស្ថាន"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "សាធារណ​រដ្ឋ​អ៊ីស្លាម​ប៉ាគីស្ថាន"
+
+msgid "ISO_3166-1.AG"
+msgstr "អង់ទីហ្គា និង បារប៊ុយដា"
+
+msgid "ISO_3166-1.AI"
+msgstr "អង់ហ្ស៊ីឡា"
+
+msgid "ISO_3166-1.AL"
+msgstr "អាល់បានី"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "សាធារណ​រដ្ឋ​អាល់បានី"
+
+msgid "ISO_3166-1.AM"
+msgstr "អាមេនី"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "សាធារណរដ្ឋ​អាមេនី"
+
+msgid "ISO_3166-1.AO"
+msgstr "អង់ហ្គោឡា"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "សាធារណ​រដ្ឋ​អង់ហ្គោឡា"
+
+msgid "ISO_3166-1.AQ"
+msgstr "អង់តាទីកា"
+
+msgid "ISO_3166-1.AR"
+msgstr "អាហ្សង់ទីន"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "សាធារណរដ្ឋ​អាហ្សង់ទីន"
+
+msgid "ISO_3166-1.AS"
+msgstr "អាមេរិក​សាមូអា"
+
+msgid "ISO_3166-1.AT"
+msgstr "អូទ្រីស"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "សាធារណរដ្ឋ​អូទ្រីស"
+
+msgid "ISO_3166-1.AU"
+msgstr "អូស្ត្រាលី"
+
+msgid "ISO_3166-1.AW"
+msgstr "អារូបា"
+
+msgid "ISO_3166-1.AX"
+msgstr "កោះ​អាឡង់"
+
+msgid "ISO_3166-1.AZ"
+msgstr "អាហ្ស៊ែរបែហ្សង់"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "សាធារណរដ្ឋ​​អាហ្ស៊ែរបែហ្សង់"
+
+msgid "ISO_3166-1.BA"
+msgstr "បូស្ន៊ី និង ​ហឺហ្ស៊េហ្គោវីណា"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "សាធារណ​រដ្ឋ​បូស្ន៊ី និង ​ហឺហ្ស៊េហ្គោវីណា"
+
+msgid "ISO_3166-1.BB"
+msgstr "បារបាដូស"
+
+msgid "ISO_3166-1.BD"
+msgstr "បង់ក្លាដេស"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "សាធារណ​រដ្ឋ​ប្រជាមានិត​បង់ក្លាដេស"
+
+msgid "ISO_3166-1.BE"
+msgstr "បែល​ហ្ស៊ិក"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "ព្រះរាជាណាចក្រ​បែល​ហ្ស៊ិក"
+
+msgid "ISO_3166-1.BF"
+msgstr "ប៊ូរគីណាហ្វាសូ"
+
+msgid "ISO_3166-1.BG"
+msgstr "ប៊ុលហ្គារី"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "សាធារណរដ្ឋ​ប៊ុលហ្គារី​"
+
+msgid "ISO_3166-1.BH"
+msgstr "បារ៉ែន"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "ព្រះរាជាណាចក្រ​​បារ៉ែន"
+
+msgid "ISO_3166-1.BI"
+msgstr "ប៊ូរុនឌី"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "សាធារណរដ្ឋ​ប៊ូរុនឌី"
+
+msgid "ISO_3166-1.BJ"
+msgstr "បេណាំង"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "សាធារណរដ្ឋ​បេណាំង"
+
+msgid "ISO_3166-1.BL"
+msgstr "សាន​បាទេលេមី"
+
+msgid "ISO_3166-1.BM"
+msgstr "ប៊េរមូដា"
+
+msgid "ISO_3166-1.BN"
+msgstr "ប្រ៊ុយណេ​ដារុយសាឡឹម"
+
+msgid "ISO_3166-1.BO"
+msgstr "បូលីវី"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Plurinational State of Bolivia"
+
+msgid "ISO_3166-1.BQ"
+msgstr "បូស្នី ស៊ីន អ៊ីស្តាំធូស និង​សាបា"
+
+msgid "ISO_3166-1.BR"
+msgstr "ប្រេស៊ីល"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "សហព័ន្ធ​​សាធារណរដ្ឋ​ប្រេស៊ីល"
+
+msgid "ISO_3166-1.BS"
+msgstr "បាហាម៉ាស"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "ចក្រភព​បាហាម៉ាស"
+
+msgid "ISO_3166-1.BT"
+msgstr "ប៊ូតាន"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "ព្រះរាជាណាចក្រ​ប៊ូតាន"
+
+msgid "ISO_3166-1.BV"
+msgstr "កោះ​ប៊ូវ៉ែ"
+
+msgid "ISO_3166-1.BW"
+msgstr "បុតស្វាណា"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "សាធារណ​រដ្ឋ​បុតស្វាណា"
+
+msgid "ISO_3166-1.BY"
+msgstr "បេឡារុស្ស"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "សាធារណរដ្ឋ​​បេឡារុស្ស"
+
+msgid "ISO_3166-1.BZ"
+msgstr "បេលីហ្ស"
+
+msgid "ISO_3166-1.CA"
+msgstr "កាណាដា"
+
+msgid "ISO_3166-1.CC"
+msgstr "កោះ​កូកូ (ឃីលីង)"
+
+msgid "ISO_3166-1.CD"
+msgstr "សាធារណរដ្ឋ​ប្រជាធិបតេយ្យ​កុងហ្គោ"
+
+msgid "ISO_3166-1.CF"
+msgstr "សាធារណរដ្ឋ​អាហ្វ្រិក​កណ្ដាល"
+
+msgid "ISO_3166-1.CG"
+msgstr "កុងហ្គោ"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "សាធារណរដ្ឋ​កុងហ្គោ"
+
+msgid "ISO_3166-1.CH"
+msgstr "ស្វ៊ីស"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "សម្ព័ន្ធ​ស្វីស"
+
+msgid "ISO_3166-1.CI"
+msgstr "កូតេឌីវ័រ"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "សាធារណរដ្ឋ​កូតេឌីវ័រ"
+
+msgid "ISO_3166-1.CK"
+msgstr "កោះកូក"
+
+msgid "ISO_3166-1.CL"
+msgstr "ឈីលី"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "សាធារណរដ្ឋ​ឈីលី​"
+
+msgid "ISO_3166-1.CM"
+msgstr "កាមេរ៉ូន"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "សាធារណរដ្ឋ​កាមេរ៉ូន"
+
+msgid "ISO_3166-1.CN"
+msgstr "ចិន"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "សាធារណរដ្ឋ​ប្រជាមានិត​ចិន"
+
+msgid "ISO_3166-1.CO"
+msgstr "កូឡុំប៊ី"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "សាធារណ​រដ្ឋ​កូឡុំប៊ី"
+
+msgid "ISO_3166-1.CR"
+msgstr "កូស្តារីកា"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "សាធារណរដ្ឋ​កូស្តារីកា"
+
+msgid "ISO_3166-1.CU"
+msgstr "គុយបា"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "សាធារណរដ្ឋ​គុយបា"
+
+msgid "ISO_3166-1.CV"
+msgstr "កាបវែរ"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "សាធារណរដ្ឋ​កាបវែរ"
+
+msgid "ISO_3166-1.CW"
+msgstr "Curaçao"
+
+msgid "ISO_3166-1.CX"
+msgstr "កោះ​គ្រីស្តម៉ាស"
+
+msgid "ISO_3166-1.CY"
+msgstr "ស៊ីពរ៍"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "សាធារណរដ្ឋ​ស៊ីពរ៍​"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "សាធារណរដ្ឋ​ឆេក"
+
+msgid "ISO_3166-1.DE"
+msgstr "អាល្លឺម៉ង់"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "សហព័ន្ធ​សាធារណ​រដ្ឋ​អាល្លឺម៉ង់"
+
+msgid "ISO_3166-1.DJ"
+msgstr "ហ្ស៊ីបូទី"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "សាធារណរដ្ឋ​ហ្ស៊ីបូទី"
+
+msgid "ISO_3166-1.DK"
+msgstr "ដាណឺម៉ាក"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "ព្រះរាជាណាចក្រ​ដាណឺម៉ាក"
+
+msgid "ISO_3166-1.DM"
+msgstr "ដូមីនីកា"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "ចក្រភព​ដូមីនីកា"
+
+msgid "ISO_3166-1.DO"
+msgstr "សាធារណរដ្ឋ​ដូមីនីកែន"
+
+msgid "ISO_3166-1.DZ"
+msgstr "អាល់ហ្សេរី"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "សាធារណ​រដ្ឋ​ប្រជាមានិត​ប្រជាធិបតេយ្យ​​អាល់ហ្សេរី​"
+
+msgid "ISO_3166-1.EC"
+msgstr "អេក្វាឌ័រ"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "សាធារណរដ្ឋ​អេក្វាឌ័រ​"
+
+msgid "ISO_3166-1.EE"
+msgstr "អេស្តូនី"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "សាធារណរដ្ឋ​អេស្តូនី"
+
+msgid "ISO_3166-1.EG"
+msgstr "អេហ្ស៊ីប"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "សាធារណរដ្ឋ​អារាប់​​អេហ្ស៊ីប"
+
+msgid "ISO_3166-1.EH"
+msgstr "សាហារ៉ា​ខាងលិច"
+
+msgid "ISO_3166-1.ER"
+msgstr "អេរីទ្រា"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "រដ្ឋ​អេរីទ្រា"
+
+msgid "ISO_3166-1.ES"
+msgstr "អេស្ប៉ាញ"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "ព្រះរាជាណាចក្រ​អេស្ប៉ាញ"
+
+msgid "ISO_3166-1.ET"
+msgstr "អេត្យូពី"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "​​សហព័ន្ធ​សាធារណរដ្ឋ​ប្រជាធិបតេយ្យ​អេត្យូពី"
+
+msgid "ISO_3166-1.FI"
+msgstr "ហ្វាំងឡង់"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "សាធារណរដ្ឋ​ហ្វាំងឡង់​"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ហ្វីហ្ស៊ី"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "សាធារណរដ្ឋ​​ហ្វីជី"
+
+msgid "ISO_3166-1.FK"
+msgstr "កោះ​ហ្វ៉កឡង់ (ម៉ាល់វីណា)"
+
+msgid "ISO_3166-1.FM"
+msgstr "​មីក្រូណេស៊ី​ រដ្ឋ​សហព័ន្ថ​នៃ"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "​រដ្ឋ​សហព័ន្ថ​មីក្រូណេស៊ី"
+
+msgid "ISO_3166-1.FO"
+msgstr "កោះ​ហ្វារ៉ូ"
+
+msgid "ISO_3166-1.FR"
+msgstr "បារាំង"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "សាធារណរដ្ឋ​បារាំង​"
+
+msgid "ISO_3166-1.GA"
+msgstr "ហ្គាបុង"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "សាធារណរដ្ឋ​ហ្គាបុង"
+
+msgid "ISO_3166-1.GB"
+msgstr "ចក្រភព​អង់គ្លេស"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "ចក្រភព​អង់គ្លេស ​និងអៀរឡង់​ខាងជើង​"
+
+msgid "ISO_3166-1.GD"
+msgstr "ហ្គ្រីណាដា"
+
+msgid "ISO_3166-1.GE"
+msgstr "ហ្សកហ្ស៊ី"
+
+msgid "ISO_3166-1.GF"
+msgstr "ហ្គូអ៊ីយ៉ាណា​បារាំង"
+
+msgid "ISO_3166-1.GG"
+msgstr "Guernsey"
+
+msgid "ISO_3166-1.GH"
+msgstr "ហ្គាណា"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "សាធារណរដ្ឋ​ហ្គាណា"
+
+msgid "ISO_3166-1.GI"
+msgstr "ហ្គីប្រាល់តា"
+
+msgid "ISO_3166-1.GL"
+msgstr "ហ្គ្រីនលែន"
+
+msgid "ISO_3166-1.GM"
+msgstr "ហ្គាំប៊ី"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "សាធារណរដ្ឋ​ហ្គាំប៊ី​"
+
+msgid "ISO_3166-1.GN"
+msgstr "ហ្គីណេ"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "សារធារណរដ្ឋ​ហ្គីណេ"
+
+msgid "ISO_3166-1.GP"
+msgstr "ហ្គូអាដឺលូប៉េ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ហ្គីណេ​អេក្វាទ័រ"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "សាធារណរដ្ឋ​ហ្គីណេ​អេក្វាទ័រ"
+
+msgid "ISO_3166-1.GR"
+msgstr "ក្រិក"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "សាធារណរដ្ឋ​ក្រិក"
+
+msgid "ISO_3166-1.GS"
+msgstr "ហ្សកហ្ស៊ី​ខាង​ត្បូង និង កោះសាំងវិច​ខាង​ត្បូង"
+
+msgid "ISO_3166-1.GT"
+msgstr "ហ្គាតេម៉ាឡា"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "សាធារណរដ្ឋ​ហ្គាតេម៉ាឡា"
+
+msgid "ISO_3166-1.GU"
+msgstr "ហ្គាម"
+
+msgid "ISO_3166-1.GW"
+msgstr "ហ្គីណេប៊ីសៅ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "សាធារណរដ្ឋ​ហ្គីណេប៊ីសៅ"
+
+msgid "ISO_3166-1.GY"
+msgstr "ហ្គីយ៉ាណា"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "សាធារណរដ្ឋ​ហ្គីយ៉ាណា​"
+
+msgid "ISO_3166-1.HK"
+msgstr "ហុងកុង"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "ហុងកុង​តំបន់​ត្រួតត្រា​ពិសេស​របស់​ចិន"
+
+msgid "ISO_3166-1.HM"
+msgstr "កោះ​ហ៊ើដ និង កោះ​ម៉ាកដូណាល់"
+
+msgid "ISO_3166-1.HN"
+msgstr "ហុងឌូរ៉ាស់"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "សាធារណរដ្ឋ​ហុងឌូរ៉ាស់"
+
+msgid "ISO_3166-1.HR"
+msgstr "ក្រូអាត"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "សាធារណរដ្ឋ​ក្រូអាត"
+
+msgid "ISO_3166-1.HT"
+msgstr "ហៃទី"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "សាធារណរដ្ឋ​ហៃទី​"
+
+msgid "ISO_3166-1.HU"
+msgstr "ហុងគ្រី"
+
+msgid "ISO_3166-1.ID"
+msgstr "ឥណ្ឌូនេស៊ី"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "សាធារណរដ្ឋ​ឥណ្ឌូនេស៊ី"
+
+msgid "ISO_3166-1.IE"
+msgstr "អៀរឡង់"
+
+msgid "ISO_3166-1.IL"
+msgstr "អ៊ីស្រាអែល"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "រដ្ន​អ៊ីស្រាអែល"
+
+msgid "ISO_3166-1.IM"
+msgstr "Isle of Man"
+
+msgid "ISO_3166-1.IN"
+msgstr "ឥណ្ឌា"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "សាធារណរដ្ឋ​ឥណ្ឌា​"
+
+msgid "ISO_3166-1.IO"
+msgstr "អាណាចក្រ​​មហា​សមុទ្រ​ឥណ្ឌា ចក្រភព​អង់គ្លេស"
+
+msgid "ISO_3166-1.IQ"
+msgstr "អ៊ីរ៉ាក់"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "សាធារណរដ្ឋ​អ៊ីរ៉ាក់​"
+
+msgid "ISO_3166-1.IR"
+msgstr "​អ៊ីរ៉ង់ សាធារណ​រដ្ឋ​អ៊ីស្លាម​នៃ"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "សាធារណ​រដ្ឋ​អ៊ីស្លាម​អ៊ីរ៉ង់"
+
+msgid "ISO_3166-1.IS"
+msgstr "អ៊ីស្លង់"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "សាធារណរដ្ឋ​អ៊ីស្លង់"
+
+msgid "ISO_3166-1.IT"
+msgstr "អ៊ីតាលី"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "សាធារណ​រដ្ឋ​អ៊ីតាលី"
+
+msgid "ISO_3166-1.JE"
+msgstr "Jersey"
+
+msgid "ISO_3166-1.JM"
+msgstr "ចាម៉ៃកា"
+
+msgid "ISO_3166-1.JO"
+msgstr "ហ្ស៊កដង់"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "ព្រះរាជាណាចក្រ​ហ្ស៊កដង់​"
+
+msgid "ISO_3166-1.JP"
+msgstr "ជប៉ុន"
+
+msgid "ISO_3166-1.KE"
+msgstr "កេនយ៉ា"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "សាធារណរដ្ឋ​កេនយ៉ា"
+
+msgid "ISO_3166-1.KG"
+msgstr "គៀរហ្គីស្តង់"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "សាធារណ​រដ្ឋ​គៀរហ្គីស្តង់"
+
+msgid "ISO_3166-1.KH"
+msgstr "កម្ពុជា"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "ព្រះរាជាណាចក្រ​កម្ពុជា"
+
+msgid "ISO_3166-1.KI"
+msgstr "គិរិបាទី"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "សាធារណរដ្ឋ​គិរិបាទី"
+
+msgid "ISO_3166-1.KM"
+msgstr "កុំម៉ូរ៉ូស"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "សហភាព​​កុំម៉ូរ៉ូស​"
+
+msgid "ISO_3166-1.KN"
+msgstr "សង់ឃីត និង នេវីស"
+
+msgid "ISO_3166-1.KP"
+msgstr "កូរ៉េ សាធារណ​រដ្ឋ​ប្រជាមានិត​ប្រជាធិបតេយ្យ​​នៃ"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "សាធារណ​រដ្ឋ​ប្រជាមានិត​ប្រជាធិបតេយ្យ​កូរ៉េ"
+
+msgid "ISO_3166-1.KR"
+msgstr "កូរ៉េ សាធារណរដ្ឋ​នៃរ៉េ"
+
+msgid "ISO_3166-1.KW"
+msgstr "គុយវ៉ែត"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "រដ្ឋ​គុយវ៉ែត"
+
+msgid "ISO_3166-1.KY"
+msgstr "កោះ​កៃម៉ាន"
+
+msgid "ISO_3166-1.KZ"
+msgstr "កាហ្សាក់ស្តង់"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "សាធារណរដ្ឋ​កាហ្សាក់ស្តង់"
+
+msgid "ISO_3166-1.LA"
+msgstr "សាធារណ​រដ្ឋ​ប្រជាធិបតេយ្យ​​ប្រជាមានិត​ឡាវ"
+
+msgid "ISO_3166-1.LB"
+msgstr "លីបង់"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "សាធារណរដ្ឋ​លីបង់"
+
+msgid "ISO_3166-1.LC"
+msgstr "សង់លូស៊ីយ៉ា"
+
+msgid "ISO_3166-1.LI"
+msgstr "លិចទេនស្តែន"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "ព្រះរាជាណាចក្រ​លិចទេនស្តែន​"
+
+msgid "ISO_3166-1.LK"
+msgstr "ស្រីលង្កា"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "សាធារណរដ្ឋ​សង្គមនិយម​ប្រជាធិបតេយ្យ​​ស្រីលង្កា"
+
+msgid "ISO_3166-1.LR"
+msgstr "លីបេរីយ៉ា"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "សាធារណរដ្ឋ​លីបេរីយ៉ា"
+
+msgid "ISO_3166-1.LS"
+msgstr "ឡេសូតូ"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "ព្រះរាជាណាចក្រ​ឡេសូតូ"
+
+msgid "ISO_3166-1.LT"
+msgstr "លីទុយអានី"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "សាធារណរដ្ឋ​លីទុយអានី"
+
+msgid "ISO_3166-1.LU"
+msgstr "លុចហ្សំបួរ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "ព្រះរាជាណាចក្រ​លុចហ្សំបួរ"
+
+msgid "ISO_3166-1.LV"
+msgstr "ឡាតវីយ៉ា"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "សាធារណរដ្ឋ​ឡាតវីយ៉ា"
+
+msgid "ISO_3166-1.LY"
+msgstr "លីបេរីយ៉ា"
+
+msgid "ISO_3166-1.MA"
+msgstr "ម៉ារ៉ុក"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "ព្រះរាជាណាចក្រ​ម៉ារ៉ុក"
+
+msgid "ISO_3166-1.MC"
+msgstr "ម៉ូណាកូ"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "ព្រះរាជាណាចក្រ​​ម៉ូណាកូ"
+
+msgid "ISO_3166-1.MD"
+msgstr "មុលឌូវ៉ា"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "សាធារណរដ្ឋ​ម៉ុលដូវ៉ា"
+
+msgid "ISO_3166-1.ME"
+msgstr "​ម៉ុងតេណេក្រូ"
+
+msgid "ISO_3166-1.MF"
+msgstr "សាន​ម៉ាទីន (ផ្នែក​របស់​បារាំង)"
+
+msgid "ISO_3166-1.MG"
+msgstr "ម៉ាដាហ្គាស្ការ"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "សាធារណរដ្ឋ​ម៉ាដាហ្គាស្ការ"
+
+msgid "ISO_3166-1.MH"
+msgstr "កោះ​ម៉ាស្យល"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "សាធារណរដ្ឋ​កោះ​ម៉ាស្យល"
+
+msgid "ISO_3166-1.MK"
+msgstr "សាធារណ​រដ្ឋ​​ម៉ាសេដូនី"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "អតីត​សាធារណរដ្ឋ​យូហ្គោស្លាវី​ម៉ាសេដូនី​"
+
+msgid "ISO_3166-1.ML"
+msgstr "ម៉ាលី"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "សាធារណរដ្ឋ​ម៉ាលី"
+
+msgid "ISO_3166-1.MM"
+msgstr "មីយ៉ាន់ម៉ា"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "សាធារណរដ្ឋ​មីយ៉ាន់ម៉ា"
+
+msgid "ISO_3166-1.MN"
+msgstr "ម៉ុងហ្គោលី"
+
+msgid "ISO_3166-1.MO"
+msgstr "ម៉ាកាវ"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "ម៉ាកាវ​តំបន់​ត្រួតត្រា​ពិសេស​របស់​ចិន"
+
+msgid "ISO_3166-1.MP"
+msgstr "កោះ​ម៉ារៀណា​ភាគ​ខាង​ជើង"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "ចក្រភព​កោះ​ម៉ារៀណា​ភាគ​ខាង​ជើង"
+
+msgid "ISO_3166-1.MQ"
+msgstr "ម៉ារទីនីគ"
+
+msgid "ISO_3166-1.MR"
+msgstr "ម៉ូរីតានី"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "សាធារណ​រដ្ឋ​អ៊ីស្លាម​ម៉ូរីតានី​"
+
+msgid "ISO_3166-1.MS"
+msgstr "ម៉ុងសេរ៉ា"
+
+msgid "ISO_3166-1.MT"
+msgstr "ម៉ាល់តា"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "សាធារណរដ្ឋ​ម៉ាល់តា"
+
+msgid "ISO_3166-1.MU"
+msgstr "ម៉ូរីទុស"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "សាធារណរដ្ឋ​ម៉ូរីទុស"
+
+msgid "ISO_3166-1.MV"
+msgstr "ម៉ាល់ឌីវ"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "សាធារណរដ្ឋ​ម៉ាល់ឌីវ"
+
+msgid "ISO_3166-1.MW"
+msgstr "ម៉ាឡាវី"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "សាធារណរដ្ឋ​ម៉ាឡាវី​"
+
+msgid "ISO_3166-1.MX"
+msgstr "ម៉ិចស៊ិក"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "សហរដ្ឋ​ម៉ិចស៊ិក"
+
+msgid "ISO_3166-1.MY"
+msgstr "ម៉ាឡេស៊ី"
+
+msgid "ISO_3166-1.MZ"
+msgstr "ម៉ូហ្សាំប៊ិក"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "សាធារណរដ្ឋ​ម៉ូហ្សាំប៊ិក"
+
+msgid "ISO_3166-1.NA"
+msgstr "ណាមីប៊ី"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "សាធារណរដ្ឋ​ណាមីប៊ី"
+
+msgid "ISO_3166-1.NC"
+msgstr "នូវែលកាលេដូនី"
+
+msgid "ISO_3166-1.NE"
+msgstr "នីហ្សេរ"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "សាធារណរដ្ឋ​នីហ្សេរ"
+
+msgid "ISO_3166-1.NF"
+msgstr "កោះណរហ្វក"
+
+msgid "ISO_3166-1.NG"
+msgstr "នីហ្សេរីយ៉ា"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "សហព័ន្ធ​សាធារណរដ្ឋ​​នីហ្សេរីយ៉ា"
+
+msgid "ISO_3166-1.NI"
+msgstr "នីការ៉ាហ្គ័រ"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "សាធារណរដ្ឋ​នីការ៉ាហ្គ័រ"
+
+msgid "ISO_3166-1.NL"
+msgstr "​ហូល្លង់"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "ព្រះរាជាណាចក្រ​​​ហូល្លង់"
+
+msgid "ISO_3166-1.NO"
+msgstr "ន័រវែស"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "ព្រះរាជាណាចក្រ​ន័រវែស"
+
+msgid "ISO_3166-1.NP"
+msgstr "នេប៉ាល់"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "​​សហព័ន្ធ​សាធារណរដ្ឋ​ប្រជាធិបតេយ្យណេប៉ាល់"
+
+msgid "ISO_3166-1.NR"
+msgstr "ណូរុ"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "សាធារណរដ្ឋ​ណូរុ"
+
+msgid "ISO_3166-1.NU"
+msgstr "នីវ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "នូវែលហ្សេឡង់"
+
+msgid "ISO_3166-1.OM"
+msgstr "អូម៉ង់"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "អ៊ីស្លាម​អូម៉ង់"
+
+msgid "ISO_3166-1.PA"
+msgstr "ប៉ាណាម៉ា"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "សាធារណរដ្ឋ​ប៉ាណាម៉ា"
+
+msgid "ISO_3166-1.PE"
+msgstr "ប៉េរ៉ូ"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "សាធារណរដ្ឋ​ប៉េរ៉ូ"
+
+msgid "ISO_3166-1.PF"
+msgstr "ប៉ូលីនេស៊ី​បារាំង"
+
+msgid "ISO_3166-1.PG"
+msgstr "ប៉ាពូញូវហ្គីណេ"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "រដ្ឋ​ឯករាជ្យ​សាមូអា"
+
+msgid "ISO_3166-1.PH"
+msgstr "ហ្វីលីពីន"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "សាធារណរដ្ឋ​ហ្វីលីពីន​"
+
+msgid "ISO_3166-1.PK"
+msgstr "ប៉ាគីស្ថាន"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "សាធារណ​រដ្ឋ​អ៊ីស្លាម​ប៉ាគីស្ថាន"
+
+msgid "ISO_3166-1.PL"
+msgstr "ប៉ូឡូញ"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "សាធារណរដ្ឋ​ប៉ូឡូញ"
+
+msgid "ISO_3166-1.PM"
+msgstr "សង់ព្យែរ និង មីគុយអេឡុង"
+
+msgid "ISO_3166-1.PN"
+msgstr "ពីតខាយរិន"
+
+msgid "ISO_3166-1.PR"
+msgstr "ព័រតូរីកូ"
+
+msgid "ISO_3166-1.PS"
+msgstr "រដ្ឋប៉ាឡេស្ទីន"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "រដ្ឋ​ប៉ាឡេស្ទីន"
+
+msgid "ISO_3166-1.PT"
+msgstr "ព័រទុយហ្គាល់"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "សាធារណរដ្ឋ​ព័រទុយហ្គាល់"
+
+msgid "ISO_3166-1.PW"
+msgstr "ប៉ាឡូ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "សាធារណរដ្ឋ​ប៉ាឡូ"
+
+msgid "ISO_3166-1.PY"
+msgstr "ប៉ារ៉ាហ្គាយ"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "សាធារណរដ្ឋ​ប៉ារ៉ាហ្គាយ"
+
+msgid "ISO_3166-1.QA"
+msgstr "កាតារ"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "រដ្ឋ​កាតារ"
+
+msgid "ISO_3166-1.RE"
+msgstr "រេអុយញ៉ុង"
+
+msgid "ISO_3166-1.RO"
+msgstr "រូម៉ានី"
+
+msgid "ISO_3166-1.RS"
+msgstr "ស៊ែរប៊ី"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "សាធារណរដ្ឋស៊ែរប៊ី"
+
+msgid "ISO_3166-1.RU"
+msgstr "សហព័ន្ធ​រុស្ស៊ី"
+
+msgid "ISO_3166-1.RW"
+msgstr "រវ៉ាន់ដា"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "សាធារណរដ្ឋ​រវ៉ាន់ដា"
+
+msgid "ISO_3166-1.SA"
+msgstr "អារ៉ាប៊ីសាអ៊ូឌីត"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "ព្រះរាជាណាចក្រ​អារ៉ាប៊ីសាអ៊ូឌីត"
+
+msgid "ISO_3166-1.SB"
+msgstr "កោះ​សូឡូម៉ូន"
+
+msgid "ISO_3166-1.SC"
+msgstr "សីស្ហែល"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "សាធារណរដ្ឋ​សីស្ហែល"
+
+msgid "ISO_3166-1.SD"
+msgstr "ស៊ូដង់"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "សាធារណរដ្ឋ​ស៊ូដង់"
+
+msgid "ISO_3166-1.SE"
+msgstr "ស៊ុយអែត"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "ព្រះរាជាណាចក្រ​ស៊ុយអែត"
+
+msgid "ISO_3166-1.SG"
+msgstr "សាំងហ្គាពួរ"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "សាធារណរដ្ឋ​សាំងហ្គាពួរ"
+
+msgid "ISO_3166-1.SH"
+msgstr "Saint Helena, Ascension and Tristan da Cunha"
+
+msgid "ISO_3166-1.SI"
+msgstr "ស្លូវ៉ានី"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "សាធារណរដ្ឋ​ស្លូវ៉ានី"
+
+msgid "ISO_3166-1.SJ"
+msgstr "ស្វាល់បាត និង ហ្សង់ម៉ាយេន"
+
+msgid "ISO_3166-1.SK"
+msgstr "ស្លូវ៉ាគី"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "សាធារណរដ្ឋ​ស្លូវ៉ាគី"
+
+msgid "ISO_3166-1.SL"
+msgstr "សេរ៉ាឡេអូន"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "សាធារណរដ្ឋ​សេរ៉ាឡេអូន"
+
+msgid "ISO_3166-1.SM"
+msgstr "សាន់ម៉ារីណូ"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "សាធារណរដ្ឋ​សាន់ម៉ារីណូ"
+
+msgid "ISO_3166-1.SN"
+msgstr "សេណេហ្គាល់"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "សាធារណរដ្ឋ​សេណេហ្គាល់"
+
+msgid "ISO_3166-1.SO"
+msgstr "សូម៉ាលី"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "សហព័ន្ធ​សាធារណ​រដ្ឋ​អាល្លឺម៉ង់"
+
+msgid "ISO_3166-1.SR"
+msgstr "ស៊ូរីណាមី"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "សាធារណរដ្ឋ​ស៊ូរីណាមី"
+
+msgid "ISO_3166-1.SS"
+msgstr "ស៊ូដង់​ខាង​ត្បូង"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "សាធារណរដ្ឋ​ស៊ូដង់​ខាង​ត្បូង"
+
+msgid "ISO_3166-1.ST"
+msgstr "សៅតូម និង ព្រីនស៊ីព"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "សាធារណ​រដ្ឋ​ប្រជាធិបតេយ្យ​​សៅតូម និង ព្រីនស៊ីព"
+
+msgid "ISO_3166-1.SV"
+msgstr "អែលសាល់វ៉ាឌ័រ"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "សាធារណរដ្ឋ​អែលសាល់វ៉ាឌ័រ"
+
+msgid "ISO_3166-1.SX"
+msgstr "សាន​ម៉ាទីន (ផ្នែក​របស់ហុល្លង់)"
+
+msgid "ISO_3166-1.SY"
+msgstr "សាធារណរដ្ឋ​ស៊ីរីយ៉ា​​អារាប់"
+
+msgid "ISO_3166-1.SZ"
+msgstr "ស្វាហ្ស៊ីឡង់"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "ព្រះរាជាណាចក្រ​ស្វាហ្ស៊ីឡង់"
+
+msgid "ISO_3166-1.TC"
+msgstr "កោះ​ទួក និង កៃកូស"
+
+msgid "ISO_3166-1.TD"
+msgstr "ឆាដ"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "សាធារណរដ្ឋ​ឆាដ"
+
+msgid "ISO_3166-1.TF"
+msgstr "អាណាចក្រ​ខាង​ត្បូង​បារាំង"
+
+msgid "ISO_3166-1.TG"
+msgstr "តូហ្គោ"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "សាធារណ​រដ្ឋ​តូហ្គោ"
+
+msgid "ISO_3166-1.TH"
+msgstr "ថៃ"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "ព្រះរាជាណាចក្រ​ថៃ"
+
+msgid "ISO_3166-1.TJ"
+msgstr "តាហ្ស៊ីគីស្តង់"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "សាធារណរដ្ឋ​តាហ្ស៊ីគីស្តង់​"
+
+msgid "ISO_3166-1.TK"
+msgstr "តូកេឡាអ៊ូ"
+
+msgid "ISO_3166-1.TL"
+msgstr "ទីម័រ"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "សាធារណរដ្ឋ​ប្រជាធិបតេយ្យ​​ទីម័រ"
+
+msgid "ISO_3166-1.TM"
+msgstr "ទួគមេនីស្តង់"
+
+msgid "ISO_3166-1.TN"
+msgstr "ទុយណេស៊ី"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "សាធារណរដ្ឋ​ទុយណេស៊ី"
+
+msgid "ISO_3166-1.TO"
+msgstr "តុងហ្គោ"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "ព្រះរាជាណាចក្រ​តុងហ្គោ"
+
+msgid "ISO_3166-1.TR"
+msgstr "ទួរគី"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "សាធារណរដ្ឋទួរគី​"
+
+msgid "ISO_3166-1.TT"
+msgstr "ទ្រីនីដាដ និង​ តូបាហ្គោ"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "សាធារណរដ្ឋ​ទ្រីនីដាដ និង​ តូបាហ្គោ"
+
+msgid "ISO_3166-1.TV"
+msgstr "ទុយវ៉ាលុយ"
+
+msgid "ISO_3166-1.TW"
+msgstr "តៃវ៉ាន់"
+
+msgid "ISO_3166-1.TZ"
+msgstr "​តង់ហ្សានី​សាធារណ​រដ្ឋ​រួម​នៃ"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "សាធារណ​រដ្ឋ​រួម​តង់ហ្សានី​"
+
+msgid "ISO_3166-1.UA"
+msgstr "អ៊ុយក្រែន"
+
+msgid "ISO_3166-1.UG"
+msgstr "អ៊ូហ្គង់ដា"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "សាធារណរដ្ឋ​អ៊ូហ្គង់ដា"
+
+msgid "ISO_3166-1.UM"
+msgstr "កោះ​តូច​នៅ​ឆ្ងាយ​ពី​សហរដ្ឋ​អាមេរិក"
+
+msgid "ISO_3166-1.US"
+msgstr "សហរដ្ឋ​អាមេរិក"
+
+msgid "ISO_3166-1.US#official"
+msgstr "សហរដ្ឋ​អាមេរិក"
+
+msgid "ISO_3166-1.UY"
+msgstr "អ៊ុយរ៉ាហ្គាយ"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "សាធារណរដ្ឋ​អ៊ុយរ៉ាហ្គាយ​ខាងកើត"
+
+msgid "ISO_3166-1.UZ"
+msgstr "អ៊ូហ្សបេគីស្តង់"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "សាធារណរដ្ឋ​អ៊ូហ្សបេគីស្តង់"
+
+msgid "ISO_3166-1.VA"
+msgstr "ហូលីស៊ី (រដ្ឋ​របស់បូរី​វ៉ាទីកង់)"
+
+msgid "ISO_3166-1.VC"
+msgstr "សង់វាំងសង់ និង ហ្គ្រីណាឌីន"
+
+msgid "ISO_3166-1.VE"
+msgstr "វេណេហ្សុយអេឡា"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "សាធារណរដ្ឋ​បូលីវី​នៃ​វ៉េណេហ្ស៊ុយអេឡា"
+
+msgid "ISO_3166-1.VG"
+msgstr "កោះ​វីជីន ចក្រភពអង់គ្លេស"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ចក្រភពអង់គ្លេស ​កោះ​វីជីន"
+
+msgid "ISO_3166-1.VI"
+msgstr "កោះវីជីន ​សហរដ្ឋ​អាមេរិក"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "កោះវីជីន​នៃ​សហរដ្ឋ​អាមេរិក"
+
+msgid "ISO_3166-1.VN"
+msgstr "វៀតណាម"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "សាធារណរដ្ឋ​សង្គមនិយម​វៀតណាម"
+
+msgid "ISO_3166-1.VU"
+msgstr "វ៉ានុយអាទុយ"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "សាធារណរដ្ឋ​វ៉ានុយអាទុយ"
+
+msgid "ISO_3166-1.WF"
+msgstr "វ៉ាលីស​និង​ហ្វុយទុយណា"
+
+msgid "ISO_3166-1.WS"
+msgstr "សាមូអា"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "រដ្ឋ​ឯករាជ្យ​សាមូអា"
+
+msgid "ISO_3166-1.YE"
+msgstr "យេមែន"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "សាធារណ​រដ្ឋ​យេមែន"
+
+msgid "ISO_3166-1.YT"
+msgstr "ម៉ាយុត"
+
+msgid "ISO_3166-1.ZA"
+msgstr "អាហ្វ្រិក​ខាងត្បូង"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "សាធារណរដ្ឋ​អាហ្វ្រិក​ខាងត្បូង"
+
+msgid "ISO_3166-1.ZM"
+msgstr "ហ្សាំប៊ី"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "សាធារណរដ្ឋ​ហ្សាំប៊ី"
+
+msgid "ISO_3166-1.ZW"
+msgstr "ហ្ស៊ីមបាវ៉េ"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "សាធារណរដ្ឋ​ហ្ស៊ីមបាវ៉េ"

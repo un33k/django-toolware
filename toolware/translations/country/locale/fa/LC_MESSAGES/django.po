@@ -1,0 +1,1266 @@
+# Translation of ISO-3166 (country names) to Persian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2001,2003
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Translations from kde:
+#   - FarsiKDE Team <info@farsikde.org>
+#   Alastair McKinstry - further translations from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fa\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-02-18 01:20+0330\n"
+"Last-Translator: Behrad Eslamifar <behrad_es@yahoo.com>\n"
+"Language-Team: debian-l10n-persian <debian-l10n-persian@lists.debian.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "آندورا"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "پادشاهی آندورا"
+
+msgid "ISO_3166-1.AE"
+msgstr "امارات متحده عربی"
+
+msgid "ISO_3166-1.AF"
+msgstr "افغانستان"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "جمهوری اسلامی افغانستان"
+
+msgid "ISO_3166-1.AG"
+msgstr "آنتیگوا و باربودا"
+
+msgid "ISO_3166-1.AI"
+msgstr "آنگیل"
+
+msgid "ISO_3166-1.AL"
+msgstr "آلبانی"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "جمهوری آلبانی"
+
+msgid "ISO_3166-1.AM"
+msgstr "ارمنستان"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "جمهوری ارمنستان"
+
+msgid "ISO_3166-1.AO"
+msgstr "آنگولا"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "جمهوری آنگولا"
+
+msgid "ISO_3166-1.AQ"
+msgstr "جنوبگان"
+
+msgid "ISO_3166-1.AR"
+msgstr "آرژانتین"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "جمهوری آرژانتین"
+
+msgid "ISO_3166-1.AS"
+msgstr "ساموآی آمریکایی"
+
+msgid "ISO_3166-1.AT"
+msgstr "اتریش"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "جمهوری اتریش"
+
+msgid "ISO_3166-1.AU"
+msgstr "استرالیا"
+
+msgid "ISO_3166-1.AW"
+msgstr "آروبا"
+
+msgid "ISO_3166-1.AX"
+msgstr "جزایر آلند"
+
+msgid "ISO_3166-1.AZ"
+msgstr "آذربایجان"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "جمهوری آذربایجان"
+
+msgid "ISO_3166-1.BA"
+msgstr "بوسنی و هرزگوین"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "جمهوری بوسنی و هرزگوین"
+
+msgid "ISO_3166-1.BB"
+msgstr "باربادوس"
+
+msgid "ISO_3166-1.BD"
+msgstr "بنگلادش"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "جمهوری دموکراتیک خلق بنگلادش"
+
+msgid "ISO_3166-1.BE"
+msgstr "بلژیک"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "پادشاهی بلژیک"
+
+msgid "ISO_3166-1.BF"
+msgstr "بورکینافاسو"
+
+msgid "ISO_3166-1.BG"
+msgstr "بلغارستان"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "جمهوری بلغارستان"
+
+msgid "ISO_3166-1.BH"
+msgstr "بحرین"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "پادشاهی بحرین"
+
+msgid "ISO_3166-1.BI"
+msgstr "بوروندی"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "جمهوری بوروندی"
+
+msgid "ISO_3166-1.BJ"
+msgstr "بنین"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "جمهوری بنین"
+
+msgid "ISO_3166-1.BL"
+msgstr "سنت بارتلمی"
+
+msgid "ISO_3166-1.BM"
+msgstr "برمودا"
+
+msgid "ISO_3166-1.BN"
+msgstr "برونئی دارالسلام"
+
+msgid "ISO_3166-1.BO"
+msgstr "بولیوی"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "چند ایالتی بولیویا"
+
+msgid "ISO_3166-1.BQ"
+msgstr "بنیر، سنت یوستتیوس"
+
+msgid "ISO_3166-1.BR"
+msgstr "برزیل"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "جمهوری فدرال برزیل"
+
+msgid "ISO_3166-1.BS"
+msgstr "باهاما"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "مشترک المنافع باهاما"
+
+msgid "ISO_3166-1.BT"
+msgstr "بوتان"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "پادشاهی بوتان"
+
+msgid "ISO_3166-1.BV"
+msgstr "جزیرهٔ بووت"
+
+msgid "ISO_3166-1.BW"
+msgstr "بوتسوانا"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "جمهوری بوتسوانا"
+
+msgid "ISO_3166-1.BY"
+msgstr "بلاروس"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "جمهوری بلاروس"
+
+msgid "ISO_3166-1.BZ"
+msgstr "بلیز"
+
+msgid "ISO_3166-1.CA"
+msgstr "کانادا"
+
+msgid "ISO_3166-1.CC"
+msgstr "جزایر کوکوس"
+
+msgid "ISO_3166-1.CD"
+msgstr "جمهوری دموکراتیک کنگو"
+
+msgid "ISO_3166-1.CF"
+msgstr "جمهوری آفریقای مرکزی"
+
+msgid "ISO_3166-1.CG"
+msgstr "کونگو"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "جمهوری کنگو"
+
+msgid "ISO_3166-1.CH"
+msgstr "سوئیس"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "اتحادیه سویس"
+
+msgid "ISO_3166-1.CI"
+msgstr "ساحل عاج"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "جمهوری ساحل عاج"
+
+msgid "ISO_3166-1.CK"
+msgstr "جزایر کوک"
+
+msgid "ISO_3166-1.CL"
+msgstr "شیلی"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "جمهوری شیلی"
+
+msgid "ISO_3166-1.CM"
+msgstr "کامرون"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "جمهوری کامرون"
+
+msgid "ISO_3166-1.CN"
+msgstr "چین"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "جمهوری خلق چین"
+
+msgid "ISO_3166-1.CO"
+msgstr "کلمبیا"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "جمهوری کلمبیا"
+
+msgid "ISO_3166-1.CR"
+msgstr "کاستاریکا"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "جمهوری کاستاریکا"
+
+msgid "ISO_3166-1.CU"
+msgstr "کوبا"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "جمهوری کوبا"
+
+msgid "ISO_3166-1.CV"
+msgstr "کیپ ورد"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "جمهوری کیپ ورد"
+
+msgid "ISO_3166-1.CW"
+msgstr "کوراسائو"
+
+msgid "ISO_3166-1.CX"
+msgstr "جزیرهٔ کریسمس"
+
+msgid "ISO_3166-1.CY"
+msgstr "قبرس"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "جمهوری قبرس"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "جمهوری چک"
+
+msgid "ISO_3166-1.DE"
+msgstr " آلمان"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "جمهوری فدرال آلمان"
+
+msgid "ISO_3166-1.DJ"
+msgstr "جیبوتی"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "جمهوری جیبوتی"
+
+msgid "ISO_3166-1.DK"
+msgstr "دانمارک"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "پادشاهی دانمارک"
+
+msgid "ISO_3166-1.DM"
+msgstr "دومینیکا"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "مشترک المنافع دومینیکا"
+
+msgid "ISO_3166-1.DO"
+msgstr "جمهوری دومینیکن"
+
+msgid "ISO_3166-1.DZ"
+msgstr "الجزایر"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "جمهوری دموکراتیک خلق الجزایر"
+
+msgid "ISO_3166-1.EC"
+msgstr "اکوادور"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "جمهوری اکوادور"
+
+msgid "ISO_3166-1.EE"
+msgstr "استونی"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "جمهوری استونی"
+
+msgid "ISO_3166-1.EG"
+msgstr "مصر"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "جمهوری عربی مصر"
+
+msgid "ISO_3166-1.EH"
+msgstr "صحرای غربی"
+
+msgid "ISO_3166-1.ER"
+msgstr "اریتره"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "فلسطین"
+
+msgid "ISO_3166-1.ES"
+msgstr "اسپانیا"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "پادشاهی اسپانیا"
+
+msgid "ISO_3166-1.ET"
+msgstr "اتیوپی"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "جمهوری فدرال دموکراتیک اتیوپی"
+
+msgid "ISO_3166-1.FI"
+msgstr "فنلاند"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "جمهوری فنلاند"
+
+msgid "ISO_3166-1.FJ"
+msgstr "فیجی"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "جمهوری فیجی"
+
+msgid "ISO_3166-1.FK"
+msgstr "جزایر فالکلند(مالویناس)"
+
+msgid "ISO_3166-1.FM"
+msgstr "میکرونزی، ایالات فدرال"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "ایالات فدرال میکرونزی"
+
+msgid "ISO_3166-1.FO"
+msgstr "جزایر فارو"
+
+msgid "ISO_3166-1.FR"
+msgstr "فرانسه"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "جمهوری فرانسه"
+
+msgid "ISO_3166-1.GA"
+msgstr "گابون"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "جمهوری گابونس"
+
+msgid "ISO_3166-1.GB"
+msgstr "انگلستان"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "پادشاهی متحد بریتانیای کبیر و ایرلند شمالی"
+
+msgid "ISO_3166-1.GD"
+msgstr "گرانادا"
+
+msgid "ISO_3166-1.GE"
+msgstr "گرجستان"
+
+msgid "ISO_3166-1.GF"
+msgstr "گویان فرانسه"
+
+msgid "ISO_3166-1.GG"
+msgstr "گرنزی"
+
+msgid "ISO_3166-1.GH"
+msgstr "غنا"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "جمهوری غنا"
+
+msgid "ISO_3166-1.GI"
+msgstr "گیبرالتار"
+
+msgid "ISO_3166-1.GL"
+msgstr "گروئنلند"
+
+msgid "ISO_3166-1.GM"
+msgstr "گامبیا"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "جمهوری گامبیا"
+
+msgid "ISO_3166-1.GN"
+msgstr "گینه"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "جمهوری گینه"
+
+msgid "ISO_3166-1.GP"
+msgstr "گوادلوپ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "گینهٔ استوایی"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "جمهوری گینه استوایی"
+
+msgid "ISO_3166-1.GR"
+msgstr "یونان"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "جمهوری هلنیک"
+
+msgid "ISO_3166-1.GS"
+msgstr "جورجیای جنوبی و جزایر ساندویچ جنوبی"
+
+msgid "ISO_3166-1.GT"
+msgstr "گواتمالا"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "جمهوری گواتمالا"
+
+msgid "ISO_3166-1.GU"
+msgstr "گوام"
+
+msgid "ISO_3166-1.GW"
+msgstr "گینهٔ بیسائو"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "جمهوری گینهٔ بیسائو"
+
+msgid "ISO_3166-1.GY"
+msgstr "گویان"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "جمهوری گویان"
+
+msgid "ISO_3166-1.HK"
+msgstr "هنگ کنگ"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "هنگ کنگ منطقه اداری ویژه چین"
+
+msgid "ISO_3166-1.HM"
+msgstr "جزیرهٔ هرد و جزایر مک‌دونالد"
+
+msgid "ISO_3166-1.HN"
+msgstr "هندوراس"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "جمهوری هندوراس"
+
+msgid "ISO_3166-1.HR"
+msgstr "کرواسی"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "جمهوری کرواسی"
+
+msgid "ISO_3166-1.HT"
+msgstr "هاییتی"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "جمهوری هائیتی"
+
+msgid "ISO_3166-1.HU"
+msgstr "مجارستان"
+
+msgid "ISO_3166-1.ID"
+msgstr "اندونزی"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "جمهوری اندونزی"
+
+msgid "ISO_3166-1.IE"
+msgstr "ایرلند"
+
+msgid "ISO_3166-1.IL"
+msgstr "اسراییل"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "دولت اسرائیل"
+
+msgid "ISO_3166-1.IM"
+msgstr "جزیره من"
+
+msgid "ISO_3166-1.IN"
+msgstr "هندوستان"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "جمهوری هند"
+
+msgid "ISO_3166-1.IO"
+msgstr "مستعمره‌های انگلستان در اقیانوس هند"
+
+msgid "ISO_3166-1.IQ"
+msgstr "عراق"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "جمهوری عراق"
+
+msgid "ISO_3166-1.IR"
+msgstr "ایران، جمهوری اسلامی"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "جمهوری اسلامی ایران"
+
+msgid "ISO_3166-1.IS"
+msgstr "ایسلند"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "جمهوری ایسلند"
+
+msgid "ISO_3166-1.IT"
+msgstr "ایتالیا"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "جمهوری ایتالیا"
+
+msgid "ISO_3166-1.JE"
+msgstr "جرسی"
+
+msgid "ISO_3166-1.JM"
+msgstr "جاماییکا"
+
+msgid "ISO_3166-1.JO"
+msgstr "اردن"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "پادشاهی هاشمی اردن "
+
+msgid "ISO_3166-1.JP"
+msgstr "ژاپن"
+
+msgid "ISO_3166-1.KE"
+msgstr "کنیا"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "جمهوری کنیا"
+
+msgid "ISO_3166-1.KG"
+msgstr "قرقیزستان"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "جمهوری قرقیزستان"
+
+msgid "ISO_3166-1.KH"
+msgstr "کامبوج"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "پادشاهی کامبوج"
+
+msgid "ISO_3166-1.KI"
+msgstr "کیریباتی"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "جمهوری کیریباتی"
+
+msgid "ISO_3166-1.KM"
+msgstr "کومورو"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "اتحادیه کومور"
+
+msgid "ISO_3166-1.KN"
+msgstr "سن کیتس و نویس"
+
+msgid "ISO_3166-1.KP"
+msgstr "کره، جمهوری دموکراتیک خلق"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "جمهوری دموکراتیک خلق کره"
+
+msgid "ISO_3166-1.KR"
+msgstr "جمهوری کره"
+
+msgid "ISO_3166-1.KW"
+msgstr "کویت "
+
+msgid "ISO_3166-1.KW#official"
+msgstr "کشور کویت"
+
+msgid "ISO_3166-1.KY"
+msgstr "جزایر کِیمن"
+
+msgid "ISO_3166-1.KZ"
+msgstr "قزاقستان"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "جمهوری قزاقستان"
+
+msgid "ISO_3166-1.LA"
+msgstr "جمهوری دموکراتیک خلق لائو"
+
+msgid "ISO_3166-1.LB"
+msgstr "لبنان"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "جمهوری لبنان"
+
+msgid "ISO_3166-1.LC"
+msgstr "سن لوسیا"
+
+msgid "ISO_3166-1.LI"
+msgstr "لیختن‌اشتاین"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "پادشاهی لیختن‌اشتاین"
+
+msgid "ISO_3166-1.LK"
+msgstr "سری‌لانکا"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "جمهوری دموکراتیک سوسیالیستی سری لانکا"
+
+msgid "ISO_3166-1.LR"
+msgstr "لیبریا"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "جمهوری لیبریا"
+
+msgid "ISO_3166-1.LS"
+msgstr "لسوتو"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "پادشاهی لسوتو"
+
+msgid "ISO_3166-1.LT"
+msgstr "لیتوانی"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "جمهوری لیتوانی"
+
+msgid "ISO_3166-1.LU"
+msgstr "لوگزامبورگ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "لوکزامبورگ"
+
+msgid "ISO_3166-1.LV"
+msgstr "لتونی"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "جمهوری لتونی"
+
+msgid "ISO_3166-1.LY"
+msgstr "لیبی"
+
+msgid "ISO_3166-1.MA"
+msgstr "مراکش"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "پادشاهی مراکش"
+
+msgid "ISO_3166-1.MC"
+msgstr "موناکو"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "پادشاهی موناکو"
+
+msgid "ISO_3166-1.MD"
+msgstr "مولداوی"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "جمهوری مولداوی"
+
+msgid "ISO_3166-1.ME"
+msgstr "مونته نگرو"
+
+msgid "ISO_3166-1.MF"
+msgstr "سنت مارتین (بخش فرانسوی)"
+
+msgid "ISO_3166-1.MG"
+msgstr "ماداگاسکار"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "جمهوری ماداگاسکار"
+
+msgid "ISO_3166-1.MH"
+msgstr "جزایر مارشال"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "جمهوری جزایر مارشال"
+
+msgid "ISO_3166-1.MK"
+msgstr "جمهوری مقدونیه"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "جمهوری مقدونیه یوگسلاوی سابق"
+
+msgid "ISO_3166-1.ML"
+msgstr "مالی"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "جمهوری مالی"
+
+msgid "ISO_3166-1.MM"
+msgstr "میانمار"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "جمهوری میانمار"
+
+msgid "ISO_3166-1.MN"
+msgstr "مغولستان"
+
+msgid "ISO_3166-1.MO"
+msgstr "ماکائو"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "موناکو منطقه تحت مدیریت چین"
+
+msgid "ISO_3166-1.MP"
+msgstr "جزایر ماریانای شمالی"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "مشترک المنافع جزایر ماریانای شمالی"
+
+msgid "ISO_3166-1.MQ"
+msgstr "مارتینیک"
+
+msgid "ISO_3166-1.MR"
+msgstr "موریتانی"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "جمهوری اسلامی موریتانی"
+
+msgid "ISO_3166-1.MS"
+msgstr "مونت‌سرات"
+
+msgid "ISO_3166-1.MT"
+msgstr "جزیره مالت"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "جمهوری مالت"
+
+msgid "ISO_3166-1.MU"
+msgstr "موریتیوس"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "جمهوری موریس"
+
+msgid "ISO_3166-1.MV"
+msgstr "مالدیو"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "جمهوری مالدیو"
+
+msgid "ISO_3166-1.MW"
+msgstr "مالاوی"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "جمهوری مالاوی"
+
+msgid "ISO_3166-1.MX"
+msgstr "مکزیک"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "ایالات متحده مکزیک"
+
+msgid "ISO_3166-1.MY"
+msgstr "مالزی"
+
+msgid "ISO_3166-1.MZ"
+msgstr "موزامبیک"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "جمهوری موزامبیک"
+
+msgid "ISO_3166-1.NA"
+msgstr "نامیبیا"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "جمهوری نامیبیا"
+
+msgid "ISO_3166-1.NC"
+msgstr "کالدونیای جدید"
+
+msgid "ISO_3166-1.NE"
+msgstr "نیجر"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "جمهوری نیجر"
+
+msgid "ISO_3166-1.NF"
+msgstr "جزیرهٔ نورفولک"
+
+msgid "ISO_3166-1.NG"
+msgstr "نیجریه"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "جمهوری فدرال نیجریه"
+
+msgid "ISO_3166-1.NI"
+msgstr "نیکاراگوئه"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "جمهوری نیکاراگوئه"
+
+msgid "ISO_3166-1.NL"
+msgstr "هلند"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "پادشاهی هلند"
+
+msgid "ISO_3166-1.NO"
+msgstr "نروژ"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "پادشاهی نروژ"
+
+msgid "ISO_3166-1.NP"
+msgstr "نپال"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "جمهوری دموکراتیک فدرال نپال"
+
+msgid "ISO_3166-1.NR"
+msgstr "نائورو"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "جمهوری نائورو"
+
+msgid "ISO_3166-1.NU"
+msgstr "نیوئه"
+
+msgid "ISO_3166-1.NZ"
+msgstr "نیوزیلند"
+
+msgid "ISO_3166-1.OM"
+msgstr "عمان"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "پادشاهی عمان"
+
+msgid "ISO_3166-1.PA"
+msgstr "پاناما"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "جمهوری پاناما"
+
+msgid "ISO_3166-1.PE"
+msgstr "پرو"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "جمهوری پرو"
+
+msgid "ISO_3166-1.PF"
+msgstr "پلی‌نزی فرانسه"
+
+msgid "ISO_3166-1.PG"
+msgstr "پاپوا گینهٔ نو"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "دولت مستقل ساموآ"
+
+msgid "ISO_3166-1.PH"
+msgstr "فیلیپین"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "جمهوری فیلیپین"
+
+msgid "ISO_3166-1.PK"
+msgstr "پاکستان"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "جمهوری اسلامی پاکستان"
+
+msgid "ISO_3166-1.PL"
+msgstr "لهستان"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "جمهوری لهستان"
+
+msgid "ISO_3166-1.PM"
+msgstr "سنت پیر و میکلون"
+
+msgid "ISO_3166-1.PN"
+msgstr "پیتکایرن"
+
+msgid "ISO_3166-1.PR"
+msgstr "پورتو ریکو"
+
+msgid "ISO_3166-1.PS"
+msgstr "فلسطین"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "فلسطین"
+
+msgid "ISO_3166-1.PT"
+msgstr "پرتغال"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "جمهوری پرتغال "
+
+msgid "ISO_3166-1.PW"
+msgstr "پالائو"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "جمهوری پالائو"
+
+msgid "ISO_3166-1.PY"
+msgstr "پاراگوئه"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "جمهوری پاراگوئه"
+
+msgid "ISO_3166-1.QA"
+msgstr "قطر"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "دولت قطر"
+
+msgid "ISO_3166-1.RE"
+msgstr "رئونیون"
+
+msgid "ISO_3166-1.RO"
+msgstr "رومانی"
+
+msgid "ISO_3166-1.RS"
+msgstr "صربستان"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "جمهوری صربستان"
+
+msgid "ISO_3166-1.RU"
+msgstr "روسیه فدرال"
+
+msgid "ISO_3166-1.RW"
+msgstr "رواندا"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "جمهوری رواندس"
+
+msgid "ISO_3166-1.SA"
+msgstr "عربستان سعودی"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "پادشاهی عربستان سعودی"
+
+msgid "ISO_3166-1.SB"
+msgstr "جزایر سلیمان"
+
+msgid "ISO_3166-1.SC"
+msgstr "سیشل"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "جمهوری سیشل"
+
+msgid "ISO_3166-1.SD"
+msgstr "سودان"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "جمهوری سودان"
+
+msgid "ISO_3166-1.SE"
+msgstr "سوئد"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "پادشاهی سوئد"
+
+msgid "ISO_3166-1.SG"
+msgstr "سنگاپور"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "جمهوری سنگاپور"
+
+msgid "ISO_3166-1.SH"
+msgstr "سنت هلنا, Ascension و Tristan da Cunha"
+
+msgid "ISO_3166-1.SI"
+msgstr "اسلوونی"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "جمهوری اسلوونی"
+
+msgid "ISO_3166-1.SJ"
+msgstr "اسوالبارد و جان ماین"
+
+msgid "ISO_3166-1.SK"
+msgstr "اسلواکی"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "جمهوری اسلواکی"
+
+msgid "ISO_3166-1.SL"
+msgstr "سیرالئون"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "جمهوری سیرالئون"
+
+msgid "ISO_3166-1.SM"
+msgstr "سان مارینو"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "جمهوری سن مارینو"
+
+msgid "ISO_3166-1.SN"
+msgstr "سنگال"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "جمهوری سنگال"
+
+msgid "ISO_3166-1.SO"
+msgstr "سومالی"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "جمهوری فدرال آلمان"
+
+msgid "ISO_3166-1.SR"
+msgstr "سورینام"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "جمهوری سورینام"
+
+msgid "ISO_3166-1.SS"
+msgstr "سودان جنوبی"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "جمهوری سودان جنوبی"
+
+msgid "ISO_3166-1.ST"
+msgstr "سائو تومه و پرینسیپه"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "جمهوری دموکراتیک تومه و پرینسیپ"
+
+msgid "ISO_3166-1.SV"
+msgstr "السالوادور"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "جمهوری السالوادور"
+
+msgid "ISO_3166-1.SX"
+msgstr "سنت مارتین (بخش آلمانی)"
+
+msgid "ISO_3166-1.SY"
+msgstr "جمهوری عربی سوریه"
+
+msgid "ISO_3166-1.SZ"
+msgstr "سوازیلند"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "پادشاهی سوئیس"
+
+msgid "ISO_3166-1.TC"
+msgstr "جزایر ترک و کایکوس"
+
+msgid "ISO_3166-1.TD"
+msgstr "چاد"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "جمهوری چاد"
+
+msgid "ISO_3166-1.TF"
+msgstr "مستعمره‌های جنوبی فرانسه"
+
+msgid "ISO_3166-1.TG"
+msgstr "توگو"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "جمهوری تگلز"
+
+msgid "ISO_3166-1.TH"
+msgstr "تایلند"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "پادشاهی تایلند"
+
+msgid "ISO_3166-1.TJ"
+msgstr "تاجیکستان"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "جمهوری تاجیکستان"
+
+msgid "ISO_3166-1.TK"
+msgstr "توکلائو"
+
+msgid "ISO_3166-1.TL"
+msgstr "تیمور شرقی"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "جمهوری دموکراتیک جزایر تیمور"
+
+msgid "ISO_3166-1.TM"
+msgstr "ترکمنستان"
+
+msgid "ISO_3166-1.TN"
+msgstr "تونس"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "جمهوری تونس"
+
+msgid "ISO_3166-1.TO"
+msgstr "تونگا"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "پادشاهی تونگا"
+
+msgid "ISO_3166-1.TR"
+msgstr "ترکیه"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "جمهوری ترکیه"
+
+msgid "ISO_3166-1.TT"
+msgstr "ترینیداد و تُباگو"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "جمهوری ترینیداد و تُباگو"
+
+msgid "ISO_3166-1.TV"
+msgstr "تووالو"
+
+msgid "ISO_3166-1.TW"
+msgstr "تایوان"
+
+msgid "ISO_3166-1.TZ"
+msgstr "تانزانیا، جمهوری متحده"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "جمهوری متحده تانزانیا"
+
+msgid "ISO_3166-1.UA"
+msgstr "اکراین"
+
+msgid "ISO_3166-1.UG"
+msgstr "اوگاندا"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "جمهوری اوگاندا"
+
+msgid "ISO_3166-1.UM"
+msgstr "جزایر کوچک دورافتادهٔ ایالات متحده"
+
+msgid "ISO_3166-1.US"
+msgstr "ایالات متحدهٔ آمریکا"
+
+msgid "ISO_3166-1.US#official"
+msgstr "ایالات متحدهٔ آمریکا"
+
+msgid "ISO_3166-1.UY"
+msgstr "اروگوئه"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "جمهوری شرقی اروگوئه"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ازبکستان"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "جمهوری ازبکستان"
+
+msgid "ISO_3166-1.VA"
+msgstr "دولت شهر واتیکان "
+
+msgid "ISO_3166-1.VC"
+msgstr "سن وینسنت و گرنادین"
+
+msgid "ISO_3166-1.VE"
+msgstr "ونزوئلا"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "جمهوری بولیواری ونزوئلا"
+
+msgid "ISO_3166-1.VG"
+msgstr "جزایر ویرجین ، بریتانیا"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "جزایر ویرجین انگلستان"
+
+msgid "ISO_3166-1.VI"
+msgstr "جزایر ویرجین ایالات متحده"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "جزایر ویرجین ایالات متحده آمریکا"
+
+msgid "ISO_3166-1.VN"
+msgstr "ویتنام"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "جمهوری سوسیالیستی ویتنام"
+
+msgid "ISO_3166-1.VU"
+msgstr "وانواتو"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "جمهوری وانواتو"
+
+msgid "ISO_3166-1.WF"
+msgstr "والیس و فیوتونا"
+
+msgid "ISO_3166-1.WS"
+msgstr "ساموا"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "دولت مستقل ساموآ"
+
+msgid "ISO_3166-1.YE"
+msgstr "یمن"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "جمهوری یمن"
+
+msgid "ISO_3166-1.YT"
+msgstr "مایوت"
+
+msgid "ISO_3166-1.ZA"
+msgstr "آفریقای جنوبی"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "جمهوری آفریقای جنوبی"
+
+msgid "ISO_3166-1.ZM"
+msgstr "زامبیا"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "جمهوری زامبیا"
+
+msgid "ISO_3166-1.ZW"
+msgstr "زیمبابوه"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "جمهوری زیمبابوه"

@@ -1,0 +1,1261 @@
+# Translation of ISO-3166 (country names) to Japanese
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) 2002, 2010, 2011 Free Software Foundation, Inc.
+#   Alastair McKinstry, <mckinstry@computer.org>, 2002.
+#   Translations from KDE:
+#   - Taiki Komoda <kom@kde.gr.jp>
+#   Kenshi Muto <kmuto@debian.org>, 2006-2007
+# Yasuaki Taniguchi <yasuakit@gmail.com>, 2010, 2011.
+# victory <victory.deb@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-08-01 22:10+0900\n"
+"Last-Translator: Yasuaki Taniguchi <yasuakit@gmail.com>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "アンドラ"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "アンドラ公国"
+
+msgid "ISO_3166-1.AE"
+msgstr "アラブ首長国連邦"
+
+msgid "ISO_3166-1.AF"
+msgstr "アフガニスタン"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "アフガニスタン・イスラム共和国"
+
+msgid "ISO_3166-1.AG"
+msgstr "アンティグア・バーブーダ"
+
+msgid "ISO_3166-1.AI"
+msgstr "アングイラ"
+
+msgid "ISO_3166-1.AL"
+msgstr "アルバニア"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "アルバニア共和国"
+
+msgid "ISO_3166-1.AM"
+msgstr "アルメニア"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "アルメニア共和国"
+
+msgid "ISO_3166-1.AO"
+msgstr "アンゴラ"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "アンゴラ共和国"
+
+msgid "ISO_3166-1.AQ"
+msgstr "南極大陸"
+
+msgid "ISO_3166-1.AR"
+msgstr "アルゼンチン"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "アルゼンチン共和国"
+
+msgid "ISO_3166-1.AS"
+msgstr "米領サモア"
+
+msgid "ISO_3166-1.AT"
+msgstr "オーストリア"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "オーストリア共和国"
+
+msgid "ISO_3166-1.AU"
+msgstr "オーストラリア連邦"
+
+msgid "ISO_3166-1.AW"
+msgstr "アルーバ"
+
+msgid "ISO_3166-1.AX"
+msgstr "オーランド諸島"
+
+msgid "ISO_3166-1.AZ"
+msgstr "アゼルバイジャン"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "アゼルバイジャン共和国"
+
+msgid "ISO_3166-1.BA"
+msgstr "ボスニア・ヘルツェゴビナ"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "ボスニアヘルツコビナ共和国"
+
+msgid "ISO_3166-1.BB"
+msgstr "バルバドス"
+
+msgid "ISO_3166-1.BD"
+msgstr "バングラデシュ"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "バングラデシュ人民共和国"
+
+msgid "ISO_3166-1.BE"
+msgstr "ベルギー"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "ベルギー王国"
+
+msgid "ISO_3166-1.BF"
+msgstr "ブルキナファソ"
+
+msgid "ISO_3166-1.BG"
+msgstr "ブルガリア"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "ブルガリア共和国"
+
+msgid "ISO_3166-1.BH"
+msgstr "バーレーン"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "バーレーン王国"
+
+msgid "ISO_3166-1.BI"
+msgstr "ブルンジ"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "ブルンジ共和国"
+
+msgid "ISO_3166-1.BJ"
+msgstr "ベナン"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "ベナン共和国"
+
+msgid "ISO_3166-1.BL"
+msgstr "サンバルテルミ"
+
+msgid "ISO_3166-1.BM"
+msgstr "バーミューダ"
+
+msgid "ISO_3166-1.BN"
+msgstr "ブルネイ・ダルサラーム国"
+
+msgid "ISO_3166-1.BO"
+msgstr "ボリビア"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "ボリビア多民族国"
+
+msgid "ISO_3166-1.BQ"
+msgstr "ボネール、シントユースタティウス及びサバ"
+
+msgid "ISO_3166-1.BR"
+msgstr "ブラジル"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "ブラジル連邦共和国"
+
+msgid "ISO_3166-1.BS"
+msgstr "バハマ"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "バハマ国"
+
+msgid "ISO_3166-1.BT"
+msgstr "ブータン"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "ブータン王国"
+
+msgid "ISO_3166-1.BV"
+msgstr "ブーベ島"
+
+msgid "ISO_3166-1.BW"
+msgstr "ボツワナ"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "ボツワナ共和国"
+
+msgid "ISO_3166-1.BY"
+msgstr "ベラルーシ"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "ベラルーシ共和国"
+
+msgid "ISO_3166-1.BZ"
+msgstr "ベリーズ"
+
+msgid "ISO_3166-1.CA"
+msgstr "カナダ"
+
+msgid "ISO_3166-1.CC"
+msgstr "ココス (キーリング) 諸島"
+
+msgid "ISO_3166-1.CD"
+msgstr "コンゴ民主共和国"
+
+msgid "ISO_3166-1.CF"
+msgstr "中央アフリカ共和国"
+
+msgid "ISO_3166-1.CG"
+msgstr "コンゴ"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "コンゴ共和国"
+
+msgid "ISO_3166-1.CH"
+msgstr "スイス"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "スイス連邦"
+
+msgid "ISO_3166-1.CI"
+msgstr "コートジボワール"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "コートジボワール共和国"
+
+msgid "ISO_3166-1.CK"
+msgstr "クック諸島"
+
+msgid "ISO_3166-1.CL"
+msgstr "チリ"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "チリ共和国"
+
+msgid "ISO_3166-1.CM"
+msgstr "カメルーン"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "カメルーン共和国"
+
+msgid "ISO_3166-1.CN"
+msgstr "中国"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "中華人民共和国"
+
+msgid "ISO_3166-1.CO"
+msgstr "コロンビア"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "コロンビア共和国"
+
+msgid "ISO_3166-1.CR"
+msgstr "コスタリカ"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "コスタリカ共和国"
+
+msgid "ISO_3166-1.CU"
+msgstr "キューバ"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "キューバ共和国"
+
+msgid "ISO_3166-1.CV"
+msgstr "カーボヴェルデ"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "カーボヴェルデ共和国"
+
+msgid "ISO_3166-1.CW"
+msgstr "キュラソー"
+
+msgid "ISO_3166-1.CX"
+msgstr "クリスマス島"
+
+msgid "ISO_3166-1.CY"
+msgstr "キプロス"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "キプロス共和国"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "チェコ共和国"
+
+msgid "ISO_3166-1.DE"
+msgstr "ドイツ"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "ドイツ連邦共和国"
+
+msgid "ISO_3166-1.DJ"
+msgstr "ジブチ"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "ジブチ共和国"
+
+msgid "ISO_3166-1.DK"
+msgstr "デンマーク"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "デンマーク王国"
+
+msgid "ISO_3166-1.DM"
+msgstr "ドミニカ"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "ドミニカ国"
+
+msgid "ISO_3166-1.DO"
+msgstr "ドミニカ共和国"
+
+msgid "ISO_3166-1.DZ"
+msgstr "アルジェリア"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "アルジェリア民主人民共和国"
+
+msgid "ISO_3166-1.EC"
+msgstr "エクアドル"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "エクアドル共和国"
+
+msgid "ISO_3166-1.EE"
+msgstr "エストニア"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "エストニア共和国"
+
+msgid "ISO_3166-1.EG"
+msgstr "エジプト"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "エジプト・アラブ共和国"
+
+msgid "ISO_3166-1.EH"
+msgstr "西サハラ"
+
+msgid "ISO_3166-1.ER"
+msgstr "エリトリア国"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "エリトリア国"
+
+msgid "ISO_3166-1.ES"
+msgstr "スペイン"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "スペイン王国"
+
+msgid "ISO_3166-1.ET"
+msgstr "エチオピア"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "エチオピア連邦民主共和国"
+
+msgid "ISO_3166-1.FI"
+msgstr "フィンランド"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "フィンランド共和国"
+
+msgid "ISO_3166-1.FJ"
+msgstr "フィジー"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "フィジー共和国"
+
+msgid "ISO_3166-1.FK"
+msgstr "フォークランド諸島 (マルビナス)"
+
+msgid "ISO_3166-1.FM"
+msgstr "ミクロネシア連邦"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "ミクロネシア連邦"
+
+msgid "ISO_3166-1.FO"
+msgstr "フェロー諸島"
+
+msgid "ISO_3166-1.FR"
+msgstr "フランス"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "フランス共和国"
+
+msgid "ISO_3166-1.GA"
+msgstr "ガボン"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "ガボン共和国"
+
+msgid "ISO_3166-1.GB"
+msgstr "英国"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "グレートブリテン及び北アイルランド連合王国"
+
+msgid "ISO_3166-1.GD"
+msgstr "グレナダ"
+
+msgid "ISO_3166-1.GE"
+msgstr "グルジア"
+
+msgid "ISO_3166-1.GF"
+msgstr "仏領ギアナ"
+
+msgid "ISO_3166-1.GG"
+msgstr "ガーンジー"
+
+msgid "ISO_3166-1.GH"
+msgstr "ガーナ"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "ガーナ共和国"
+
+msgid "ISO_3166-1.GI"
+msgstr "ジブラルタル"
+
+msgid "ISO_3166-1.GL"
+msgstr "グリーンランド"
+
+msgid "ISO_3166-1.GM"
+msgstr "ガンビア"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "ガンビア共和国"
+
+msgid "ISO_3166-1.GN"
+msgstr "ギニア"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "ギニア共和国"
+
+msgid "ISO_3166-1.GP"
+msgstr "グアドループ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "赤道ギニア"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "赤道ギニア共和国"
+
+msgid "ISO_3166-1.GR"
+msgstr "ギリシャ"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "ギリシア共和国"
+
+msgid "ISO_3166-1.GS"
+msgstr "サウスジョージア及びサウスサンドウィッチ諸島"
+
+msgid "ISO_3166-1.GT"
+msgstr "グアテマラ"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "グアテマラ共和国"
+
+msgid "ISO_3166-1.GU"
+msgstr "グアム"
+
+msgid "ISO_3166-1.GW"
+msgstr "ギニアビサウ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "ギニアビサウ共和国"
+
+msgid "ISO_3166-1.GY"
+msgstr "ガイアナ"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "ガイアナ共和国"
+
+msgid "ISO_3166-1.HK"
+msgstr "香港"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "香港・中国特別行政区"
+
+msgid "ISO_3166-1.HM"
+msgstr "ハード島及びマクドナルド諸島"
+
+msgid "ISO_3166-1.HN"
+msgstr "ホンジュラス"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "ホンジュラス共和国"
+
+msgid "ISO_3166-1.HR"
+msgstr "クロアチア"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "クロアチア共和国"
+
+msgid "ISO_3166-1.HT"
+msgstr "ハイチ"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "ハイチ共和国"
+
+msgid "ISO_3166-1.HU"
+msgstr "ハンガリー"
+
+msgid "ISO_3166-1.ID"
+msgstr "インドネシア"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "インドネシア共和国"
+
+msgid "ISO_3166-1.IE"
+msgstr "アイルランド"
+
+msgid "ISO_3166-1.IL"
+msgstr "イスラエル"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "イスラエル国"
+
+msgid "ISO_3166-1.IM"
+msgstr "マン島"
+
+msgid "ISO_3166-1.IN"
+msgstr "インド"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "インド共和国"
+
+msgid "ISO_3166-1.IO"
+msgstr "英国インド洋領土"
+
+msgid "ISO_3166-1.IQ"
+msgstr "イラク"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "イラク共和国"
+
+msgid "ISO_3166-1.IR"
+msgstr "イラン・イスラム共和国"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "イラン・イスラム共和国"
+
+msgid "ISO_3166-1.IS"
+msgstr "アイスランド"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "アイスランド共和国"
+
+msgid "ISO_3166-1.IT"
+msgstr "イタリア"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "イタリア共和国"
+
+msgid "ISO_3166-1.JE"
+msgstr "ジャージー"
+
+msgid "ISO_3166-1.JM"
+msgstr "ジャマイカ"
+
+msgid "ISO_3166-1.JO"
+msgstr "ヨルダン"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "ヨルダン・ハシェミット王国"
+
+msgid "ISO_3166-1.JP"
+msgstr "日本"
+
+msgid "ISO_3166-1.KE"
+msgstr "ケニア"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "ケニア共和国"
+
+msgid "ISO_3166-1.KG"
+msgstr "キルギスタン"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "キルギス共和国"
+
+msgid "ISO_3166-1.KH"
+msgstr "カンボジア"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "カンボジア王国"
+
+msgid "ISO_3166-1.KI"
+msgstr "キリバス"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "キリバス共和国"
+
+msgid "ISO_3166-1.KM"
+msgstr "コモロ"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "コモロ連合"
+
+msgid "ISO_3166-1.KN"
+msgstr "セントクリストファー・ネーヴィス"
+
+msgid "ISO_3166-1.KP"
+msgstr "朝鮮民主主義人民共和国"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "朝鮮民主主義人民共和国"
+
+msgid "ISO_3166-1.KR"
+msgstr "大韓民国 (韓国)"
+
+msgid "ISO_3166-1.KW"
+msgstr "クウェート"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "クウェート国"
+
+msgid "ISO_3166-1.KY"
+msgstr "ケイマン諸島"
+
+msgid "ISO_3166-1.KZ"
+msgstr "カザフスタン"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "カザフスタン共和国"
+
+msgid "ISO_3166-1.LA"
+msgstr "ラオス人民民主共和国"
+
+msgid "ISO_3166-1.LB"
+msgstr "レバノン"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "レバノン共和国"
+
+msgid "ISO_3166-1.LC"
+msgstr "セントルシア"
+
+msgid "ISO_3166-1.LI"
+msgstr "リヒテンシュタイン"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "リヒテンシュタイン公国"
+
+msgid "ISO_3166-1.LK"
+msgstr "スリランカ"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "スリランカ民主社会主義共和国"
+
+msgid "ISO_3166-1.LR"
+msgstr "リベリア"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "リベリア共和国"
+
+msgid "ISO_3166-1.LS"
+msgstr "レソト"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "レソト王国"
+
+msgid "ISO_3166-1.LT"
+msgstr "リトアニア"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "リトアニア共和国"
+
+msgid "ISO_3166-1.LU"
+msgstr "ルクセンブルク"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "ルクセンブルク大公国"
+
+msgid "ISO_3166-1.LV"
+msgstr "ラトビア"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "ラトビア共和国"
+
+msgid "ISO_3166-1.LY"
+msgstr "リビア"
+
+msgid "ISO_3166-1.MA"
+msgstr "モロッコ"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "モロッコ王国"
+
+msgid "ISO_3166-1.MC"
+msgstr "モナコ"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "モナコ公国"
+
+msgid "ISO_3166-1.MD"
+msgstr "モルドバ"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "モルドバ共和国"
+
+msgid "ISO_3166-1.ME"
+msgstr "モンテネグロ"
+
+msgid "ISO_3166-1.MF"
+msgstr "サンマルタン (仏領)"
+
+msgid "ISO_3166-1.MG"
+msgstr "マダガスカル"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "マダガスカル共和国"
+
+msgid "ISO_3166-1.MH"
+msgstr "マーシャル諸島"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "マーシャル諸島共和国"
+
+msgid "ISO_3166-1.MK"
+msgstr "マケドニア共和国"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "マケドニア旧ユーゴスラビア共和国"
+
+msgid "ISO_3166-1.ML"
+msgstr "マリ"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "マリ共和国"
+
+msgid "ISO_3166-1.MM"
+msgstr "ミャンマー"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "ミャンマー共和国"
+
+msgid "ISO_3166-1.MN"
+msgstr "モンゴル国"
+
+msgid "ISO_3166-1.MO"
+msgstr "マカオ"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "マカオ・中国特別行政区"
+
+msgid "ISO_3166-1.MP"
+msgstr "北マリアナ諸島"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "北マリアナ諸島連邦"
+
+msgid "ISO_3166-1.MQ"
+msgstr "マルティニーク"
+
+msgid "ISO_3166-1.MR"
+msgstr "モーリタニア"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "モーリタニア・イスラム共和国"
+
+msgid "ISO_3166-1.MS"
+msgstr "モントセラト"
+
+msgid "ISO_3166-1.MT"
+msgstr "マルタ"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "マルタ共和国"
+
+msgid "ISO_3166-1.MU"
+msgstr "モーリシャス"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "モーリシャス共和国"
+
+msgid "ISO_3166-1.MV"
+msgstr "モルディブ"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "モルディブ共和国"
+
+msgid "ISO_3166-1.MW"
+msgstr "マラウイ"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "マラウイ共和国"
+
+msgid "ISO_3166-1.MX"
+msgstr "メキシコ"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "メキシコ合衆国"
+
+msgid "ISO_3166-1.MY"
+msgstr "マレーシア"
+
+msgid "ISO_3166-1.MZ"
+msgstr "モザンビーク"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "モザンビーク共和国"
+
+msgid "ISO_3166-1.NA"
+msgstr "ナミビア"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "ナミビア共和国"
+
+msgid "ISO_3166-1.NC"
+msgstr "ニューカレドニア"
+
+msgid "ISO_3166-1.NE"
+msgstr "ニジェール"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "ニジェール共和国"
+
+msgid "ISO_3166-1.NF"
+msgstr "ノーフォーク島"
+
+msgid "ISO_3166-1.NG"
+msgstr "ナイジェリア"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "ナイジェリア連邦共和国"
+
+msgid "ISO_3166-1.NI"
+msgstr "ニカラグア"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "ニカラグア共和国"
+
+msgid "ISO_3166-1.NL"
+msgstr "オランダ"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "オランダ王国"
+
+msgid "ISO_3166-1.NO"
+msgstr "ノルウェー"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "ノルウェー王国"
+
+msgid "ISO_3166-1.NP"
+msgstr "ネパール"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "ネパール連邦民主共和国"
+
+msgid "ISO_3166-1.NR"
+msgstr "ナウル"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "ナウル共和国"
+
+msgid "ISO_3166-1.NU"
+msgstr "ニウエ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "ニュージーランド"
+
+msgid "ISO_3166-1.OM"
+msgstr "オマーン"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "オマーン国"
+
+msgid "ISO_3166-1.PA"
+msgstr "パナマ"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "パナマ共和国"
+
+msgid "ISO_3166-1.PE"
+msgstr "ペルー"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "ペルー共和国"
+
+msgid "ISO_3166-1.PF"
+msgstr "仏領ポリネシア"
+
+msgid "ISO_3166-1.PG"
+msgstr "パプアニューギニア"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "パプアニューギニア独立国"
+
+msgid "ISO_3166-1.PH"
+msgstr "フィリピン"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "フィリピン共和国"
+
+msgid "ISO_3166-1.PK"
+msgstr "パキスタン"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "パキスタン・イスラム共和国"
+
+msgid "ISO_3166-1.PL"
+msgstr "ポーランド"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "ポーランド共和国"
+
+msgid "ISO_3166-1.PM"
+msgstr "サンピエール及びミクロン"
+
+msgid "ISO_3166-1.PN"
+msgstr "ピトケアン"
+
+msgid "ISO_3166-1.PR"
+msgstr "プエルトリコ"
+
+msgid "ISO_3166-1.PS"
+msgstr "パレスチナ"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "パレスチナ自治区"
+
+msgid "ISO_3166-1.PT"
+msgstr "ポルトガル"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "ポルトガル共和国"
+
+msgid "ISO_3166-1.PW"
+msgstr "パラオ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "パラオ共和国"
+
+msgid "ISO_3166-1.PY"
+msgstr "パラグアイ"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "パラグアイ共和国"
+
+msgid "ISO_3166-1.QA"
+msgstr "カタール"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "カタール国"
+
+msgid "ISO_3166-1.RE"
+msgstr "レユニオン"
+
+msgid "ISO_3166-1.RO"
+msgstr "ルーマニア"
+
+msgid "ISO_3166-1.RS"
+msgstr "セルビア"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "セルビア共和国"
+
+msgid "ISO_3166-1.RU"
+msgstr "ロシア連邦"
+
+msgid "ISO_3166-1.RW"
+msgstr "ルワンダ"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "ルワンダ共和国"
+
+msgid "ISO_3166-1.SA"
+msgstr "サウジアラビア"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "サウジアラビア王国"
+
+msgid "ISO_3166-1.SB"
+msgstr "ソロモン諸島"
+
+msgid "ISO_3166-1.SC"
+msgstr "セーシェル"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "セーシェル共和国"
+
+msgid "ISO_3166-1.SD"
+msgstr "スーダン"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "スーダン共和国"
+
+msgid "ISO_3166-1.SE"
+msgstr "スウェーデン"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "スウェーデン王国"
+
+msgid "ISO_3166-1.SG"
+msgstr "シンガポール"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "シンガポール共和国"
+
+msgid "ISO_3166-1.SH"
+msgstr "セントヘレナ、アセンション及びトリスタン・ダ・クーニャ"
+
+msgid "ISO_3166-1.SI"
+msgstr "スロベニア"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "スロベニア共和国"
+
+msgid "ISO_3166-1.SJ"
+msgstr "スヴァールバル及びヤンマイエン"
+
+msgid "ISO_3166-1.SK"
+msgstr "スロバキア"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "スロバキア共和国"
+
+msgid "ISO_3166-1.SL"
+msgstr "シエラレオネ"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "シエラレオネ共和国"
+
+msgid "ISO_3166-1.SM"
+msgstr "サンマリノ"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "サンマリノ共和国"
+
+msgid "ISO_3166-1.SN"
+msgstr "セネガル"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "セネガル共和国"
+
+msgid "ISO_3166-1.SO"
+msgstr "ソマリア"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "ソマリア連邦共和国"
+
+msgid "ISO_3166-1.SR"
+msgstr "スリナム"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "スリナム共和国"
+
+msgid "ISO_3166-1.SS"
+msgstr "南スーダン"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "南スーダン共和国"
+
+msgid "ISO_3166-1.ST"
+msgstr "サントメ・プリンシペ"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "サントメ・プリンシペ民主共和国"
+
+msgid "ISO_3166-1.SV"
+msgstr "エルサルバドル"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "エルサルバドル共和国"
+
+msgid "ISO_3166-1.SX"
+msgstr "サンマルタン (オランダ領)"
+
+msgid "ISO_3166-1.SY"
+msgstr "シリア・アラブ共和国"
+
+msgid "ISO_3166-1.SZ"
+msgstr "スワジランド"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "スワジランド王国"
+
+msgid "ISO_3166-1.TC"
+msgstr "タークス及びカイコス諸島"
+
+msgid "ISO_3166-1.TD"
+msgstr "チャド"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "チャド共和国"
+
+msgid "ISO_3166-1.TF"
+msgstr "フランス南方領土"
+
+msgid "ISO_3166-1.TG"
+msgstr "トーゴ"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "トーゴ共和国"
+
+msgid "ISO_3166-1.TH"
+msgstr "タイ"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "タイ王国"
+
+msgid "ISO_3166-1.TJ"
+msgstr "タジキスタン"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "タジキスタン共和国"
+
+msgid "ISO_3166-1.TK"
+msgstr "トケラウ"
+
+msgid "ISO_3166-1.TL"
+msgstr "東ティモール"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "東ティモール民主共和国"
+
+msgid "ISO_3166-1.TM"
+msgstr "トルクメニスタン"
+
+msgid "ISO_3166-1.TN"
+msgstr "チュニジア"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "チュニジア共和国"
+
+msgid "ISO_3166-1.TO"
+msgstr "トンガ"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "トンガ王国"
+
+msgid "ISO_3166-1.TR"
+msgstr "トルコ"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "トルコ共和国"
+
+msgid "ISO_3166-1.TT"
+msgstr "トリニダード・トバゴ"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "トリニダード・トバゴ共和国"
+
+msgid "ISO_3166-1.TV"
+msgstr "ツバル"
+
+msgid "ISO_3166-1.TW"
+msgstr "台湾"
+
+msgid "ISO_3166-1.TZ"
+msgstr "タニザニア連合共和国"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "タンザニア連合共和国"
+
+msgid "ISO_3166-1.UA"
+msgstr "ウクライナ"
+
+msgid "ISO_3166-1.UG"
+msgstr "ウガンダ"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "ウガンダ共和国"
+
+msgid "ISO_3166-1.UM"
+msgstr "アメリカ合衆国外諸島"
+
+msgid "ISO_3166-1.US"
+msgstr "米国"
+
+msgid "ISO_3166-1.US#official"
+msgstr "アメリカ合衆国"
+
+msgid "ISO_3166-1.UY"
+msgstr "ウルグアイ"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "ウルグアイ東方共和国"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ウズベキスタン"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "ウズベキスタン共和国"
+
+msgid "ISO_3166-1.VA"
+msgstr "聖庁 (バチカン市国)"
+
+msgid "ISO_3166-1.VC"
+msgstr "セントビンセント及びグレナディーン諸島"
+
+msgid "ISO_3166-1.VE"
+msgstr "ベネズエラ"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "ベネズエラ・ボリバル共和国"
+
+msgid "ISO_3166-1.VG"
+msgstr "英領ヴァージン諸島"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "英領ヴァージン諸島"
+
+msgid "ISO_3166-1.VI"
+msgstr "米領ヴァージン諸島"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "米領ヴァージン諸島"
+
+msgid "ISO_3166-1.VN"
+msgstr "ベトナム"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "ベトナム社会主義共和国"
+
+msgid "ISO_3166-1.VU"
+msgstr "バヌアツ"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "バヌアツ共和国"
+
+msgid "ISO_3166-1.WF"
+msgstr "ワリー及びフテュナ"
+
+msgid "ISO_3166-1.WS"
+msgstr "サモア"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "サモア独立国"
+
+msgid "ISO_3166-1.YE"
+msgstr "イエメン"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "イエメン共和国"
+
+msgid "ISO_3166-1.YT"
+msgstr "マヨット"
+
+msgid "ISO_3166-1.ZA"
+msgstr "南アフリカ"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "南アフリカ共和国"
+
+msgid "ISO_3166-1.ZM"
+msgstr "ザンビア"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "ザンビア共和国"
+
+msgid "ISO_3166-1.ZW"
+msgstr "ジンバブエ"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "ジンバブエ共和国"

@@ -1,0 +1,756 @@
+# ISO-3166 territory names in Mongolian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# This file is distributed under the LGPL License
+# Sanlig Badral <badral@chinggis.com>, 2003.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2003-02-12 21:40+0100\n"
+"Last-Translator: Sanlig Badral <badral@chinggis.com>\n"
+"Language-Team: Mongolian <mn@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Андорра"
+
+msgid "ISO_3166-1.AE"
+msgstr "Арабын нэгдсэн имерат"
+
+msgid "ISO_3166-1.AF"
+msgstr "Афганстан"
+
+msgid "ISO_3166-1.AL"
+msgstr "Албани"
+
+msgid "ISO_3166-1.AM"
+msgstr "Армен"
+
+msgid "ISO_3166-1.AO"
+msgstr "Ангол"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Антрактид"
+
+msgid "ISO_3166-1.AR"
+msgstr "Аргентин"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Төв африкын ард улс"
+
+msgid "ISO_3166-1.AS"
+msgstr "Америкын самао"
+
+msgid "ISO_3166-1.AT"
+msgstr "Австри"
+
+msgid "ISO_3166-1.AU"
+msgstr "Австрали"
+
+msgid "ISO_3166-1.AX"
+msgstr "Соломоны арлууд"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Азербайжан"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Азербайжан"
+
+msgid "ISO_3166-1.BA"
+msgstr "Босний ба Нерцеговин"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Босний ба Нерцеговин"
+
+msgid "ISO_3166-1.BB"
+msgstr "Барбадос"
+
+msgid "ISO_3166-1.BD"
+msgstr "Бангладеш"
+
+msgid "ISO_3166-1.BE"
+msgstr "Белги"
+
+msgid "ISO_3166-1.BG"
+msgstr "Болгар"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.BN"
+msgstr "Брунейн вант улс"
+
+msgid "ISO_3166-1.BR"
+msgstr "Бразил"
+
+msgid "ISO_3166-1.BT"
+msgstr "Бутан"
+
+msgid "ISO_3166-1.BY"
+msgstr "Белорусс"
+
+msgid "ISO_3166-1.CA"
+msgstr "Канад"
+
+msgid "ISO_3166-1.CD"
+msgstr "Ардчилсан Конго ард улс"
+
+msgid "ISO_3166-1.CF"
+msgstr "Төв африкын ард улс"
+
+msgid "ISO_3166-1.CG"
+msgstr "Конго"
+
+msgid "ISO_3166-1.CH"
+msgstr "Швецарь"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Оросын холбооны улс"
+
+msgid "ISO_3166-1.CL"
+msgstr "Чили"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.CM"
+msgstr "Камерун"
+
+msgid "ISO_3166-1.CN"
+msgstr "Хятад"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.CO"
+msgstr "Колумб"
+
+msgid "ISO_3166-1.CR"
+msgstr "Коста рика"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Коста рика"
+
+msgid "ISO_3166-1.CU"
+msgstr "Куба"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.CX"
+msgstr "Кристмас исланд"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Чех ард улс"
+
+msgid "ISO_3166-1.DE"
+msgstr "Герман"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.DK"
+msgstr "Дани"
+
+msgid "ISO_3166-1.DM"
+msgstr "Доминик"
+
+msgid "ISO_3166-1.DO"
+msgstr "Доминик ард улс"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Алжир"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Ардчилсан Конго ард улс"
+
+msgid "ISO_3166-1.EC"
+msgstr "Эквадор"
+
+msgid "ISO_3166-1.EE"
+msgstr "Эстони"
+
+msgid "ISO_3166-1.EG"
+msgstr "Египт"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.EH"
+msgstr "Баруун сахар"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Америкын нэгдсэн улс"
+
+msgid "ISO_3166-1.ES"
+msgstr "Испани"
+
+msgid "ISO_3166-1.ET"
+msgstr "Этопи"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Ардчилсан Конго ард улс"
+
+msgid "ISO_3166-1.FI"
+msgstr "Финнлянд"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.FR"
+msgstr "Франц"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Чех ард улс"
+
+msgid "ISO_3166-1.GA"
+msgstr "Габон"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Чех ард улс"
+
+msgid "ISO_3166-1.GD"
+msgstr "Гренда"
+
+msgid "ISO_3166-1.GE"
+msgstr "Георги"
+
+msgid "ISO_3166-1.GF"
+msgstr "Франц гана"
+
+msgid "ISO_3166-1.GG"
+msgstr "Герман"
+
+msgid "ISO_3166-1.GH"
+msgstr "Гана"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.GI"
+msgstr "Гибралтар"
+
+msgid "ISO_3166-1.GL"
+msgstr "Греенланд"
+
+msgid "ISO_3166-1.GM"
+msgstr "Гамби"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.GR"
+msgstr "Грек"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Чех ард улс"
+
+msgid "ISO_3166-1.GS"
+msgstr "Өмнөд георги ба өмнөд завсрын арлууд"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.HK"
+msgstr "Хонконг"
+
+msgid "ISO_3166-1.HM"
+msgstr "Төв исланд & МКдоналд исланд"
+
+msgid "ISO_3166-1.HN"
+msgstr "Гондурас"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.HU"
+msgstr "Унгар"
+
+msgid "ISO_3166-1.ID"
+msgstr "Индонез"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Индонез"
+
+msgid "ISO_3166-1.IE"
+msgstr "Ирланд"
+
+msgid "ISO_3166-1.IL"
+msgstr "Израйл"
+
+msgid "ISO_3166-1.IN"
+msgstr "Энэтхэг"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.IO"
+msgstr "Британий энэтхэгийн далайн нутаг  "
+
+msgid "ISO_3166-1.IQ"
+msgstr "Ирак"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.IR"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.IS"
+msgstr "Исланд"
+
+msgid "ISO_3166-1.IT"
+msgstr "Итали"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Төв африкын ард улс"
+
+msgid "ISO_3166-1.JM"
+msgstr "Ямайк"
+
+msgid "ISO_3166-1.JO"
+msgstr "Ёрдан"
+
+msgid "ISO_3166-1.JP"
+msgstr "Япон"
+
+msgid "ISO_3166-1.KE"
+msgstr "Кениа"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.KG"
+msgstr "Киргиз"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Чех ард улс"
+
+msgid "ISO_3166-1.KP"
+msgstr "Ардчилсан солонгос улс"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Ардчилсан солонгос улс"
+
+msgid "ISO_3166-1.KR"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.KW"
+msgstr "Кувейт"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Казакстан"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Казакстан"
+
+msgid "ISO_3166-1.LA"
+msgstr "Ардчилсан Конго ард улс"
+
+msgid "ISO_3166-1.LB"
+msgstr "Либони"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Чех ард улс"
+
+msgid "ISO_3166-1.LI"
+msgstr "Лейхтенштайн"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Лейхтенштайн"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Ардчилсан солонгос улс"
+
+msgid "ISO_3166-1.LU"
+msgstr "Льюксембург"
+
+msgid "ISO_3166-1.LV"
+msgstr "Латви"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.MA"
+msgstr "Морокко"
+
+msgid "ISO_3166-1.MC"
+msgstr "Монако"
+
+msgid "ISO_3166-1.MD"
+msgstr "Молдав"
+
+msgid "ISO_3166-1.MG"
+msgstr "Мадагаскар"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Мадагаскар"
+
+msgid "ISO_3166-1.MH"
+msgstr "Маршаллын арлууд"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Маршаллын арлууд"
+
+msgid "ISO_3166-1.MK"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.ML"
+msgstr "Мали"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.MM"
+msgstr "Мянмар"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.MN"
+msgstr "Монгол"
+
+msgid "ISO_3166-1.MO"
+msgstr "Макао"
+
+msgid "ISO_3166-1.MP"
+msgstr "Хойд марианы арлууд"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Хойд марианы арлууд"
+
+msgid "ISO_3166-1.MT"
+msgstr "Малта"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.MV"
+msgstr "Малдивс"
+
+msgid "ISO_3166-1.MW"
+msgstr "Малави"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.MX"
+msgstr "Мексик"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Америкын нэгдсэн улс"
+
+msgid "ISO_3166-1.MY"
+msgstr "Малайз"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Мозамбайк"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Мозамбайк"
+
+msgid "ISO_3166-1.NA"
+msgstr "Намиб"
+
+msgid "ISO_3166-1.NC"
+msgstr "Шинэ калдени"
+
+msgid "ISO_3166-1.NE"
+msgstr "Нигер"
+
+msgid "ISO_3166-1.NG"
+msgstr "Нигерь"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.NI"
+msgstr "Никрагуа"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Никрагуа"
+
+msgid "ISO_3166-1.NL"
+msgstr "Нидерланд"
+
+msgid "ISO_3166-1.NO"
+msgstr "Норвеги"
+
+msgid "ISO_3166-1.NP"
+msgstr "Нипал"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Ардчилсан Конго ард улс"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Шинэ зеланд"
+
+msgid "ISO_3166-1.OM"
+msgstr "Оман"
+
+msgid "ISO_3166-1.PA"
+msgstr "Панама"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.PE"
+msgstr "Перу"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.PH"
+msgstr "Флиппен"
+
+msgid "ISO_3166-1.PK"
+msgstr "Пакистан"
+
+msgid "ISO_3166-1.PL"
+msgstr "Польш"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.PR"
+msgstr "Пуерто рико"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Америкын нэгдсэн улс"
+
+msgid "ISO_3166-1.PT"
+msgstr "Португаль"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.PW"
+msgstr "Палау"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.PY"
+msgstr "Прагвай"
+
+msgid "ISO_3166-1.RO"
+msgstr "Румын"
+
+msgid "ISO_3166-1.RS"
+msgstr "Сири"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.RU"
+msgstr "Оросын холбооны улс"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Чех ард улс"
+
+msgid "ISO_3166-1.SA"
+msgstr "Саудын араб"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Саудын араб"
+
+msgid "ISO_3166-1.SB"
+msgstr "Соломоны арлууд"
+
+msgid "ISO_3166-1.SD"
+msgstr "Судан"
+
+msgid "ISO_3166-1.SE"
+msgstr "Швед"
+
+msgid "ISO_3166-1.SG"
+msgstr "Сингафур"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Сингафур"
+
+msgid "ISO_3166-1.SI"
+msgstr "Словени"
+
+msgid "ISO_3166-1.SK"
+msgstr "Словак"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Доминик ард улс"
+
+msgid "ISO_3166-1.SM"
+msgstr "Сан марино"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Сан марино"
+
+msgid "ISO_3166-1.SN"
+msgstr "Сингали"
+
+msgid "ISO_3166-1.SO"
+msgstr "Сомали"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.SS"
+msgstr "Өмнөд африк"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Өмнөд африк"
+
+msgid "ISO_3166-1.SV"
+msgstr "Эл салвадор"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Эл салвадор"
+
+msgid "ISO_3166-1.SY"
+msgstr "Төв африкын ард улс"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Швецарь"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Швецарь"
+
+msgid "ISO_3166-1.TD"
+msgstr "Чад"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.TG"
+msgstr "Того"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Чех ард улс"
+
+msgid "ISO_3166-1.TH"
+msgstr "Тайланд"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Тажикстан"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Тажикстан"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Ардчилсан Конго ард улс"
+
+msgid "ISO_3166-1.TM"
+msgstr "Туркменстан"
+
+msgid "ISO_3166-1.TN"
+msgstr "Тунгус"
+
+msgid "ISO_3166-1.TO"
+msgstr "Тонга"
+
+msgid "ISO_3166-1.TR"
+msgstr "Турк"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.TV"
+msgstr "Тували"
+
+msgid "ISO_3166-1.TW"
+msgstr "Тайван"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.UA"
+msgstr "Украйн"
+
+msgid "ISO_3166-1.UG"
+msgstr "Уганда"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.US"
+msgstr "Америкын нэгдсэн улс"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Америкын нэгдсэн улс"
+
+msgid "ISO_3166-1.UY"
+msgstr "Уругвай"
+
+msgid "ISO_3166-1.UZ"
+msgstr "узбекстан"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "узбекстан"
+
+msgid "ISO_3166-1.VE"
+msgstr "Винессуэл"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.VG"
+msgstr "Виржиний британи арлууд"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Виржиний АНУ арлууд"
+
+msgid "ISO_3166-1.VI"
+msgstr "Виржиний АНУ арлууд"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Виржиний британи арлууд"
+
+msgid "ISO_3166-1.VN"
+msgstr "Виетьнам"
+
+msgid "ISO_3166-1.WS"
+msgstr "Самоа"
+
+msgid "ISO_3166-1.YE"
+msgstr "Иемэн"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Өмнөд африк"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Өмнөд африк"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Замби"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Замбибаби"

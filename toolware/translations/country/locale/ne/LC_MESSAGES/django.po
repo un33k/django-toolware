@@ -1,0 +1,1259 @@
+# Translation of ISO-3166 (country names) to Nepali
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+#   Shyam Krishna Bal <shyamkrishna_bal@yahoo.com>, 2006.
+# Shiva Prasad Pokharel <pokharelshiva@hotmail.com>, 2006, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: ne_merge\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2011-02-22 16:39-0600\n"
+"Last-Translator: Shiva Prasad Pokharel <pokharelshiva@hotmail.com>\n"
+"Language-Team: Nepali <info@mpp.org.np>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=(n!=1)\n"
+"X-Generator: Lokalize 1.1\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "एनडोर्रा"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "एनडोर्राको राष्ट्र"
+
+msgid "ISO_3166-1.AE"
+msgstr "संयुक्त अरब इमिरेट्स"
+
+msgid "ISO_3166-1.AF"
+msgstr "अफगानिस्तान"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "पाकिस्थानको इस्लामिक गणराज्य"
+
+msgid "ISO_3166-1.AG"
+msgstr "एन्टिगुआ र बारबूढा"
+
+msgid "ISO_3166-1.AI"
+msgstr "एनगुइल्ला"
+
+msgid "ISO_3166-1.AL"
+msgstr "अल्बानिया"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "अल्बानिया गणराज्य "
+
+msgid "ISO_3166-1.AM"
+msgstr "अरमेनिया"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "अरमेनियाको गणराज्य"
+
+msgid "ISO_3166-1.AO"
+msgstr "एनगोला"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "एनगोलाको गणराज्य"
+
+msgid "ISO_3166-1.AQ"
+msgstr "अन्टार्टिका"
+
+msgid "ISO_3166-1.AR"
+msgstr "अरजेनटिना"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "अरजेनटिनी गणराज्य"
+
+msgid "ISO_3166-1.AS"
+msgstr "अमेरिकन सामोआ"
+
+msgid "ISO_3166-1.AT"
+msgstr "अष्ट्रिया"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "अष्ट्रियाको गणराज्य"
+
+msgid "ISO_3166-1.AU"
+msgstr "अष्ट्रेलिया"
+
+msgid "ISO_3166-1.AW"
+msgstr "अरुबा"
+
+msgid "ISO_3166-1.AX"
+msgstr "एल्याण्ड टापु"
+
+msgid "ISO_3166-1.AZ"
+msgstr "अजरबैजान"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "अजरबेजान गणराज्य"
+
+msgid "ISO_3166-1.BA"
+msgstr "बोस्नीया र हर्जगोभिना"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "बोस्नीया र हर्जगोभिनाको गणराज्य"
+
+msgid "ISO_3166-1.BB"
+msgstr "बारबाडोस"
+
+msgid "ISO_3166-1.BD"
+msgstr "बंगलादेश"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "बंगलादेशी जनताको गणराज्य"
+
+msgid "ISO_3166-1.BE"
+msgstr "बेल्जियम"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "बेल्जियमको अधिराज्य"
+
+msgid "ISO_3166-1.BF"
+msgstr "बुर्किना फासो"
+
+msgid "ISO_3166-1.BG"
+msgstr "बुलगेरिया"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "बुलगेरियाको गणराज्य"
+
+msgid "ISO_3166-1.BH"
+msgstr "बहराइन"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "बहराइनको अधिराज्य"
+
+msgid "ISO_3166-1.BI"
+msgstr "बुरण्डी"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "बुरण्डी गणराज्य"
+
+msgid "ISO_3166-1.BJ"
+msgstr "बेनिन"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "बेनिन गणराज्य "
+
+msgid "ISO_3166-1.BL"
+msgstr "शन्त Barthelemy"
+
+msgid "ISO_3166-1.BM"
+msgstr "बरमुढा"
+
+msgid "ISO_3166-1.BN"
+msgstr "ब्रुनाई दारुसलाम"
+
+msgid "ISO_3166-1.BO"
+msgstr "बोलिभिया"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "बहुराष्ट्रिय रेाज्य बोलिबिया"
+
+msgid "ISO_3166-1.BQ"
+msgstr "बोनाइर, सेन्ट ईयुस्टासस् र साबा"
+
+msgid "ISO_3166-1.BR"
+msgstr "ब्राजिल"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "ब्राजिलको संघटित गणराज्य"
+
+msgid "ISO_3166-1.BS"
+msgstr "बहामास"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "बहामासको साझा धन"
+
+msgid "ISO_3166-1.BT"
+msgstr "भुटान"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "भुटानको अधिराज्य"
+
+msgid "ISO_3166-1.BV"
+msgstr "बोउवेट टापु"
+
+msgid "ISO_3166-1.BW"
+msgstr "बोट्सवाना"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "बोट्सवानाको गणराज्य"
+
+msgid "ISO_3166-1.BY"
+msgstr "बेलारूस"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "बेलारुसी गणराज्य"
+
+msgid "ISO_3166-1.BZ"
+msgstr "बेलिज"
+
+msgid "ISO_3166-1.CA"
+msgstr "क्यानाडा"
+
+msgid "ISO_3166-1.CC"
+msgstr "कोकोस (किलिङ्) टापु"
+
+msgid "ISO_3166-1.CD"
+msgstr "कोङ्गो को प्रजातन्त्रिक गणराज्य"
+
+msgid "ISO_3166-1.CF"
+msgstr "केन्द्रिय अफ्रिकी गणराज्य"
+
+msgid "ISO_3166-1.CG"
+msgstr "कोङ्गो"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "कोङ्गोको गणराज्य"
+
+msgid "ISO_3166-1.CH"
+msgstr "स्विजरल्याण्ड"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "स्वीस संघ"
+
+msgid "ISO_3166-1.CI"
+msgstr "Côte d'Ivoire"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "गणराज्य Côte d'Ivoire"
+
+msgid "ISO_3166-1.CK"
+msgstr "कुक टापु"
+
+msgid "ISO_3166-1.CL"
+msgstr "चिली"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "चिलीको गणराज्य"
+
+msgid "ISO_3166-1.CM"
+msgstr "क्यामरुन"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "क्यामरुनको गणराज्य"
+
+msgid "ISO_3166-1.CN"
+msgstr "चीन"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "चिनिया जनताको गणराज्य"
+
+msgid "ISO_3166-1.CO"
+msgstr "कोलम्बिया"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "कोलम्बियाको गणराज्य"
+
+msgid "ISO_3166-1.CR"
+msgstr "कोस्टारिका"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "कोस्टारिकाको गणराज्य"
+
+msgid "ISO_3166-1.CU"
+msgstr "क्यूबा"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "क्यूबाको गणराज्य"
+
+msgid "ISO_3166-1.CV"
+msgstr "केप वर्दी"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "केप वर्दीको गणराज्य"
+
+msgid "ISO_3166-1.CW"
+msgstr "कुराकाव"
+
+msgid "ISO_3166-1.CX"
+msgstr "क्रिसमस टापु"
+
+msgid "ISO_3166-1.CY"
+msgstr "साइप्रस"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "साइप्रसको गणराज्य"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Czech गणराज्य"
+
+msgid "ISO_3166-1.DE"
+msgstr "जर्मनी"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "जर्मनीको संघीय गणराज्य"
+
+msgid "ISO_3166-1.DJ"
+msgstr "जिबोउटी"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "जिबोउटीको गणराज्य"
+
+msgid "ISO_3166-1.DK"
+msgstr "डेनमार्क"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "डेनमार्कको अधिराज्य"
+
+msgid "ISO_3166-1.DM"
+msgstr "डोमिनिका"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "डोमिनिकाको साझा धन"
+
+msgid "ISO_3166-1.DO"
+msgstr "डोमिनिकन गणराज्य"
+
+msgid "ISO_3166-1.DZ"
+msgstr "अल्जेरिया"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "अल्जेरियाको जनताहरुको प्रजातन्त्रिक गणराज्य"
+
+msgid "ISO_3166-1.EC"
+msgstr "इक्वेडर"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "इक्वेडरको गणराज्य"
+
+msgid "ISO_3166-1.EE"
+msgstr "इस्टोनिया"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "इस्टोनियाको गणराज्य"
+
+msgid "ISO_3166-1.EG"
+msgstr "इजिप्ट"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "इजिप्टको अरब गणराज्य"
+
+msgid "ISO_3166-1.EH"
+msgstr "पश्चिमी सहारा"
+
+msgid "ISO_3166-1.ER"
+msgstr "एरिट्रिया"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "संयुक्त राज्य अमेरिका"
+
+msgid "ISO_3166-1.ES"
+msgstr "स्पेन"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "स्पेनको अधिराज्य"
+
+msgid "ISO_3166-1.ET"
+msgstr "इथियोपिया"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "इथियोपियाको संघीय प्रजातन्त्रिक गणराज्य"
+
+msgid "ISO_3166-1.FI"
+msgstr "फिन्ल्यान्ड"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "फिन्ल्यान्डको गणराज्य"
+
+msgid "ISO_3166-1.FJ"
+msgstr "फिजी"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "हैटिको गणराज्य"
+
+msgid "ISO_3166-1.FK"
+msgstr "फकल्याण्ड टापु (Malvinas)"
+
+msgid "ISO_3166-1.FM"
+msgstr "मिक्रोनेसियाको संघिय राज्यहरू"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "मिक्रोनेसियाको संघिय राज्यहरू"
+
+msgid "ISO_3166-1.FO"
+msgstr "फारो टापु"
+
+msgid "ISO_3166-1.FR"
+msgstr "फ्रान्स"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "फ्रेन्च गणराज्य"
+
+msgid "ISO_3166-1.GA"
+msgstr "गाबोन"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "गाबोनिज गणराज्य"
+
+msgid "ISO_3166-1.GB"
+msgstr "संयुक्त अधिराज्य"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "ग्रेट ब्रिटेन र उत्तरी आयरल्याण्डको संयक्त अधिराज्य"
+
+msgid "ISO_3166-1.GD"
+msgstr "ग्रिनाडा"
+
+msgid "ISO_3166-1.GE"
+msgstr "जर्जिया"
+
+msgid "ISO_3166-1.GF"
+msgstr "फ्रेन्च जिनिया"
+
+msgid "ISO_3166-1.GG"
+msgstr "गुइन्सी"
+
+msgid "ISO_3166-1.GH"
+msgstr "घाना"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "घानाको गणराज्य"
+
+msgid "ISO_3166-1.GI"
+msgstr "गिब्रिलटार"
+
+msgid "ISO_3166-1.GL"
+msgstr "ग्रिनल्याण्ड"
+
+msgid "ISO_3166-1.GM"
+msgstr "गाम्बीया"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "गाम्बीयाको गणराज्य"
+
+msgid "ISO_3166-1.GN"
+msgstr "जिनिया"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "जिनियाको गणराज्य"
+
+msgid "ISO_3166-1.GP"
+msgstr "ग्वादेलोप"
+
+msgid "ISO_3166-1.GQ"
+msgstr "इक्वेटरियल जिनीया"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "इक्वेटरियल जिनीयाको गणराज्य"
+
+msgid "ISO_3166-1.GR"
+msgstr "ग्रीस"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "हेलेनिक गणराज्य"
+
+msgid "ISO_3166-1.GS"
+msgstr "दक्षिण जर्जिया र दक्षिण स्यान्डविच टापु"
+
+msgid "ISO_3166-1.GT"
+msgstr "ग्वाटेमाला"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "ग्वाटेमालाको गणराज्य"
+
+msgid "ISO_3166-1.GU"
+msgstr "ग्वाम"
+
+msgid "ISO_3166-1.GW"
+msgstr "गिइनि बिसाउ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "गिइनि बिसाउको गणराज्य"
+
+msgid "ISO_3166-1.GY"
+msgstr "गुयाना"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "गुयानाको गणराज्य"
+
+msgid "ISO_3166-1.HK"
+msgstr "हङकङ"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "चीनको हङकङ विशेष प्रशासनिक प्रदेश"
+
+msgid "ISO_3166-1.HM"
+msgstr "हर्ड टापु र एमसी डोनाल्ड टापु"
+
+msgid "ISO_3166-1.HN"
+msgstr "हन्डुरस्"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "हन्डुरस्को गणराज्य"
+
+msgid "ISO_3166-1.HR"
+msgstr "क्रोएशिया"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "क्रोएशियाको गणराज्य"
+
+msgid "ISO_3166-1.HT"
+msgstr "हैटि"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "हैटिको गणराज्य"
+
+msgid "ISO_3166-1.HU"
+msgstr "हङ्गेरी"
+
+msgid "ISO_3166-1.ID"
+msgstr "इन्डोनेसिया"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "इन्डोनेसियाको गणराज्य"
+
+msgid "ISO_3166-1.IE"
+msgstr "आयरल्याण्ड"
+
+msgid "ISO_3166-1.IL"
+msgstr "इज्रायल"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "इज्रायलको राज्य"
+
+msgid "ISO_3166-1.IM"
+msgstr "मानव द्वीप"
+
+msgid "ISO_3166-1.IN"
+msgstr "भारत"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "भारतको गणराज्य"
+
+msgid "ISO_3166-1.IO"
+msgstr "बृटिश इन्डियन सामुन्द्रिक क्षेत्र"
+
+msgid "ISO_3166-1.IQ"
+msgstr "इराक"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "इराकको गणराज्य"
+
+msgid "ISO_3166-1.IR"
+msgstr "इरान, इस्लामिक गणराज्य"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "इरानको इस्लामिक गणराज्य"
+
+msgid "ISO_3166-1.IS"
+msgstr "आइसल्याण्ड"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "आइसल्याण्डको गणराज्य"
+
+msgid "ISO_3166-1.IT"
+msgstr "इटाली"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ईटालीयन गणराज्य"
+
+msgid "ISO_3166-1.JE"
+msgstr "जर्सी"
+
+msgid "ISO_3166-1.JM"
+msgstr "जमैका"
+
+msgid "ISO_3166-1.JO"
+msgstr "जोर्डन"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "जोर्डनको हसेमाइट अधिराज्य"
+
+msgid "ISO_3166-1.JP"
+msgstr "जापान"
+
+msgid "ISO_3166-1.KE"
+msgstr "केन्या"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "केन्याको गणराज्य"
+
+msgid "ISO_3166-1.KG"
+msgstr "किर्जिस्तान"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "किर्गिज गणराज्य"
+
+msgid "ISO_3166-1.KH"
+msgstr "क्याम्बोडिया"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "क्याम्बोडियाको अधिराज्य "
+
+msgid "ISO_3166-1.KI"
+msgstr "किरिबाटी"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "किरिबाटीको गणराज्य"
+
+msgid "ISO_3166-1.KM"
+msgstr "कोमोरोस"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "कोमोरोसको मेल"
+
+msgid "ISO_3166-1.KN"
+msgstr "सेन्ट किट्स र नेभिस"
+
+msgid "ISO_3166-1.KP"
+msgstr "कोरियाको प्रजातन्त्रिक जनगणराज्य"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "कोरियाको प्रजातन्त्रिक जनगणराज्य"
+
+msgid "ISO_3166-1.KR"
+msgstr "कोरियाको गणराज्य"
+
+msgid "ISO_3166-1.KW"
+msgstr "कुवेत"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "कुवेतको राज्य"
+
+msgid "ISO_3166-1.KY"
+msgstr "सैम्यान टापु"
+
+msgid "ISO_3166-1.KZ"
+msgstr "काजखास्तान"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "काजखास्तानको गणराज्य"
+
+msgid "ISO_3166-1.LA"
+msgstr "लाओ जनताको प्रजातन्त्रिक गणराज्य"
+
+msgid "ISO_3166-1.LB"
+msgstr "लेबनान"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "लेबनानिज गणराज्य"
+
+msgid "ISO_3166-1.LC"
+msgstr "सेन्ट लुसिया"
+
+msgid "ISO_3166-1.LI"
+msgstr "लिचटेन्सटाइन"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "लिचटेन्सटाइनको राष्ट्र"
+
+msgid "ISO_3166-1.LK"
+msgstr "श्री लङ्का"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "श्रीलङ्काको प्रजातन्त्रिक समाजवादी गणराज्य"
+
+msgid "ISO_3166-1.LR"
+msgstr "लिबेरीया"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "लिबेरीयाको गणराज्य"
+
+msgid "ISO_3166-1.LS"
+msgstr "लेसोथो"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "लेसोथोको अधिराज्य"
+
+msgid "ISO_3166-1.LT"
+msgstr "लिथुआनिया"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "लिथुआनियाको गणराज्य"
+
+msgid "ISO_3166-1.LU"
+msgstr "लक्जेम्बर्ग"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "लक्जेम्बर्गको ग्राण्ड डुचि"
+
+msgid "ISO_3166-1.LV"
+msgstr "लात्भिया"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "लात्भियाको गणराज्य"
+
+msgid "ISO_3166-1.LY"
+msgstr "लिबेया"
+
+msgid "ISO_3166-1.MA"
+msgstr "मोरक्को"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "मोरक्कोको अधिराज्य"
+
+msgid "ISO_3166-1.MC"
+msgstr "मोनाको"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "मोनाकोको राष्ट्र"
+
+msgid "ISO_3166-1.MD"
+msgstr "मोल्डोभा"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "मोल्डोभाको गणराज्य"
+
+msgid "ISO_3166-1.ME"
+msgstr "मोन्टेनेग्रो"
+
+msgid "ISO_3166-1.MF"
+msgstr "शन्त Martin (French तर्फ)"
+
+msgid "ISO_3166-1.MG"
+msgstr "मदगास्कार"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "मदगास्कारको गणराज्य"
+
+msgid "ISO_3166-1.MH"
+msgstr "मार्शल टापु"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "मार्सल टापुको गणराज्य"
+
+msgid "ISO_3166-1.MK"
+msgstr "मसेडोनियाको गणराज्य"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "मसेडोनियाको अघिल्लो युगोस्लाभ गणराज्य"
+
+msgid "ISO_3166-1.ML"
+msgstr "माली"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "मालीको गणराज्य"
+
+msgid "ISO_3166-1.MM"
+msgstr "म्यान्मार"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "गुयानाको गणराज्य"
+
+msgid "ISO_3166-1.MN"
+msgstr "मङ्गोलिया"
+
+msgid "ISO_3166-1.MO"
+msgstr "मकाओ"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "चीनको मकाओ विशेष प्रशासनिक प्रदेश"
+
+msgid "ISO_3166-1.MP"
+msgstr "उत्तरिय मरिआना टापु"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "उत्तरिय मरिआना टापुको साझा धन"
+
+msgid "ISO_3166-1.MQ"
+msgstr "मार्टिनिक"
+
+msgid "ISO_3166-1.MR"
+msgstr "माउरिटानिया"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "माउरिटानियाको इस्लामिक गणराज्य"
+
+msgid "ISO_3166-1.MS"
+msgstr "मोनसेराट"
+
+msgid "ISO_3166-1.MT"
+msgstr "माल्टा"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "माल्टाको गणराज्य"
+
+msgid "ISO_3166-1.MU"
+msgstr "माउरिसस"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "माउरिससको गणराज्य"
+
+msgid "ISO_3166-1.MV"
+msgstr "मालदिव्स"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "माालदिव्को गणराज्यस"
+
+msgid "ISO_3166-1.MW"
+msgstr "मालावी"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "मालावीको गणराज्य"
+
+msgid "ISO_3166-1.MX"
+msgstr "मेक्सिको"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "युनाइटेड मेक्सिकन राज्यहरू"
+
+msgid "ISO_3166-1.MY"
+msgstr "मलेशिया"
+
+msgid "ISO_3166-1.MZ"
+msgstr "मोजाम्बिक"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "मोजाम्बिकको राज्य"
+
+msgid "ISO_3166-1.NA"
+msgstr "नामिबिया"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "नामिबियाको गणराज्य"
+
+msgid "ISO_3166-1.NC"
+msgstr "नयाँ क्यालेदोनिया"
+
+msgid "ISO_3166-1.NE"
+msgstr "निगर"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "निगरको गणराज्य"
+
+msgid "ISO_3166-1.NF"
+msgstr "नर फक टापु"
+
+msgid "ISO_3166-1.NG"
+msgstr "नाइजेरिया"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "नाइजेरियाको संघीय गणराज्य"
+
+msgid "ISO_3166-1.NI"
+msgstr "निकारागुवा"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "निकारागुवाको गणराज्य"
+
+msgid "ISO_3166-1.NL"
+msgstr "नेदरल्याण्ड"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "नेदरल्याण्डको अधिराज्य"
+
+msgid "ISO_3166-1.NO"
+msgstr "नर्वे"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "नर्वेको अधिराज्य"
+
+msgid "ISO_3166-1.NP"
+msgstr "नेपाल"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "संघीय प्रजातन्त्रिक गणराज्य, ईथोपिया"
+
+msgid "ISO_3166-1.NR"
+msgstr "नाउरु"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "नाउरुको गणराज्य"
+
+msgid "ISO_3166-1.NU"
+msgstr "निउ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "न्युजिल्याण्ड"
+
+msgid "ISO_3166-1.OM"
+msgstr "ओमन"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ओमनको सलटानेट"
+
+msgid "ISO_3166-1.PA"
+msgstr "पानामा"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "पानामाको गणराज्य"
+
+msgid "ISO_3166-1.PE"
+msgstr "पेरु"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "पेरुको गणराज्य"
+
+msgid "ISO_3166-1.PF"
+msgstr "फ्रेन्च पोलिनेसीया"
+
+msgid "ISO_3166-1.PG"
+msgstr "पपुवा न्यू जिनिया"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "समाओको स्वतन्त्र राज्य"
+
+msgid "ISO_3166-1.PH"
+msgstr "फिलिपिन्स"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "फिलिपिन्सको गणराज्य"
+
+msgid "ISO_3166-1.PK"
+msgstr "पाकिस्तान"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "पाकिस्तानको इस्लामिक गणराज्य"
+
+msgid "ISO_3166-1.PL"
+msgstr "पोल्याण्ड"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "पोल्याण्डको गणराज्य"
+
+msgid "ISO_3166-1.PM"
+msgstr "सेन्ट पिइर्रे र मिक्युलोन"
+
+msgid "ISO_3166-1.PN"
+msgstr "पितकैरन"
+
+msgid "ISO_3166-1.PR"
+msgstr "पुरटोरिको"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "संयुक्त राज्य अमेरिका"
+
+msgid "ISO_3166-1.PT"
+msgstr "पोर्चुगल"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "पोर्चुग्युज गणराज्य"
+
+msgid "ISO_3166-1.PW"
+msgstr "पालाउ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "पालाउको गणराज्य"
+
+msgid "ISO_3166-1.PY"
+msgstr "पराग्वे"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "पराग्वेको गणराज्य"
+
+msgid "ISO_3166-1.QA"
+msgstr "कतार"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "कतारको राज्य"
+
+msgid "ISO_3166-1.RE"
+msgstr "रियूनियन"
+
+msgid "ISO_3166-1.RO"
+msgstr "रोमानिया"
+
+msgid "ISO_3166-1.RS"
+msgstr "सर्बिया"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "सर्बियाली गणराज्य"
+
+msgid "ISO_3166-1.RU"
+msgstr "रसियन संघ"
+
+msgid "ISO_3166-1.RW"
+msgstr "र्वान्डा"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "र्वान्डिज गणराज्य"
+
+msgid "ISO_3166-1.SA"
+msgstr "साउदी अरब"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "सउदी अरबको अधिराज्य"
+
+msgid "ISO_3166-1.SB"
+msgstr "सोलोमन टापु"
+
+msgid "ISO_3166-1.SC"
+msgstr "सिचेल्लिस"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "सिचेल्लिसको गणराज्य"
+
+msgid "ISO_3166-1.SD"
+msgstr "सुडान"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "सुडानको गणराज्य"
+
+msgid "ISO_3166-1.SE"
+msgstr "स्विडेन"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "स्विडेनको अधिराज्य"
+
+msgid "ISO_3166-1.SG"
+msgstr "सिंगापुर"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "सिंगापुरकलो गणराज्य"
+
+msgid "ISO_3166-1.SH"
+msgstr "शन्त Helena, Ascension र Tristan da Cuncha"
+
+msgid "ISO_3166-1.SI"
+msgstr "स्लोभेनिया"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "स्लोभेनियाको गणराज्य"
+
+msgid "ISO_3166-1.SJ"
+msgstr "स्भालबार्ड र जान मायेन"
+
+msgid "ISO_3166-1.SK"
+msgstr "स्लोभाकिया"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "स्लोभाक गणराज्य"
+
+msgid "ISO_3166-1.SL"
+msgstr "साइरा लिओनरा"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "साइरा लिओनराको गणराज्य"
+
+msgid "ISO_3166-1.SM"
+msgstr "सान मारिनो"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "सान मारिनोको गणराज्य"
+
+msgid "ISO_3166-1.SN"
+msgstr "सेनेगल"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "सेनेगलको गणराज्य"
+
+msgid "ISO_3166-1.SO"
+msgstr "सोमालिया"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "जर्मनीको संघीय गणराज्य"
+
+msgid "ISO_3166-1.SR"
+msgstr "सुरिनेम"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "सुरिनेमको गणराज्य"
+
+msgid "ISO_3166-1.SS"
+msgstr "सुडानको गणराज्य"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "सुडानको गणराज्य"
+
+msgid "ISO_3166-1.ST"
+msgstr "साओ टोम र प्रिन्सिपे"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "साओ टोम र प्रिन्सिपेको प्रजातन्त्रिक गणराज्य"
+
+msgid "ISO_3166-1.SV"
+msgstr "इल साल्भाडोर"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "इल साल्भाडरको गणराज्य"
+
+msgid "ISO_3166-1.SX"
+msgstr "सिन्ट मार्टेन(डच अंश)"
+
+msgid "ISO_3166-1.SY"
+msgstr "सिरियन अरब गणराज्य"
+
+msgid "ISO_3166-1.SZ"
+msgstr "स्वजिल्याण्ड"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "स्वजिल्याण्डको अधिराज्य"
+
+msgid "ISO_3166-1.TC"
+msgstr "टर्क्स र काइकस टापु"
+
+msgid "ISO_3166-1.TD"
+msgstr "चाद"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "चादको गणराज्य"
+
+msgid "ISO_3166-1.TF"
+msgstr "फ्रेन्च दक्षिणी क्षेत्रहरू"
+
+msgid "ISO_3166-1.TG"
+msgstr "टोगो"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "टोगिलिज गणराज्य"
+
+msgid "ISO_3166-1.TH"
+msgstr "थाइल्याण्ड"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "थाइल्याण्डको अधिराज्य"
+
+msgid "ISO_3166-1.TJ"
+msgstr "ताजिकिस्तान"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "ताजिकिस्तानको गणराज्य"
+
+msgid "ISO_3166-1.TK"
+msgstr "टोकेलाउ"
+
+msgid "ISO_3166-1.TL"
+msgstr "टिमोर-लेस्टे"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "टिमोर-लेस्टेको प्रजातन्त्रिक गणराज्य"
+
+msgid "ISO_3166-1.TM"
+msgstr "टुर्कमेनिस्तान"
+
+msgid "ISO_3166-1.TN"
+msgstr "टुनिसिया"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "टुनिसियाको गणराज्य"
+
+msgid "ISO_3166-1.TO"
+msgstr "टोङ्गा"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "टोङ्गाको अधिराज्य"
+
+msgid "ISO_3166-1.TR"
+msgstr "टर्की"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "टर्की गणराज्य"
+
+msgid "ISO_3166-1.TT"
+msgstr "ट्रिनिड्याड र टोबागो"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "ट्रिनिड्याड र टोबागोको गणराज्य"
+
+msgid "ISO_3166-1.TV"
+msgstr "टुवालु"
+
+msgid "ISO_3166-1.TW"
+msgstr "ताइवान"
+
+msgid "ISO_3166-1.TZ"
+msgstr "तान्जानियाको संयक्त गणराज्यज्य"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "तान्जानियाको संयक्त गणराज्य"
+
+msgid "ISO_3166-1.UA"
+msgstr "युक्रेन"
+
+msgid "ISO_3166-1.UG"
+msgstr "उगान्डा"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "उगान्डाको गणराज्य"
+
+msgid "ISO_3166-1.UM"
+msgstr "संयुक्त राज्य माइनर आउट लाईङ टापु"
+
+msgid "ISO_3166-1.US"
+msgstr "संयुक्त राज्य"
+
+msgid "ISO_3166-1.US#official"
+msgstr "संयुक्त राज्य अमेरिका"
+
+msgid "ISO_3166-1.UY"
+msgstr "उरुग्वे"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "उरुग्वेको पूर्विय गणराज्य"
+
+msgid "ISO_3166-1.UZ"
+msgstr "उज्बेकिस्तान"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "उज्बेकिस्तानको गणराज्य"
+
+msgid "ISO_3166-1.VA"
+msgstr "होली सि (भ्याटिकन सिटि राज्य)"
+
+msgid "ISO_3166-1.VC"
+msgstr "सेन्ट भिन्सेन्ट र ग्रेनडिन्स"
+
+msgid "ISO_3166-1.VE"
+msgstr "वेनेजुएला"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "वेनेजुएलाको बोलिभेरियन गणराज्य"
+
+msgid "ISO_3166-1.VG"
+msgstr "भर्जिन टापु, बेलायत"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ब्रिटिश भर्जिन टापु"
+
+msgid "ISO_3166-1.VI"
+msgstr "भर्जिन टापु, संयुक्त राज्य"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "संयुक्त राज्यको भर्जिन टापु"
+
+msgid "ISO_3166-1.VN"
+msgstr "भिएतनाम"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "भिएतनामको समाजवादी गणराज्य"
+
+msgid "ISO_3166-1.VU"
+msgstr "वानुआटु"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "वानुआटुको गणराज्य"
+
+msgid "ISO_3166-1.WF"
+msgstr "वाल्लिस र फुटुना"
+
+msgid "ISO_3166-1.WS"
+msgstr "समाओ"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "समाओको स्वतन्त्र राज्य"
+
+msgid "ISO_3166-1.YE"
+msgstr "येमेन"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "येमेनको गणराज्य"
+
+msgid "ISO_3166-1.YT"
+msgstr "मायोट्टे"
+
+msgid "ISO_3166-1.ZA"
+msgstr "दक्षिण अफ्रिका"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "दक्षिण अफ्रिकाको गणराज्य"
+
+msgid "ISO_3166-1.ZM"
+msgstr "जाम्बिया"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "जाम्बियाको गणराज्य"
+
+msgid "ISO_3166-1.ZW"
+msgstr "जिम्बावे"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "जिम्बावेको गणराज्य"

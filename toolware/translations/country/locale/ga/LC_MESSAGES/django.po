@@ -1,0 +1,1261 @@
+# Translation of ISO-3166 (country names) to Irish
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+# Free Software Foundation, Inc., 2001,2003
+# Alastair McKinstry <mckinstry@debian>, 2001.
+# Kevin Scannell <kscanne@gmail.com>, 2008, 2009, 2010, 2011, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-03-03 11:35-0600\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Andóra"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Prionsacht Andóra"
+
+msgid "ISO_3166-1.AE"
+msgstr "Aontas na nÉimíríochtaí Arabacha"
+
+msgid "ISO_3166-1.AF"
+msgstr "An Afganastáin"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Poblacht Ioslamach na hAfganastáine"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigua agus Barbuda"
+
+msgid "ISO_3166-1.AI"
+msgstr "Anguilla"
+
+msgid "ISO_3166-1.AL"
+msgstr "An Albáin"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Poblacht na hAlbáine"
+
+msgid "ISO_3166-1.AM"
+msgstr "An Airméin"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Poblacht na hAirméine"
+
+msgid "ISO_3166-1.AO"
+msgstr "Angóla"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Poblacht Angóla"
+
+msgid "ISO_3166-1.AQ"
+msgstr "an Antartaice"
+
+msgid "ISO_3166-1.AR"
+msgstr "An Airgintín"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Poblacht na hAirgintín"
+
+msgid "ISO_3166-1.AS"
+msgstr "Samó Meiriceánach"
+
+msgid "ISO_3166-1.AT"
+msgstr "An Ostair"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Poblacht na hOstaire"
+
+msgid "ISO_3166-1.AU"
+msgstr "An Astráil"
+
+msgid "ISO_3166-1.AW"
+msgstr "Aruba"
+
+msgid "ISO_3166-1.AX"
+msgstr "Oileáin Åland"
+
+msgid "ISO_3166-1.AZ"
+msgstr "An Asarbaiseáin"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Poblacht na hAsarbaiseáine"
+
+msgid "ISO_3166-1.BA"
+msgstr "An Bhoisnia-Heirseagaivéin"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Poblacht na Boisnia-Heirseagaivéin"
+
+msgid "ISO_3166-1.BB"
+msgstr "Barbadós"
+
+msgid "ISO_3166-1.BD"
+msgstr "An Bhanglaidéis"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Daonphoblacht na Banglaidéise"
+
+msgid "ISO_3166-1.BE"
+msgstr "An Bheilg"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Ríocht na Beilge"
+
+msgid "ISO_3166-1.BF"
+msgstr "Buircíne Fasó"
+
+msgid "ISO_3166-1.BG"
+msgstr "An Bhulgáir"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Poblacht na Bulgáire"
+
+msgid "ISO_3166-1.BH"
+msgstr "Bairéin"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Ríocht Bhairéin"
+
+msgid "ISO_3166-1.BI"
+msgstr "An Bhurúin"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Poblacht na Burúine"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Beinin"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Poblacht na Beinin"
+
+msgid "ISO_3166-1.BL"
+msgstr "San Parthalán"
+
+msgid "ISO_3166-1.BM"
+msgstr "Na Beirmiúdaí"
+
+msgid "ISO_3166-1.BN"
+msgstr "Brúiné Dárasalám"
+
+msgid "ISO_3166-1.BO"
+msgstr "An Bholaiv"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Stát Ilnáisiúnta na Bolaive"
+
+msgid "ISO_3166-1.BQ"
+msgstr "Bonaire, San Eustatius agus Saba"
+
+msgid "ISO_3166-1.BR"
+msgstr "An Bhrasaíl"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Poblacht Chónascach na Brasaíle"
+
+msgid "ISO_3166-1.BS"
+msgstr "Na Bahámaí"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "Comhlathas na mBahámaí"
+
+msgid "ISO_3166-1.BT"
+msgstr "An Bhútáin"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Ríocht na Bútáine"
+
+msgid "ISO_3166-1.BV"
+msgstr "Oileán Bouvet"
+
+msgid "ISO_3166-1.BW"
+msgstr "An Bhotsuáin"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Poblacht na Botsuáine"
+
+msgid "ISO_3166-1.BY"
+msgstr "An Bhílearúis"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Poblacht na Bílearúise"
+
+msgid "ISO_3166-1.BZ"
+msgstr "An Bheilís"
+
+msgid "ISO_3166-1.CA"
+msgstr "Ceanada"
+
+msgid "ISO_3166-1.CC"
+msgstr "Oileáin Cocos (Oileáin Keeling)"
+
+msgid "ISO_3166-1.CD"
+msgstr "Poblacht Dhaonlathach an Chongó"
+
+msgid "ISO_3166-1.CF"
+msgstr "Poblacht na hAfraice Láir"
+
+msgid "ISO_3166-1.CG"
+msgstr "An Congó"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Poblacht an Chongó"
+
+msgid "ISO_3166-1.CH"
+msgstr "An Eilvéis"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Cónaidhm na hEilvéise"
+
+msgid "ISO_3166-1.CI"
+msgstr "An Cósta Eabhair"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Poblacht an Chósta Eabhair"
+
+msgid "ISO_3166-1.CK"
+msgstr "Oileáin Cook"
+
+msgid "ISO_3166-1.CL"
+msgstr "An tSile"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Poblacht na Sile"
+
+msgid "ISO_3166-1.CM"
+msgstr "Camarún"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Poblacht Chamarún"
+
+msgid "ISO_3166-1.CN"
+msgstr "An tSín"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Daonphoblacht na Síne"
+
+msgid "ISO_3166-1.CO"
+msgstr "An Cholóim"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Poblacht na Colóime"
+
+msgid "ISO_3166-1.CR"
+msgstr "Cósta Rice"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Poblacht an Chósta Rice"
+
+msgid "ISO_3166-1.CU"
+msgstr "Cúba"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Poblacht Chúba"
+
+msgid "ISO_3166-1.CV"
+msgstr "Rinn Verde"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Poblacht Rinn Verde"
+
+msgid "ISO_3166-1.CW"
+msgstr "Curasao"
+
+msgid "ISO_3166-1.CX"
+msgstr "Oileán na Nollag"
+
+msgid "ISO_3166-1.CY"
+msgstr "An Chipir"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Poblacht na Cipire"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Poblacht na Seice"
+
+msgid "ISO_3166-1.DE"
+msgstr "An Ghearmáin"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Poblacht Chónaidhme na Gearmáine"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Djibouti"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Poblacht Djibouti"
+
+msgid "ISO_3166-1.DK"
+msgstr "An Danmhairg"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Ríocht na Danmhairge"
+
+msgid "ISO_3166-1.DM"
+msgstr "Doiminice"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "Comhlathas Doiminice"
+
+msgid "ISO_3166-1.DO"
+msgstr "An Phoblacht Dhoiminiceach"
+
+msgid "ISO_3166-1.DZ"
+msgstr "An Ailgéir"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Poblacht Dhaonlathach an Chongó"
+
+msgid "ISO_3166-1.EC"
+msgstr "Eacuadór"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Poblacht Eacuadór"
+
+msgid "ISO_3166-1.EE"
+msgstr "An Eastóin"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Poblacht na hEastóine"
+
+msgid "ISO_3166-1.EG"
+msgstr "An Éigipt"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Poblacht Arabach na hÉigipte"
+
+msgid "ISO_3166-1.EH"
+msgstr "An Sahára Thiar"
+
+msgid "ISO_3166-1.ER"
+msgstr "An Eiritré"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Stát na hEiritré"
+
+msgid "ISO_3166-1.ES"
+msgstr "An Spáinn"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Ríocht na Spáinne"
+
+msgid "ISO_3166-1.ET"
+msgstr "An Aetóip"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Poblacht Dhaonlathach Chónascach na hAetóipe"
+
+msgid "ISO_3166-1.FI"
+msgstr "An Fhionlainn"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Poblacht na Fionlainne"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Fidsí"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Poblacht Fhidsí"
+
+msgid "ISO_3166-1.FK"
+msgstr "Oileáin Fháclainne (Malvinas)"
+
+msgid "ISO_3166-1.FM"
+msgstr "An Mhicrinéis"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "Stáit Chónaidhme na Micrinéise"
+
+msgid "ISO_3166-1.FO"
+msgstr "Oileáin Fharó"
+
+msgid "ISO_3166-1.FR"
+msgstr "An Fhrainc"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Poblacht na Fraince"
+
+msgid "ISO_3166-1.GA"
+msgstr "An Ghabúin"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Poblacht na Gabúine"
+
+msgid "ISO_3166-1.GB"
+msgstr "An Ríocht Aontaithe"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann"
+
+msgid "ISO_3166-1.GD"
+msgstr "Grenada"
+
+msgid "ISO_3166-1.GE"
+msgstr "An tSeoirsia"
+
+msgid "ISO_3166-1.GF"
+msgstr "An Ghuáin Fhrancach"
+
+msgid "ISO_3166-1.GG"
+msgstr "Geansaí"
+
+msgid "ISO_3166-1.GH"
+msgstr "Gána"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Poblacht Ghána"
+
+msgid "ISO_3166-1.GI"
+msgstr "Giobráltar"
+
+msgid "ISO_3166-1.GL"
+msgstr "An Ghraonlainn"
+
+msgid "ISO_3166-1.GM"
+msgstr "An Ghaimbia"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Poblacht na Gaimbia"
+
+msgid "ISO_3166-1.GN"
+msgstr "An Ghuine"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Poblacht na Guine"
+
+msgid "ISO_3166-1.GP"
+msgstr "Guadalúip"
+
+msgid "ISO_3166-1.GQ"
+msgstr "An Ghuine Mheánchiorclach"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Poblacht na Guine Meánchiorclaí"
+
+msgid "ISO_3166-1.GR"
+msgstr "An Ghréig"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "An Phoblacht Heilléanach"
+
+msgid "ISO_3166-1.GS"
+msgstr "An tSeoirsia Theas agus Sandwich Theas"
+
+msgid "ISO_3166-1.GT"
+msgstr "Guatamala"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Poblacht Ghuatamala"
+
+msgid "ISO_3166-1.GU"
+msgstr "Guam"
+
+msgid "ISO_3166-1.GW"
+msgstr "An Ghuine-Bhissau"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Poblacht na Guine-Bhissau"
+
+msgid "ISO_3166-1.GY"
+msgstr "An Ghuáin"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Poblacht na Guáine"
+
+msgid "ISO_3166-1.HK"
+msgstr "Hong Cong"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Réigiún Speisialta Riaracháin Hong Cong na Síne"
+
+msgid "ISO_3166-1.HM"
+msgstr "Oileán Heard agus Oileáin McDonald"
+
+msgid "ISO_3166-1.HN"
+msgstr "Hondúras"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Poblacht Hondúras"
+
+msgid "ISO_3166-1.HR"
+msgstr "An Chróit"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Poblacht na Cróite"
+
+msgid "ISO_3166-1.HT"
+msgstr "Háítí"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Poblacht Háítí"
+
+msgid "ISO_3166-1.HU"
+msgstr "An Ungáir"
+
+msgid "ISO_3166-1.ID"
+msgstr "An Indinéis"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Poblacht na hIndinéise"
+
+msgid "ISO_3166-1.IE"
+msgstr "Éire"
+
+msgid "ISO_3166-1.IL"
+msgstr "Iosrael"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Stát Iosrael"
+
+msgid "ISO_3166-1.IM"
+msgstr "Oileán Mhanann"
+
+msgid "ISO_3166-1.IN"
+msgstr "An India"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Poblacht na hIndia"
+
+msgid "ISO_3166-1.IO"
+msgstr "Críocha Briotanacha an Aigéin Indiaigh"
+
+msgid "ISO_3166-1.IQ"
+msgstr "An Iaráic"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Poblacht na hIaráice"
+
+msgid "ISO_3166-1.IR"
+msgstr "An Iaráin"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Poblacht Ioslamach na hIaráine"
+
+msgid "ISO_3166-1.IS"
+msgstr "An Íoslainn"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Poblacht na hÍoslainne"
+
+msgid "ISO_3166-1.IT"
+msgstr "An Iodáil"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Poblacht na hIodáile"
+
+msgid "ISO_3166-1.JE"
+msgstr "Geirsí"
+
+msgid "ISO_3166-1.JM"
+msgstr "Iamáice"
+
+msgid "ISO_3166-1.JO"
+msgstr "An Iordáin"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "Ríocht Haisimíteach na hIordáine"
+
+msgid "ISO_3166-1.JP"
+msgstr "An tSeapáin"
+
+msgid "ISO_3166-1.KE"
+msgstr "An Chéinia"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Poblacht na Céinia"
+
+msgid "ISO_3166-1.KG"
+msgstr "An Chirgeastáin"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Poblacht na Cirgeastáine"
+
+msgid "ISO_3166-1.KH"
+msgstr "An Chambóid"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Ríocht na Cambóide"
+
+msgid "ISO_3166-1.KI"
+msgstr "Cireabaití"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Poblacht Chireabaití"
+
+msgid "ISO_3166-1.KM"
+msgstr "Oileán Chomóra"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Aontas Oileán Comóra"
+
+msgid "ISO_3166-1.KN"
+msgstr "Saint Kitts agus Nevis"
+
+msgid "ISO_3166-1.KP"
+msgstr "Daonphoblacht Dhaonlathach na Cóiré"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Daonphoblacht Dhaonlathach na Cóiré"
+
+msgid "ISO_3166-1.KR"
+msgstr "Poblacht na Cóiré"
+
+msgid "ISO_3166-1.KW"
+msgstr "Cuáit"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Stát Cuáit"
+
+msgid "ISO_3166-1.KY"
+msgstr "Oileáin Cayman"
+
+msgid "ISO_3166-1.KZ"
+msgstr "An Chasacstáin"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Poblacht na Casacstáine"
+
+msgid "ISO_3166-1.LA"
+msgstr "Daonphoblacht Dhaonlathach Laoch"
+
+msgid "ISO_3166-1.LB"
+msgstr "An Liobáin"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Poblacht na Liobáine"
+
+msgid "ISO_3166-1.LC"
+msgstr "Saint Lucia"
+
+msgid "ISO_3166-1.LI"
+msgstr "Lichtinstéin"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Prionsacht Lichtinstéin"
+
+msgid "ISO_3166-1.LK"
+msgstr "Srí Lanca"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Daonphoblacht Dhaonlathach Shóisialach Srí Lanca"
+
+msgid "ISO_3166-1.LR"
+msgstr "An Libéir"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Poblacht na Libéire"
+
+msgid "ISO_3166-1.LS"
+msgstr "Leosóta"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Ríocht Leosóta"
+
+msgid "ISO_3166-1.LT"
+msgstr "An Liotuáin"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Poblacht na Liotuáine"
+
+msgid "ISO_3166-1.LU"
+msgstr "Lucsamburg"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Ard-Diúcacht Lucsamburg"
+
+msgid "ISO_3166-1.LV"
+msgstr "An Laitvia"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Poblacht na Laitvia"
+
+msgid "ISO_3166-1.LY"
+msgstr "An Libia"
+
+msgid "ISO_3166-1.MA"
+msgstr "Maracó"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Ríocht Mharacó"
+
+msgid "ISO_3166-1.MC"
+msgstr "Monacó"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Prionsacht Mhonacó"
+
+msgid "ISO_3166-1.MD"
+msgstr "An Mholdóiv"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Poblacht na Moldóive"
+
+msgid "ISO_3166-1.ME"
+msgstr "Montainéagró"
+
+msgid "ISO_3166-1.MF"
+msgstr "Saint Martin (An Fhrainc)"
+
+msgid "ISO_3166-1.MG"
+msgstr "Madagascar"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Poblacht Mhadagascar"
+
+msgid "ISO_3166-1.MH"
+msgstr "Oileáin Marshall"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Poblacht Oileán Marshall"
+
+msgid "ISO_3166-1.MK"
+msgstr "Poblacht na Macadóine"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Iar-Phoblacht Iúgslavach na Macadóine"
+
+msgid "ISO_3166-1.ML"
+msgstr "Mailí"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Poblacht Mhailí"
+
+msgid "ISO_3166-1.MM"
+msgstr "Maenmar"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Poblacht Mhaenmar"
+
+msgid "ISO_3166-1.MN"
+msgstr "An Mhongóil"
+
+msgid "ISO_3166-1.MO"
+msgstr "Macao"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "Réigiún Speisialta Riaracháin Macao na Síne"
+
+msgid "ISO_3166-1.MP"
+msgstr "Oileáin Mariana Thuaidh"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Comhlathas Oileáin Mariana Thuaidh"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Martainíc"
+
+msgid "ISO_3166-1.MR"
+msgstr "An Mháratáin"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Poblacht Ioslamach na Máratáine"
+
+msgid "ISO_3166-1.MS"
+msgstr "Montsarat"
+
+msgid "ISO_3166-1.MT"
+msgstr "Málta"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Poblacht Mhálta"
+
+msgid "ISO_3166-1.MU"
+msgstr "Oileán Mhuirís"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Poblacht Mhuirís"
+
+msgid "ISO_3166-1.MV"
+msgstr "Oileáin Mhaildíve"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Poblacht Mhaildíve"
+
+msgid "ISO_3166-1.MW"
+msgstr "An Mhaláiv"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Poblacht na Maláive"
+
+msgid "ISO_3166-1.MX"
+msgstr "Meicsiceo"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Stáit Aontaithe Mheicsiceo"
+
+msgid "ISO_3166-1.MY"
+msgstr "An Mhalaeisia"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Mósaimbíc"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Poblacht Mhósaimbíc"
+
+msgid "ISO_3166-1.NA"
+msgstr "An Namaib"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Poblacht na Namaibe"
+
+msgid "ISO_3166-1.NC"
+msgstr "An Nua-Chaladóin"
+
+msgid "ISO_3166-1.NE"
+msgstr "An Nígir"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Poblacht na Nígire"
+
+msgid "ISO_3166-1.NF"
+msgstr "Oileán Norfolk"
+
+msgid "ISO_3166-1.NG"
+msgstr "An Nigéir"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Poblacht Chónaidhme na Nigéire"
+
+msgid "ISO_3166-1.NI"
+msgstr "Nicearagua"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Poblacht Nicearagua"
+
+msgid "ISO_3166-1.NL"
+msgstr "An Ísiltír"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Ríocht na hÍsiltíre"
+
+msgid "ISO_3166-1.NO"
+msgstr "An Iorua"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Ríocht na hIorua"
+
+msgid "ISO_3166-1.NP"
+msgstr "Neipeal"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Poblacht Dhaonlathach Chónascach Neipeal"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nárú"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Poblacht Nárú"
+
+msgid "ISO_3166-1.NU"
+msgstr "Niue"
+
+msgid "ISO_3166-1.NZ"
+msgstr "An Nua-Shéalainn"
+
+msgid "ISO_3166-1.OM"
+msgstr "Oman"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Sabhdánacht Oman"
+
+msgid "ISO_3166-1.PA"
+msgstr "Panama"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Poblacht Phanama"
+
+msgid "ISO_3166-1.PE"
+msgstr "Peiriú"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Poblacht Pheiriú"
+
+msgid "ISO_3166-1.PF"
+msgstr "Polainéis na Fraince"
+
+msgid "ISO_3166-1.PG"
+msgstr "Papua Nua-Ghuine"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Stát Neamhspleách Samó"
+
+msgid "ISO_3166-1.PH"
+msgstr "Na hOileáin Fhilipíneacha"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Poblacht na nOileán Filipíneach"
+
+msgid "ISO_3166-1.PK"
+msgstr "An Phacastáin"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Poblacht Ioslamach na Pacastáine"
+
+msgid "ISO_3166-1.PL"
+msgstr "An Pholainn"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Poblacht na Polainne"
+
+msgid "ISO_3166-1.PM"
+msgstr "St. Pierre agus Miquelon"
+
+msgid "ISO_3166-1.PN"
+msgstr "Pitcairn"
+
+msgid "ISO_3166-1.PR"
+msgstr "Portó Ríce"
+
+msgid "ISO_3166-1.PS"
+msgstr "Palaistíne, Stát na"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Stát na Palaistíne"
+
+msgid "ISO_3166-1.PT"
+msgstr "An Phortaingéil"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Poblacht na Portaingéile"
+
+msgid "ISO_3166-1.PW"
+msgstr "Palau"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Poblacht Phalau"
+
+msgid "ISO_3166-1.PY"
+msgstr "Paragua"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Poblacht Pharagua"
+
+msgid "ISO_3166-1.QA"
+msgstr "Catar"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Stát Catar"
+
+msgid "ISO_3166-1.RE"
+msgstr "Réunion"
+
+msgid "ISO_3166-1.RO"
+msgstr "An Rómáin"
+
+msgid "ISO_3166-1.RS"
+msgstr "An tSeirbia"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Poblacht na Seirbia"
+
+msgid "ISO_3166-1.RU"
+msgstr "Cónaidhm na Rúise"
+
+msgid "ISO_3166-1.RW"
+msgstr "Ruanda"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Poblacht Ruanda"
+
+msgid "ISO_3166-1.SA"
+msgstr "An Araib Shádach"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Ríocht na hAraibe Sádaí"
+
+msgid "ISO_3166-1.SB"
+msgstr "Oileán Solomon"
+
+msgid "ISO_3166-1.SC"
+msgstr "Na Séiséil"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Poblacht na Séiséil"
+
+msgid "ISO_3166-1.SD"
+msgstr "An tSúdáin"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Poblacht na Súdáine"
+
+msgid "ISO_3166-1.SE"
+msgstr "An tSualainn"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Ríocht na Sualainne"
+
+msgid "ISO_3166-1.SG"
+msgstr "Singeapór"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Poblacht Shingeapór"
+
+msgid "ISO_3166-1.SH"
+msgstr "Saint Helena, Ascension agus Tristan da Cunha"
+
+msgid "ISO_3166-1.SI"
+msgstr "An tSlóivéin"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Poblacht na Slóivéine"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Svalbard agus Jan Mayen"
+
+msgid "ISO_3166-1.SK"
+msgstr "An tSlóvaic"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Poblacht na Slóvaice"
+
+msgid "ISO_3166-1.SL"
+msgstr "Siarra Leon"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Poblacht Shiarra Leon"
+
+msgid "ISO_3166-1.SM"
+msgstr "San Mairíne"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Poblacht San Mairíne"
+
+msgid "ISO_3166-1.SN"
+msgstr "An tSeineagáil"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Poblacht na Seineagáile"
+
+msgid "ISO_3166-1.SO"
+msgstr "An tSomáil"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Poblacht Chónaidhme na Gearmáine"
+
+msgid "ISO_3166-1.SR"
+msgstr "Suranam"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Poblacht Suranam"
+
+msgid "ISO_3166-1.SS"
+msgstr "An tSúdáin Theas"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Poblacht na Súdáine Theas"
+
+msgid "ISO_3166-1.ST"
+msgstr "Sao Tome agus Principe"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "Poblacht Dhaonlathach Sao Tome agus Principe"
+
+msgid "ISO_3166-1.SV"
+msgstr "An tSalvadóir"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Poblacht na Salvadóire"
+
+msgid "ISO_3166-1.SX"
+msgstr "Sint Maarten (ceantar Ollannach)"
+
+msgid "ISO_3166-1.SY"
+msgstr "Poblacht Arabach na Siria"
+
+msgid "ISO_3166-1.SZ"
+msgstr "An tSuasalainn"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Ríocht na Suasalainne"
+
+msgid "ISO_3166-1.TC"
+msgstr "Oileáin Turks agus Caicos"
+
+msgid "ISO_3166-1.TD"
+msgstr "Sead"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Poblacht Sead"
+
+msgid "ISO_3166-1.TF"
+msgstr "Críocha Francacha Theas"
+
+msgid "ISO_3166-1.TG"
+msgstr "Tóga"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Poblacht Thóga"
+
+msgid "ISO_3166-1.TH"
+msgstr "An Téalainn"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Ríocht na Téalainne"
+
+msgid "ISO_3166-1.TJ"
+msgstr "An Táidsíceastáin"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Poblacht na Táidsíceastáine"
+
+msgid "ISO_3166-1.TK"
+msgstr "Tócalá"
+
+msgid "ISO_3166-1.TL"
+msgstr "Tíomór Thoir"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Poblacht Dhaonlathach Thíomór Thoir"
+
+msgid "ISO_3166-1.TM"
+msgstr "An Tuircméanastáin"
+
+msgid "ISO_3166-1.TN"
+msgstr "An Túinéis"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Poblacht na Túinéise"
+
+msgid "ISO_3166-1.TO"
+msgstr "Tonga"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Ríocht Tonga"
+
+msgid "ISO_3166-1.TR"
+msgstr "An Tuirc"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Poblacht na Tuirce"
+
+msgid "ISO_3166-1.TT"
+msgstr "Oileáin na Tríonóide agus Tobága"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Poblacht na Tríonóide agus Tobága"
+
+msgid "ISO_3166-1.TV"
+msgstr "Tuvalú"
+
+msgid "ISO_3166-1.TW"
+msgstr "An Téaváin"
+
+msgid "ISO_3166-1.TZ"
+msgstr "An Tansáin"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Poblacht Aontaithe na Tansáine"
+
+msgid "ISO_3166-1.UA"
+msgstr "An Úcráin"
+
+msgid "ISO_3166-1.UG"
+msgstr "Uganda"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Poblacht Uganda"
+
+msgid "ISO_3166-1.UM"
+msgstr "Mion-Oileáin Imeallacha S.A.M."
+
+msgid "ISO_3166-1.US"
+msgstr "Na Stáit Aontaithe"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Stáit Aontaithe Mheiriceá"
+
+msgid "ISO_3166-1.UY"
+msgstr "Uragua"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Poblacht Thoir Uragua"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Úisbéiceastáin"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Poblacht na hÚisbéiceastáine"
+
+msgid "ISO_3166-1.VA"
+msgstr "Suí Naofa (Stát Chathair na Vatacáine)"
+
+msgid "ISO_3166-1.VC"
+msgstr "Saint Vincent agus na Grenadines"
+
+msgid "ISO_3166-1.VE"
+msgstr "Veiniséala"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Poblacht Bholavarach Veiniséala"
+
+msgid "ISO_3166-1.VG"
+msgstr "Oileáin Bhriotanacha na Maighdean"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Oileáin Bhriotanacha na Maighdean"
+
+msgid "ISO_3166-1.VI"
+msgstr "Oileáin na Maighdean, S.A.M."
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Oileáin na Maighdean, Stáit Aontaithe Mheiriceá"
+
+msgid "ISO_3166-1.VN"
+msgstr "Vítneam"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Poblacht Shóisialach Vítneam"
+
+msgid "ISO_3166-1.VU"
+msgstr "Vanuatú"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Poblacht Vanuatú"
+
+msgid "ISO_3166-1.WF"
+msgstr "Oileáin Vailís agus Futúna"
+
+msgid "ISO_3166-1.WS"
+msgstr "Samó"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Stát Neamhspleách Samó"
+
+msgid "ISO_3166-1.YE"
+msgstr "Éimin"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Poblacht Éimin"
+
+msgid "ISO_3166-1.YT"
+msgstr "Mayotte"
+
+msgid "ISO_3166-1.ZA"
+msgstr "An Afraic Theas"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Poblacht na hAfraice Theas"
+
+msgid "ISO_3166-1.ZM"
+msgstr "An tSaimbia"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Poblacht na Saimbia"
+
+msgid "ISO_3166-1.ZW"
+msgstr "An tSiombáib"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Poblacht na Siombáibe"

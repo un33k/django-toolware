@@ -1,0 +1,1121 @@
+# Translation of ISO-3166 (country names) to Tatar
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2005-10-21 15:11+0300\n"
+"Last-Translator: Albert Fazlí <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"Language: tt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Андорра"
+
+msgid "ISO_3166-1.AE"
+msgstr "Берләшкән Гәрәп Әмирлекләре"
+
+msgid "ISO_3166-1.AF"
+msgstr "Әфгәнстан"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "İслам Пәкстан Җөмһүриәте"
+
+msgid "ISO_3166-1.AG"
+msgstr "Антиgуа белән Барбуда"
+
+msgid "ISO_3166-1.AI"
+msgstr "Анgуилла"
+
+msgid "ISO_3166-1.AL"
+msgstr "Албаниа"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Албаниа Җөмһүриәте"
+
+msgid "ISO_3166-1.AM"
+msgstr "Әрмәнстан"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Әрмәнстан Җөмһүриәте"
+
+msgid "ISO_3166-1.AO"
+msgstr "Анgола"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Анgола Җөмһүриәте"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Антарктика"
+
+msgid "ISO_3166-1.AR"
+msgstr "Арgентина"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Арgентина Җөмһүриәте"
+
+msgid "ISO_3166-1.AS"
+msgstr "Америкалы Самоа"
+
+msgid "ISO_3166-1.AT"
+msgstr "Аустриа"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Аустриа Җөмһүриәте"
+
+msgid "ISO_3166-1.AU"
+msgstr "Аустралиа"
+
+msgid "ISO_3166-1.AW"
+msgstr "Аруба"
+
+msgid "ISO_3166-1.AX"
+msgstr "Аланд Утравлары"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Әзәрбайҗан"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Әзербайҗан Җөмһүриәте"
+
+msgid "ISO_3166-1.BA"
+msgstr "Босниа белән Һерзеgовина"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Босниа белән Һерзеgовина Җөмһүриәте"
+
+msgid "ISO_3166-1.BB"
+msgstr "Барбадос"
+
+msgid "ISO_3166-1.BD"
+msgstr "Банgладеш"
+
+msgid "ISO_3166-1.BE"
+msgstr "Белgиа"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Белgиа Патшаһлыгы"
+
+msgid "ISO_3166-1.BF"
+msgstr "Буркина Фасо"
+
+msgid "ISO_3166-1.BG"
+msgstr "Булgариа"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Булgариа Җөмһүриәте"
+
+msgid "ISO_3166-1.BH"
+msgstr "Баһрейн"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Баһраин Дәвләте"
+
+msgid "ISO_3166-1.BI"
+msgstr "Бурунди"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Бурунди Җөмһүриәте"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Бенин"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Бенин Җөмһүриәте"
+
+msgid "ISO_3166-1.BM"
+msgstr "Бермуда"
+
+msgid "ISO_3166-1.BN"
+msgstr "Брунеи Даруссалам"
+
+msgid "ISO_3166-1.BO"
+msgstr "Боливиа"
+
+msgid "ISO_3166-1.BR"
+msgstr "Бразил"
+
+msgid "ISO_3166-1.BS"
+msgstr "Баһамас"
+
+msgid "ISO_3166-1.BT"
+msgstr "Бутан"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Бһутан Патшаһлыгы"
+
+msgid "ISO_3166-1.BV"
+msgstr "Боувет Утравы"
+
+msgid "ISO_3166-1.BW"
+msgstr "Боцвана"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Боцвана Җөмһүриәте"
+
+msgid "ISO_3166-1.BY"
+msgstr "Беларус"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Беларус Җөмһүриәте"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Белиз"
+
+msgid "ISO_3166-1.CA"
+msgstr "Канада"
+
+msgid "ISO_3166-1.CC"
+msgstr "Кокос (Кеелинg) Утравлары"
+
+msgid "ISO_3166-1.CD"
+msgstr "Конgо, Демократ Җөмһүриәте"
+
+msgid "ISO_3166-1.CF"
+msgstr "Үзәк Африка Җөмһүриәте"
+
+msgid "ISO_3166-1.CG"
+msgstr "Конgо"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Конgо Җөмһүриәте"
+
+msgid "ISO_3166-1.CH"
+msgstr "İсвичрә"
+
+msgid "ISO_3166-1.CI"
+msgstr "Җôте д'Ивоире"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Җоте д'Ивоире Җөмһүриәте"
+
+msgid "ISO_3166-1.CK"
+msgstr "Кок Утравлары"
+
+msgid "ISO_3166-1.CL"
+msgstr "Чили"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Чиле Җөмһүриәте"
+
+msgid "ISO_3166-1.CM"
+msgstr "Камероон"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Камероон Җөмһүриәте"
+
+msgid "ISO_3166-1.CN"
+msgstr "Чин"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Чин Халык Җөмһүриәте"
+
+msgid "ISO_3166-1.CO"
+msgstr "Коломбиа"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Коломбиа Җөмһүриәте"
+
+msgid "ISO_3166-1.CR"
+msgstr "Коста Рика"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Коста Рика Җөмһүриәте"
+
+msgid "ISO_3166-1.CU"
+msgstr "Куба"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Куба Җөмһүриәте"
+
+msgid "ISO_3166-1.CV"
+msgstr "Капе Верде"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Капе Верде Җөмһүриәте"
+
+msgid "ISO_3166-1.CX"
+msgstr "Җһристмас Утравлары"
+
+msgid "ISO_3166-1.CY"
+msgstr "Кипер"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Чех Җөмһүриәте"
+
+msgid "ISO_3166-1.DE"
+msgstr "Алманиа"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Джибути"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Джибоути Җөмһүриәте"
+
+msgid "ISO_3166-1.DK"
+msgstr "Даниа"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Денмарк Патшаһлыгы"
+
+msgid "ISO_3166-1.DM"
+msgstr "Доминика"
+
+msgid "ISO_3166-1.DO"
+msgstr "Доминика Җөмһүриәте"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Алжыр"
+
+msgid "ISO_3166-1.EC"
+msgstr "Екуадор"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Екуадор Җөмһүриәте"
+
+msgid "ISO_3166-1.EE"
+msgstr "Естониа"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Естониа Җөмһүриәте"
+
+msgid "ISO_3166-1.EG"
+msgstr "Мысыр"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Гәрәп Мысыр Җөмһүриәте"
+
+msgid "ISO_3166-1.EH"
+msgstr "Батыш Саһара"
+
+msgid "ISO_3166-1.ER"
+msgstr "Еритреа"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Америка Кушма Штатлары"
+
+msgid "ISO_3166-1.ES"
+msgstr "İспаниа"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "İспан Патшаһлыгы"
+
+msgid "ISO_3166-1.ET"
+msgstr "Ефиопиа"
+
+msgid "ISO_3166-1.FI"
+msgstr "Финланд (Суоми)"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Финланд Җөмһүриәте"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Фижи"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Һаити Җөмһүриәте"
+
+msgid "ISO_3166-1.FK"
+msgstr "Фалкланд Утравлары (Малвиннар)"
+
+msgid "ISO_3166-1.FM"
+msgstr "Микронесиа, Берләшкән İлләре"
+
+msgid "ISO_3166-1.FO"
+msgstr "Фарое Утравлары"
+
+msgid "ISO_3166-1.FR"
+msgstr "Франсиа"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Франс Җөмһүриәте"
+
+msgid "ISO_3166-1.GA"
+msgstr "Gабон"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Gабонесе Җөмһүриәте"
+
+msgid "ISO_3166-1.GB"
+msgstr "Берләшкән Падшаһлык"
+
+msgid "ISO_3166-1.GD"
+msgstr "Gренада"
+
+msgid "ISO_3166-1.GE"
+msgstr "Gөрҗестан"
+
+msgid "ISO_3166-1.GF"
+msgstr "Франс Gуиана"
+
+msgid "ISO_3166-1.GH"
+msgstr "Gһана"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Gһана Җөмһүриәте"
+
+msgid "ISO_3166-1.GI"
+msgstr "Gибралтар"
+
+msgid "ISO_3166-1.GL"
+msgstr "Gреенланд"
+
+msgid "ISO_3166-1.GM"
+msgstr "Gамбиа"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Gамбиа Җөмһүриәте"
+
+msgid "ISO_3166-1.GN"
+msgstr "Gуинеа"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Gуинеа Җөмһүриәте"
+
+msgid "ISO_3166-1.GP"
+msgstr "Gуаделупа"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Екуаторлы Gуинеа"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Екуаторлы Gуинеа Җөмһүриәте"
+
+msgid "ISO_3166-1.GR"
+msgstr "Юнанстан"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Һеллен Җөмһүриәте"
+
+msgid "ISO_3166-1.GT"
+msgstr "Gуатемала"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Gуатемала Җөмһүриәте"
+
+msgid "ISO_3166-1.GU"
+msgstr "Gуам"
+
+msgid "ISO_3166-1.GW"
+msgstr "Gуинеа-Биссау"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Gуинеа-Биссау Җөмһүриәте"
+
+msgid "ISO_3166-1.GY"
+msgstr "Gуяна"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Gуяна Җөмһүриәте"
+
+msgid "ISO_3166-1.HK"
+msgstr "Һонg Конg"
+
+msgid "ISO_3166-1.HN"
+msgstr "Һондурас"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Һондурас Җөмһүриәте"
+
+msgid "ISO_3166-1.HR"
+msgstr "Кроатиа"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Кроатиа Җөмһүриәте"
+
+msgid "ISO_3166-1.HT"
+msgstr "Һаити"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Һаити Җөмһүриәте"
+
+msgid "ISO_3166-1.HU"
+msgstr "Маҗарстан"
+
+msgid "ISO_3166-1.ID"
+msgstr "İндонесиа"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "İндонесиа Җөмһүриәте"
+
+msgid "ISO_3166-1.IE"
+msgstr "İреланд, İрландиа"
+
+msgid "ISO_3166-1.IL"
+msgstr "İсраел"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "İсраил Дәвләте"
+
+msgid "ISO_3166-1.IN"
+msgstr "Һиндстан"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Һиндстан Җөмһүриәте"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Гырак"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Гырак Җөмһүриәте"
+
+msgid "ISO_3166-1.IR"
+msgstr "İран, İслам Җөмһүриәте"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "İслам İран Җөмһүриәте"
+
+msgid "ISO_3166-1.IS"
+msgstr "İсланд"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "İсланд Җөмһүриәте"
+
+msgid "ISO_3166-1.IT"
+msgstr "İталиа"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "İтал Җөмһүриәте"
+
+msgid "ISO_3166-1.JM"
+msgstr "Жамайка"
+
+msgid "ISO_3166-1.JO"
+msgstr "Жордан"
+
+msgid "ISO_3166-1.JP"
+msgstr "Жапан, Япониа"
+
+msgid "ISO_3166-1.KE"
+msgstr "Кениа"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Кеня Җөмһүриәте"
+
+msgid "ISO_3166-1.KG"
+msgstr "Кыргызстан"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Кыргыз Җөмһүриәте"
+
+msgid "ISO_3166-1.KH"
+msgstr "Камбодиа"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Камбодиа Патшаһлыгы"
+
+msgid "ISO_3166-1.KI"
+msgstr "Кирибати"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Кирибати Җөмһүриәте"
+
+msgid "ISO_3166-1.KM"
+msgstr "Коморлар"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Коморлар Җөмһүриәте"
+
+msgid "ISO_3166-1.KR"
+msgstr "Кореа Җөмһүриәте"
+
+msgid "ISO_3166-1.KW"
+msgstr "Күвәйт"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Күвәйт Дәвләте"
+
+msgid "ISO_3166-1.KY"
+msgstr "Кайман Утравлары"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Казакстан"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Казакстан Җөмһүриәте"
+
+msgid "ISO_3166-1.LB"
+msgstr "Лебанон"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Лебанесе Җөмһүриәте"
+
+msgid "ISO_3166-1.LC"
+msgstr "Саинт Луҗиа"
+
+msgid "ISO_3166-1.LI"
+msgstr "Лиһтенстеин"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Лиеҗһтенстеин Җөмһүриәте"
+
+msgid "ISO_3166-1.LK"
+msgstr "Шри Ланка"
+
+msgid "ISO_3166-1.LR"
+msgstr "Либериа"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Либериа Җөмһүриәте"
+
+msgid "ISO_3166-1.LS"
+msgstr "Лесото"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Лесотһо Патшаһлыгы"
+
+msgid "ISO_3166-1.LT"
+msgstr "Литуаниа"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Литуаниа Җөмһүриәте"
+
+msgid "ISO_3166-1.LU"
+msgstr "Лүксембурg"
+
+msgid "ISO_3166-1.LV"
+msgstr "Латвиа"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Латвиа Җөмһүриәте"
+
+msgid "ISO_3166-1.LY"
+msgstr "Либериа"
+
+msgid "ISO_3166-1.MA"
+msgstr "Морокко"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Морокко Патшаһлыгы"
+
+msgid "ISO_3166-1.MC"
+msgstr "Манако"
+
+msgid "ISO_3166-1.MD"
+msgstr "Македониа Җөмһүриәте"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Молдова Җөмһүриәте"
+
+msgid "ISO_3166-1.ME"
+msgstr "Сербиа белән Монтенеgро"
+
+msgid "ISO_3166-1.MG"
+msgstr "Мадаgаскар"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Мадаgаскар Җөмһүриәте"
+
+msgid "ISO_3166-1.MH"
+msgstr "Маршал Утравлары"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Маршалл Утравлары Җөмһүриәте"
+
+msgid "ISO_3166-1.MK"
+msgstr "Македониа Җөмһүриәте"
+
+msgid "ISO_3166-1.ML"
+msgstr "Мали"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Мали Җөмһүриәте"
+
+msgid "ISO_3166-1.MM"
+msgstr "Мианмар"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Gуяна Җөмһүриәте"
+
+msgid "ISO_3166-1.MN"
+msgstr "Моголстан"
+
+msgid "ISO_3166-1.MO"
+msgstr "Макао"
+
+msgid "ISO_3166-1.MP"
+msgstr "Төняк Мариана Утравлары"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Мартиник"
+
+msgid "ISO_3166-1.MR"
+msgstr "Мауританиа"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "İслам Мауританиа Җөмһүриәте"
+
+msgid "ISO_3166-1.MS"
+msgstr "Монцеррат"
+
+msgid "ISO_3166-1.MT"
+msgstr "Малта"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Малта Җөмһүриәте"
+
+msgid "ISO_3166-1.MU"
+msgstr "Мауритиус"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Мауритиус Җөмһүриәте"
+
+msgid "ISO_3166-1.MV"
+msgstr "Малдивлар"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Малдивлар Җөмһүриәте"
+
+msgid "ISO_3166-1.MW"
+msgstr "Малави"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Малави Җөмһүриәте"
+
+msgid "ISO_3166-1.MX"
+msgstr "Мексико"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Берләшкән Мексика Штатлары"
+
+msgid "ISO_3166-1.MY"
+msgstr "Малайсиа"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Мозамбик"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Мозамбик Җөмһүриәте"
+
+msgid "ISO_3166-1.NA"
+msgstr "Намибиа"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Намибиа Җөмһүриәте"
+
+msgid "ISO_3166-1.NC"
+msgstr "Яңа Каледониа"
+
+msgid "ISO_3166-1.NE"
+msgstr "Ниgер"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Ниgер Җөмһүриәте"
+
+msgid "ISO_3166-1.NF"
+msgstr "Норфолк Утравлары"
+
+msgid "ISO_3166-1.NG"
+msgstr "Ниgериа"
+
+msgid "ISO_3166-1.NI"
+msgstr "Никараgуа"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Ниҗараgуа Җөмһүриәте"
+
+msgid "ISO_3166-1.NL"
+msgstr "Нидерландлар"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Нетһерланд Патшаһлыгы"
+
+msgid "ISO_3166-1.NO"
+msgstr "Норвай"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Норвай Патшаһлыгы"
+
+msgid "ISO_3166-1.NP"
+msgstr "Непал"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Конgо, Демократ Җөмһүриәте"
+
+msgid "ISO_3166-1.NR"
+msgstr "Науру"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Науру Җөмһүриәте"
+
+msgid "ISO_3166-1.NU"
+msgstr "Ниу"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Яңа Зеаланд"
+
+msgid "ISO_3166-1.OM"
+msgstr "Оман"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Оман Солтанаты"
+
+msgid "ISO_3166-1.PA"
+msgstr "Панама"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Панама Җөмһүриәте"
+
+msgid "ISO_3166-1.PE"
+msgstr "Перу"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Перу Җөмһүриәте"
+
+msgid "ISO_3166-1.PF"
+msgstr "Франс Полинесиа"
+
+msgid "ISO_3166-1.PG"
+msgstr "Папуа Яңа Gуинеа"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Бәйсез Самоа Дәвләте"
+
+msgid "ISO_3166-1.PH"
+msgstr "Филиппиннәр"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Филиппиннар Җөмһүриәте"
+
+msgid "ISO_3166-1.PK"
+msgstr "Пәкстан"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "İслам Пәкстан Җөмһүриәте"
+
+msgid "ISO_3166-1.PL"
+msgstr "Полониа, Полша"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Поланд Җөмһүриәте"
+
+msgid "ISO_3166-1.PM"
+msgstr "Саинт Пиерре белән Микуелон"
+
+msgid "ISO_3166-1.PN"
+msgstr "Питкаирн"
+
+msgid "ISO_3166-1.PR"
+msgstr "Пуерто Рико"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Америка Кушма Штатлары"
+
+msgid "ISO_3166-1.PT"
+msgstr "Портуgалиа"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Портуgалиа Җөмһүриәте"
+
+msgid "ISO_3166-1.PW"
+msgstr "Палау"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Палау Җөмһүриәте"
+
+msgid "ISO_3166-1.PY"
+msgstr "Параgуай"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Параgуай Җөмһүриәте"
+
+msgid "ISO_3166-1.QA"
+msgstr "Катар"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Катар Дәвләте"
+
+msgid "ISO_3166-1.RE"
+msgstr "Рéунион"
+
+msgid "ISO_3166-1.RO"
+msgstr "Романиа"
+
+msgid "ISO_3166-1.RS"
+msgstr "Әзәрбайҗан"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Либериа Җөмһүриәте"
+
+msgid "ISO_3166-1.RU"
+msgstr "Урыс Патшаһлык"
+
+msgid "ISO_3166-1.RW"
+msgstr "Рванда"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Рвандесе Җөмһүриәте"
+
+msgid "ISO_3166-1.SA"
+msgstr "Сөгүд Гәрәбстан"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Сөгүд Гәрәпстан Патшаһлыгы"
+
+msgid "ISO_3166-1.SB"
+msgstr "Соломон Утравлары"
+
+msgid "ISO_3166-1.SC"
+msgstr "Сейшелләр"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Сейшелләр Җөмһүриәте"
+
+msgid "ISO_3166-1.SD"
+msgstr "Судан"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Судан Җөмһүриәте"
+
+msgid "ISO_3166-1.SE"
+msgstr "İсвәҗ, Шведсиа"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "İсвәҗ Патшаһлыгы"
+
+msgid "ISO_3166-1.SG"
+msgstr "Синgапур"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Синgапур Җөмһүриәте"
+
+msgid "ISO_3166-1.SI"
+msgstr "Словениа"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Словениа Җөмһүриәте"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Свалбард белән Жан Майен"
+
+msgid "ISO_3166-1.SK"
+msgstr "Словакиа"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Словак Җөмһүриәте"
+
+msgid "ISO_3166-1.SL"
+msgstr "Сиерра Леоне"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Сиерра Леоне Җөмһүриәте"
+
+msgid "ISO_3166-1.SM"
+msgstr "Сан Марино"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Сан Марино Җөмһүриәте"
+
+msgid "ISO_3166-1.SN"
+msgstr "Сенеgал"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Сенеgал Җөмһүриәте"
+
+msgid "ISO_3166-1.SO"
+msgstr "Сомалиа"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Конgо, Демократ Җөмһүриәте"
+
+msgid "ISO_3166-1.SR"
+msgstr "Суринам"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Суринам Җөмһүриәте"
+
+msgid "ISO_3166-1.SS"
+msgstr "Судан Җөмһүриәте"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Судан Җөмһүриәте"
+
+msgid "ISO_3166-1.ST"
+msgstr "Сао Томе белән Принҗипе"
+
+msgid "ISO_3166-1.SV"
+msgstr "Ел Салвадор"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Ел Салвадор Җөмһүриәте"
+
+msgid "ISO_3166-1.SY"
+msgstr "Гәрәп Сүриә Җөмһүриәте"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Свазиланд"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Свазиланд Патшаһлыгы"
+
+msgid "ISO_3166-1.TC"
+msgstr "Түркс белән Җаиҗос Утравлары"
+
+msgid "ISO_3166-1.TD"
+msgstr "Чад"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Чад Җөмһүриәте"
+
+msgid "ISO_3166-1.TG"
+msgstr "Тоgо"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Тоgолесе Җөмһүриәте"
+
+msgid "ISO_3166-1.TH"
+msgstr "Тайланд"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Тһаиланд Патшаһлыгы"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Тажыкстан"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Тажыкстан Җөмһүриәте"
+
+msgid "ISO_3166-1.TK"
+msgstr "Токелауча"
+
+msgid "ISO_3166-1.TL"
+msgstr "Тимор-Лесте"
+
+msgid "ISO_3166-1.TM"
+msgstr "Төркмәнстан"
+
+msgid "ISO_3166-1.TN"
+msgstr "Тунисиа"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Тунисиа Җөмһүриәте"
+
+msgid "ISO_3166-1.TO"
+msgstr "Тонgа"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Тонgа Патшаһлыгы"
+
+msgid "ISO_3166-1.TR"
+msgstr "Төркиә"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Төркиә Җөмһүриәте"
+
+msgid "ISO_3166-1.TT"
+msgstr "Тринидад белән Тобаgо"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Тринидад белән Тобаgо Җөмһүриәте"
+
+msgid "ISO_3166-1.TV"
+msgstr "Тувалуча"
+
+msgid "ISO_3166-1.TW"
+msgstr "Тайван"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Танзаниа, Берләшкән Җөмһүриәтләре"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Берләшкән Танзаниа Җөмһүриәте"
+
+msgid "ISO_3166-1.UA"
+msgstr "Украин"
+
+msgid "ISO_3166-1.UG"
+msgstr "Уgанда"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Уgанда Җөмһүриәте"
+
+msgid "ISO_3166-1.US"
+msgstr "Берләшкән Штатлар"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Америка Кушма Штатлары"
+
+msgid "ISO_3166-1.UY"
+msgstr "Уруgуай"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Чыгыс Уруgуай Җөмһүриәте"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Өзбәкстан"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Үзбәкстан Җөмһүриәте"
+
+msgid "ISO_3166-1.VE"
+msgstr "Венезуела"
+
+msgid "ISO_3166-1.VG"
+msgstr "Вирgин Утравлары, Британ"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Британ Вирgин Утравлары"
+
+msgid "ISO_3166-1.VI"
+msgstr "Вирgин Утравлары, АКШ"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Берләшкән Штатларның Вирgин Утравлары"
+
+msgid "ISO_3166-1.VN"
+msgstr "Виет Нам"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Сосиалист Җөмһүриәте Виет Нам"
+
+msgid "ISO_3166-1.VU"
+msgstr "Вануату"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Вануату Җөмһүриәте"
+
+msgid "ISO_3166-1.WF"
+msgstr "Валлис вә Футуна"
+
+msgid "ISO_3166-1.WS"
+msgstr "Самоа"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Бәйсез Самоа Дәвләте"
+
+msgid "ISO_3166-1.YE"
+msgstr "Йемен"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Йемен Җөмһүриәте"
+
+msgid "ISO_3166-1.YT"
+msgstr "Маётте"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Көняк Африка"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Көняк Африка Җөмһүриәте"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Замбиа"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Замбиа Җөмһүриәте"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Зимбабве"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Зимбабве Җөмһүриәте"

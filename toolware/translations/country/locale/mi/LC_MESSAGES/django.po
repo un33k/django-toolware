@@ -1,0 +1,926 @@
+# Translation of ISO-3166 (country names) to Maori
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C)
+# Free Software Foundation, Inc., 2002,2003
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Translations from KDE:
+# - James Gasson <james.gasson@clear.net.nz>
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-07-10 19:04+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Sugar Labs\n"
+"Language: mi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Andorra"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Andorra"
+
+msgid "ISO_3166-1.AF"
+msgstr "Āwhekenetāna"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Āwhekenetāna"
+
+msgid "ISO_3166-1.AL"
+msgstr "Arapeinia"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Tūwehe Arapeinia"
+
+msgid "ISO_3166-1.AM"
+msgstr "Āmenia"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Tūwehe Āmenia"
+
+msgid "ISO_3166-1.AO"
+msgstr "Anakora"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Tūwehe Anakora"
+
+msgid "ISO_3166-1.AR"
+msgstr "Āketina"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Tūwehe Āketina"
+
+msgid "ISO_3166-1.AS"
+msgstr "Hāmoa Amerikana"
+
+msgid "ISO_3166-1.AT"
+msgstr "Ateria"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Tūwehe Ateria"
+
+msgid "ISO_3166-1.AU"
+msgstr "Ahitereiria"
+
+msgid "ISO_3166-1.AX"
+msgstr "Moutere Aaland"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Atepaihānia"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Tūwehe Atepaihānia"
+
+msgid "ISO_3166-1.BA"
+msgstr "Pōngia-Herekōmina"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Tūwehe Pōngia-Herekōmina"
+
+msgid "ISO_3166-1.BD"
+msgstr "Pākaratēhi"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Pākaratēhi"
+
+msgid "ISO_3166-1.BE"
+msgstr "Pehiamu"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Kīngitanga o Pehiamu"
+
+msgid "ISO_3166-1.BF"
+msgstr "Pūkina"
+
+msgid "ISO_3166-1.BG"
+msgstr "Purukāria"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Tūwehe Purukāria"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Kīngitanga o "
+
+msgid "ISO_3166-1.BI"
+msgstr "Puruniti"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Tūwehe Puruniti"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Pēnina"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Tūwehe Pēnina"
+
+msgid "ISO_3166-1.BN"
+msgstr "Poronai"
+
+msgid "ISO_3166-1.BO"
+msgstr "Poriwia"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Poriwia"
+
+msgid "ISO_3166-1.BR"
+msgstr "Parīhi"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Parīhi"
+
+msgid "ISO_3166-1.BT"
+msgstr "Putāna"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Kīngitanga o Putāna"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.BY"
+msgstr "Pērara"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Tūwehe Pērara"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kānata"
+
+msgid "ISO_3166-1.CD"
+msgstr "Kōngo"
+
+msgid "ISO_3166-1.CG"
+msgstr "Kōngo"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Tūwehe Kōngo"
+
+msgid "ISO_3166-1.CH"
+msgstr "Huiterangi"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Huiterangi"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.CK"
+msgstr "Kuki Airani"
+
+msgid "ISO_3166-1.CL"
+msgstr "Hiri"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Te Whenua Tū Wehe o Hiri"
+
+msgid "ISO_3166-1.CM"
+msgstr "Kamarūna"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Tūwehe Kamarūna"
+
+msgid "ISO_3166-1.CN"
+msgstr "Haina"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Haina"
+
+msgid "ISO_3166-1.CO"
+msgstr "Koromōpia"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Tūwehe Koromōpia"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.CU"
+msgstr "Kūpā"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Tūwehe Kūpā"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.CY"
+msgstr "Haipara"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Tūwehe Haipara"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Whenua Tīeke"
+
+msgid "ISO_3166-1.DE"
+msgstr "Tiamana"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Tūwehe Whakaminenga o Tiamana"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Tipūti"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Tūwehe Tipūti"
+
+msgid "ISO_3166-1.DK"
+msgstr "Tenemāka"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Kīngitanga o Tenemāka"
+
+msgid "ISO_3166-1.DM"
+msgstr "Tominika"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ekuatoa"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Tūwehe Ekuatoa"
+
+msgid "ISO_3166-1.EE"
+msgstr "Etonia"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Tūwehe Etonia"
+
+msgid "ISO_3166-1.ER"
+msgstr "Eritēria"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Eritēria"
+
+msgid "ISO_3166-1.ES"
+msgstr "Pāniora"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Kīngitanga o Pāniora"
+
+msgid "ISO_3166-1.ET"
+msgstr "Etiopia"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Etiopia"
+
+msgid "ISO_3166-1.FI"
+msgstr "Hinerangi"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Tūwehe Hinerangi"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.FO"
+msgstr "Moutere Faroe"
+
+msgid "ISO_3166-1.FR"
+msgstr "Wīwī"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Tūwehe Wīwī"
+
+msgid "ISO_3166-1.GA"
+msgstr "Kāpona"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Kāpona"
+
+msgid "ISO_3166-1.GB"
+msgstr "Kīngitanga Kotahi"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Kīngatanga Kotahi o Piritene Nui me Airangi ki te Raki"
+
+msgid "ISO_3166-1.GE"
+msgstr "Hōria"
+
+msgid "ISO_3166-1.GF"
+msgstr "Kaiana Wīwī"
+
+msgid "ISO_3166-1.GG"
+msgstr "Kōnihi"
+
+msgid "ISO_3166-1.GH"
+msgstr "Kāna"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Tūwehe Kāna"
+
+msgid "ISO_3166-1.GI"
+msgstr "Kāmaka"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.GQ"
+msgstr "Kini Ekuatoria"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Tūwehe Kini Ekuatoria"
+
+msgid "ISO_3166-1.GR"
+msgstr "Kirihi"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Kirihi"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.GU"
+msgstr "Kuamu"
+
+msgid "ISO_3166-1.GW"
+msgstr "Kini Pihō"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Whenua Tū Wehe o Kini Pihō"
+
+msgid "ISO_3166-1.GY"
+msgstr "Kaiana"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Tūwehe Kaiana"
+
+msgid "ISO_3166-1.HK"
+msgstr "Hongipua"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Hongipua"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.HR"
+msgstr "Koroātia"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Tūwehe Koroātia"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.HU"
+msgstr "Hanekari"
+
+msgid "ISO_3166-1.ID"
+msgstr "Initonīhia"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Tūwehe Initonīhia"
+
+msgid "ISO_3166-1.IE"
+msgstr "Airangi"
+
+msgid "ISO_3166-1.IL"
+msgstr "Iharaira"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Iharaira"
+
+msgid "ISO_3166-1.IM"
+msgstr "Motu o Man"
+
+msgid "ISO_3166-1.IN"
+msgstr "Īnia"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Tūwehe Īnia"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Īrāki"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Tūwehe Īrāki"
+
+msgid "ISO_3166-1.IR"
+msgstr "Īrāna"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Īrāna"
+
+msgid "ISO_3166-1.IS"
+msgstr "Tiorangi"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Tūwehe Tiorangi"
+
+msgid "ISO_3166-1.IT"
+msgstr "Itāria"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Tūwehe Itāria"
+
+msgid "ISO_3166-1.JE"
+msgstr "Tōrehe"
+
+msgid "ISO_3166-1.JP"
+msgstr "Nipono"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kēnia"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Tūwehe Kēnia"
+
+msgid "ISO_3166-1.KH"
+msgstr "Kamapōtia"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Kīngitanga o Kamapōtia"
+
+msgid "ISO_3166-1.KI"
+msgstr "Kiripati"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Tūwehe Kiripati"
+
+msgid "ISO_3166-1.KP"
+msgstr "Kōrea-ki-te-raki"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Kōrea-ki-te-raki"
+
+msgid "ISO_3166-1.KR"
+msgstr "Kōrea-ki-te-tonga"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Katatānga"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Tūwehe Katatānga"
+
+msgid "ISO_3166-1.LA"
+msgstr "Rāoho"
+
+msgid "ISO_3166-1.LC"
+msgstr "Hato Ruiha"
+
+msgid "ISO_3166-1.LI"
+msgstr "Rīkeneteina"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Rīkeneteina"
+
+msgid "ISO_3166-1.LK"
+msgstr "Hiri Rānaka"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Hiri Rānaka"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Kīngitanga o "
+
+msgid "ISO_3166-1.LT"
+msgstr "Rituānia"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Tūwehe Rituānia"
+
+msgid "ISO_3166-1.LU"
+msgstr "Rakapuō"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Rakapuō"
+
+msgid "ISO_3166-1.LV"
+msgstr "Rāwhia"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Tūwehe Rāwhia"
+
+msgid "ISO_3166-1.MA"
+msgstr "Moroko"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Kīngitanga o Moroko"
+
+msgid "ISO_3166-1.MC"
+msgstr "Manako"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Manako"
+
+msgid "ISO_3166-1.MD"
+msgstr "Morotawa"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Tūwehe Morotawa"
+
+msgid "ISO_3166-1.ME"
+msgstr "Montenegro"
+
+msgid "ISO_3166-1.MG"
+msgstr "Marakāhia"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Whenua Tū Wehe o Marakāhia"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.MK"
+msgstr "Makerōnia"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Makerōnia"
+
+msgid "ISO_3166-1.ML"
+msgstr "Māri"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Tūwehe Māri"
+
+msgid "ISO_3166-1.MM"
+msgstr "Pēma"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Tūwehe Pēma"
+
+msgid "ISO_3166-1.MN"
+msgstr "Mongōria"
+
+msgid "ISO_3166-1.MR"
+msgstr "Mauritānia"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Mauritānia"
+
+msgid "ISO_3166-1.MT"
+msgstr "Mārata"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Tūwehe Mārata"
+
+msgid "ISO_3166-1.MU"
+msgstr "Maurituhi"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.MW"
+msgstr "Marāwi"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Tūwehe Marāwi"
+
+msgid "ISO_3166-1.MX"
+msgstr "Mehiko"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Mehiko"
+
+msgid "ISO_3166-1.MY"
+msgstr "Marēhia"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Mohapiki"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Tūwehe Mohapiki"
+
+msgid "ISO_3166-1.NA"
+msgstr "Namīpia"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Tūwehe Namīpia"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.NI"
+msgstr "Nikarāhua"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Tūwehe Nikarāhua"
+
+msgid "ISO_3166-1.NL"
+msgstr "Hōrana"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Kīngitanga o Hōrana"
+
+msgid "ISO_3166-1.NO"
+msgstr "Nōwei"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Kīngitanga o Nōwei"
+
+msgid "ISO_3166-1.NP"
+msgstr "Nepōra"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Nepōra"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nauru"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Tūwehe Nauru"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Aotearoa"
+
+msgid "ISO_3166-1.OM"
+msgstr "Ōmana"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Ōmana"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.PE"
+msgstr "Perū"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Tūwehe Perū"
+
+msgid "ISO_3166-1.PF"
+msgstr "Porinīhia Wīwī"
+
+msgid "ISO_3166-1.PG"
+msgstr "Papua Nūkini"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Papua Nūkini"
+
+msgid "ISO_3166-1.PH"
+msgstr "Piripīni"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Tūwehe Piripīni"
+
+msgid "ISO_3166-1.PK"
+msgstr "Pakitāne"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Pakitāne"
+
+msgid "ISO_3166-1.PL"
+msgstr "Pōrana"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Tūwehe Pōrana"
+
+msgid "ISO_3166-1.PT"
+msgstr "Potukara"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Tūwehe Potukara"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.PY"
+msgstr "Parakai"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Tūwehe Parakai"
+
+msgid "ISO_3166-1.RO"
+msgstr "Romeinia"
+
+msgid "ISO_3166-1.RS"
+msgstr "Serbia"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Tūwehe Serbia"
+
+msgid "ISO_3166-1.RU"
+msgstr "Rūhia"
+
+msgid "ISO_3166-1.RW"
+msgstr "Rāwana"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Rāwana"
+
+msgid "ISO_3166-1.SA"
+msgstr "Hauri Arāpia"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Hauri Arāpia"
+
+msgid "ISO_3166-1.SC"
+msgstr "Hehiri"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.SD"
+msgstr "Hūtāne"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Tūwehe Hūtāne"
+
+msgid "ISO_3166-1.SE"
+msgstr "Huitene"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Kīngitanga o Huitene"
+
+msgid "ISO_3166-1.SG"
+msgstr "Hingapoa"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Tūwehe Hingapoa"
+
+msgid "ISO_3166-1.SI"
+msgstr "Horowinia"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Tūwehe Horowinia"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Motu Svalbard me Jan Mayen"
+
+msgid "ISO_3166-1.SK"
+msgstr "Horowākia"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Tūwehe Horowāk"
+
+msgid "ISO_3166-1.SL"
+msgstr "Te Araone"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Tūwehe Te Araone"
+
+msgid "ISO_3166-1.SM"
+msgstr "Hato Marino"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Tūwehe Hato Marino"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Tūwehe Whakaminenga o Tiamana"
+
+msgid "ISO_3166-1.SR"
+msgstr "Hūriname"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Tūwehe Hūriname"
+
+msgid "ISO_3166-1.SS"
+msgstr "Hūtāne-ki-te-tonga"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Tūwehe Hūtāne-ki-te-tonga"
+
+msgid "ISO_3166-1.ST"
+msgstr "Ao Tomi me Pirinihipi"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "Ao Tomi me Pirinihipi"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Kīngitanga o "
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.TG"
+msgstr "Toko"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Toko"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Kīngitanga o "
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.TM"
+msgstr "Tukumanatānga"
+
+msgid "ISO_3166-1.TN"
+msgstr "Tūnihia"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Tūwehe Tūnihia"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Kīngitanga o "
+
+msgid "ISO_3166-1.TR"
+msgstr "Tākei"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Tūwehe Tākei"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.TV"
+msgstr "Tūwaru"
+
+msgid "ISO_3166-1.TW"
+msgstr "Taiwana"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Tānahia"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Tānahia"
+
+msgid "ISO_3166-1.UA"
+msgstr "Ūkareinga"
+
+msgid "ISO_3166-1.UG"
+msgstr "Ukānga"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Tūwehe Ukānga"
+
+msgid "ISO_3166-1.UM"
+msgstr "Amerika"
+
+msgid "ISO_3166-1.US"
+msgstr "Amerika"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Hononga o Amerika"
+
+msgid "ISO_3166-1.UY"
+msgstr "Urukuai"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Urukuai"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Uhipeketāne"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Tūwehe Uhipeketāne"
+
+msgid "ISO_3166-1.VA"
+msgstr "Poho o Pita"
+
+msgid "ISO_3166-1.VE"
+msgstr "Wenehūera"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Wenehūera"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Whinarana"
+
+msgid "ISO_3166-1.VI"
+msgstr "Whinarana"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Whinarana"
+
+msgid "ISO_3166-1.VN"
+msgstr "Whitināmu"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Whitināmu"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.WS"
+msgstr "Hāmoa ki te Uru"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Hāmoa ki te Uru"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.ZA"
+msgstr "Āwherika-ki-te-tonga"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Tūwehe Āwherika-ki-te-tonga"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Tūwehe "
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Tūwehe "
