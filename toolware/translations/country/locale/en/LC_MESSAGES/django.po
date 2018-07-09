@@ -540,7 +540,7 @@ msgid "ISO_3166-1.IQ#official"
 msgstr "Republic of Iraq"
 
 msgid "ISO_3166-1.IR"
-msgstr "Iran, Islamic Republic of"
+msgstr "Iran"
 
 msgid "ISO_3166-1.IR#official"
 msgstr "Islamic Republic of Iran"
