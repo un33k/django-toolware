@@ -1,0 +1,460 @@
+# Translation of ISO-3166 (country names) to Somali
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry, <mckinstry@debian.org>, 2004.
+#   Data taken from ICU-2.8:
+#   - Daniel Yacob <yacob@geez.org>, Ge'ez Frontier Foundation
+#   - Mohamed Diriye Abdullahi <diriyeam@magellan.umontreal.ca>, 2004
+#   - Department of Linguistics and Translation, Universite de Montreal, Montreal
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2004-04-06 07:10+0100\n"
+"Last-Translator: Mohamed Diriye Abdullahi <diriyeam@magellan.umontreal.ca>\n"
+"Language-Team: Somali\n"
+"Language: so\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AE"
+msgstr "Imaaraadka Carabta ee Midoobay"
+
+msgid "ISO_3166-1.AF"
+msgstr "Afgaanistaan"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Iiraan"
+
+msgid "ISO_3166-1.AM"
+msgstr "Armeeniya"
+
+msgid "ISO_3166-1.AO"
+msgstr "Angoola"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Suuriya"
+
+msgid "ISO_3166-1.AT"
+msgstr "Osteeriya"
+
+msgid "ISO_3166-1.AU"
+msgstr "Awstraaliya"
+
+msgid "ISO_3166-1.BA"
+msgstr "Boosniya Heersigoviina"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Boosniya Heersigoviina"
+
+msgid "ISO_3166-1.BB"
+msgstr "Baarbadoos"
+
+msgid "ISO_3166-1.BD"
+msgstr "Bangaala-Deesh"
+
+msgid "ISO_3166-1.BE"
+msgstr "Beljiyam"
+
+msgid "ISO_3166-1.BH"
+msgstr "Baxrayn"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Baxrayn"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Beniin"
+
+msgid "ISO_3166-1.BR"
+msgstr "Braasiil"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.CD"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.CH"
+msgstr "Swiiserlaand"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Ruush"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Siraaliyoon"
+
+msgid "ISO_3166-1.CL"
+msgstr "Jili"
+
+msgid "ISO_3166-1.CM"
+msgstr "Kameruun"
+
+msgid "ISO_3166-1.CN"
+msgstr "Shiinaha"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.CU"
+msgstr "Kuuba"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Indoneesiya"
+
+msgid "ISO_3166-1.DE"
+msgstr "Jarmal"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Jabuuti"
+
+msgid "ISO_3166-1.DK"
+msgstr "Danmaark"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.EG"
+msgstr "Masar"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Suuriya"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Qaramada Midoobey ee Maraykanka"
+
+msgid "ISO_3166-1.ES"
+msgstr "Isbeyn"
+
+msgid "ISO_3166-1.ET"
+msgstr "Itoobiya"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.FI"
+msgstr "Fiinlaand"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Indoneesiya"
+
+msgid "ISO_3166-1.FR"
+msgstr "Faransiis"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Suuriya"
+
+msgid "ISO_3166-1.GD"
+msgstr "Giriinaada"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Iiraan"
+
+msgid "ISO_3166-1.GN"
+msgstr "Gini"
+
+msgid "ISO_3166-1.GR"
+msgstr "Giriigga"
+
+msgid "ISO_3166-1.HR"
+msgstr "Korweeshiya"
+
+msgid "ISO_3166-1.HU"
+msgstr "Hangeri"
+
+msgid "ISO_3166-1.ID"
+msgstr "Indoneesiya"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Indoneesiya"
+
+msgid "ISO_3166-1.IE"
+msgstr "Ayrlaanda"
+
+msgid "ISO_3166-1.IL"
+msgstr "Israa'iil"
+
+msgid "ISO_3166-1.IN"
+msgstr "Hindiya"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Ciraaq"
+
+msgid "ISO_3166-1.IR"
+msgstr "Iiraan"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Iiraan"
+
+msgid "ISO_3166-1.IS"
+msgstr "Iislaand"
+
+msgid "ISO_3166-1.IT"
+msgstr "Talyaani"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Suuriya"
+
+msgid "ISO_3166-1.JM"
+msgstr "Jameyka"
+
+msgid "ISO_3166-1.JO"
+msgstr "Urdun"
+
+msgid "ISO_3166-1.JP"
+msgstr "Jabbaan"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kiiniya"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Suuriya"
+
+msgid "ISO_3166-1.KH"
+msgstr "Kamboodiya"
+
+msgid "ISO_3166-1.KP"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.KW"
+msgstr "Kuwayt"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Kasaakhistaan"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Kasaakhistaan"
+
+msgid "ISO_3166-1.LB"
+msgstr "Lubnaan"
+
+msgid "ISO_3166-1.LK"
+msgstr "Siirilaanka"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.LR"
+msgstr "Laybeeriya"
+
+msgid "ISO_3166-1.LS"
+msgstr "Losooto"
+
+msgid "ISO_3166-1.LU"
+msgstr "Luksemboorg"
+
+msgid "ISO_3166-1.LV"
+msgstr "Laatfiya"
+
+msgid "ISO_3166-1.LY"
+msgstr "Laybeeriya"
+
+msgid "ISO_3166-1.MA"
+msgstr "Marooko"
+
+msgid "ISO_3166-1.MC"
+msgstr "Moonako"
+
+msgid "ISO_3166-1.MD"
+msgstr "Makadooniya"
+
+msgid "ISO_3166-1.MK"
+msgstr "Makadooniya"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Makadooniya"
+
+msgid "ISO_3166-1.ML"
+msgstr "Maali"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Musambiig"
+
+msgid "ISO_3166-1.MR"
+msgstr "Muritaaniya"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Iiraan"
+
+msgid "ISO_3166-1.MT"
+msgstr "Maalda"
+
+msgid "ISO_3166-1.MV"
+msgstr "Maaldiqeen"
+
+msgid "ISO_3166-1.MW"
+msgstr "Malaawi"
+
+msgid "ISO_3166-1.MX"
+msgstr "Meksiko"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Qaramada Midoobey ee Maraykanka"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Musambiig"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Musambiig"
+
+msgid "ISO_3166-1.NA"
+msgstr "Namiibiya"
+
+msgid "ISO_3166-1.NG"
+msgstr "Nayjeeriya"
+
+msgid "ISO_3166-1.NI"
+msgstr "Nikaraaguwa"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Nikaraaguwa"
+
+msgid "ISO_3166-1.NO"
+msgstr "Noorweey"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Neyuusilaand"
+
+msgid "ISO_3166-1.OM"
+msgstr "Cumaan"
+
+msgid "ISO_3166-1.PH"
+msgstr "Filibiin"
+
+msgid "ISO_3166-1.PK"
+msgstr "Bakistaan"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Iiraan"
+
+msgid "ISO_3166-1.PL"
+msgstr "Booland"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Qaramada Midoobey ee Maraykanka"
+
+msgid "ISO_3166-1.PT"
+msgstr "Bortuqaal"
+
+msgid "ISO_3166-1.QA"
+msgstr "Qadar"
+
+msgid "ISO_3166-1.RO"
+msgstr "Rumaaniya"
+
+msgid "ISO_3166-1.RS"
+msgstr "Laybeeriya"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Indoneesiya"
+
+msgid "ISO_3166-1.RU"
+msgstr "Ruush"
+
+msgid "ISO_3166-1.SA"
+msgstr "Sacuudi Carabiya"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Sacuudi Carabiya"
+
+msgid "ISO_3166-1.SD"
+msgstr "Sudaan"
+
+msgid "ISO_3166-1.SE"
+msgstr "Iswidhan"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Suuriya"
+
+msgid "ISO_3166-1.SL"
+msgstr "Siraaliyoon"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Siraaliyoon"
+
+msgid "ISO_3166-1.SO"
+msgstr "Soomaaliya"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.SS"
+msgstr "Koonfur Afrika"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Koonfur Afrika"
+
+msgid "ISO_3166-1.SY"
+msgstr "Suuriya"
+
+msgid "ISO_3166-1.TD"
+msgstr "Jaad"
+
+msgid "ISO_3166-1.TG"
+msgstr "Toogo"
+
+msgid "ISO_3166-1.TH"
+msgstr "Taylaand"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Kuuriyada Waqooyi"
+
+msgid "ISO_3166-1.TN"
+msgstr "Tuniisiya"
+
+msgid "ISO_3166-1.TR"
+msgstr "Turki"
+
+msgid "ISO_3166-1.TW"
+msgstr "Taylaand"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Tansaaniya"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Tansaaniya"
+
+msgid "ISO_3166-1.UG"
+msgstr "Ugaanda"
+
+msgid "ISO_3166-1.US"
+msgstr "Qaramada Midoobey ee Maraykanka"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Qaramada Midoobey ee Maraykanka"
+
+msgid "ISO_3166-1.VA"
+msgstr "Faatikaan"
+
+msgid "ISO_3166-1.VE"
+msgstr "Fenisuweela"
+
+msgid "ISO_3166-1.VN"
+msgstr "Fiyetnaam"
+
+msgid "ISO_3166-1.YE"
+msgstr "Yaman"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Koonfur Afrika"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Koonfur Afrika"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Saambiya"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Simbaabwe"

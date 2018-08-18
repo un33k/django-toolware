@@ -1,0 +1,1254 @@
+# Translation of ISO-3166 (country names) to Dzongkha
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2006
+#   Kinley Tshering <gaseokuenden2k3@hotmail.com>, 2006
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2010-06-25 14:33+0530\n"
+"Last-Translator: yumkee <ylhamo@dit.gov.bt>\n"
+"Language-Team: Dzongkha <pgyeleg@dit.gov.bt>\n"
+"Language: dz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=(n!=1);\n"
+"X-Poedit-Country: Bhutan\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "ཨེན་ཌོ་ར།"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "ཨེན་ཌོ་ར་ རྒྱལ་ཕྲན་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.AE"
+msgstr "ཡུ་ནའི་ཊེཊ་ ཨ་རབ་ ཨི་མི་རེཊིསི།"
+
+msgid "ISO_3166-1.AF"
+msgstr "ཨཕ་ག་ནིསི་ཏཱན།"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "ཨཕ་ག་ནིསི་ཏཱན་ རི་པg་ལིག་ སི་ལ་མིག་ "
+
+msgid "ISO_3166-1.AG"
+msgstr "ཨེན་ཊི་གུའ་དང་ བར་བུ་ཌ།"
+
+msgid "ISO_3166-1.AI"
+msgstr "ཨེང་གུའི་ལ།"
+
+msgid "ISO_3166-1.AL"
+msgstr "ཨཱལ་བ་ནི་ཡ།"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "ཨཱལ་བ་ནི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.AM"
+msgstr "ཨར་མི་ནི་ཡ།"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "ཨར་མི་ནི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.AO"
+msgstr "ཨེང་གོ་ལ།"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "ཨེང་གོ་ལའི་་མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.AQ"
+msgstr "ཨེན་ཊར་ཊི་ཀ།"
+
+msgid "ISO_3166-1.AR"
+msgstr "ཨར་ཇེན་ཊི་ན།"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "ཨར་ཇེན་ཊི་ནའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.AS"
+msgstr "ཨ་མི་རི་ཀཱན་ ས་མོ་འ།"
+
+msgid "ISO_3166-1.AT"
+msgstr "ཨཱསི་ཊི་ཡ།"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "ཨཱསི་ཊི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.AU"
+msgstr "ཨཱསི་ཊ་ལི་ཡ།"
+
+msgid "ISO_3166-1.AW"
+msgstr "ཨ་རུ་བ།"
+
+msgid "ISO_3166-1.AX"
+msgstr "ཨཱ་ལེནཌི་ མཚོ་གླིང།"
+
+msgid "ISO_3166-1.AZ"
+msgstr "ཨ་ཛར་བ་ཡེ་ཇཱན།"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "ཨ་ཛར་བ་ཡེ་ཇཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BA"
+msgstr "བཱོས་ནི་ཡ་དང་ཧར་ཟི་གཱོ་བཱི་ནཱ།"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "བཱོས་ནི་ཡ་དང་ཧར་ཟི་གཱོ་བཱི་ནཱའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BB"
+msgstr "བར་བ་ཌོསི།"
+
+msgid "ISO_3166-1.BD"
+msgstr "བང་ལ་དེཤི།"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "བང་ལ་དེཤི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BE"
+msgstr "བེལ་ཇི་ཡམ།"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "བེལ་ཇི་ཡམ་ རྒྱལ་བརྒྱུད་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BF"
+msgstr "བུར་ཀི་ན་ ཕ་སོ།"
+
+msgid "ISO_3166-1.BG"
+msgstr "བཱལ་ག་རི་ཡ།"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "བཱལ་ག་རི་ཡའི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BH"
+msgstr "བཱ་རེན།"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "བྷ་རེན་ རྒྱལ་ཁབ་"
+
+msgid "ISO_3166-1.BI"
+msgstr "བུ་རུན་ཌ་ཡེ།"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "བུ་རུན་ཌ་ཡེའི་ མི་སེར་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BJ"
+msgstr "བེ་ནིན།"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "བེ་ནིན མི་སེར་་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BL"
+msgstr "སེནཊི་བཱརཐ་ལེ་མི།"
+
+msgid "ISO_3166-1.BM"
+msgstr "བར་མུ་ད།"
+
+msgid "ISO_3166-1.BN"
+msgstr "བུ་རུ་ན་ཡེ་ ད་རུ་ས་ལམ།"
+
+msgid "ISO_3166-1.BO"
+msgstr "བོ་ལི་བི་ཡ།"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "བོ་ལི་ཝ་ཡ་གི་ པུ་ལུ་རི་ནེ་ཤཱ་ནལ་མངའ་སྡེ་"
+
+msgid "ISO_3166-1.BR"
+msgstr "བ་ར་ཛིལ།"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "བ་ར་ཛིལ་གྱི་ མི་སེར་སྤྱི་མཐུན་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BS"
+msgstr "བ་ཧ་མཱསི།"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "བ་ཧ་མཱསི་རྒྱལ་ཁབ་ཀྱི་ མཐུན་མོངས་འབྱོར་པ།"
+
+msgid "ISO_3166-1.BT"
+msgstr "འབྲུག།"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "འབྲུག་ རྒྱལ་བརྒྱུད་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BV"
+msgstr "བའུ་བེཊི་ ཨའི་ལེནཌི།"
+
+msgid "ISO_3166-1.BW"
+msgstr "བཱོཊསི་ཝ་ན།"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "བཱོཊསི་ཝ་ན་ མི་སེར་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BY"
+msgstr "བེ་ལ་རཱསི།"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "བེ་ལ་རཱསི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.BZ"
+msgstr "བེ་ལིཛི།"
+
+msgid "ISO_3166-1.CA"
+msgstr "ཀེ་ན་ཌ།"
+
+msgid "ISO_3166-1.CC"
+msgstr "ཀོ་ཀོསི་(ཀི་ལིང་)ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.CD"
+msgstr "ཀོང་གོ་ མི་སེར་དམང་གཙོའི་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CF"
+msgstr "དབུས་ ཨཕ་རི་ཀཱན་ རི་པཔ་ལིཀ།"
+
+msgid "ISO_3166-1.CG"
+msgstr "ཀོང་གོ།"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "ཀོང་གོ་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CH"
+msgstr "ས་ཝ་ཛི་ལེནཌི།"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "སུ་ཝེཛིས་ མཐན་ཕྱོགས་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CI"
+msgstr "ཀོཊི་ ཌི་ཨའི་བོ་རི།"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "ཀོཊི་ ཌི་ཨའི་བོ་རིའི་ རི་པཔ་ལིག་"
+
+msgid "ISO_3166-1.CK"
+msgstr "ཀུཀ་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.CL"
+msgstr "ཅི་ལི།"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "ཅི་ལིའི་ མི་སེར་་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CM"
+msgstr "ཀེ་མི་རཱུན།"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "ཀེ་མི་རཱུན་ མི་སེརརྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CN"
+msgstr "ཅ་ཡེ་ན།(རྒྱ་ནག)"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "ཅ་ཡེ་ན།རྒྱ་ནག་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CO"
+msgstr "ཀོ་ལོམ་བི་ཡ།"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "ཀོ་ལོམ་བི་ཡ་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CR"
+msgstr "ཀཱོསི་ཊ་རི་ཀ།"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "ཀཱོསི་ཊ་རི་ཀ་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CU"
+msgstr "ཀུས་བ།"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "ཀུས་བའི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CV"
+msgstr "ཀེཔ་-བར་དི།"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "ཀེཔ་-བར་དིའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CX"
+msgstr "ཀིརིསིཊི་མཱསི་ ཨའི་ལེནཌི།"
+
+msgid "ISO_3166-1.CY"
+msgstr "སའི་པརཱསི།"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "སའི་པརཱསི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "ཅེཛི་ རི་པཔ་ལིཀ།"
+
+msgid "ISO_3166-1.DE"
+msgstr "ཇར་མ་ནི།"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "ཇར་མ་ནི་ སྤྱི་མཐུན་སྲིད་གཞུང མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.DJ"
+msgstr "ཇི་བའོ་ཊི།"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "ཇི་བའོ་ཊིའི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.DK"
+msgstr "ཌེན་མཱརཀ།"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "ཌེན་མཱརཀ་ རྒྱལ་རྒྱུད་ཀྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.DM"
+msgstr "ཌོ་མི་ནི་ཀ།"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "ཌོ་མི་ནི་ཀའི ཐུན་མོངས་ཀྱི་ འབྱོར་པ།"
+
+msgid "ISO_3166-1.DO"
+msgstr "ཌོ་མི་ནི་ཀཱན་ རི་པཔ་ལིཀ།"
+
+msgid "ISO_3166-1.DZ"
+msgstr "ཨཱལ་ཇི་རི་ཡ།"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "ཨཱལ་ཇི་རི་ཡ་གི་མི་སེར་དམངས་གཙོའི་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.EC"
+msgstr "ཨི་ཀུཡེ་ཌོར།"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "ཨི་ཀུཡེ་ཌོར་ མི་སེར་གྱི་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.EE"
+msgstr "ཨིསི་ཊོ་ནི་ཡ།"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "ཨིསི་ཊོ་ནི་ཡའི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.EG"
+msgstr "ཨི་ཇིབཊི།"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "ཨི་ཇིབཊི་གི་ ཨ་རབ་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.EH"
+msgstr "ཝེསི་ཊན་ ས་ཧ་ར།"
+
+msgid "ISO_3166-1.ER"
+msgstr "ཨི་རི་ཊི།"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི་ཨཱོཕ་ཨ་མི་རི་ཀ"
+
+msgid "ISO_3166-1.ES"
+msgstr "སིཔེན།"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "སིཔེན་ རྒྱལ་བརྒྱུད་ཀྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.ET"
+msgstr "ཨི་ཐོ་པི་ཡ།"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "ཨི་ཐོ་པི་ཡ་ སྤྱི་མཐུན་སྲིད་གཞུང་ དམང་གཙོའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.FI"
+msgstr "ཕིན་ལེནཌི།"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "ཕིན་ལེནཌི་གྱི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ཕི་ཇི།"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "ཧའི་ཏིའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.FK"
+msgstr "ཕཱལཀ་ལེནཌི་ མཚོ་གླིང་ (མཱལ་ཝི་ནཱསི)"
+
+msgid "ISO_3166-1.FM"
+msgstr "མི་ཀོ་རོ་་ནི་སིཡཱ་ སྤྱི་མཐུན་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "མི་ཀོརོ་ནི་སིཡཱའི་ སྤྱི་མཐུན་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.FO"
+msgstr "ཕ་རོའི་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.FR"
+msgstr "ཕརཱནསི།"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "ཕརེནཆི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GA"
+msgstr "གེ་བཱོན།"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "གེ་བཱོན་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GB"
+msgstr "ཡུ་ནའི་ཊེཊ་ ཀིང་ཌོམ།"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "གཱེརེཊ་བི་རི་ཊེན་དང་ཨའི་རི་ལེནཌི་གྱི་ གཅིག་འདུས་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GD"
+msgstr "གིརི་ན་ཌ།"
+
+msgid "ISO_3166-1.GE"
+msgstr "ཇིའོར་ཇི་ཡ།"
+
+msgid "ISO_3166-1.GF"
+msgstr "ཕེརེནཆི་ གུའི་ན།"
+
+msgid "ISO_3166-1.GG"
+msgstr "གུ་རེན་སེ།"
+
+msgid "ISO_3166-1.GH"
+msgstr "གྷ་ན།"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "གྷ་ན་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GI"
+msgstr "ཇིབ་རཱལ་ཊར།"
+
+msgid "ISO_3166-1.GL"
+msgstr "གིརིན་ལེནཌི།"
+
+msgid "ISO_3166-1.GM"
+msgstr "གམ་བོ་ནི་ཡ།"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "གམ་བོ་ནི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GN"
+msgstr "གི་ནི།"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "གི་ནི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GP"
+msgstr "གུ་འ་དི་ལོཔ།"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ཨི་ཀུཡེ་ཊོ་རི་ཡཱལ་ གི་ནི།"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "ཨི་ཀུཡེ་ཊོ་རི་ཡཱལ་ གི་ནི་འི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GR"
+msgstr "གིརིསི་།"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "ཧི་ལི་ནིཀ་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GS"
+msgstr "ལྷོ་ ཇོར་ཇི་ཡ་ དང་ ལྷོ་ སེནཌི་ཝིཅ་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.GT"
+msgstr "གའུ་ཏི་མ་ལ།"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "གའུ་ཏི་མ་ལའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GU"
+msgstr "གུའམ།"
+
+msgid "ISO_3166-1.GW"
+msgstr "གི་ནི་-བི་སའོ།"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "གི་ནི་-བི་སའོ་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.GY"
+msgstr "གུ་ཡ་ན། "
+
+msgid "ISO_3166-1.GY#official"
+msgstr "གུ་ཡ་ན་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.HK"
+msgstr "ཧོང་ཀོང་"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "ཧོང་ཀོང་ ཅ་ཡེ་ན་གི་དམིགས་བསལ་ བདག་སྐྱོང་ ལུང་ཕྱོགས།"
+
+msgid "ISO_3166-1.HM"
+msgstr "ཧརཌ་མཚོ་གླིང་དང་ཨེམ་སི་ ཌའུན་ལེནཌ་ མཚོ་གལིང།"
+
+msgid "ISO_3166-1.HN"
+msgstr "ཧཱོན་ཌུ་རཱསི།"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "ཧཱོན་ཌུ་རཱསི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.HR"
+msgstr "ཀོརོ་ཤི་ཡ།"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "ཀོརོ་ཤི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.HT"
+msgstr "ཧའི་ཏི།"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "ཧའི་ཏིའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.HU"
+msgstr "ཧང་ག་རི།"
+
+msgid "ISO_3166-1.ID"
+msgstr "ཨིན་ཌོ་ནེ་ཤི་ཡ།"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "ཨིན་ཌོ་ནེ་ཤི་ཡ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.IE"
+msgstr "ཨའི་རི་ལེནཌི།"
+
+msgid "ISO_3166-1.IL"
+msgstr "ཨིཛི་རེལ།"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "ཨིཛི་རེལ་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.IM"
+msgstr "ཨ་ཡིལ་ཨོཕ་མེན།"
+
+msgid "ISO_3166-1.IN"
+msgstr "རྒྱ་གར།"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "རྒྱ་གར་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.IO"
+msgstr "བིརི་ཊིཤ་ ཨིན་ཌི་ཡཱན་ ཨོ་ཤི་ཡཱན་ ཊེ་རི་ཊོ་རི།(ཕྱི་གླིངཔ་དང་རྒྱ་གར་གྱི་རྒྱ་མཚོའི་དབང་བསྒྱུར་ས་ཁོངས)།"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ཨི་རཀ།"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "ཨི་རཀ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.IR"
+msgstr "ཨི་རཱན་  ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ཨི་རཱན་གྱི་ ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.IS"
+msgstr "ཨའིསི་ལེནཌི།"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "ཨའིསི་ལེནཌི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.IT"
+msgstr "ཨི་ཊ་ལི།"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ཨི་ཊ་ལཱེན་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.JE"
+msgstr "ཇར་སི།"
+
+msgid "ISO_3166-1.JM"
+msgstr "ཇ་མའི་ཀ"
+
+msgid "ISO_3166-1.JO"
+msgstr "ཇོར་ཌན།"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "ཇོར་ཌན་ ཧཤི་མིཊི་ རྒྱལ་རྒྱུད་ཀྱི་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.JP"
+msgstr "ཇ་པཱན།"
+
+msgid "ISO_3166-1.KE"
+msgstr "ཀེན་ཡ།"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "ཀེན་ཡ་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.KG"
+msgstr "ཀར་གིཛི་ཏཱན།"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "ཀར་གིཛི་ཏཱན་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.KH"
+msgstr "ཀམ་བོ་ཌི་ཡ།"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "ཀམ་བོ་ཌི་ཡ་ རྒྱལ་བརྒྱུད་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.KI"
+msgstr "ཀི་རི་བ་ཏི།"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "ཀི་རི་བ་ཏི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.KM"
+msgstr "ཀོ་མོ་རཱོསི།"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "ཀོ་མོ་རཱོསི་ ཡུ་ནི་ཡཱན་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.KN"
+msgstr "སེནཊི་ ཀིཊིསི་ ཨེནཌི་ ནེ་བིསི།"
+
+msgid "ISO_3166-1.KP"
+msgstr "ཀོ་རི་ཡ། ཌེ་མོ་ཀེརེ་ཊིཀ་ པི་པཱལསི་ རི་པཔ་ལིཀ་ ཨོཕ་"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "ཀོ་རི་ཡ་ དམང་གཙོའི མི་སེར་་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.KR"
+msgstr "ཀོ་རི་ཡ། རི་པཔ་ལིཀ་ ཨོཕ་"
+
+msgid "ISO_3166-1.KW"
+msgstr "ཀུ་ཝེཊི།"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "ཀུ་ཝེཊི་གི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.KY"
+msgstr "ཀེ་མཱན་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.KZ"
+msgstr "ཀ་ཛཀསི་ཏཱན།"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "ཀ་ཛཀསི་ཏཱན་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.LA"
+msgstr "ལེཝོ་ མི་སེར་གྱི་དམང་གཙོའི་གཞུང་།"
+
+msgid "ISO_3166-1.LB"
+msgstr "ལེ་བ་ནཱོན།"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "ལེ་བ་ནཱིནསི་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.LC"
+msgstr "སེནཊི་ ལུ་སི་ཡ།"
+
+msgid "ISO_3166-1.LI"
+msgstr "ལིཆི་ཊེནསི་ཊིན།"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "ལིཆི་ཊེནསི་ཊིན་གྱི་ རྒྱལ་ཕྲན།"
+
+msgid "ISO_3166-1.LK"
+msgstr "སི་རི་ལང་ཀ།(ཤྲི་ལངྐ་)"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "སི་རི་ལང་ཀའི  དམང་གཙོ་ སྤྱི་ཚོགས་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.LR"
+msgstr "ལི་བི་རི་ཡ།"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "ལི་བི་རི་ཡ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.LS"
+msgstr "ལི་སོ་ཐོ།"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "ལི་སོ་ཐོ་ རྒྱལ་བརྒྱུད་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.LT"
+msgstr "ལི་ཐུ་ནི་ཡ།"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "ལི་ཐུ་ནི་ཡ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.LU"
+msgstr "ལག་ཟེམ་བཱརག།"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "ལག་ཟེམ་བཱརག་གྱི་ གཱརནཌི་ ཌ་ཆི།"
+
+msgid "ISO_3166-1.LV"
+msgstr "ལེཊི་བི་ཡ།"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "ལེཊི་བི་ཡ་ མི་སིར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.LY"
+msgstr "ལིབ་ཡ་"
+
+msgid "ISO_3166-1.MA"
+msgstr "མོ་རོཀ་ཀོ།"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "མོ་རོཀ་ཀོ་ རྒྱལ་བརྒྱུད་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MC"
+msgstr "མོ་ན་ཀོ"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "མོ་ན་ཀོའི་ རྒྱལ་ཕྲན།"
+
+msgid "ISO_3166-1.MD"
+msgstr "མོལ་ཌོ་ཝ།"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "མཱོལ་ཌོ་བ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.ME"
+msgstr "མཱོན་ཊི་ནིག་རོ།"
+
+msgid "ISO_3166-1.MF"
+msgstr "སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།"
+
+msgid "ISO_3166-1.MG"
+msgstr "མ་ད་གཱསི་ཀར།"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "མ་ད་གཱསི་ཀར མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MH"
+msgstr "མར་ཤཱལ་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "མར་ཤཱལ་ ཨའི་ལེནཌིསི་གྱི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MK"
+msgstr "མས་ཀི་ཌོ་ནིཡཱ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "སྔོན་མའི་ཡོ་གོས་ལཱབ་ མེ་སི་་ཌོ་ནིཡཱ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.ML"
+msgstr "མ་ལི།"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "མ་ལི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MM"
+msgstr "མི་ཡཱན་མར།"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "གུ་ཡ་ན་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MN"
+msgstr "མོང་གོ་ལི་ཡ།"
+
+msgid "ISO_3166-1.MO"
+msgstr "མ་ཀའོ།"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "མས་ཀོ་ ཅ་ཡེ་ནའི་ དམིགས་བསལ་ བདག་སྐྱོང་ ལུང་ཕྱོགས།"
+
+msgid "ISO_3166-1.MP"
+msgstr "བྱང་ མེ་རི་ཡ་ན་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "བྱང་ མེ་རི་ཡ་ན་ ཨའི་ལེནཌིསི་གི་ མཐུན་མོངས་འབྱོར་པ།"
+
+msgid "ISO_3166-1.MQ"
+msgstr "མར་ཊི་ནིཀ།"
+
+msgid "ISO_3166-1.MR"
+msgstr "མའུ་རི་ཊ་ནི་ཡ།"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "མའུ་རི་ཊ་ནི་ཡ་ ཨིས་ལ་མིཀ་མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MS"
+msgstr "མཱོནཊི་སི་རཊི།"
+
+msgid "ISO_3166-1.MT"
+msgstr "མཱལ་ཊ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "མཱལ་ཊ"
+
+msgid "ISO_3166-1.MU"
+msgstr "མའུ་རི་ཤི་ཡཱསི།"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "མའུ་རི་ཤི་ཡཱསི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MV"
+msgstr "མེལ་ཌིབསི།"
+
+msgid "ISO_3166-1.MV#official"
+msgstr " མེལ་ཌིབསི་ མིསེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MW"
+msgstr "མ་ལ་ཝི།"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "མ་ལ་ཝི་ མིསེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MX"
+msgstr "མེག་སི་ཀོ།"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "མེག་སི་ཀཱེན་ གཅིག་མཐུན་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.MY"
+msgstr "མ་ལེ་ཤི་ཡ།"
+
+msgid "ISO_3166-1.MZ"
+msgstr "མོ་ཛམ་བིཀ།"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "མོ་ཛམ་བིཀ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.NA"
+msgstr "ནམ་བི་ཡ།"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "ནམ་བི་ཡ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.NC"
+msgstr "ནིའུ་ ཀེ་ལི་ཌོ་ནི་ཡ།"
+
+msgid "ISO_3166-1.NE"
+msgstr "ནའི་ཇར།"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "ནའི་ཇར་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.NF"
+msgstr "ནོར་ཕོལཀ་ ཨའི་ལེནཌི།"
+
+msgid "ISO_3166-1.NG"
+msgstr "ནའི་ཇི་རི་ཡ།"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "ནའི་ཇི་རི་ཡ་ སྤྱི་མཐུན་སྲིད་གཞུང མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.NI"
+msgstr "ནི་ཀ་ར་གུ་ཝ།"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "ནི་ཀ་ར་གུ་ཝ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.NL"
+msgstr "ནེ་དར་ལེནཌིསི།"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "ནེ་དར་ལེནཌིསི་ "
+
+msgid "ISO_3166-1.NO"
+msgstr "ནོར་ཝེ།"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "ནོར་ཝེ་ རྒྱལ་བརྒྱུད་ཀྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.NP"
+msgstr "ནེ་པཱལ།"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "ནེ་པཱལ་གྱི་ ཕེ་ཌ་རལ་ སྤྱི་མཐུན་སྲིད་གཞུང་ དམང་གཙོའི་ མི་སེར་རྒྱལ་ཁབ་"
+
+msgid "ISO_3166-1.NR"
+msgstr "ནའུ་རུ།"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "ནའུ་རུ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.NU"
+msgstr "ནིའུ།"
+
+msgid "ISO_3166-1.NZ"
+msgstr "ནིའུ་ཛི་ལེནཌི།"
+
+msgid "ISO_3166-1.OM"
+msgstr "ཨོ་མཱན།"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ཨོ་མཱན་ སུལ་ཊ་ནེཊི།"
+
+msgid "ISO_3166-1.PA"
+msgstr "པ་ན་མ།"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "པ་ན་མ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.PE"
+msgstr "པེ་རུ།"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "པེ་རུ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.PF"
+msgstr "ཕེརེནཆི་ པོ་ལི་ནི་སི་ཡ།"
+
+msgid "ISO_3166-1.PG"
+msgstr "པ་པུ་འ་ ནིའུ་གི་ནི།"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "ས་མོའ་་རང་དབང་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.PH"
+msgstr "ཕི་ལི་པིནསི།"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "ཕི་ལི་པིནསི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.PK"
+msgstr "པ་ཀིསི་ཏཱན།"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "པ་ཀིསི་ཏཱན་ ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.PL"
+msgstr "པོ་ལེནཌི།"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "པོ་ལེནཌི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.PM"
+msgstr "སེནཊི་ པཱི་རི་དང་ མིཀིའུ་ལོན།"
+
+msgid "ISO_3166-1.PN"
+msgstr "པིཊི་ཀའི་རིན།"
+
+msgid "ISO_3166-1.PR"
+msgstr "པུར་ཊོ་ རི་ཀོ།"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི་ཨཱོཕ་ཨ་མི་རི་ཀ"
+
+msgid "ISO_3166-1.PT"
+msgstr "པོར་ཊུ་གཱལ།"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "པོར་ཊུ་གཱལ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.PW"
+msgstr "པ་ལའུ།"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "པ་ལའུ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.PY"
+msgstr "པ་ར་གུ་ཡེ།"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "པ་ར་གུ་ཡེ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.QA"
+msgstr "ཀ་ཊར།"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "ཀ་ཊར་ རྒྱལ་ཁབ།༔"
+
+msgid "ISO_3166-1.RE"
+msgstr "སླར་བསྡོམ།"
+
+msgid "ISO_3166-1.RO"
+msgstr "རོ་མ་ནི་ཡ།"
+
+msgid "ISO_3166-1.RS"
+msgstr "སར་བི་ཡ།"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "སར་བི་ཡ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.RU"
+msgstr "ར་ཤི་ཡཱན་ ཕེ་ཌི་རེ་ཤཱན།"
+
+msgid "ISO_3166-1.RW"
+msgstr "ར་ཝན་ཌ།"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "ར་ཝན་ཌིས་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SA"
+msgstr "སའུ་དི་ ཨ་ར་བི་ཡ།"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "སའུ་དི་ ཨ་ར་བི་ཡ་ རྒྱལ་བརྒྱུད་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SB"
+msgstr "སོ་ལོ་མཱོན་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.SC"
+msgstr "སི་ཅི་ལེསི།"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "སི་ཅི་ལེསི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SD"
+msgstr "སུ་དཱན།"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SE"
+msgstr "སུའི་ཌེན།"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "སུའི་ཌེན་ རྒྱལ་བརྒྱུད་ཀྱི་ཁབ།"
+
+msgid "ISO_3166-1.SG"
+msgstr "སིང་ག་པོར།"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "སིང་ག་པོར་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SH"
+msgstr "སཱེནཊི་ཧི་ལི་ན་ ཨེ་སེན་ཤཱན་དང་ཊིསི་ཊན་ ད་ ཀུན་ཧ་"
+
+msgid "ISO_3166-1.SI"
+msgstr "སོལོ་བི་ནི་ཡ།"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "སོལོ་བི་ནི་ཡ་མི་སེར་རྒཡལ་ཁབ།"
+
+msgid "ISO_3166-1.SJ"
+msgstr "ས་བཱལ་བཱཊ་དང་ཇཱན་མ་ཡཱིན།"
+
+msgid "ISO_3166-1.SK"
+msgstr "སོལོ་བ་ཀི་ཡ།"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "སོལོ་བ་ཀི་ཡ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SL"
+msgstr "སི་ར་ ལིའོ་ནི།"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "སི་ར་ ལིའོ་ནི་ མུ་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SM"
+msgstr "སེན་ མེ་རི་ནོ།"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "སེན་ མེ་རི་ནོ་་མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SN"
+msgstr "སི་ནི་གཱལ།"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "སི་ནི་གཱལ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SO"
+msgstr "སོ་མ་ལི་ཡ།"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "ཇར་མ་ནི་ སྤྱི་མཐུན་སྲིད་གཞུང མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SR"
+msgstr "སུ་རི་ནེམ།"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "སུ་རི་ནེམ་གྱི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SS"
+msgstr "སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.ST"
+msgstr "སེའོ་ ཊོམ་དང་ པི་རིན་སི་པཱི།"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "སེའོ་ ཊོམ་དང་ པི་རིན་སི་པཱི་ དམང་གཙོའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SV"
+msgstr "ཨེལ་ སཱལ་བེ་ཌོར།"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "ཨེལ་ སཱལ་བེ་ཌོར་ མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SX"
+msgstr "སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།"
+
+msgid "ISO_3166-1.SY"
+msgstr "སི་རེན་ ཨ་རབ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.SZ"
+msgstr "ས་ཝ་ཛི་ལེནཌི།"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "ས་ཝ་ཛི་ལེནཌི་གི་ རྒྱལ་བརྒྱུད་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TC"
+msgstr "ཊརཀསི་ དང་ ཀའི་ཀོསི་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.TD"
+msgstr "ཆཌི།"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "ཆཌི་མི་སེར་གྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TF"
+msgstr "ཕེརེནཆི་ ལྷོ་ཕྱོགས་དབང་བསྒྱུར་ས་ཁོངས།"
+
+msgid "ISO_3166-1.TG"
+msgstr "ཊོ་གོ།"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "ཊོ་གོ་ལིས་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TH"
+msgstr "ཐཱའི་ལེནཌི།"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "ཐཱའི་ལེནཌི་ རྒྱལ་བརྒྱུད་ཀྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TJ"
+msgstr "ཏ་ཇི་ཀིསི་ཏཱན།"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "ཏ་ཇི་ཀིསི་ཏཱན་མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TK"
+msgstr "ཊོ་ཀི་ལའོ།"
+
+msgid "ISO_3166-1.TL"
+msgstr "ཊི་མོར་-ལིསི་ཏི།"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "ཊི་མོར་-ལིསི་ཏི་ མི་སེར་དམང་གཙོའི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TM"
+msgstr "ཊརཀ་མི་ནིསི་ཏཱན།"
+
+msgid "ISO_3166-1.TN"
+msgstr "ཊུ་ནི་སི་ཡ།"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "ཊུ་ནི་སི་ཡ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TO"
+msgstr "ཊོང་ག།"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "ཊོང་ག་ རྒྱལ་བརྒྱུད་ཀྱི་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TR"
+msgstr "ཊར་ཀི།"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "ཊར་ཀི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TT"
+msgstr "ཊིར་ནི་ཌེཊདང་ཊོ་བཱ་གཱོ།"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "ཊིར་ནི་ཌེཊདང་ཊོ་བཱ་གཱོའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.TV"
+msgstr "ཊུ་བ་ལུ།"
+
+msgid "ISO_3166-1.TW"
+msgstr "ཏ་ཡེ་ཝཱན།"
+
+msgid "ISO_3166-1.TZ"
+msgstr "ཏཱན་ཛ་ནི་ཡ། ཡུ་ན་ཡེ་ཊེཊི་ རི་པཔ་ལིཀ་ ཨོཕ་"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "ཏཱན་ཛ་ནི་ཡའི་གཅིག་འདུས་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.UA"
+msgstr "ཡུ་ཀེརན།"
+
+msgid "ISO_3166-1.UG"
+msgstr "ཡུ་གེན་ཌ།"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "ཡུ་གེན་ཌ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.UM"
+msgstr "ཡུ་ནའི་ཊེཊ་ སིཊེཊིསི་ མའི་ནོར་ ཨའུཊི་ལེ་ཡིང་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-1.US"
+msgstr "ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི།"
+
+msgid "ISO_3166-1.US#official"
+msgstr "ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི་ཨཱོཕ་ཨ་མི་རི་ཀ"
+
+msgid "ISO_3166-1.UY"
+msgstr "ཨུ་རུ་གེ།"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "ཤར་ཨུ་རུ་གེའི་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ཨུཛ་བེ་ཀིསི་ཏཱན།"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "ཨུཛ་བེ་ཀིསི་ཏཱན་གྱི་མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.VA"
+msgstr "ཧོ་ལི་སཱི་ (བཱ་ཊི་ཀན་ སི་ཊི་ སི་ཊེཊི།)"
+
+msgid "ISO_3166-1.VC"
+msgstr "སེནཊི་བཱིན་སིནཊ་དང་ གཱེརན་ན་ཌེནེས"
+
+msgid "ISO_3166-1.VE"
+msgstr "བེ་ནི་ཛུས་ལ།"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "བེ་ནི་ཛུས་ལའི་ བོ་ལི་བི་རཱེན་མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.VG"
+msgstr "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ བིརི་ཊིཤི།"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "བིརི་ཊིཤི་ཝརཇིན་ ཨའི་ལེནཌིསི་།"
+
+msgid "ISO_3166-1.VI"
+msgstr "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ ཡུ་ཨེསི།"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ ཡུ་ཨེསི།"
+
+msgid "ISO_3166-1.VN"
+msgstr "ཝེཊི་ནམ།"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "ཝེཊི་ནམ་ སྤྱི་ཚོགས་མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.VU"
+msgstr "བ་ནུའ་ཊུ།"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "བ་ནུའ་ཊུ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.WF"
+msgstr "ཝ་ལིསི་དང་ཕུ་ཊ་ན།"
+
+msgid "ISO_3166-1.WS"
+msgstr "ས་མོའ།"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "ས་མོའ་་རང་དབང་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.YE"
+msgstr "ཡེ་མེན།"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "ཡེ་མེནགྱི་ རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.YT"
+msgstr "མ་ཡོ་ཊི།"
+
+msgid "ISO_3166-1.ZA"
+msgstr "ལྷོ་ཨཕ་རི་ཀ"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "ལྷོ་ཨཕ་རི་ཀ་ མི་སེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.ZM"
+msgstr "ཛམ་བི་ཡ།"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "ཛམ་བི་ཡ་ མིསེར་རྒྱལ་ཁབ།"
+
+msgid "ISO_3166-1.ZW"
+msgstr "ཛིམ་བབ་ཝི།"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "ཛིམ་བབ་ཝི་ མུ་སེར་རྒྱལ་ཁབ།"

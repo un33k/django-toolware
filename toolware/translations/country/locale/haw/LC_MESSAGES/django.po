@@ -1,0 +1,77 @@
+# Translation of ISO-3166 (country names) to Hawaiian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2004-08-08 10:00+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Hawaiian\n"
+"Language: haw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AU"
+msgstr "Nūhōlani"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kanakā"
+
+msgid "ISO_3166-1.CN"
+msgstr "Kina"
+
+msgid "ISO_3166-1.DE"
+msgstr "Kelemānia"
+
+msgid "ISO_3166-1.DK"
+msgstr "Kenemaka"
+
+msgid "ISO_3166-1.ES"
+msgstr "Kepania"
+
+msgid "ISO_3166-1.FR"
+msgstr "Palani"
+
+msgid "ISO_3166-1.GB"
+msgstr "Aupuni Mōʻī Hui Pū ʻIa"
+
+msgid "ISO_3166-1.GR"
+msgstr "Helene"
+
+msgid "ISO_3166-1.IE"
+msgstr "ʻIlelani"
+
+msgid "ISO_3166-1.IL"
+msgstr "ʻIseraʻela"
+
+msgid "ISO_3166-1.IN"
+msgstr "ʻĪnia"
+
+msgid "ISO_3166-1.IT"
+msgstr "ʻĪkālia"
+
+msgid "ISO_3166-1.JP"
+msgstr "Iāpana"
+
+msgid "ISO_3166-1.MX"
+msgstr "Mekiko"
+
+msgid "ISO_3166-1.NL"
+msgstr "Hōlani"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Aotearoa"
+
+msgid "ISO_3166-1.PH"
+msgstr "ʻĀina Pilipino"
+
+msgid "ISO_3166-1.US"
+msgstr "ʻAmelika Hui Pū ʻIa"

@@ -1,0 +1,1253 @@
+# translation of bn_IN.po to Bengali INDIA
+# Translation of ISO 3166 (country names) to Bengali India
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+#
+# Runa Bhattacharjee <runabh@gmail.com>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2010-04-07 19:53+0530\n"
+"Last-Translator: Runa Bhattacharjee <runabh@gmail.com>\n"
+"Language-Team: Bengali (India) <discuss@lists.ankur.org.in>\n"
+"Language: bn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "অ্যান্ডোরা"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "সাংবিধানিক রাজতন্ত্র অ্যান্ডোরা"
+
+msgid "ISO_3166-1.AE"
+msgstr "সংযুক্ত আরব আমিরশাহী"
+
+msgid "ISO_3166-1.AF"
+msgstr "আফগানিস্তান"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "আফগানিস্তান ইসলামিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.AG"
+msgstr "অ্যান্টিগুয়া ও বারবুডা"
+
+msgid "ISO_3166-1.AI"
+msgstr "অ্যাঙ্গিলা"
+
+msgid "ISO_3166-1.AL"
+msgstr "আলবেনিয়া"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "আলবেনিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.AM"
+msgstr "আর্মেনিয়া"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "আর্মেনিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.AO"
+msgstr "অ্যাঙ্গোলা"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "অ্যাঙ্গোলা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.AQ"
+msgstr "আনটার্কটিকা"
+
+msgid "ISO_3166-1.AR"
+msgstr "আর্জেনটিনা"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "আর্জেনটিন প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.AS"
+msgstr "আমেরিকান সামোয়া"
+
+msgid "ISO_3166-1.AT"
+msgstr "অস্ট্রিয়া"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "অস্ট্রিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.AU"
+msgstr "অস্ট্রেলিয়া"
+
+msgid "ISO_3166-1.AW"
+msgstr "আরুবা"
+
+msgid "ISO_3166-1.AX"
+msgstr "অ্যাল্যান্ড দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.AZ"
+msgstr "আজারবাইজান"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "আজারবাইজান প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.BA"
+msgstr "বসনিয়া ও হার্জগোভিনা"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "বসনিয়া ও হার্জগোভিনা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.BB"
+msgstr "বার্বাডোস"
+
+msgid "ISO_3166-1.BD"
+msgstr "বাংলাদেশ"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "গণপ্রজাতন্ত্রী বাংলাদেশ"
+
+msgid "ISO_3166-1.BE"
+msgstr "বেলজিয়াম"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "বেলগিয়াম রাজ্য"
+
+msgid "ISO_3166-1.BF"
+msgstr "বুর্কিনা ফাসো"
+
+msgid "ISO_3166-1.BG"
+msgstr "বুলগারিয়া"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "বুলগারিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.BH"
+msgstr "বাহরেইন"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "বাহরেইন রাজ্য"
+
+msgid "ISO_3166-1.BI"
+msgstr "বুরুন্ডি"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "বুরুন্ডি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.BJ"
+msgstr "বেনিন"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "বেনিন প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.BL"
+msgstr "সেন্ট বার্থেলেমি"
+
+msgid "ISO_3166-1.BM"
+msgstr "বার্মুডা"
+
+msgid "ISO_3166-1.BN"
+msgstr "ব্রুনেই দারুসলাম"
+
+msgid "ISO_3166-1.BO"
+msgstr "বোলিভিয়া"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "প্লুরিনেশন্যাল রাষ্ট্র বোলিভিয়া"
+
+msgid "ISO_3166-1.BR"
+msgstr "ব্রাজিল"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "প্রজাতন্ত্রী যুক্তরাষ্ট্র ব্রাজিল"
+
+msgid "ISO_3166-1.BS"
+msgstr "বাহামাস"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "বাহামাস রাষ্ট্রমণ্ডল"
+
+msgid "ISO_3166-1.BT"
+msgstr "ভুটান"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "ভুটান রাজ্য"
+
+msgid "ISO_3166-1.BV"
+msgstr "বুভে দ্বীপ"
+
+msgid "ISO_3166-1.BW"
+msgstr "বোটসওয়ানা"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "বোটসওয়ানা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.BY"
+msgstr "বেলারুস"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "বেলারুস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.BZ"
+msgstr "বেলিজে"
+
+msgid "ISO_3166-1.CA"
+msgstr "কানাডা"
+
+msgid "ISO_3166-1.CC"
+msgstr "কোকোস (কিলিং) দ্বীপ"
+
+msgid "ISO_3166-1.CD"
+msgstr "কঙ্গো, গণতান্ত্রিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CF"
+msgstr "মধ্য আফ্রিকান প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CG"
+msgstr "কঙ্গো"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "কঙ্গো প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CH"
+msgstr "সুইৎজারল্যান্ড"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "সুইস মৈত্রীসংঘ"
+
+msgid "ISO_3166-1.CI"
+msgstr "আইভরি কোস্ট"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "আইভরি কোস্ট প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CK"
+msgstr "কুক দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.CL"
+msgstr "চিলি"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "চিলি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CM"
+msgstr "ক্যামেরুণ"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "ক্যামেরুণ প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CN"
+msgstr "চীন"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "গণপ্রজাতন্ত্রী চীন"
+
+msgid "ISO_3166-1.CO"
+msgstr "কোলোম্বিয়া"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "কোলোম্বিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CR"
+msgstr "কোস্টা রিকা"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "কোস্টা রিকা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CU"
+msgstr "কিউবা"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "কিউবা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CV"
+msgstr "কেপ ভার্ডি"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "কেপ ভার্ডি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CX"
+msgstr "ক্রিস্টমাস দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.CY"
+msgstr "সাইপ্রাস"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "সাইপ্রাস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "চেক প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.DE"
+msgstr "জার্মানি"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "প্রজাতন্ত্রী যুক্তরাষ্ট্র জার্মানি"
+
+msgid "ISO_3166-1.DJ"
+msgstr "জিবুতি"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "জিবুতি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.DK"
+msgstr "ডেনমার্ক"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "ডেনমার্ক রাজ্য"
+
+msgid "ISO_3166-1.DM"
+msgstr "ডোমিনিকা"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "ডেমিনিকা রাষ্ট্রমণ্ডল"
+
+msgid "ISO_3166-1.DO"
+msgstr "ডোমিনিকান প্রজান্ত্র"
+
+msgid "ISO_3166-1.DZ"
+msgstr "অ্যালজিরিয়া"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "গণতান্ত্রিক গণপ্রজাতন্ত্রী অ্যালজিরিয়া"
+
+msgid "ISO_3166-1.EC"
+msgstr "ইকুয়েডোর"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "ইকুয়েডোর প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.EE"
+msgstr "এস্তোনিয়া"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "এস্তোনিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.EG"
+msgstr "মিশর"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "আরব প্রজাতন্ত্র মিশর"
+
+msgid "ISO_3166-1.EH"
+msgstr "পশ্চীম সাহারা"
+
+msgid "ISO_3166-1.ER"
+msgstr "এরিট্রিয়া"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "আমেরিকা মার্কিন যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-1.ES"
+msgstr "স্পেন"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "স্পেন রাজ্য"
+
+msgid "ISO_3166-1.ET"
+msgstr "ইথিওপিয়া"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "গণতান্ত্রিক প্রজাতন্ত্রী যুক্তরাষ্ট্র ইথিওপিয়া"
+
+msgid "ISO_3166-1.FI"
+msgstr "ফিনল্যান্ড"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "ফিনল্যান্ড প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ফিজি"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "হাইতি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.FK"
+msgstr "ফল্কল্যান্ড দ্বীপপুঞ্জ (মালভিনাস)"
+
+msgid "ISO_3166-1.FM"
+msgstr "মাইক্রোনেশিয়া যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "মাইক্রোনেশিয়া যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-1.FO"
+msgstr "ফ্যারো দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.FR"
+msgstr "ফ্রান্স"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "ফ্রেঞ্চ প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GA"
+msgstr "গেবন"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "গেবনিস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GB"
+msgstr "যুক্তরাজ্য"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "গ্রেট ব্রিটেন ও উত্তর আয়ারল্যান্ড যুক্তরাজ্য"
+
+msgid "ISO_3166-1.GD"
+msgstr "গ্রেনাডা"
+
+msgid "ISO_3166-1.GE"
+msgstr "জর্জিয়া"
+
+msgid "ISO_3166-1.GF"
+msgstr "ফ্রেঞ্চ গায়ানা"
+
+msgid "ISO_3166-1.GG"
+msgstr "গুয়ের্নসে"
+
+msgid "ISO_3166-1.GH"
+msgstr "ঘানা"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "ঘানা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GI"
+msgstr "জিব্রাল্টার"
+
+msgid "ISO_3166-1.GL"
+msgstr "গ্রিনল্যান্ড"
+
+msgid "ISO_3166-1.GM"
+msgstr "গাম্বিয়া"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "গাম্বিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GN"
+msgstr "গিনি"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "গিনি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GP"
+msgstr "গুয়াডেল্যুপ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ইকুয়েটোরিয়াল গিনি"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "ইকুয়েটোরিয়াল গিনি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GR"
+msgstr "গ্রিস"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "হেলেনিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GS"
+msgstr "দক্ষিণ জর্জিয়া ও দক্ষিণ স্যান্ডউইচ দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.GT"
+msgstr "গুয়াতেমালা"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "গুয়াতেমালা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GU"
+msgstr "গুয়াম"
+
+msgid "ISO_3166-1.GW"
+msgstr "গিনি-বিসাউ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "গিনি-বিসাউ প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.GY"
+msgstr "গায়ানা"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "গায়ানা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.HK"
+msgstr "হং কং"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "হং কং, চীনের বিশেষ প্রশাসনিক অঞ্চল"
+
+msgid "ISO_3166-1.HM"
+msgstr "হার্ড দ্বীপ ও ম্যাকডোনাল্ড দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.HN"
+msgstr "হন্ডুরাস"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "হন্ডুরাস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.HR"
+msgstr "ক্রোয়েশিয়া"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "ক্রোয়েশিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.HT"
+msgstr "হাইতি"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "হাইতি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.HU"
+msgstr "হাঙ্গেরি"
+
+msgid "ISO_3166-1.ID"
+msgstr "ইন্দোনেশিয়া"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "ইন্দোনেশিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.IE"
+msgstr "আয়ারল্যান্ড"
+
+msgid "ISO_3166-1.IL"
+msgstr "ইজরাইল"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "ইজরাইল রাষ্ট্র"
+
+msgid "ISO_3166-1.IM"
+msgstr "আইল অফ ম্যান"
+
+msgid "ISO_3166-1.IN"
+msgstr "ভারত"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "ভারতীয় প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.IO"
+msgstr "ব্রিটিশ ভারতীয় মহাসাগরীয় অঞ্চল"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ইরাক"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "ইরাক প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.IR"
+msgstr "ইরান, ইসলামিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ইসলামিক প্রজাতন্ত্র ইরান"
+
+msgid "ISO_3166-1.IS"
+msgstr "আইসল্যান্ড"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "আইসল্যান্ড প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.IT"
+msgstr "ইটালি"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ইটালিয়ান প্রজান্ত্র"
+
+msgid "ISO_3166-1.JE"
+msgstr "জার্সি"
+
+msgid "ISO_3166-1.JM"
+msgstr "জামাইকা"
+
+msgid "ISO_3166-1.JO"
+msgstr "জর্ডান"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "হাশেমাইট রাজ্য জর্ডান"
+
+msgid "ISO_3166-1.JP"
+msgstr "জাপান"
+
+msgid "ISO_3166-1.KE"
+msgstr "কেনিয়া"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "কেনিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.KG"
+msgstr "কির্গিজস্তান"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "কির্গিজ প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.KH"
+msgstr "ক্যাম্বোডিয়া"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "ক্যাম্বোডিয়া রাজ্য"
+
+msgid "ISO_3166-1.KI"
+msgstr "কিরিবাস"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "কিরিবাস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.KM"
+msgstr "কোমোরোস"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "সংযুক্ত কোমোরোস"
+
+msgid "ISO_3166-1.KN"
+msgstr "সেন্ট কিটস ও নেভিস"
+
+msgid "ISO_3166-1.KP"
+msgstr "কোরিয়া, গণতান্ত্রিক গণপ্রজাতন্ত্রী"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "গণতান্ত্রিক গণপ্রজাতন্ত্রী কোরিয়া"
+
+msgid "ISO_3166-1.KR"
+msgstr "কোরিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.KW"
+msgstr "কুয়েত"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "কুয়েত রাষ্ট্র"
+
+msgid "ISO_3166-1.KY"
+msgstr "কেম্যান দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.KZ"
+msgstr "কাজাখস্তান"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "কাজাখস্তান প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.LA"
+msgstr "গণপ্রজাতন্ত্রী লাও"
+
+msgid "ISO_3166-1.LB"
+msgstr "লেবানন"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "লেবানিস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.LC"
+msgstr "সেন্ট লুসিয়া"
+
+msgid "ISO_3166-1.LI"
+msgstr "লিখতেনস্টাইন"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "সাংবিধানিক রাজতন্ত্র লিখতেনস্টাইন"
+
+msgid "ISO_3166-1.LK"
+msgstr "শ্রীলঙ্কা"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "গণতান্ত্রিক সমাজতান্ত্রিক প্রজাতন্ত্র শ্রীলঙ্কা"
+
+msgid "ISO_3166-1.LR"
+msgstr "লাইবেরিয়া"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "লাইবেরিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.LS"
+msgstr "লেসোথো"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "লেসোথো রাজ্য"
+
+msgid "ISO_3166-1.LT"
+msgstr "লিথুয়ানিয়া"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "লিথুয়ানিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.LU"
+msgstr "লাক্সেমবুর্গ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "লাক্সেমবুর্গ গ্র্যান্ড ডাচি"
+
+msgid "ISO_3166-1.LV"
+msgstr "লাটভিয়া"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "লাটভিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.LY"
+msgstr "লিবিয়া"
+
+msgid "ISO_3166-1.MA"
+msgstr "মরোক্কো"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "মরোক্কো রাজ্য"
+
+msgid "ISO_3166-1.MC"
+msgstr "মোনাকো"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "সাংবিধানিক রাজতন্ত্র মোনাকো"
+
+msgid "ISO_3166-1.MD"
+msgstr "মোলডোভা"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "মোলডোভা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.ME"
+msgstr "মন্টেনেগ্রো"
+
+msgid "ISO_3166-1.MF"
+msgstr "সেন্ট মার্টিন (ফ্রেঞ্চ অংশ)"
+
+msgid "ISO_3166-1.MG"
+msgstr "মাদাগাস্কার"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "মাদাগাস্কার প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MH"
+msgstr "মার্শাল দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "মার্শাল দ্বীপপুঞ্জ প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MK"
+msgstr "মেসিডোনিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "পূর্ববর্তী যুগোস্লাভ প্রজাতন্ত্র মেসিডোনিয়া"
+
+msgid "ISO_3166-1.ML"
+msgstr "মালি"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "মালি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MM"
+msgstr "মায়ানমার"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "গায়ানা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MN"
+msgstr "মঙ্গোলিয়া"
+
+msgid "ISO_3166-1.MO"
+msgstr "ম্যাকাও"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "ম্যাকাও, চীনের বিশেষ প্রশাসনিক অঞ্চল"
+
+msgid "ISO_3166-1.MP"
+msgstr "উত্তর মারিয়ানা দ্বীপ"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "উত্তর মারিয়ানা দ্বীপপুঞ্জের রাষ্ট্রমণ্ডল"
+
+msgid "ISO_3166-1.MQ"
+msgstr "মার্টিনিক"
+
+msgid "ISO_3166-1.MR"
+msgstr "মরিটানিয়া"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "ইসলামিক প্রজাতন্ত্র মরিটানিয়া"
+
+msgid "ISO_3166-1.MS"
+msgstr "মন্টসেরাত"
+
+msgid "ISO_3166-1.MT"
+msgstr "মল্টা"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "মল্টা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MU"
+msgstr "মরিশাস"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "মরিশাস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MV"
+msgstr "মালডিভস"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "মালডিভস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MW"
+msgstr "মালাউই"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "মালাউই প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.MX"
+msgstr "মেক্সিকো"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "মেক্সিকান যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-1.MY"
+msgstr "মালেশিয়া"
+
+msgid "ISO_3166-1.MZ"
+msgstr "মোজাম্বিক"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "মোজাম্বিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.NA"
+msgstr "নামিবিয়া"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "নামিবিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.NC"
+msgstr "নিউ ক্যালেডোনিয়া"
+
+msgid "ISO_3166-1.NE"
+msgstr "নাইজার"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "নাইজার প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.NF"
+msgstr "নরফোল্ক দ্বীপ"
+
+msgid "ISO_3166-1.NG"
+msgstr "নাইজেরিয়া"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "প্রজাতন্ত্রী যুক্তরাষ্ট্র নেপাল"
+
+msgid "ISO_3166-1.NI"
+msgstr "নিকারাগুয়া"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "নিকারাগুয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.NL"
+msgstr "নেদারল্যান্ড"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "নেদারল্যান্ড রাজ্য"
+
+msgid "ISO_3166-1.NO"
+msgstr "নরওয়ে"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "নরওয়ে রাজ্য"
+
+msgid "ISO_3166-1.NP"
+msgstr "নেপাল"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "গণতান্ত্রিক প্রজাতন্ত্রী যুক্তরাষ্ট্র নেপাল"
+
+msgid "ISO_3166-1.NR"
+msgstr "নাউরু"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "নাউরু প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.NU"
+msgstr "নিউ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "নিউজিল্যান্ড"
+
+msgid "ISO_3166-1.OM"
+msgstr "ওমান"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ওমান সুলতানেত"
+
+msgid "ISO_3166-1.PA"
+msgstr "পানামা"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "পানামা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.PE"
+msgstr "পেরু"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "পেরু প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.PF"
+msgstr "ফ্রেঞ্চ পলিনেশিয়া"
+
+msgid "ISO_3166-1.PG"
+msgstr "পাপুয়া নিউ গিনি"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "স্বতন্ত্র রাষ্ট্র সামোয়া"
+
+msgid "ISO_3166-1.PH"
+msgstr "ফিলিপাইনস"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "ফিলিপাইনস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.PK"
+msgstr "পাকিস্তান"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "ইসলামিক প্রজাতন্ত্র পাকিস্তান"
+
+msgid "ISO_3166-1.PL"
+msgstr "পোল্যান্ড"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "পোল্যান্ড প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.PM"
+msgstr "সেন্ট পিয়ের ও মিকেলন"
+
+msgid "ISO_3166-1.PN"
+msgstr "পিটকেয়ার্ন"
+
+msgid "ISO_3166-1.PR"
+msgstr "পুয়ের্তো রিকো"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "আমেরিকা মার্কিন যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-1.PT"
+msgstr "পোর্টুগাল"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "পোর্টুগিস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.PW"
+msgstr "পালাউ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "পালাউ প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.PY"
+msgstr "প্যারাগুয়ে"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "প্যারাগুয়ে প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.QA"
+msgstr "কাতার"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "কাতার রাষ্ট্র"
+
+msgid "ISO_3166-1.RE"
+msgstr "রিইউনিয়ান"
+
+msgid "ISO_3166-1.RO"
+msgstr "রোমানিয়া"
+
+msgid "ISO_3166-1.RS"
+msgstr "সার্বিয়া"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "সার্বিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.RU"
+msgstr "রুশ যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-1.RW"
+msgstr "রওয়ান্ডা"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "রওয়ান্ডিস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SA"
+msgstr "সৌদি আরব"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "সৌদি আরব রাজ্য"
+
+msgid "ISO_3166-1.SB"
+msgstr "সলোমান দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.SC"
+msgstr "সেশেলস"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "সেশেলস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SD"
+msgstr "সুদান"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "সুদান প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SE"
+msgstr "সুইডেন"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "সুইডেন রাজ্য"
+
+msgid "ISO_3166-1.SG"
+msgstr "সিঙ্গাপুর"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "সিঙ্গাপুর প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SH"
+msgstr "সেইন্ট হেলেনা, অ্যাসেনসিয়ান ও ট্রিস্টান ডা কুনহা"
+
+msgid "ISO_3166-1.SI"
+msgstr "স্লোভেনিয়া"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "স্লোভেনিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SJ"
+msgstr "সয়ালবার্ড ও ইয়ানমায়েন দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.SK"
+msgstr "স্লোভাকিয়া"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "স্লোভাক প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SL"
+msgstr "সিয়েরা লিওন"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "সিয়েরা লিওন প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SM"
+msgstr "সান মারিনো"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "সান মারিনো প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SN"
+msgstr "সেনেগাল"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "সেনেগাল প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SO"
+msgstr "সোমালিয়া"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "প্রজাতন্ত্রী যুক্তরাষ্ট্র জার্মানি"
+
+msgid "ISO_3166-1.SR"
+msgstr "সুরিনাম"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "সুরিনাম প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SS"
+msgstr "সুদান প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "সুদান প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.ST"
+msgstr "সাও টোমে ও প্রিন্সিপে"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "গণতান্ত্রিক প্রজাতন্ত্র সাও টোমে ও প্রিন্সিপে"
+
+msgid "ISO_3166-1.SV"
+msgstr "এল সালভাডোর"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "এল সালভাডোর প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SX"
+msgstr "সেন্ট মার্টিন (ফ্রেঞ্চ অংশ)"
+
+msgid "ISO_3166-1.SY"
+msgstr "সিরিয়ান আরব প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.SZ"
+msgstr "সোয়াজিল্যান্ড"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "সোয়াজিল্যান্ড রাজ্য"
+
+msgid "ISO_3166-1.TC"
+msgstr "টার্কস ও কেইকোস দ্বীপ"
+
+msgid "ISO_3166-1.TD"
+msgstr "চাড"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "চাড প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.TF"
+msgstr "ফ্রেঞ্চ দক্ষিণ অঞ্চল"
+
+msgid "ISO_3166-1.TG"
+msgstr "টোগো"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "টোগোলিস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.TH"
+msgstr "থাইল্যান্ড"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "থাইল্যান্ড রাজ্য"
+
+msgid "ISO_3166-1.TJ"
+msgstr "তাজিকিস্তান"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "তাজিকিস্তান প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.TK"
+msgstr "টোকেলাউ"
+
+msgid "ISO_3166-1.TL"
+msgstr "টিমোর-লেস্তে"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "গণপ্রজাতন্ত্রী টিমোর-লেস্তে"
+
+msgid "ISO_3166-1.TM"
+msgstr "তুর্কমেনিস্তান"
+
+msgid "ISO_3166-1.TN"
+msgstr "টিউনিশিয়া"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "টিউনিশিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.TO"
+msgstr "টোঙ্গা"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "টোঙ্গা রাজ্য"
+
+msgid "ISO_3166-1.TR"
+msgstr "তুর্কি"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "তুর্কি প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.TT"
+msgstr "ত্রিনিদাদ ও টোবাগো"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "ত্রিনিদাদ ও টোবাগো প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.TV"
+msgstr "টুভালু"
+
+msgid "ISO_3166-1.TW"
+msgstr "তাইওয়ান"
+
+msgid "ISO_3166-1.TZ"
+msgstr "তানজানিয়া, সংযুক্ত প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "সংযুক্ত প্রজাতন্ত্র তানজানিয়া"
+
+msgid "ISO_3166-1.UA"
+msgstr "ইউক্রেন"
+
+msgid "ISO_3166-1.UG"
+msgstr "উগান্ডা"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "উগান্ডা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.UM"
+msgstr "মার্কিন যুক্তরাষ্ট্র বহিস্থিত ক্ষুদ্র দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.US"
+msgstr "মার্কিন যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-1.US#official"
+msgstr "আমেরিকা মার্কিন যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-1.UY"
+msgstr "উরুগুয়ে"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "পূর্বীয় প্রজাতন্ত্র উরুগুয়ে"
+
+msgid "ISO_3166-1.UZ"
+msgstr "উজবেকিস্তান"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "উজবেকিস্তান প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.VA"
+msgstr "হোলি সি (ভ্যাটিকান)"
+
+msgid "ISO_3166-1.VC"
+msgstr "সেন্ট ভিনসেন্ট ও গ্রেনাডিনস"
+
+msgid "ISO_3166-1.VE"
+msgstr "ভেনেজুয়েলা"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "বোলিভারিয়ান প্রজাতন্ত্র ভেনেজুয়েলা"
+
+msgid "ISO_3166-1.VG"
+msgstr "ব্রিটিশ ভার্জিন দ্বীপ"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ব্রিটিশ ভার্জিন দ্বীপ"
+
+msgid "ISO_3166-1.VI"
+msgstr "মার্কিন যুক্তরাষ্ট্র ভার্জিন দ্বীপ"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "মার্কিন যুক্তরাষ্ট্র ভার্জিন দ্বীপ"
+
+msgid "ISO_3166-1.VN"
+msgstr "ভিয়েতনাম"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "সমাজতান্ত্রিক প্রজাতন্ত্র ভিয়েতনাম"
+
+msgid "ISO_3166-1.VU"
+msgstr "ভানুয়াটু"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "ভানুয়াটু প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.WF"
+msgstr "ওয়ালিস ও ফুটুনা"
+
+msgid "ISO_3166-1.WS"
+msgstr "সামোয়া"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "স্বতন্ত্র রাষ্ট্র সামোয়া"
+
+msgid "ISO_3166-1.YE"
+msgstr "ইয়েমেন"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "ইয়েমেন প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.YT"
+msgstr "মেওতে"
+
+msgid "ISO_3166-1.ZA"
+msgstr "দক্ষিণ আফ্রিকা"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "দক্ষিণ আফ্রিকা প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.ZM"
+msgstr "জাম্বিয়া"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "জাম্বিয়া প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.ZW"
+msgstr "জিম্বাবুয়ে"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "জিম্বাবুয়ে প্রজাতন্ত্র"

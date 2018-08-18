@@ -1,0 +1,1262 @@
+# Swedish translations of ISO-3166 country names.
+# Copyright (C) 2001, 2003, 2004, 2007, 2011 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Mattias Newzella <newzella@linux.nu, 2001.
+#  (translations from drakfw)
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Christian Rose <menthos@menthos.com>, 2004.
+# Daniel Nylander <po@danielnylander.se>, 2007, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2014-01-06 14:24-0600\n"
+"Last-Translator: Mick Ohrberg <mick.ohrberg@gmail.com>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Andorra"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Furstendömet Andorra"
+
+msgid "ISO_3166-1.AE"
+msgstr "Förenade Arabemiraten"
+
+msgid "ISO_3166-1.AF"
+msgstr "Afghanistan"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Islamiska republiken Afghanistan"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigua och Barbuda"
+
+msgid "ISO_3166-1.AI"
+msgstr "Anguilla"
+
+msgid "ISO_3166-1.AL"
+msgstr "Albanien"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Republiken Albanien"
+
+msgid "ISO_3166-1.AM"
+msgstr "Armenien"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Republiken Armenien"
+
+msgid "ISO_3166-1.AO"
+msgstr "Angola"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Republiken Angola"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Antarktis"
+
+msgid "ISO_3166-1.AR"
+msgstr "Argentina"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Argentinska republiken"
+
+msgid "ISO_3166-1.AS"
+msgstr "Amerikanska Samoa"
+
+msgid "ISO_3166-1.AT"
+msgstr "Österrike"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Republiken Österrike"
+
+msgid "ISO_3166-1.AU"
+msgstr "Australien"
+
+msgid "ISO_3166-1.AW"
+msgstr "Aruba"
+
+msgid "ISO_3166-1.AX"
+msgstr "Åland"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Azerbajdzjan"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Republiken Azerbajdzjan"
+
+msgid "ISO_3166-1.BA"
+msgstr "Bosnien-Hercegovina"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Republiken Bosnien-Hercegovina"
+
+msgid "ISO_3166-1.BB"
+msgstr "Barbados"
+
+msgid "ISO_3166-1.BD"
+msgstr "Bangladesh"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Folkrepubliken Bangladesh"
+
+msgid "ISO_3166-1.BE"
+msgstr "Belgien"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Konungariket Belgien"
+
+msgid "ISO_3166-1.BF"
+msgstr "Burkina Faso"
+
+msgid "ISO_3166-1.BG"
+msgstr "Bulgarien"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Republiken Bulgarien"
+
+msgid "ISO_3166-1.BH"
+msgstr "Bahrain"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Konungariket Bahrain"
+
+msgid "ISO_3166-1.BI"
+msgstr "Burundi"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Republiken Burundi"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Benin"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Republiken Benin"
+
+msgid "ISO_3166-1.BL"
+msgstr "Saint-Barthélemy"
+
+msgid "ISO_3166-1.BM"
+msgstr "Bermuda"
+
+msgid "ISO_3166-1.BN"
+msgstr "Brunei"
+
+msgid "ISO_3166-1.BO"
+msgstr "Bolivia"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Mångnationella staten Bolivia"
+
+msgid "ISO_3166-1.BQ"
+msgstr "Bonaire, Sint Eustatius och Saba"
+
+msgid "ISO_3166-1.BR"
+msgstr "Brasilien"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Federala republiken Brasilien"
+
+msgid "ISO_3166-1.BS"
+msgstr "Bahamas"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "Samväldet Bahamas"
+
+msgid "ISO_3166-1.BT"
+msgstr "Bhutan"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Konungariket Bhutan"
+
+msgid "ISO_3166-1.BV"
+msgstr "Bouvetön"
+
+msgid "ISO_3166-1.BW"
+msgstr "Botswana"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Republiken Botswana"
+
+msgid "ISO_3166-1.BY"
+msgstr "Vitryssland"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Republiken Vitryssland"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Belize"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.CC"
+msgstr "Kokosöarna"
+
+msgid "ISO_3166-1.CD"
+msgstr "Kongo, demokratiska republiken"
+
+msgid "ISO_3166-1.CF"
+msgstr "Centralafrikanska republiken"
+
+msgid "ISO_3166-1.CG"
+msgstr "Kongo"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Republiken Kongo"
+
+msgid "ISO_3166-1.CH"
+msgstr "Schweiz"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Schweiziska konfederationen"
+
+msgid "ISO_3166-1.CI"
+msgstr "Elfenbenskusten"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Republiken Elfenbenskusten"
+
+msgid "ISO_3166-1.CK"
+msgstr "Cooköarna"
+
+msgid "ISO_3166-1.CL"
+msgstr "Chile"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Republiken Chile"
+
+msgid "ISO_3166-1.CM"
+msgstr "Kamerun"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Republiken Kamerun"
+
+msgid "ISO_3166-1.CN"
+msgstr "Kina"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Folkrepubliken Kina"
+
+msgid "ISO_3166-1.CO"
+msgstr "Colombia"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Republiken Colombia"
+
+msgid "ISO_3166-1.CR"
+msgstr "Costa Rica"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Republiken Costa Rica"
+
+msgid "ISO_3166-1.CU"
+msgstr "Kuba"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Republiken Kuba"
+
+msgid "ISO_3166-1.CV"
+msgstr "Kap Verde"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Republiken Kap Verde"
+
+msgid "ISO_3166-1.CW"
+msgstr "Curaçao"
+
+msgid "ISO_3166-1.CX"
+msgstr "Julön"
+
+msgid "ISO_3166-1.CY"
+msgstr "Cypern"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Republiken Cypern"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Tjeckien"
+
+msgid "ISO_3166-1.DE"
+msgstr "Tyskland"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Förbundsrepubliken Tyskland"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Djibouti"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Republiken Djibouti"
+
+msgid "ISO_3166-1.DK"
+msgstr "Danmark"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Konungariket Danmark"
+
+msgid "ISO_3166-1.DM"
+msgstr "Dominica"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "Samväldet Dominica"
+
+msgid "ISO_3166-1.DO"
+msgstr "Dominikanska republiken"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Algeriet"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Demokratiska folkrepubliken Algeriet"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ecuador"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Republiken Ecuador"
+
+msgid "ISO_3166-1.EE"
+msgstr "Estland"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Republiken Estland"
+
+msgid "ISO_3166-1.EG"
+msgstr "Egypten"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Arabiska republiken Egypten"
+
+msgid "ISO_3166-1.EH"
+msgstr "Västsahara"
+
+msgid "ISO_3166-1.ER"
+msgstr "Eritrea"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Staten Eritrea"
+
+msgid "ISO_3166-1.ES"
+msgstr "Spanien"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Konungariket Spanien"
+
+msgid "ISO_3166-1.ET"
+msgstr "Etiopien"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Demokratiska förbundsrepubliken Etiopien"
+
+msgid "ISO_3166-1.FI"
+msgstr "Finland"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Republiken Finland"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Fiji"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Republiken Fiji"
+
+msgid "ISO_3166-1.FK"
+msgstr "Falklandsöarna (Malvinas)"
+
+msgid "ISO_3166-1.FM"
+msgstr "Mikronesien, federala staterna"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "Federala staterna Mikronesien"
+
+msgid "ISO_3166-1.FO"
+msgstr "Färöarna"
+
+msgid "ISO_3166-1.FR"
+msgstr "Frankrike"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Franska republiken"
+
+msgid "ISO_3166-1.GA"
+msgstr "Gabon"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Gabonesiska republiken"
+
+msgid "ISO_3166-1.GB"
+msgstr "Förenade kungariket"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Förenade kungariket Storbritannien och Nordirland"
+
+msgid "ISO_3166-1.GD"
+msgstr "Grenada"
+
+msgid "ISO_3166-1.GE"
+msgstr "Georgien"
+
+msgid "ISO_3166-1.GF"
+msgstr "Franska Guiana"
+
+msgid "ISO_3166-1.GG"
+msgstr "Guernsey"
+
+msgid "ISO_3166-1.GH"
+msgstr "Ghana"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Republiken Ghana"
+
+msgid "ISO_3166-1.GI"
+msgstr "Gibraltar"
+
+msgid "ISO_3166-1.GL"
+msgstr "Grönland"
+
+msgid "ISO_3166-1.GM"
+msgstr "Gambia"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Republiken Gambia"
+
+msgid "ISO_3166-1.GN"
+msgstr "Guinea"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Republiken Guinea"
+
+msgid "ISO_3166-1.GP"
+msgstr "Guadeloupe"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Ekvatorialguinea"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Republiken Ekvatorialguinea"
+
+msgid "ISO_3166-1.GR"
+msgstr "Grekland"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Hellenska republiken"
+
+msgid "ISO_3166-1.GS"
+msgstr "Sydgeorgien och södra Sandwichöarna"
+
+msgid "ISO_3166-1.GT"
+msgstr "Guatemala"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Republiken Guatemala"
+
+msgid "ISO_3166-1.GU"
+msgstr "Guam"
+
+msgid "ISO_3166-1.GW"
+msgstr "Guinea-Bissau"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Republiken Guinea-Bissau"
+
+msgid "ISO_3166-1.GY"
+msgstr "Guyana"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Republiken Guyana"
+
+msgid "ISO_3166-1.HK"
+msgstr "Hong Kong"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Särskilda administrativa regionen Hong Kong inom Kina"
+
+msgid "ISO_3166-1.HM"
+msgstr "Heardön och McDonaldöarna"
+
+msgid "ISO_3166-1.HN"
+msgstr "Honduras"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Republiken Honduras"
+
+msgid "ISO_3166-1.HR"
+msgstr "Kroatien"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Republiken Kroatien"
+
+msgid "ISO_3166-1.HT"
+msgstr "Haiti"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Republiken Haiti"
+
+msgid "ISO_3166-1.HU"
+msgstr "Ungern"
+
+msgid "ISO_3166-1.ID"
+msgstr "Indonesien"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Republiken Indonesien"
+
+msgid "ISO_3166-1.IE"
+msgstr "Irland"
+
+msgid "ISO_3166-1.IL"
+msgstr "Israel"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Staten Israel"
+
+msgid "ISO_3166-1.IM"
+msgstr "Isle of Man"
+
+msgid "ISO_3166-1.IN"
+msgstr "Indien"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Republiken Indien"
+
+msgid "ISO_3166-1.IO"
+msgstr "Brittiskt territorium i Indiska Oceanen"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Irak"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Republiken Irak"
+
+msgid "ISO_3166-1.IR"
+msgstr "Iran, islamiska republiken"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Islamiska republiken Iran"
+
+msgid "ISO_3166-1.IS"
+msgstr "Island"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Republiken Island"
+
+msgid "ISO_3166-1.IT"
+msgstr "Italien"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Italienska republiken"
+
+msgid "ISO_3166-1.JE"
+msgstr "Jersey"
+
+msgid "ISO_3166-1.JM"
+msgstr "Jamaica"
+
+msgid "ISO_3166-1.JO"
+msgstr "Jordanien"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "Hashemitiska konungariket Jordanien"
+
+msgid "ISO_3166-1.JP"
+msgstr "Japan"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kenya"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Republiken Kenya"
+
+msgid "ISO_3166-1.KG"
+msgstr "Kirgisistan"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Kirgisiska republiken"
+
+msgid "ISO_3166-1.KH"
+msgstr "Kambodja"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Konungariket Kambodja"
+
+msgid "ISO_3166-1.KI"
+msgstr "Kiribati"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Republiken Kiribati"
+
+msgid "ISO_3166-1.KM"
+msgstr "Comorerna"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Unionen Comorerna"
+
+msgid "ISO_3166-1.KN"
+msgstr "Sankt Kitts och Nevis"
+
+msgid "ISO_3166-1.KP"
+msgstr "Korea, demokratiska folkrepubliken"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Demokratiska folkrepubliken Korea"
+
+msgid "ISO_3166-1.KR"
+msgstr "Sydkorea"
+
+msgid "ISO_3166-1.KW"
+msgstr "Kuwait"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Staten Kuwait"
+
+msgid "ISO_3166-1.KY"
+msgstr "Caymanöarna"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Kazakstan"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Republiken Kazakstan"
+
+msgid "ISO_3166-1.LA"
+msgstr "Demokratiska folkrepubliken Lao"
+
+msgid "ISO_3166-1.LB"
+msgstr "Libanon"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Libanesiska republiken"
+
+msgid "ISO_3166-1.LC"
+msgstr "Sankt Lucia"
+
+msgid "ISO_3166-1.LI"
+msgstr "Liechtenstein"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Furstendömet Liechtenstein"
+
+msgid "ISO_3166-1.LK"
+msgstr "Sri Lanka"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Demokratiska socialistrepubliken Sri Lanka"
+
+msgid "ISO_3166-1.LR"
+msgstr "Liberia"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Republiken Liberia"
+
+msgid "ISO_3166-1.LS"
+msgstr "Lesotho"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Konungariket Lesotho"
+
+msgid "ISO_3166-1.LT"
+msgstr "Litauen"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Republiken Litauen"
+
+msgid "ISO_3166-1.LU"
+msgstr "Luxemburg"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Storhertigdömet Luxemburg"
+
+msgid "ISO_3166-1.LV"
+msgstr "Lettland"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Republiken Lettland"
+
+msgid "ISO_3166-1.LY"
+msgstr "Libyen"
+
+msgid "ISO_3166-1.MA"
+msgstr "Marocko"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Konungariket Marocko"
+
+msgid "ISO_3166-1.MC"
+msgstr "Monaco"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Furstendömet Monaco"
+
+msgid "ISO_3166-1.MD"
+msgstr "Moldavien"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Republiken Moldavien"
+
+msgid "ISO_3166-1.ME"
+msgstr "Montenegro"
+
+msgid "ISO_3166-1.MF"
+msgstr "Saint Martin (franska delen)"
+
+msgid "ISO_3166-1.MG"
+msgstr "Madagaskar"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Republiken Madagaskar"
+
+msgid "ISO_3166-1.MH"
+msgstr "Marshallöarna"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Republiken Marshallöarna"
+
+msgid "ISO_3166-1.MK"
+msgstr "Makedonien, republiken"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Före detta jugoslaviska republiken Makedonien"
+
+msgid "ISO_3166-1.ML"
+msgstr "Mali"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Republiken Mali"
+
+msgid "ISO_3166-1.MM"
+msgstr "Myanmar"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Republiken Myanmar"
+
+msgid "ISO_3166-1.MN"
+msgstr "Mongoliet"
+
+msgid "ISO_3166-1.MO"
+msgstr "Macao"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "Särskilda administrativa regionen Macao inom Kina"
+
+msgid "ISO_3166-1.MP"
+msgstr "Nordmarianerna"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Samväldet nordmarianerna"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Martinique"
+
+msgid "ISO_3166-1.MR"
+msgstr "Mauretanien"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Islamiska republiken Mauretanien"
+
+msgid "ISO_3166-1.MS"
+msgstr "Montserrat"
+
+msgid "ISO_3166-1.MT"
+msgstr "Malta"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Republiken Malta"
+
+msgid "ISO_3166-1.MU"
+msgstr "Mauritius"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Republiken Mauritius"
+
+msgid "ISO_3166-1.MV"
+msgstr "Maldiverna"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Republiken Maldiverna"
+
+msgid "ISO_3166-1.MW"
+msgstr "Malawi"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Republiken Malawi"
+
+msgid "ISO_3166-1.MX"
+msgstr "Mexico"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Förenade mexikanska staterna"
+
+msgid "ISO_3166-1.MY"
+msgstr "Malaysia"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Moçambique"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Republiken Moçambique"
+
+msgid "ISO_3166-1.NA"
+msgstr "Namibia"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Republiken Namibia"
+
+msgid "ISO_3166-1.NC"
+msgstr "Nya Kaledonien"
+
+msgid "ISO_3166-1.NE"
+msgstr "Niger"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Republiken Niger"
+
+msgid "ISO_3166-1.NF"
+msgstr "Norfolköarna"
+
+msgid "ISO_3166-1.NG"
+msgstr "Nigeria"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Förbundsrepubliken Nigeria"
+
+msgid "ISO_3166-1.NI"
+msgstr "Nicaragua"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Republiken Nicaragua"
+
+msgid "ISO_3166-1.NL"
+msgstr "Nederländerna"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Konungariket Nederländerna"
+
+msgid "ISO_3166-1.NO"
+msgstr "Norge"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Konungariket Norge"
+
+msgid "ISO_3166-1.NP"
+msgstr "Nepal"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Demokratiska förbundsrepubliken Nepal"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nauru"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Republiken Nauru"
+
+msgid "ISO_3166-1.NU"
+msgstr "Niue"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Nya Zeeland"
+
+msgid "ISO_3166-1.OM"
+msgstr "Oman"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Sultanatet Oman"
+
+msgid "ISO_3166-1.PA"
+msgstr "Panama"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Republiken Panama"
+
+msgid "ISO_3166-1.PE"
+msgstr "Peru"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Republiken Peru"
+
+msgid "ISO_3166-1.PF"
+msgstr "Franska Polynesien"
+
+msgid "ISO_3166-1.PG"
+msgstr "Papua Nya Guinea"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Oberoende staten Papua Nya Guinea"
+
+msgid "ISO_3166-1.PH"
+msgstr "Filippinerna"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Republiken Filippinerna"
+
+msgid "ISO_3166-1.PK"
+msgstr "Pakistan"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Islamiska republiken Pakistan"
+
+msgid "ISO_3166-1.PL"
+msgstr "Polen"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Republiken Polen"
+
+msgid "ISO_3166-1.PM"
+msgstr "Sankt Pierre och Miquelon"
+
+msgid "ISO_3166-1.PN"
+msgstr "Pitcairn"
+
+msgid "ISO_3166-1.PR"
+msgstr "Puerto Rico"
+
+msgid "ISO_3166-1.PS"
+msgstr "Staten Palestina"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Staten Palestina"
+
+msgid "ISO_3166-1.PT"
+msgstr "Portugal"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Portugisiska republiken"
+
+msgid "ISO_3166-1.PW"
+msgstr "Palau"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Republiken Palau"
+
+msgid "ISO_3166-1.PY"
+msgstr "Paraguay"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Republiken Paraguay"
+
+msgid "ISO_3166-1.QA"
+msgstr "Qatar"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Staten Qatar"
+
+msgid "ISO_3166-1.RE"
+msgstr "Réunion"
+
+msgid "ISO_3166-1.RO"
+msgstr "Rumänien"
+
+msgid "ISO_3166-1.RS"
+msgstr "Serbien"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Republiken Serbien"
+
+msgid "ISO_3166-1.RU"
+msgstr "Ryska federationen"
+
+msgid "ISO_3166-1.RW"
+msgstr "Rwanda"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Rwandiska republiken"
+
+msgid "ISO_3166-1.SA"
+msgstr "Saudiarabien"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Konungariket Saudiarabien"
+
+msgid "ISO_3166-1.SB"
+msgstr "Salomonöarna"
+
+msgid "ISO_3166-1.SC"
+msgstr "Seychellerna"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Republiken Seychellerna"
+
+msgid "ISO_3166-1.SD"
+msgstr "Sudan"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Republiken Sudan"
+
+msgid "ISO_3166-1.SE"
+msgstr "Sverige"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Konungariket Sverige"
+
+msgid "ISO_3166-1.SG"
+msgstr "Singapore"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Republiken Singapore"
+
+msgid "ISO_3166-1.SH"
+msgstr "Saint Helena, Ascension och Tristan da Cunha"
+
+msgid "ISO_3166-1.SI"
+msgstr "Slovenien"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Republiken Slovenien"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Svalbard och Jan Mayen"
+
+msgid "ISO_3166-1.SK"
+msgstr "Slovakien"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Slovakiska republiken"
+
+msgid "ISO_3166-1.SL"
+msgstr "Sierra Leone"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Republiken Sierra Leone"
+
+msgid "ISO_3166-1.SM"
+msgstr "San Marino"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Republiken San Marino"
+
+msgid "ISO_3166-1.SN"
+msgstr "Senegal"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Republiken Senegal"
+
+msgid "ISO_3166-1.SO"
+msgstr "Somalia"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Förbundsrepubliken Somalia"
+
+msgid "ISO_3166-1.SR"
+msgstr "Surinam"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Republiken Surinam"
+
+msgid "ISO_3166-1.SS"
+msgstr "Sydsudan"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Republiken Sydsudan"
+
+msgid "ISO_3166-1.ST"
+msgstr "São Tomé och Príncipe"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "Demokratiska republiken São Tomé och Príncipe"
+
+msgid "ISO_3166-1.SV"
+msgstr "El Salvador"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Republiken El Salvador"
+
+msgid "ISO_3166-1.SX"
+msgstr "Sint Maarten (nederländska delen)"
+
+msgid "ISO_3166-1.SY"
+msgstr "Syriska arabrepubliken"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Swaziland"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Konungariket Swaziland"
+
+msgid "ISO_3166-1.TC"
+msgstr "Turks- och Caicosöarna"
+
+msgid "ISO_3166-1.TD"
+msgstr "Tchad"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Republiken Tchad"
+
+msgid "ISO_3166-1.TF"
+msgstr "Franska sydterritorierna"
+
+msgid "ISO_3166-1.TG"
+msgstr "Togo"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Togolesiska republiken"
+
+msgid "ISO_3166-1.TH"
+msgstr "Thailand"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Konungariket Thailand"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Tadzjikistan"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Republiken Tadzjikistan"
+
+msgid "ISO_3166-1.TK"
+msgstr "Tokelau"
+
+msgid "ISO_3166-1.TL"
+msgstr "Östtimor"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Demokratiska republiken Östtimor"
+
+msgid "ISO_3166-1.TM"
+msgstr "Turkmenistan"
+
+msgid "ISO_3166-1.TN"
+msgstr "Tunisien"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Republiken Tunisien"
+
+msgid "ISO_3166-1.TO"
+msgstr "Tonga"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Konungariket Tonga"
+
+msgid "ISO_3166-1.TR"
+msgstr "Turkiet"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Republiken Turkiet"
+
+msgid "ISO_3166-1.TT"
+msgstr "Trinidad och Tobago"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Republiken Trinidad och Tobago"
+
+msgid "ISO_3166-1.TV"
+msgstr "Tuvalu"
+
+msgid "ISO_3166-1.TW"
+msgstr "Taiwan"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Tanzania, förenade republiken"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Förenade republiken Tanzania"
+
+msgid "ISO_3166-1.UA"
+msgstr "Ukraina"
+
+msgid "ISO_3166-1.UG"
+msgstr "Uganda"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Republiken Uganda"
+
+msgid "ISO_3166-1.UM"
+msgstr "USA:s avlägsna mindre öar"
+
+msgid "ISO_3166-1.US"
+msgstr "USA"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Amerikas förenta stater"
+
+msgid "ISO_3166-1.UY"
+msgstr "Uruguay"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Östra republiken Uruguay"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Uzbekistan"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Republiken Uzbekistan"
+
+msgid "ISO_3166-1.VA"
+msgstr "Vatikanstaten"
+
+msgid "ISO_3166-1.VC"
+msgstr "Sankt Vincent och Grenadinerna"
+
+msgid "ISO_3166-1.VE"
+msgstr "Venezuela"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Boliviska republiken Venezuela"
+
+msgid "ISO_3166-1.VG"
+msgstr "Jungfruöarna, brittiska"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Brittiska Jungfruöarna"
+
+msgid "ISO_3166-1.VI"
+msgstr "Jungfruöarna, amerikanska"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Amerikanska Jungfruöarna"
+
+msgid "ISO_3166-1.VN"
+msgstr "Vietnam"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Socialistrepubliken Vietnam"
+
+msgid "ISO_3166-1.VU"
+msgstr "Vanuatu"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Republiken Vanatu"
+
+msgid "ISO_3166-1.WF"
+msgstr "Wallis och Futuna"
+
+msgid "ISO_3166-1.WS"
+msgstr "Samoa"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Oberoende staten Samoa"
+
+msgid "ISO_3166-1.YE"
+msgstr "Yemen"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Republiken Yemen"
+
+msgid "ISO_3166-1.YT"
+msgstr "Mayotte"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Sydafrika"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Republiken Sydafrika"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Zambia"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Republiken Zambia"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Zimbabwe"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Republiken Zimbabwe"

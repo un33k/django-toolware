@@ -1,0 +1,1245 @@
+# translation of iso-codes_iso_3166_ta.po to Tamil
+# Translation of ISO 3166 (country names) to Tamil
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+#   Dr.T.Vasudevan <agnihot3@gmail.com>, 2007, 2008.
+# Copyright (C)
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2008-05-03 21:08+0530\n"
+"Last-Translator: Dr.T.Vasudevan <agnihot3@gmail.com>\n"
+"Language-Team: Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "அன்டோரா"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "அன்டோரா சிற்றரசு"
+
+msgid "ISO_3166-1.AE"
+msgstr "ஐக்கிய அராபிய எமிரேட்சு"
+
+msgid "ISO_3166-1.AF"
+msgstr "ஆப்கானிஸ்தான்"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "ஆப்கானிஸ்தான் இஸ்லாமிய குடியரசு"
+
+msgid "ISO_3166-1.AG"
+msgstr "ஆன்டிகுவா மற்றும் பார்புடா"
+
+msgid "ISO_3166-1.AI"
+msgstr "அங்குல்லா"
+
+msgid "ISO_3166-1.AL"
+msgstr "அல்பேனியா"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "அல்பேனிய குடியரசு"
+
+msgid "ISO_3166-1.AM"
+msgstr "அர்மெனியா"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "அர்மெனிய குடியரசு"
+
+msgid "ISO_3166-1.AO"
+msgstr "அங்கோலா"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "அங்கோல குடியரசு"
+
+msgid "ISO_3166-1.AQ"
+msgstr "அண்டார்ட்டிக்கா"
+
+msgid "ISO_3166-1.AR"
+msgstr "அர்ஜென்டினா"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "அர்ஜென்டினா குடியரசு"
+
+msgid "ISO_3166-1.AS"
+msgstr "அமெரிக்க சமோவா"
+
+msgid "ISO_3166-1.AT"
+msgstr "ஆஸ்திரியா"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "ஆஸ்திரிய குடியரசு"
+
+msgid "ISO_3166-1.AU"
+msgstr "ஆஸ்திரேலியா"
+
+msgid "ISO_3166-1.AW"
+msgstr "அரூபா"
+
+msgid "ISO_3166-1.AX"
+msgstr "அலண்ட் தீவுகள்"
+
+msgid "ISO_3166-1.AZ"
+msgstr "அசர்பைசான்"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "அசர்பைசான் குடியரசு"
+
+msgid "ISO_3166-1.BA"
+msgstr "போஸ்னியா ஹெர்ஸிகோவினா"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "போஸ்னியா மற்றும் ஹெர்ஸ்கோவினா குடியரசு"
+
+msgid "ISO_3166-1.BB"
+msgstr "பார்படாஸ்"
+
+msgid "ISO_3166-1.BD"
+msgstr "வங்காளதேசம்"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "வங்காளதேச மக்கள் குடியரசு"
+
+msgid "ISO_3166-1.BE"
+msgstr "பெல்ஜியம்"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "பெல்ஜிய முடியரசு"
+
+msgid "ISO_3166-1.BF"
+msgstr "பர்கினோ பாஸோ"
+
+msgid "ISO_3166-1.BG"
+msgstr "பல்கேரியா"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "பல்கேரியா குடியரசு"
+
+msgid "ISO_3166-1.BH"
+msgstr "பஹ்ரெயின்"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "பஹ்ரெயின் முடியரசு"
+
+msgid "ISO_3166-1.BI"
+msgstr "புருண்டி"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "புருண்டி குடியரசு"
+
+msgid "ISO_3166-1.BJ"
+msgstr "பெனின்"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "பெனின் குடியரசு"
+
+msgid "ISO_3166-1.BL"
+msgstr "செயின்ட் பார்த்லெமி"
+
+msgid "ISO_3166-1.BM"
+msgstr "பெர்முடா"
+
+msgid "ISO_3166-1.BN"
+msgstr "ப்ரூனே தருசலம்"
+
+msgid "ISO_3166-1.BO"
+msgstr "பொலிவியா"
+
+msgid "ISO_3166-1.BR"
+msgstr "பிரேசில்"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "பிரேசில் கூட்டு குடியரசு"
+
+msgid "ISO_3166-1.BS"
+msgstr "பஹாமாஸ்"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "பஹாமாஸ் காமன்வெல்த்"
+
+msgid "ISO_3166-1.BT"
+msgstr "பூட்டான்"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "பூட்டான் முடியரசு"
+
+msgid "ISO_3166-1.BV"
+msgstr "போவெட் தீவு"
+
+msgid "ISO_3166-1.BW"
+msgstr "போட்ஸ்வானா"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "பொட்சுவானா குடியரசு"
+
+msgid "ISO_3166-1.BY"
+msgstr "பெலாருஸ்"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "பெலாருஸ் குடியரசு"
+
+msgid "ISO_3166-1.BZ"
+msgstr "பெலிஸ்"
+
+msgid "ISO_3166-1.CA"
+msgstr "கனடா"
+
+msgid "ISO_3166-1.CC"
+msgstr "கோகோஸ்(கீலிங்) தீவு"
+
+msgid "ISO_3166-1.CD"
+msgstr "காங்கோ குடியரசு"
+
+msgid "ISO_3166-1.CF"
+msgstr "மத்திய ஆப்ரிக்க குடியரசு"
+
+msgid "ISO_3166-1.CG"
+msgstr "காங்கோ"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "காங்கோ குடியரசு"
+
+msgid "ISO_3166-1.CH"
+msgstr "சுவிட்சர்லாந்து"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "ஸ்விஸ் கூட்டமைப்பு"
+
+msgid "ISO_3166-1.CI"
+msgstr "கோத் ட்லவோர்"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "கோத் ட்லவோர் குடியரசு"
+
+msgid "ISO_3166-1.CK"
+msgstr "குக் தீவு"
+
+msgid "ISO_3166-1.CL"
+msgstr "சிலி"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "சிலி குடியரசு"
+
+msgid "ISO_3166-1.CM"
+msgstr "கேமரூன்"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "கமரூன் குடியரசு"
+
+msgid "ISO_3166-1.CN"
+msgstr "சீனா"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "சீன மக்கள் குடியரசு"
+
+msgid "ISO_3166-1.CO"
+msgstr "கொலம்பியா"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "கொலம்பியா குடியரசு"
+
+msgid "ISO_3166-1.CR"
+msgstr "கோஸ்டாரிகா"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "கோஸ்டோ ரிகா குடியரசு"
+
+msgid "ISO_3166-1.CU"
+msgstr "க்யூபா"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "க்யூபா குடியரசு"
+
+msgid "ISO_3166-1.CV"
+msgstr "கேப் வெர்டி"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "கேப் வெர்டே குடியரசு"
+
+msgid "ISO_3166-1.CX"
+msgstr "கிறிஸ்துமஸ் தீவு"
+
+msgid "ISO_3166-1.CY"
+msgstr "சைப்ரஸ்"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "சைப்ரஸ் குடியரசு"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "செக் குடியரசு"
+
+msgid "ISO_3166-1.DE"
+msgstr "ஜெர்மனி"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "ஐக்கிய ஜெர்மானிய குடியரசு"
+
+msgid "ISO_3166-1.DJ"
+msgstr "சிபூட்டி"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "சிபூட்டி குடியரசு"
+
+msgid "ISO_3166-1.DK"
+msgstr "டென்மார்க்"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "டென்மார்க் முடியரசு"
+
+msgid "ISO_3166-1.DM"
+msgstr "டொமினிக்கா"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "டொமினிக்கா காமன்வெல்த்"
+
+msgid "ISO_3166-1.DO"
+msgstr "டொமினிக்கன் குடியரசு"
+
+msgid "ISO_3166-1.DZ"
+msgstr "அல்ஜீரியா"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "அல்ஜீரிய மக்கள் ஜனநாயக குடியரசு"
+
+msgid "ISO_3166-1.EC"
+msgstr "ஈக்வடார்"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "ஈக்வடார் குடியரசு"
+
+msgid "ISO_3166-1.EE"
+msgstr "எசுதோனியா"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "எசுதோனியா குடியரசு"
+
+msgid "ISO_3166-1.EG"
+msgstr "எகிப்து"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "எகிப்து அரபு குடியரசு"
+
+msgid "ISO_3166-1.EH"
+msgstr "மேற்கு சஹாரா"
+
+msgid "ISO_3166-1.ER"
+msgstr "எரிட்ரேயா"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "ஐக்கிய அமெரிக்க நாடுகள்"
+
+msgid "ISO_3166-1.ES"
+msgstr "ஸ்பெயின்"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "ஸ்பெயின் முடியரசு"
+
+msgid "ISO_3166-1.ET"
+msgstr "எதியோப்பியா"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "எதியோப்பியா ஐக்கிய ஜனநாயக குடியரசு"
+
+msgid "ISO_3166-1.FI"
+msgstr "பின்லாந்து"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "பின்லாந்து குடியரசு"
+
+msgid "ISO_3166-1.FJ"
+msgstr "பிஜி"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "ஹையிட்டி குடியரசு"
+
+msgid "ISO_3166-1.FK"
+msgstr "பாக்லான்ட் தீவுகள் (மால்வினாஸ்)"
+
+msgid "ISO_3166-1.FM"
+msgstr "மைக்ரோனிஸியா கூட்டு நாடுகள்"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "கூட்டு மெக்ரோனிசியா நாடுகள்"
+
+msgid "ISO_3166-1.FO"
+msgstr "பேரோ தீவுகள்"
+
+msgid "ISO_3166-1.FR"
+msgstr "ஃப்ரான்ஸ்"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "பிரெஞ்சு குடியரசு"
+
+msgid "ISO_3166-1.GA"
+msgstr "கபோன்"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "காபோனீஸ் குடியரசு"
+
+msgid "ISO_3166-1.GB"
+msgstr "ஐக்கிய இராஜ்ஜியம்"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "பிரிட்டிஷ் கூட்டரசு மற்றும் வடக்கு அயர்லாந்து"
+
+msgid "ISO_3166-1.GD"
+msgstr "கிரனாடா"
+
+msgid "ISO_3166-1.GE"
+msgstr "ஜார்ஜியா"
+
+msgid "ISO_3166-1.GF"
+msgstr "ஃப்ரெஞ்ச் கையானா"
+
+msgid "ISO_3166-1.GG"
+msgstr "க்ரென்சி"
+
+msgid "ISO_3166-1.GH"
+msgstr "கானா"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "கானா குடியரசு"
+
+msgid "ISO_3166-1.GI"
+msgstr "கிப்ரால்டர்"
+
+msgid "ISO_3166-1.GL"
+msgstr "கிரீன்லாந்து"
+
+msgid "ISO_3166-1.GM"
+msgstr "கம்பியா"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "காம்பியா குடியரசு"
+
+msgid "ISO_3166-1.GN"
+msgstr "கினி"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "கினி குடியரசு"
+
+msgid "ISO_3166-1.GP"
+msgstr "காஉடிலொபி"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ஈக்குவிடோரியல் கினி"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "ஈக்வடோரியல் கினி குடியரசு"
+
+msgid "ISO_3166-1.GR"
+msgstr "கிரீஸ்"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "ஹெலனிக் குடியரசு"
+
+msgid "ISO_3166-1.GS"
+msgstr "தெற்கு ஜார்ஜியா மற்றும் தெற்கு சான்ட்விட்ச்"
+
+msgid "ISO_3166-1.GT"
+msgstr "குவாதமாலா"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "குவாதமாலா குடியரசு"
+
+msgid "ISO_3166-1.GU"
+msgstr "குவாம்"
+
+msgid "ISO_3166-1.GW"
+msgstr "கினி-பீசோ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "கினி-பிசா குடியரசு"
+
+msgid "ISO_3166-1.GY"
+msgstr "கயானா"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "கயானா குடியரசு"
+
+msgid "ISO_3166-1.HK"
+msgstr "ஹாங்காங்"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "ஹாங்காங்  - சீன சிறப்பு ஆட்சிப் பிரதேசம்"
+
+msgid "ISO_3166-1.HM"
+msgstr "ஹெர்ட் தீவு மற்றும் மெக் டொனால்ட் தீவுகள்"
+
+msgid "ISO_3166-1.HN"
+msgstr "ஹோன்டுராஸ்"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "ஹோன்டுராஸ் குடியரசு"
+
+msgid "ISO_3166-1.HR"
+msgstr "குரோவேசியா"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "குரோவேசியா குடியரசு"
+
+msgid "ISO_3166-1.HT"
+msgstr "கையிட்டி"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "ஹையிட்டி குடியரசு"
+
+msgid "ISO_3166-1.HU"
+msgstr "ஹங்கேரி"
+
+msgid "ISO_3166-1.ID"
+msgstr "இந்தோனேசியா"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "இந்தோனேசியா குடியரசு"
+
+msgid "ISO_3166-1.IE"
+msgstr "அயர்லாந்து"
+
+msgid "ISO_3166-1.IL"
+msgstr "இஸ்ரேல்"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "இஸ்ரேல் நாடு"
+
+msgid "ISO_3166-1.IM"
+msgstr "ஐல் ஆஃப் மேன்"
+
+msgid "ISO_3166-1.IN"
+msgstr "இந்தியா"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "இந்திய குடியரசு"
+
+msgid "ISO_3166-1.IO"
+msgstr "ப்ரிட்டிஷ் இந்திய பெருங்கடல் பிரதேசம்"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ஈராக்"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "ஈராக் குடியரசு"
+
+msgid "ISO_3166-1.IR"
+msgstr "ஈரான், இஸ்லாமிக் குடியரசு"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ஈரான் இஸ்லாமிய குடியரசு"
+
+msgid "ISO_3166-1.IS"
+msgstr "ஐஸ்லாந்து"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "ஐஸ்லாந்து குடியரசு"
+
+msgid "ISO_3166-1.IT"
+msgstr "இத்தாலி"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "இத்தாலியன் குடியரசு"
+
+msgid "ISO_3166-1.JE"
+msgstr "ஜெர்சி"
+
+msgid "ISO_3166-1.JM"
+msgstr "ஜமைக்கா"
+
+msgid "ISO_3166-1.JO"
+msgstr "ஜோர்டான்"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "ஜோர்டான் முடியரசு"
+
+msgid "ISO_3166-1.JP"
+msgstr "ஜப்பான்"
+
+msgid "ISO_3166-1.KE"
+msgstr "கென்யா"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "கென்யா குடியரசு"
+
+msgid "ISO_3166-1.KG"
+msgstr "கிரைகிசுத்தான்"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "கிர்ஜைஸ் குடியரசு"
+
+msgid "ISO_3166-1.KH"
+msgstr "கம்போடியா"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "கம்போடியா முடியரசு"
+
+msgid "ISO_3166-1.KI"
+msgstr "கிரிபாடி"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "கிரிபாடி குடியரசு"
+
+msgid "ISO_3166-1.KM"
+msgstr "கோமரோஸ்"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "கோமொரொஸ் யூனியன்"
+
+msgid "ISO_3166-1.KN"
+msgstr "செயின்ட் கிட்ஸ் மற்றும் நிவிஸ்"
+
+msgid "ISO_3166-1.KP"
+msgstr "கொரிய ஜனநாயக மக்கள் குடியரசு"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "கொரிய ஜனநாயக மக்கள் குடியரசு"
+
+msgid "ISO_3166-1.KR"
+msgstr "கொரிய குடியரசு"
+
+msgid "ISO_3166-1.KW"
+msgstr "குவைத்"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "குவைத் நாடு"
+
+msgid "ISO_3166-1.KY"
+msgstr "கேமான் தீவுகள்"
+
+msgid "ISO_3166-1.KZ"
+msgstr "கசகிஸ்தான்"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "கசகிஸ்தான் குடியரசு"
+
+msgid "ISO_3166-1.LA"
+msgstr "லவொ மக்கள் சுதந்திர குடியரசு "
+
+msgid "ISO_3166-1.LB"
+msgstr "லெபனான்"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "லெபனீஸ் குடியரசு"
+
+msgid "ISO_3166-1.LC"
+msgstr "செயின்ட் லூசியா"
+
+msgid "ISO_3166-1.LI"
+msgstr "லீச்சென்சுதீன்"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "லீச்சென்சுதீன் சிற்றரசு"
+
+msgid "ISO_3166-1.LK"
+msgstr "இலங்கை"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "சிறிலங்க ஜனநாயக சோசலிஸ குடியரசு"
+
+msgid "ISO_3166-1.LR"
+msgstr "லைபீரியா"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "லைபீரியா குடியரசு"
+
+msgid "ISO_3166-1.LS"
+msgstr "லெசோதோ"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "லெசோதோ முடியரசு"
+
+msgid "ISO_3166-1.LT"
+msgstr "லிதுவேனியா"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "லிதுவேனியா குடியரசு"
+
+msgid "ISO_3166-1.LU"
+msgstr "லக்ஸம்பர்க்"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "லக்ஸம்பர்க் கிராண்ட் டச்சி"
+
+msgid "ISO_3166-1.LV"
+msgstr "லட்வியா"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "லட்வியா குடியரசு"
+
+msgid "ISO_3166-1.LY"
+msgstr "லைபீரியா"
+
+msgid "ISO_3166-1.MA"
+msgstr "மொரோக்கோ"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "மொரோக்கோ முடியரசு"
+
+msgid "ISO_3166-1.MC"
+msgstr "மொனாக்கோ"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "மொனாக்கோ சிற்றரசு"
+
+msgid "ISO_3166-1.MD"
+msgstr "மோல்டோவா"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "மோல்ட்வா குடியரசு"
+
+msgid "ISO_3166-1.ME"
+msgstr "மோன்டே நெக்ரோ"
+
+msgid "ISO_3166-1.MF"
+msgstr "செயின் மார்டின் (பிரெஞ்சு பகுதி)"
+
+msgid "ISO_3166-1.MG"
+msgstr "மடகாஸ்கர்"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "மடகாஸ்கர் குடியரசு"
+
+msgid "ISO_3166-1.MH"
+msgstr "மார்சல் தீவுகள்"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "மார்ஷெல் தீவுகள் குடியரசு"
+
+msgid "ISO_3166-1.MK"
+msgstr "மெசிடோனியா குடியரசு"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "முன்னாள் மெசிடோனிய யூகோஸ்லாவிய குடியரசு"
+
+msgid "ISO_3166-1.ML"
+msgstr "மாலி"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "மாலி குடியரசு"
+
+msgid "ISO_3166-1.MM"
+msgstr "மியான்மர்"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "கயானா குடியரசு"
+
+msgid "ISO_3166-1.MN"
+msgstr "மங்கோலியா"
+
+msgid "ISO_3166-1.MO"
+msgstr "மகாவோ"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "மகாவோ சீன சிறப்பு ஆட்சிப் பிரதேசம்"
+
+msgid "ISO_3166-1.MP"
+msgstr "வட மரியானா தீவுகள்"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "வடக்கு மரியானா தீவுகள் காமன்வெல்த்"
+
+msgid "ISO_3166-1.MQ"
+msgstr "மார்டினீக்கு"
+
+msgid "ISO_3166-1.MR"
+msgstr "மொரிசியேனியா"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "மொரிசியேனியா இஸ்லாமிய குடியரசு"
+
+msgid "ISO_3166-1.MS"
+msgstr "மொன்சாராட்"
+
+msgid "ISO_3166-1.MT"
+msgstr "மால்டா"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "மால்டா குடியரசு"
+
+msgid "ISO_3166-1.MU"
+msgstr "மொரீஷியஸ்"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "மொரீஷியஸ் குடியரசு"
+
+msgid "ISO_3166-1.MV"
+msgstr "மாலதீவுகள்"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "மாலதீவுகள் குடியரசு"
+
+msgid "ISO_3166-1.MW"
+msgstr "மலாவி"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "மலாவி குடியரசு"
+
+msgid "ISO_3166-1.MX"
+msgstr "மெக்ஸிகோ"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "ஐக்கிய மெக்ஸிக நாடுகள்"
+
+msgid "ISO_3166-1.MY"
+msgstr "மலேசியா"
+
+msgid "ISO_3166-1.MZ"
+msgstr "மொசாம்பிக்"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "மொசாம்பிக் குடியரசு"
+
+msgid "ISO_3166-1.NA"
+msgstr "நமீபியா"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "நமீபியா குடியரசு"
+
+msgid "ISO_3166-1.NC"
+msgstr "புதிய கலிடோனியா"
+
+msgid "ISO_3166-1.NE"
+msgstr "நைகர்"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "நைகர் குடியரசு"
+
+msgid "ISO_3166-1.NF"
+msgstr "நொர்ஃபோக் தீவு"
+
+msgid "ISO_3166-1.NG"
+msgstr "நைஜீரியா"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "நைஜீரியா கூட்டுக் குடியரசு"
+
+msgid "ISO_3166-1.NI"
+msgstr "நிகராகுவா"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "நிகராகுவா குடியரசு"
+
+msgid "ISO_3166-1.NL"
+msgstr "நெதர்லாந்து"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "நெதர்லாந்து முடியரசு"
+
+msgid "ISO_3166-1.NO"
+msgstr "நார்வே"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "நார்வே முடியரசு"
+
+msgid "ISO_3166-1.NP"
+msgstr "நேபாளம்"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "எதியோப்பியா ஐக்கிய ஜனநாயக குடியரசு"
+
+msgid "ISO_3166-1.NR"
+msgstr "நௌரு"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "நவுரு குடியரசு"
+
+msgid "ISO_3166-1.NU"
+msgstr "நியூ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "நியூசிலாந்து"
+
+msgid "ISO_3166-1.OM"
+msgstr "ஓமான்"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ஓமன் சுல்தானெட்"
+
+msgid "ISO_3166-1.PA"
+msgstr "பனாமா"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "பனாமா குடியரசு"
+
+msgid "ISO_3166-1.PE"
+msgstr "பெரு"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "பெரு குடியரசு"
+
+msgid "ISO_3166-1.PF"
+msgstr "ஃப்ரெஞ்ச் பாலினேசியா"
+
+msgid "ISO_3166-1.PG"
+msgstr "பாப்புவா-நியூகினி"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "சாமௌ சுதந்திர நாடு"
+
+msgid "ISO_3166-1.PH"
+msgstr "பிலிப்பைன்ஸ்"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "பிலிப்பைன்ஸ் குடியரசு"
+
+msgid "ISO_3166-1.PK"
+msgstr "பாகிஸ்தான்"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "பாகிஸ்தான் இஸ்லாமிய குடியரசு"
+
+msgid "ISO_3166-1.PL"
+msgstr "போலந்து"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "போலந்து குடியரசு"
+
+msgid "ISO_3166-1.PM"
+msgstr "செயின்ட் பியார் மற்றும் மிக்யுலன்"
+
+msgid "ISO_3166-1.PN"
+msgstr "பிட்கேரின்"
+
+msgid "ISO_3166-1.PR"
+msgstr "போர்ட்டோ ரீக்கோ"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "ஐக்கிய அமெரிக்க நாடுகள்"
+
+msgid "ISO_3166-1.PT"
+msgstr "போர்ச்சுகல்"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "போர்த்துக்கீசிய குடியரசு"
+
+msgid "ISO_3166-1.PW"
+msgstr "பலாவு"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "பலாவு குடியரசு"
+
+msgid "ISO_3166-1.PY"
+msgstr "பராகுவே"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "பராகுவே குடியரசு"
+
+msgid "ISO_3166-1.QA"
+msgstr "கதார்"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "கதார் நாடு"
+
+msgid "ISO_3166-1.RE"
+msgstr "ரீயூனியன்"
+
+msgid "ISO_3166-1.RO"
+msgstr "ரோமானியா"
+
+msgid "ISO_3166-1.RS"
+msgstr "செர்பியா"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "செர்பிய குடியரசு"
+
+msgid "ISO_3166-1.RU"
+msgstr "ரஷ்யன் கூட்டமைப்பு"
+
+msgid "ISO_3166-1.RW"
+msgstr "ருவாண்டா"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "ருவாண்டா குடியரசு"
+
+msgid "ISO_3166-1.SA"
+msgstr "சவூதி அரேபியா"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "சவூதி அரேபிய முடியரசு"
+
+msgid "ISO_3166-1.SB"
+msgstr "சாலமன் தீவுகள்"
+
+msgid "ISO_3166-1.SC"
+msgstr "சீசெல்சு"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "சீசெல்சு குடியரசு"
+
+msgid "ISO_3166-1.SD"
+msgstr "சூடான்"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "சூடான் குடியரசு"
+
+msgid "ISO_3166-1.SE"
+msgstr "சுவீடன்"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "சுவீடன் முடியரசு"
+
+msgid "ISO_3166-1.SG"
+msgstr "சிங்கப்பூர்"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "சிங்கப்பூர் குடியரசு"
+
+msgid "ISO_3166-1.SI"
+msgstr "ஸ்லோவேனியா"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "ஸ்லோவேனியா குடியரசு"
+
+msgid "ISO_3166-1.SJ"
+msgstr "சவால்பார்ட் மற்றும் ஜன் மேயன்"
+
+msgid "ISO_3166-1.SK"
+msgstr "சுலோவேக்கியா"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "ஸ்லோவாக் குடியரசு"
+
+msgid "ISO_3166-1.SL"
+msgstr "சியராலியோன்"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "செய்ரோ லியோன் குடியரசு"
+
+msgid "ISO_3166-1.SM"
+msgstr "சான் மரீனோ"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "சான் மெரினோ குடியரசு"
+
+msgid "ISO_3166-1.SN"
+msgstr "செனகல்"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "செனகல் குடியரசு"
+
+msgid "ISO_3166-1.SO"
+msgstr "சோமாலியா"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "ஐக்கிய ஜெர்மானிய குடியரசு"
+
+msgid "ISO_3166-1.SR"
+msgstr "சூரினாம்"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "சூரினாம் குடியரசு"
+
+msgid "ISO_3166-1.SS"
+msgstr "சூடான் குடியரசு"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "சூடான் குடியரசு"
+
+msgid "ISO_3166-1.ST"
+msgstr "சோ டோமி மற்றும் பிரின்சிபி"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "சோ டோமி மற்றும் பிரின்சிபி ஜனநாயக குடியரசு"
+
+msgid "ISO_3166-1.SV"
+msgstr "எல் சால்வடார்"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "சால்வடார் குடியரசு"
+
+msgid "ISO_3166-1.SX"
+msgstr "செயின் மார்டின் (பிரெஞ்சு பகுதி)"
+
+msgid "ISO_3166-1.SY"
+msgstr "சிரியன் அரபு குடியரசு"
+
+msgid "ISO_3166-1.SZ"
+msgstr "சுவாசிலாந்து"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "சுவாசிலாந்து முடியரசு"
+
+msgid "ISO_3166-1.TC"
+msgstr "துருக்கஸ் மற்றும் கைசோஸ் தீவுகள்"
+
+msgid "ISO_3166-1.TD"
+msgstr "சாட்"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "சாட் குடியரசு"
+
+msgid "ISO_3166-1.TF"
+msgstr "ஃப்ரெஞ்ச் தெற்கு பிரதேசம்"
+
+msgid "ISO_3166-1.TG"
+msgstr "டோகோ"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "டோகோலீஸ் குடியரசு"
+
+msgid "ISO_3166-1.TH"
+msgstr "தாய்லாந்து"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "தாய்லாந்து முடியரசு"
+
+msgid "ISO_3166-1.TJ"
+msgstr "தசிக்கிசுதான்"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "தசிக்கிசுதான் குடியரசு"
+
+msgid "ISO_3166-1.TK"
+msgstr "டோகெலௌ"
+
+msgid "ISO_3166-1.TL"
+msgstr "திமோர்-லெஸ்டி"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "டிமோர்லெஸ்தே ஜனநாயக குடியரசு"
+
+msgid "ISO_3166-1.TM"
+msgstr "துர்க்மெனிஸ்தான்"
+
+msgid "ISO_3166-1.TN"
+msgstr "துனீசியா"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "துனீசியா குடியரசு"
+
+msgid "ISO_3166-1.TO"
+msgstr "டொங்கா"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "டொங்கா முடியரசு"
+
+msgid "ISO_3166-1.TR"
+msgstr "துருக்கி"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "துருக்கி குடியரசு"
+
+msgid "ISO_3166-1.TT"
+msgstr "ட்ரைனிடேட் மற்றும் டோபேகோ"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "ட்ரினிடாட் மற்றும் டோபேகோ குடியரசு"
+
+msgid "ISO_3166-1.TV"
+msgstr "துவாலு"
+
+msgid "ISO_3166-1.TW"
+msgstr "தாய்வான்"
+
+msgid "ISO_3166-1.TZ"
+msgstr "டான்ஸானியா ஐக்கிய குடியரசு"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "டான்ஸானியா ஐக்கிய குடியரசு"
+
+msgid "ISO_3166-1.UA"
+msgstr "உக்ரெயின்"
+
+msgid "ISO_3166-1.UG"
+msgstr "உகாண்டா"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "உகாண்டா குடியரசு"
+
+msgid "ISO_3166-1.UM"
+msgstr "ஐக்கிய நாடுகள் சிறு சுற்றியுள்ள தீவுகள்"
+
+msgid "ISO_3166-1.US"
+msgstr "ஐக்கிய அமெரிக்கா"
+
+msgid "ISO_3166-1.US#official"
+msgstr "ஐக்கிய அமெரிக்க நாடுகள்"
+
+msgid "ISO_3166-1.UY"
+msgstr "உருகுவே"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "உருகுவே கிழக்கு குடியரசு"
+
+msgid "ISO_3166-1.UZ"
+msgstr "உஸ்பெகிஸ்தான்"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "உஸ்பெகிஸ்தான் குடியரசு"
+
+msgid "ISO_3166-1.VA"
+msgstr "ஹொலி சி (வாடிகன் நகர நாடு)"
+
+msgid "ISO_3166-1.VC"
+msgstr "செயின்ட் வின்சென்ட் மற்றும் க்ரினடின்ஸ்"
+
+msgid "ISO_3166-1.VE"
+msgstr "வெனிசூலா"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "வெனிசூலா பொலிவேரியன் குடியரசு"
+
+msgid "ISO_3166-1.VG"
+msgstr "வெர்ஜின் தீவுகள், ப்ரிட்டீஷ்"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ப்ரிட்டீஷ் விர்ஜின் தீவுகள்"
+
+msgid "ISO_3166-1.VI"
+msgstr "வெர்ஜின் தீவுகள் , யு.எஸ்"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "அமெரிக்க நாடுகள் வெர்ஜின் தீவுகள்"
+
+msgid "ISO_3166-1.VN"
+msgstr "வியட்னாம்"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "வியட் நாம் சோஷலிஸ குடியரசு"
+
+msgid "ISO_3166-1.VU"
+msgstr "வனாட்டு"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "வனாட்டு குடியரசு"
+
+msgid "ISO_3166-1.WF"
+msgstr "வாலிஸ் மற்றும் ப்யூடுனா"
+
+msgid "ISO_3166-1.WS"
+msgstr "சமோவா"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "சாமௌ சுதந்திர நாடு"
+
+msgid "ISO_3166-1.YE"
+msgstr "யேமன்"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "யேமன் குடியரசு"
+
+msgid "ISO_3166-1.YT"
+msgstr "மயோதி"
+
+msgid "ISO_3166-1.ZA"
+msgstr "தென் ஆப்ரிக்கா"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "தெற்கு ஆப்ரிக்கா குடியரசு"
+
+msgid "ISO_3166-1.ZM"
+msgstr "சாம்பியா"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "ஜாம்பிய குடியரசு"
+
+msgid "ISO_3166-1.ZW"
+msgstr "ஜிம்பாப்வே"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "ஜிம்பாப்வே குடியரசு"

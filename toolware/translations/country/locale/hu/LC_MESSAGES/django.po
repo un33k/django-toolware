@@ -1,0 +1,1271 @@
+# Translation of ISO-3166 (country names) to Hungarian
+# Copyright (C) 2001, 2003, 2004, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   (translations from drakfw)
+#
+#   Arpad Biro <biro_arpad@yahoo.com>, 2001.
+#   VERÓK István <vi@fsf.hu>, 2004.
+#   SZERVÁC Attila <sas@321.hu>, 2006.
+#   Kalman Kemenczy <kkemenczy@novell.com>, 2007, 2008.
+#   Gabor Kelemen <kelemeng@gnome.hu>, 2006, 2007.
+#   Kalman Kemenczy <kkemenczy@gmail.com>, 2010, 2011, 2012, 2013.
+#   Balázs Úr <urbalazs@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2015-07-11 08:51+0200\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"devel@lists.alioth.debian.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.2\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Andorra"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Andorrai Fejedelemség"
+
+msgid "ISO_3166-1.AE"
+msgstr "Egyesült Arab Emírségek"
+
+msgid "ISO_3166-1.AF"
+msgstr "Afganisztán"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Afgán Iszlám Köztársaság"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigua és Barbuda"
+
+msgid "ISO_3166-1.AI"
+msgstr "Anguilla"
+
+msgid "ISO_3166-1.AL"
+msgstr "Albánia"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Albán Köztársaság"
+
+msgid "ISO_3166-1.AM"
+msgstr "Örményország"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Örmény Köztársaság"
+
+msgid "ISO_3166-1.AO"
+msgstr "Angola"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Angolai Köztársaság"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Antarktisz"
+
+msgid "ISO_3166-1.AR"
+msgstr "Argentína"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Argentin Köztársaság"
+
+msgid "ISO_3166-1.AS"
+msgstr "Amerikai Szamoa"
+
+msgid "ISO_3166-1.AT"
+msgstr "Ausztria"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Osztrák Köztársaság"
+
+msgid "ISO_3166-1.AU"
+msgstr "Ausztrália"
+
+msgid "ISO_3166-1.AW"
+msgstr "Aruba"
+
+msgid "ISO_3166-1.AX"
+msgstr "Åland-szigetek"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Azerbajdzsán"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Azeri Köztársaság"
+
+msgid "ISO_3166-1.BA"
+msgstr "Bosznia-Hercegovina"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Bosznia-hercegovinai Köztársaság "
+
+msgid "ISO_3166-1.BB"
+msgstr "Barbados"
+
+msgid "ISO_3166-1.BD"
+msgstr "Banglades"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Bangladesi Népi Köztársaság"
+
+msgid "ISO_3166-1.BE"
+msgstr "Belgium"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Belga Királyság"
+
+msgid "ISO_3166-1.BF"
+msgstr "Burkina Faso"
+
+msgid "ISO_3166-1.BG"
+msgstr "Bulgária"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Bolgár Köztársaság"
+
+msgid "ISO_3166-1.BH"
+msgstr "Bahrein"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Bahrein Királyság"
+
+msgid "ISO_3166-1.BI"
+msgstr "Burundi"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Burundi Köztársaság"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Benin"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Benini Köztársaság"
+
+msgid "ISO_3166-1.BL"
+msgstr "Saint Barthélemy"
+
+msgid "ISO_3166-1.BM"
+msgstr "Bermuda"
+
+msgid "ISO_3166-1.BN"
+msgstr "Brunei Darussalam Állam"
+
+msgid "ISO_3166-1.BO"
+msgstr "Bolívia"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Bolíviai Többnemzetiségű Állam"
+
+msgid "ISO_3166-1.BQ"
+msgstr "Bonaire, Saint Eustatius és Saba"
+
+msgid "ISO_3166-1.BR"
+msgstr "Brazília"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Brazil Szövetségi Köztársaság"
+
+msgid "ISO_3166-1.BS"
+msgstr "Bahama-szigetek"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "Bahamai Közösség"
+
+msgid "ISO_3166-1.BT"
+msgstr "Bhután"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Bhutáni Királyság"
+
+msgid "ISO_3166-1.BV"
+msgstr "Bouvet-sziget"
+
+msgid "ISO_3166-1.BW"
+msgstr "Botswana"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Botswanai Köztársaság"
+
+msgid "ISO_3166-1.BY"
+msgstr "Fehéroroszország"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Fehérorosz Köztársaság"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Belize"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.CC"
+msgstr "Cocos (Keeling) -szigetek"
+
+msgid "ISO_3166-1.CD"
+msgstr "Kongói Demokratikus Köztársaság"
+
+msgid "ISO_3166-1.CF"
+msgstr "Közép-afrikai Köztársaság"
+
+msgid "ISO_3166-1.CG"
+msgstr "Kongó"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Kongói Köztársaság"
+
+msgid "ISO_3166-1.CH"
+msgstr "Svájc"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Svájci Államszövetség"
+
+msgid "ISO_3166-1.CI"
+msgstr "Elefántcsontpart"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Elefántcsontparti Köztársaság"
+
+msgid "ISO_3166-1.CK"
+msgstr "Cook-szigetek"
+
+msgid "ISO_3166-1.CL"
+msgstr "Chile"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Chilei Köztársaság"
+
+msgid "ISO_3166-1.CM"
+msgstr "Kamerun"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Kameruni Köztársaság"
+
+msgid "ISO_3166-1.CN"
+msgstr "Kína"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Kínai Népköztársaság"
+
+msgid "ISO_3166-1.CO"
+msgstr "Kolumbia"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Kolumbiai Köztársaság"
+
+msgid "ISO_3166-1.CR"
+msgstr "Costa Rica"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Costa Rica Köztársaság"
+
+msgid "ISO_3166-1.CU"
+msgstr "Kuba"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Kubai Köztársaság"
+
+msgid "ISO_3166-1.CV"
+msgstr "Zöld-foki-szigetek"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Zöld-foki Köztársaság"
+
+msgid "ISO_3166-1.CW"
+msgstr "Curaçao"
+
+msgid "ISO_3166-1.CX"
+msgstr "Karácsony-sziget"
+
+msgid "ISO_3166-1.CY"
+msgstr "Ciprus"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Ciprusi Köztársaság"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Cseh Köztársaság"
+
+msgid "ISO_3166-1.DE"
+msgstr "Németország"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Német Szövetségi Köztársaság"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Dzsibuti"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Dzsibuti Köztársaság"
+
+msgid "ISO_3166-1.DK"
+msgstr "Dánia"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Dán Királyság"
+
+msgid "ISO_3166-1.DM"
+msgstr "Dominika"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "Dominikai Közösség"
+
+msgid "ISO_3166-1.DO"
+msgstr "Dominikai Köztársaság"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Algéria"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Algériai Demokratikus Népi Köztársaság"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ecuador"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Ecuadori Köztársaság"
+
+msgid "ISO_3166-1.EE"
+msgstr "Észtország"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Észt Köztársaság"
+
+msgid "ISO_3166-1.EG"
+msgstr "Egyiptom"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Egyiptomi Arab Köztársaság"
+
+msgid "ISO_3166-1.EH"
+msgstr "Nyugat-Szahara"
+
+msgid "ISO_3166-1.ER"
+msgstr "Eritrea"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Eritrea Állam"
+
+msgid "ISO_3166-1.ES"
+msgstr "Spanyolország"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Spanyol Királyság"
+
+msgid "ISO_3166-1.ET"
+msgstr "Etiópia"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Etióp Demokratikus Szövetségi Köztársaság"
+
+msgid "ISO_3166-1.FI"
+msgstr "Finnország"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Finn Köztársaság"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Fidzsi-szigetek"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Fidzsi-szigeteki Köztársaság"
+
+msgid "ISO_3166-1.FK"
+msgstr "Falkland-szigetek (Malvinas)"
+
+msgid "ISO_3166-1.FM"
+msgstr "Mikronézia, Államszövetség"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "Mikronéziai Szövetségi Államok"
+
+msgid "ISO_3166-1.FO"
+msgstr "Feröer"
+
+msgid "ISO_3166-1.FR"
+msgstr "Franciaország"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Francia Köztársaság"
+
+msgid "ISO_3166-1.GA"
+msgstr "Gabon"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Gaboni Köztársaság"
+
+msgid "ISO_3166-1.GB"
+msgstr "Nagy-Britannia (Egyesült Királyság)"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Nagy-Britannia és Észak-Írország Egyesült Királysága"
+
+msgid "ISO_3166-1.GD"
+msgstr "Grenada"
+
+msgid "ISO_3166-1.GE"
+msgstr "Grúzia"
+
+msgid "ISO_3166-1.GF"
+msgstr "Francia Guyana"
+
+msgid "ISO_3166-1.GG"
+msgstr "Guernsey"
+
+msgid "ISO_3166-1.GH"
+msgstr "Ghána"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Ghánai Köztársaság"
+
+msgid "ISO_3166-1.GI"
+msgstr "Gibraltár"
+
+msgid "ISO_3166-1.GL"
+msgstr "Grönland"
+
+msgid "ISO_3166-1.GM"
+msgstr "Gambia"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Gambiai Köztársaság"
+
+msgid "ISO_3166-1.GN"
+msgstr "Guinea"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Guineai Köztársaság"
+
+msgid "ISO_3166-1.GP"
+msgstr "Guadeloupe"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Egyenlítői-Guinea"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Egyenlítői-guineai Köztársaság "
+
+msgid "ISO_3166-1.GR"
+msgstr "Görögország"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Görög Köztársaság"
+
+msgid "ISO_3166-1.GS"
+msgstr "Dél-Georgia és Déli-Sandwich-szigetek"
+
+msgid "ISO_3166-1.GT"
+msgstr "Guatemala"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Guatemalai Köztársaság"
+
+msgid "ISO_3166-1.GU"
+msgstr "Guam"
+
+msgid "ISO_3166-1.GW"
+msgstr "Bissau-Guinea"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Bissau-guineai Köztársaság "
+
+msgid "ISO_3166-1.GY"
+msgstr "Guyana"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Guyanai Köztársaság"
+
+msgid "ISO_3166-1.HK"
+msgstr "Hongkong"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Hongkong, a Kínai Népköztársaság Különleges Igazgatású Területe"
+
+msgid "ISO_3166-1.HM"
+msgstr "Heard-sziget és McDonald-szigetek"
+
+msgid "ISO_3166-1.HN"
+msgstr "Honduras"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Hondurasi Köztársaság"
+
+msgid "ISO_3166-1.HR"
+msgstr "Horvátország"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Horvát Köztársaság"
+
+msgid "ISO_3166-1.HT"
+msgstr "Haiti"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Haiti Köztársaság"
+
+msgid "ISO_3166-1.HU"
+msgstr "Magyarország"
+
+msgid "ISO_3166-1.ID"
+msgstr "Indonézia"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Indonéz Köztársaság"
+
+msgid "ISO_3166-1.IE"
+msgstr "Írország"
+
+msgid "ISO_3166-1.IL"
+msgstr "Izrael"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Izraeli Állam"
+
+msgid "ISO_3166-1.IM"
+msgstr "Man"
+
+msgid "ISO_3166-1.IN"
+msgstr "India"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Indiai Köztársaság"
+
+msgid "ISO_3166-1.IO"
+msgstr "Brit indiai óceáni terület"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Irak"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Iraki Köztársaság"
+
+msgid "ISO_3166-1.IR"
+msgstr "Irán"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Iráni Iszlám Köztársaság"
+
+msgid "ISO_3166-1.IS"
+msgstr "Izland"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Izlandi Köztársaság"
+
+msgid "ISO_3166-1.IT"
+msgstr "Olaszország"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Olasz Köztársaság"
+
+msgid "ISO_3166-1.JE"
+msgstr "Jersey"
+
+msgid "ISO_3166-1.JM"
+msgstr "Jamaica"
+
+msgid "ISO_3166-1.JO"
+msgstr "Jordánia"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "Jordán Hasemita Királyság"
+
+msgid "ISO_3166-1.JP"
+msgstr "Japán"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kenya"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Kenyai Köztársaság"
+
+msgid "ISO_3166-1.KG"
+msgstr "Kirgizisztán"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Kirgiz Köztársaság"
+
+msgid "ISO_3166-1.KH"
+msgstr "Kambodzsa"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Kambodzsai Királyság"
+
+msgid "ISO_3166-1.KI"
+msgstr "Kiribati"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Kiribati Köztársaság"
+
+msgid "ISO_3166-1.KM"
+msgstr "Comore-szigetek"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Comore-szigeteki Unió "
+
+msgid "ISO_3166-1.KN"
+msgstr "St. Kitts és Nevis"
+
+msgid "ISO_3166-1.KP"
+msgstr "Koreai Népi Demokratikus Köztársaság"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Koreai Népi Demokratikus Köztársaság"
+
+msgid "ISO_3166-1.KR"
+msgstr "Koreai Köztársaság"
+
+msgid "ISO_3166-1.KW"
+msgstr "Kuvait"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Kuvaiti Állam"
+
+msgid "ISO_3166-1.KY"
+msgstr "Kajmán-szigetek"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Kazahsztán"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Kazah Köztársaság"
+
+msgid "ISO_3166-1.LA"
+msgstr "Laoszi Népi Demokratikus Köztársaság"
+
+msgid "ISO_3166-1.LB"
+msgstr "Libanon"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Libanoni Köztársaság"
+
+msgid "ISO_3166-1.LC"
+msgstr "Saint Lucia"
+
+msgid "ISO_3166-1.LI"
+msgstr "Liechtenstein"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Liechtensteini Fejedelemség"
+
+msgid "ISO_3166-1.LK"
+msgstr "Srí Lanka"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Srí Lanka Demokratikus Szocialista Köztársaság"
+
+msgid "ISO_3166-1.LR"
+msgstr "Libéria"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Libériai Köztársaság"
+
+msgid "ISO_3166-1.LS"
+msgstr "Lesotho"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Lesothói Királyság"
+
+msgid "ISO_3166-1.LT"
+msgstr "Litvánia"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Litván Köztársaság"
+
+msgid "ISO_3166-1.LU"
+msgstr "Luxemburg"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Luxemburgi Nagyhercegség"
+
+msgid "ISO_3166-1.LV"
+msgstr "Lettország"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Lett Köztársaság"
+
+msgid "ISO_3166-1.LY"
+msgstr "Líbia"
+
+msgid "ISO_3166-1.MA"
+msgstr "Marokkó"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Marokkói Királyság"
+
+msgid "ISO_3166-1.MC"
+msgstr "Monaco"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Monacói Hercegség"
+
+msgid "ISO_3166-1.MD"
+msgstr "Moldova"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Moldovai Köztársaság"
+
+msgid "ISO_3166-1.ME"
+msgstr "Montenegró"
+
+msgid "ISO_3166-1.MF"
+msgstr "Saint Martin (francia oldal)"
+
+msgid "ISO_3166-1.MG"
+msgstr "Madagaszkár"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Madagaszkári Köztársaság"
+
+msgid "ISO_3166-1.MH"
+msgstr "Marshall-szigetek"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Marshall-szigeteki Köztársaság"
+
+msgid "ISO_3166-1.MK"
+msgstr "Macedón Köztársaság"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Macedón volt Jugoszláv Köztársaság"
+
+msgid "ISO_3166-1.ML"
+msgstr "Mali"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Mali Köztársaság"
+
+msgid "ISO_3166-1.MM"
+msgstr "Mianmar"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Mianmari Köztársaság"
+
+msgid "ISO_3166-1.MN"
+msgstr "Mongólia"
+
+msgid "ISO_3166-1.MO"
+msgstr "Makaó"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "Makaó, a Kínai Népköztársaság Különleges Igazgatású Területe"
+
+msgid "ISO_3166-1.MP"
+msgstr "Északi Mariana-szigetek"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Északi Mariana-szigeteki Közösség"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Martinique"
+
+msgid "ISO_3166-1.MR"
+msgstr "Mauritánia"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Mauritániai Iszlám Köztársaság"
+
+msgid "ISO_3166-1.MS"
+msgstr "Montserrat"
+
+msgid "ISO_3166-1.MT"
+msgstr "Málta"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Máltai Köztársaság"
+
+msgid "ISO_3166-1.MU"
+msgstr "Mauritius"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Mauritius-i Köztársaság"
+
+msgid "ISO_3166-1.MV"
+msgstr "Maldív-szigetek"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Maldív-szigeteki Köztársaság"
+
+msgid "ISO_3166-1.MW"
+msgstr "Malawi"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Malawi Köztársaság"
+
+msgid "ISO_3166-1.MX"
+msgstr "Mexikó"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Mexikói Egyesült Államok"
+
+msgid "ISO_3166-1.MY"
+msgstr "Malajzia"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Mozambik"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Mozambiki Köztársaság"
+
+msgid "ISO_3166-1.NA"
+msgstr "Namíbia"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Namíbiai Köztársaság"
+
+msgid "ISO_3166-1.NC"
+msgstr "Új-Kaledónia"
+
+msgid "ISO_3166-1.NE"
+msgstr "Niger"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Nigeri Köztársaság"
+
+msgid "ISO_3166-1.NF"
+msgstr "Norfolk-sziget"
+
+msgid "ISO_3166-1.NG"
+msgstr "Nigéria"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Nigériai Szövetségi Köztársaság"
+
+msgid "ISO_3166-1.NI"
+msgstr "Nicaragua"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Nicaraguai Köztársaság"
+
+msgid "ISO_3166-1.NL"
+msgstr "Hollandia"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Holland Királyság"
+
+msgid "ISO_3166-1.NO"
+msgstr "Norvégia"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Norvég Királyság"
+
+msgid "ISO_3166-1.NP"
+msgstr "Nepál"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Nepáli Demokratikus Szövetségi Köztársaság"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nauru"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Naurui Köztársaság"
+
+msgid "ISO_3166-1.NU"
+msgstr "Niue"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Új-Zéland"
+
+msgid "ISO_3166-1.OM"
+msgstr "Omán"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Ománi Szultánság"
+
+msgid "ISO_3166-1.PA"
+msgstr "Panama"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Panamai Köztársaság"
+
+msgid "ISO_3166-1.PE"
+msgstr "Peru"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Perui Köztársaság"
+
+msgid "ISO_3166-1.PF"
+msgstr "Francia Polinézia"
+
+msgid "ISO_3166-1.PG"
+msgstr "Pápua Új-Guinea"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Pápua Új-Guinea Független Állam"
+
+msgid "ISO_3166-1.PH"
+msgstr "Fülöp-szigetek"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Fülöp-szigeteki Köztársaság"
+
+msgid "ISO_3166-1.PK"
+msgstr "Pakisztán"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Pakisztáni Iszlám Köztársaság"
+
+msgid "ISO_3166-1.PL"
+msgstr "Lengyelország"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Lengyel Köztársaság"
+
+msgid "ISO_3166-1.PM"
+msgstr "Saint-Pierre és Miquelon"
+
+msgid "ISO_3166-1.PN"
+msgstr "Pitcairn-szigetek"
+
+msgid "ISO_3166-1.PR"
+msgstr "Puerto Rico"
+
+msgid "ISO_3166-1.PS"
+msgstr "Palesztina"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Palesztina"
+
+msgid "ISO_3166-1.PT"
+msgstr "Portugália"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Portugál Köztársaság"
+
+msgid "ISO_3166-1.PW"
+msgstr "Palau"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Palaui Köztársaság"
+
+msgid "ISO_3166-1.PY"
+msgstr "Paraguay"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Paraguayi Köztársaság"
+
+msgid "ISO_3166-1.QA"
+msgstr "Katar"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Katari Állam"
+
+msgid "ISO_3166-1.RE"
+msgstr "Réunion"
+
+msgid "ISO_3166-1.RO"
+msgstr "Románia"
+
+msgid "ISO_3166-1.RS"
+msgstr "Szerbia"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Szerbi Köztársaság"
+
+msgid "ISO_3166-1.RU"
+msgstr "Orosz Föderáció"
+
+msgid "ISO_3166-1.RW"
+msgstr "Ruanda"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Ruandai Köztársaság"
+
+msgid "ISO_3166-1.SA"
+msgstr "Szaúd-Arábia"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Szaúd-arábiai Királyság"
+
+msgid "ISO_3166-1.SB"
+msgstr "Salamon-szigetek"
+
+msgid "ISO_3166-1.SC"
+msgstr "Seychelles-szigetek"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Seychelle Köztársaság"
+
+msgid "ISO_3166-1.SD"
+msgstr "Szudán"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Szudáni Köztársaság"
+
+msgid "ISO_3166-1.SE"
+msgstr "Svédország"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Svéd Királyság"
+
+msgid "ISO_3166-1.SG"
+msgstr "Szingapúr"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Szingapúri Köztársaság"
+
+msgid "ISO_3166-1.SH"
+msgstr "Szent Ilona, Ascension és Tristan da Cunha"
+
+msgid "ISO_3166-1.SI"
+msgstr "Szlovénia"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Szlovén Köztársaság"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Svalbard-szigetek és Jan Mayen-sziget"
+
+msgid "ISO_3166-1.SK"
+msgstr "Szlovákia"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Szlovák Köztársaság"
+
+msgid "ISO_3166-1.SL"
+msgstr "Sierra Leone"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Sierra Leone Köztársaság"
+
+msgid "ISO_3166-1.SM"
+msgstr "San Marino"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "San Marinó Köztársaság"
+
+msgid "ISO_3166-1.SN"
+msgstr "Szenegál"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Szenegáli Köztársaság"
+
+msgid "ISO_3166-1.SO"
+msgstr "Szomália"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Szomáliai Szövetségi Köztársaság"
+
+msgid "ISO_3166-1.SR"
+msgstr "Suriname"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Suriname Köztársaság"
+
+msgid "ISO_3166-1.SS"
+msgstr "Dél-Szudán"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Dél-szudáni Köztársaság"
+
+msgid "ISO_3166-1.ST"
+msgstr "São Tomé és Príncipe"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "São Tomé és Príncipe Demokratikus Köztársaság"
+
+msgid "ISO_3166-1.SV"
+msgstr "Salvador"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Salvadori Köztársaság"
+
+msgid "ISO_3166-1.SX"
+msgstr "Szent Martin (holland oldal)"
+
+msgid "ISO_3166-1.SY"
+msgstr "Szíriai Arab Köztársaság"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Szváziföld"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Szváziföldi Királyság"
+
+msgid "ISO_3166-1.TC"
+msgstr "Turks- és Caicos-szigetek"
+
+msgid "ISO_3166-1.TD"
+msgstr "Csád"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Csádi Köztársaság"
+
+msgid "ISO_3166-1.TF"
+msgstr "Francia déli területek"
+
+msgid "ISO_3166-1.TG"
+msgstr "Togo"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Togói Köztársaság"
+
+msgid "ISO_3166-1.TH"
+msgstr "Thaiföld"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Thaiföldi Királyság"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Tádzsikisztán"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Tádzsik Köztársaság"
+
+msgid "ISO_3166-1.TK"
+msgstr "Tokelau-szigetek"
+
+msgid "ISO_3166-1.TL"
+msgstr "Kelet-Timor"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Kelet-timori Demokratikus Köztársaság"
+
+msgid "ISO_3166-1.TM"
+msgstr "Türkmenisztán"
+
+msgid "ISO_3166-1.TN"
+msgstr "Tunézia"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Tunéziai Köztársaság"
+
+msgid "ISO_3166-1.TO"
+msgstr "Tonga"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Tongai Királyság"
+
+msgid "ISO_3166-1.TR"
+msgstr "Törökország"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Török Köztársaság"
+
+msgid "ISO_3166-1.TT"
+msgstr "Trinidad és Tobago"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Trinidad és Tobago Köztársaság"
+
+msgid "ISO_3166-1.TV"
+msgstr "Tuvalu"
+
+msgid "ISO_3166-1.TW"
+msgstr "Tajvan"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Tanzánia"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Tanzániai Egyesült Köztársaság"
+
+msgid "ISO_3166-1.UA"
+msgstr "Ukrajna"
+
+msgid "ISO_3166-1.UG"
+msgstr "Uganda"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Ugandai Köztársaság"
+
+msgid "ISO_3166-1.UM"
+msgstr "Amerikai Csendes-óceáni-szigetek"
+
+msgid "ISO_3166-1.US"
+msgstr "Egyesült Államok"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Amerikai Egyesült Államok"
+
+msgid "ISO_3166-1.UY"
+msgstr "Uruguay"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Uruguayi Keleti Köztársaság"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Üzbegisztán"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Üzbég Köztársaság"
+
+msgid "ISO_3166-1.VA"
+msgstr "Szentszék (Vatikánvárosi Állam)"
+
+msgid "ISO_3166-1.VC"
+msgstr "Saint Vincent és a Grenadines-szigetek"
+
+msgid "ISO_3166-1.VE"
+msgstr "Venezuela"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Venezuelai Bolivári Köztársaság"
+
+msgid "ISO_3166-1.VG"
+msgstr "Virgin-szigetek (brit)"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Brit Virgin-szigetek"
+
+msgid "ISO_3166-1.VI"
+msgstr "Virgin-szigetek (USA)"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Amerikai Virgin-szigetek"
+
+msgid "ISO_3166-1.VN"
+msgstr "Vietnam"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Vietnami Szocialista Köztársaság"
+
+msgid "ISO_3166-1.VU"
+msgstr "Vanuatu"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Vanuatui Köztársaság"
+
+msgid "ISO_3166-1.WF"
+msgstr "Wallis és Futuna"
+
+msgid "ISO_3166-1.WS"
+msgstr "Szamoa"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Szamoai Független Állam"
+
+msgid "ISO_3166-1.YE"
+msgstr "Jemen"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Jemeni Köztársaság"
+
+msgid "ISO_3166-1.YT"
+msgstr "Mayotte"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Dél-Afrika"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Dél-afrikai Köztársaság"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Zambia"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Zambiai Köztársaság"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Zimbabwe"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Zimbabwei Köztársaság"

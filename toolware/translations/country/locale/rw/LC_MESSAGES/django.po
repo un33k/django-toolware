@@ -1,0 +1,1228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2004
+# This file is distributed under the same license as the iso-codes package.
+# Viateur MUGENZI <muvia@hotmail.com>, 2004.
+#
+# #  Note: Steve Murphy is not a translator-- he is a technical coordinator
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2004-11-01 15:00+0200\n"
+"Last-Translator: Steve Murphy <murf@e-tools.com>\n"
+"Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
+"Language: rw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Andora"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Leta y'Andora"
+
+msgid "ISO_3166-1.AE"
+msgstr "Repubulika Nyarabu Zunze Ubumwe"
+
+msgid "ISO_3166-1.AF"
+msgstr "Afuganisita"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Repubulika ya Kisiramu ya Pakisitani"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigwa na Barubida"
+
+msgid "ISO_3166-1.AI"
+msgstr "Angwiya"
+
+msgid "ISO_3166-1.AL"
+msgstr "Alubaniya"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Repubulika y'Alubaniya"
+
+msgid "ISO_3166-1.AM"
+msgstr "Arumeniya"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Repubulika ya Arumeniya"
+
+msgid "ISO_3166-1.AO"
+msgstr "Angola"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Repubulika ya Angola"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Antarigitika"
+
+msgid "ISO_3166-1.AR"
+msgstr "Arijantina"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Repubulika ya Arijantina"
+
+msgid "ISO_3166-1.AS"
+msgstr "Samowa Nyamerika"
+
+msgid "ISO_3166-1.AT"
+msgstr "Ositiriya"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Repubulika ya Ositiriya"
+
+msgid "ISO_3166-1.AU"
+msgstr "Ositaraliya"
+
+msgid "ISO_3166-1.AW"
+msgstr "Aruba"
+
+msgid "ISO_3166-1.AX"
+msgstr "Ibirwa by'Alande"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Azeribayijani"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Repubulika y'Azeribayijani"
+
+msgid "ISO_3166-1.BA"
+msgstr "Bosiniya na Herizegovina"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Repubulika ya Bosiniya na Herizegovina"
+
+msgid "ISO_3166-1.BB"
+msgstr "Barubadosi"
+
+msgid "ISO_3166-1.BD"
+msgstr "Bangaladeshi"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Repubulika Iharanira Rubanda ya Bangaladeshi"
+
+msgid "ISO_3166-1.BE"
+msgstr "Ububiligi"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Igihugu cy'Ububiligi"
+
+msgid "ISO_3166-1.BF"
+msgstr "Burukina Faso"
+
+msgid "ISO_3166-1.BG"
+msgstr "Buligariya"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Repubulika ya Buligariya"
+
+msgid "ISO_3166-1.BH"
+msgstr "Bahirayini"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Igihugu cya Butani"
+
+msgid "ISO_3166-1.BI"
+msgstr "Uburundi"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Repubulika y'Uburundi"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Bene"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Repubulika ya Bene"
+
+msgid "ISO_3166-1.BM"
+msgstr "Berimuda"
+
+msgid "ISO_3166-1.BN"
+msgstr "Buruneyi Darisalamu"
+
+msgid "ISO_3166-1.BO"
+msgstr "Boliviya"
+
+msgid "ISO_3166-1.BR"
+msgstr "Burezile"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Repubulika Ishyizehamwe ya Burezile"
+
+msgid "ISO_3166-1.BS"
+msgstr "Bahamasi"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "Leta ya Bahamasi"
+
+msgid "ISO_3166-1.BT"
+msgstr "Butani"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Igihugu cya Butani"
+
+msgid "ISO_3166-1.BV"
+msgstr "Ikirwa cya Bouve"
+
+msgid "ISO_3166-1.BW"
+msgstr "Botswana"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Repubulika ya Botswana"
+
+msgid "ISO_3166-1.BY"
+msgstr "Belarusi"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Repubulika ya Belarusi"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Belize"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.CC"
+msgstr "Ibirwa bya Koko"
+
+msgid "ISO_3166-1.CD"
+msgstr "Repubulika Iharanira Demokarasi ya Kongo"
+
+msgid "ISO_3166-1.CF"
+msgstr "Repubulika ya Santara Afurika"
+
+msgid "ISO_3166-1.CG"
+msgstr "Kongo"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Repubulika ya Kongo"
+
+msgid "ISO_3166-1.CH"
+msgstr "Ubusuwisi"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Ubusuwisi Bwiyunze"
+
+msgid "ISO_3166-1.CI"
+msgstr "Kote Divuwari"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Repubulika wa Kamir"
+
+msgid "ISO_3166-1.CK"
+msgstr "Ibirwa bya Kuke"
+
+msgid "ISO_3166-1.CL"
+msgstr "Shili"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Repubulika ya Shili"
+
+msgid "ISO_3166-1.CM"
+msgstr "Kameruni"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Repubulika ya Kameruni"
+
+msgid "ISO_3166-1.CN"
+msgstr "Ubushinwa"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Repubulika Iharanira Rubanda y'Ubushinwa"
+
+msgid "ISO_3166-1.CO"
+msgstr "Kolombiya"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Repubulika ya Kolombiya"
+
+msgid "ISO_3166-1.CR"
+msgstr "Kosita Rika"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Repubulika ya Kosita Rika"
+
+msgid "ISO_3166-1.CU"
+msgstr "Kiba"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Repubulika ya kiba"
+
+msgid "ISO_3166-1.CV"
+msgstr "Kapu Veri"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Repubulika ya Kapu Veri"
+
+msgid "ISO_3166-1.CX"
+msgstr "Ikirwa cya Noheli"
+
+msgid "ISO_3166-1.CY"
+msgstr "Shipure"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Repubulika ya Shipure"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Repubulika ya Ceke"
+
+msgid "ISO_3166-1.DE"
+msgstr "Ubudage"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Repubulika Ishyizehamwe y'Ubudage"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Jibuti"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Repubulika ya Jibuti"
+
+msgid "ISO_3166-1.DK"
+msgstr "Danimarike"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Igihugu cya Danimarike"
+
+msgid "ISO_3166-1.DM"
+msgstr "Dominika"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "Leta ya Dominika"
+
+msgid "ISO_3166-1.DO"
+msgstr "Repubulika ya Dominikani"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Aligeriya"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Repubulika Iharanira Demokarasi ya Rubanda y'Aligeriya"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ekwadoro"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Repubulika ya Ekwadoro"
+
+msgid "ISO_3166-1.EE"
+msgstr "Esitoniya"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Repubulika ya Esitoniya"
+
+msgid "ISO_3166-1.EG"
+msgstr "Misiri"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Repubulika Nyarabu ya Misiri"
+
+msgid "ISO_3166-1.EH"
+msgstr "Sahara y'Uburengerazuba"
+
+msgid "ISO_3166-1.ER"
+msgstr "Eritereya"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Leta Zunze Ubumwe z'Amerika"
+
+msgid "ISO_3166-1.ES"
+msgstr "Esipanye"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Igihugu cya Esipagne"
+
+msgid "ISO_3166-1.ET"
+msgstr "Etiyopiya"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Repubulika Ishyizehamwe Iharanira Demokarasi ya Etiyopiya"
+
+msgid "ISO_3166-1.FI"
+msgstr "Finilande"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Repubulika ya Finilande"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Fiji"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Repubulika ya Hayiti"
+
+msgid "ISO_3166-1.FK"
+msgstr "Ibirwa bya Folukilande (Maluvinasi)"
+
+msgid "ISO_3166-1.FM"
+msgstr "Mikoronesiya, Leta Zishyizehamwe za"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "Leta Zishyizehamwe za Mikoronesiya"
+
+msgid "ISO_3166-1.FO"
+msgstr "Ibirwa bya Farowe"
+
+msgid "ISO_3166-1.FR"
+msgstr "Ubufaransa"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Repubulika y'Ubufaransa"
+
+msgid "ISO_3166-1.GA"
+msgstr "Gabo"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Repubulika ya Gabo"
+
+msgid "ISO_3166-1.GB"
+msgstr "Ubwongereza (UK)"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Igihugu cy'Ubwongereza na Irilande y'Amajyaruguru"
+
+msgid "ISO_3166-1.GD"
+msgstr "Gerenada"
+
+msgid "ISO_3166-1.GE"
+msgstr "Geworigiya"
+
+msgid "ISO_3166-1.GF"
+msgstr "Guyane Nyamfaransa"
+
+msgid "ISO_3166-1.GG"
+msgstr "Ubudage"
+
+msgid "ISO_3166-1.GH"
+msgstr "Gana"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Repubulika ya Gana"
+
+msgid "ISO_3166-1.GI"
+msgstr "Giburalitari"
+
+msgid "ISO_3166-1.GL"
+msgstr "Goronulande"
+
+msgid "ISO_3166-1.GM"
+msgstr "Gambiya"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Repubulika ya Gambiya"
+
+msgid "ISO_3166-1.GN"
+msgstr "Gineya"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Repubulika ya Gineya"
+
+msgid "ISO_3166-1.GP"
+msgstr "Gwadelupe"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Gineya Ekwatoriyale"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Repubulika ya Gineya Ekwatoriyale"
+
+msgid "ISO_3166-1.GR"
+msgstr "Ikigereki"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Repubulika ya Helenika"
+
+msgid "ISO_3166-1.GS"
+msgstr "Geworugiya y'Epfo n'Ibirwa bya Sanduwice y'Epfo"
+
+msgid "ISO_3166-1.GT"
+msgstr "Gwatemala"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Repubulika Gwatemala"
+
+msgid "ISO_3166-1.GU"
+msgstr "Gwami"
+
+msgid "ISO_3166-1.GW"
+msgstr "Guneya-Biso"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Repubulika ya Gineya-Biso"
+
+msgid "ISO_3166-1.GY"
+msgstr "Giyana"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Repubulika ya Giyana"
+
+msgid "ISO_3166-1.HK"
+msgstr "Hongo Kongo"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Igice cy'Ubuyobozi Budasanzwe cy'Ubushinwa - Hongo Kongo"
+
+msgid "ISO_3166-1.HM"
+msgstr "Icyirwa Hadi n'Ibirwa MakeDonalidi"
+
+msgid "ISO_3166-1.HN"
+msgstr "Hondurasi"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Repubulika ya Hondurasi"
+
+msgid "ISO_3166-1.HR"
+msgstr "Korowatiya"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Repubulika ya korowatiya"
+
+msgid "ISO_3166-1.HT"
+msgstr "Hayiti"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Repubulika ya Hayiti"
+
+msgid "ISO_3166-1.HU"
+msgstr "Hongiriya"
+
+msgid "ISO_3166-1.ID"
+msgstr "Indonesiya"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Repubulika ya Indonesiya"
+
+msgid "ISO_3166-1.IE"
+msgstr "Irilande"
+
+msgid "ISO_3166-1.IL"
+msgstr "Isirayeli"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Leta ya Isirayeli"
+
+msgid "ISO_3166-1.IN"
+msgstr "Ubuhinde"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Repubulika y'Ubuhinde"
+
+msgid "ISO_3166-1.IO"
+msgstr "Teritwari y'Inyanja y'Abahinde Nyongereza"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Irake"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Repubulika ya Irake"
+
+msgid "ISO_3166-1.IR"
+msgstr "Iran, Repubulika ya Kisilimu"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Repubulika ya Kisilimu ya Iran"
+
+msgid "ISO_3166-1.IS"
+msgstr "Isilande"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Repubulika ya Isilande"
+
+msgid "ISO_3166-1.IT"
+msgstr "Ubutariyani"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Repubulika y'Ubutaliyani"
+
+msgid "ISO_3166-1.JM"
+msgstr "Jamayika"
+
+msgid "ISO_3166-1.JO"
+msgstr "Yorudani"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "Igihugu Hashemite cya Yorudani"
+
+msgid "ISO_3166-1.JP"
+msgstr "Ubuyapani"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kenya"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Repubulika ya Kenya"
+
+msgid "ISO_3166-1.KG"
+msgstr "Kirigizasitani"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Repubulika ya Kirigizasitani"
+
+msgid "ISO_3166-1.KH"
+msgstr "Kambodiya"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Igihugu cya Kambodiya"
+
+msgid "ISO_3166-1.KI"
+msgstr "Kiribati"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Repubulika ya Kiribati"
+
+msgid "ISO_3166-1.KM"
+msgstr "Komore"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Ubwiyunge bwa Komore"
+
+msgid "ISO_3166-1.KN"
+msgstr "Mutagatifu Kitsi na Nevisi"
+
+msgid "ISO_3166-1.KP"
+msgstr "Koreya, Repubulika Iharanira Demokarasi ya Rubanda ya"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Repubulika Iharanira Demokarasi ya Rubanda ya Koreya"
+
+msgid "ISO_3166-1.KR"
+msgstr "Koreya, Repubulika ya"
+
+msgid "ISO_3166-1.KW"
+msgstr "Koweti"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Leta ya Koweti"
+
+msgid "ISO_3166-1.KY"
+msgstr "Ibirwa bya Kayimani"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Kazakisitani"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Repubulika ya Kazakisitani"
+
+msgid "ISO_3166-1.LA"
+msgstr "Repubulika Iharanira Demokorasi ya Lawosi"
+
+msgid "ISO_3166-1.LB"
+msgstr "Libani"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Repubulika ya Libani"
+
+msgid "ISO_3166-1.LC"
+msgstr "Mutagatifu Lusiya"
+
+msgid "ISO_3166-1.LI"
+msgstr "Liyeshitensiteyine"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Leta ya Liyeshitensiteyine"
+
+msgid "ISO_3166-1.LK"
+msgstr "Siri Lanka"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Repubulika Gisosiyalisite iharanira Demokarasi ya Siri Lanka"
+
+msgid "ISO_3166-1.LR"
+msgstr "Liberiya"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Repubulika ya Liberiya"
+
+msgid "ISO_3166-1.LS"
+msgstr "Lesoto"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Igihugu cya Lesoto"
+
+msgid "ISO_3166-1.LT"
+msgstr "Lituwaniya"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Repubulika ya Lituwaniya"
+
+msgid "ISO_3166-1.LU"
+msgstr "Lugizamburu"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Ubudage Bunini Lugizamburu"
+
+msgid "ISO_3166-1.LV"
+msgstr "Lativiya"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Repubulika ya Lativiya"
+
+msgid "ISO_3166-1.LY"
+msgstr "Liberiya"
+
+msgid "ISO_3166-1.MA"
+msgstr "Maroke"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Igihugu cya Maroke"
+
+msgid "ISO_3166-1.MC"
+msgstr "Monako"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Leta ya Monako"
+
+msgid "ISO_3166-1.MD"
+msgstr "Masedoniya, Repubulika ya"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Repubulika ya Molidova"
+
+msgid "ISO_3166-1.ME"
+msgstr "Seribiya  na Montenegoro"
+
+msgid "ISO_3166-1.MG"
+msgstr "Madagasikari"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Repubulika ya Madagasikari"
+
+msgid "ISO_3166-1.MH"
+msgstr "Ibirwa bya Marishali"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Repubulika y'Ibirwa bya Marishali"
+
+msgid "ISO_3166-1.MK"
+msgstr "Masedoniya, Repubulika ya"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Repubulika ya Yugosilave ya Kera - Masedoniya"
+
+msgid "ISO_3166-1.ML"
+msgstr "Mali"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Repubulika ya Mali"
+
+msgid "ISO_3166-1.MM"
+msgstr "Mayanimari"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Repubulika ya Giyana"
+
+msgid "ISO_3166-1.MN"
+msgstr "Mongoliya"
+
+msgid "ISO_3166-1.MO"
+msgstr "Makawo"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "Igice cy'Ubuyobozi Budasanzwe cy'Ubushinwa - Makawo"
+
+msgid "ISO_3166-1.MP"
+msgstr "Ibirwa bya Mariyana y'Amajyaruguru"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Igihugu cy'Ibirwa bya Mariyana y'Amajyaruguru"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Maritike"
+
+msgid "ISO_3166-1.MR"
+msgstr "Moritaniya"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Repubulika ya Kisiramu ya Moritaniya"
+
+msgid "ISO_3166-1.MS"
+msgstr "Monserati"
+
+msgid "ISO_3166-1.MT"
+msgstr "Malita"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Repubulika ya Malita"
+
+msgid "ISO_3166-1.MU"
+msgstr "Ibirwa bya Morise"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Repubulika y'Ibirwa bya Morise"
+
+msgid "ISO_3166-1.MV"
+msgstr "Malidivezi"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Repubulika ya Malidivezi"
+
+msgid "ISO_3166-1.MW"
+msgstr "Malawi"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Repubulika ya Malawi"
+
+msgid "ISO_3166-1.MX"
+msgstr "Megizike"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Leta Zunze Ubumwe za Megisiko"
+
+msgid "ISO_3166-1.MY"
+msgstr "Malesiya"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Mozambike"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Repubulika ya Mozambike"
+
+msgid "ISO_3166-1.NA"
+msgstr "Namibiya"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Repubulika ya Namibiya"
+
+msgid "ISO_3166-1.NC"
+msgstr "Nuveli Kalidoniya"
+
+msgid "ISO_3166-1.NE"
+msgstr "Nigeri"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Repubulika ya Nigeri"
+
+msgid "ISO_3166-1.NF"
+msgstr "Ibirwa bya Norufoluki"
+
+msgid "ISO_3166-1.NG"
+msgstr "Nigeriya"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Repubulika Ishyizehamwe ya Nigeriya"
+
+msgid "ISO_3166-1.NI"
+msgstr "Nikaragwa"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Repubulika ya Nikaragwa"
+
+msgid "ISO_3166-1.NL"
+msgstr "Nederilande"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Igihugu cya Nederilande"
+
+msgid "ISO_3166-1.NO"
+msgstr "Noruveje"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Igihugu cya Noruveje"
+
+msgid "ISO_3166-1.NP"
+msgstr "Nepali"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Repubulika Ishyizehamwe Iharanira Demokarasi ya Etiyopiya"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nawuru"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Repubulika ya Nawuru"
+
+msgid "ISO_3166-1.NU"
+msgstr "Niyuwe"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Nuveli Zelande"
+
+msgid "ISO_3166-1.OM"
+msgstr "Omani"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Sulutana cya Omani"
+
+msgid "ISO_3166-1.PA"
+msgstr "Panama"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Repubulika ya Panama"
+
+msgid "ISO_3166-1.PE"
+msgstr "Peru"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Repubulika ya Peru"
+
+msgid "ISO_3166-1.PF"
+msgstr "Polinesiya Nyamfaransa"
+
+msgid "ISO_3166-1.PG"
+msgstr "Papuwa Nuveli Gineya"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Leta Yigenga ya Samowa"
+
+msgid "ISO_3166-1.PH"
+msgstr "Filipine"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Repubulika ya Filipine"
+
+msgid "ISO_3166-1.PK"
+msgstr "Pakisitani"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Repubulika ya Kisiramu ya Pakisitani"
+
+msgid "ISO_3166-1.PL"
+msgstr "Polonye"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Repubulika ya Pologne"
+
+msgid "ISO_3166-1.PM"
+msgstr "Mutagatifu Petero na Mikeloni"
+
+msgid "ISO_3166-1.PN"
+msgstr "Piticayirine"
+
+msgid "ISO_3166-1.PR"
+msgstr "Puwerito Riko"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Leta Zunze Ubumwe z'Amerika"
+
+msgid "ISO_3166-1.PT"
+msgstr "Porutigali"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Repubulika ya Porutigali"
+
+msgid "ISO_3166-1.PW"
+msgstr "Palawu"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Repubulika ya Palawu"
+
+msgid "ISO_3166-1.PY"
+msgstr "Paragwe"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Repubulika ya Paragwe"
+
+msgid "ISO_3166-1.QA"
+msgstr "Katari"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Leta ya Katari"
+
+msgid "ISO_3166-1.RE"
+msgstr "Reyiniyo"
+
+msgid "ISO_3166-1.RO"
+msgstr "Romaniya"
+
+msgid "ISO_3166-1.RS"
+msgstr "Azeribayijani"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Repubulika ya Liberiya"
+
+msgid "ISO_3166-1.RU"
+msgstr "Ukwishyirahamwe kw'Uburusiya"
+
+msgid "ISO_3166-1.RW"
+msgstr "Rwanda"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Repubulika y'Urwanda"
+
+msgid "ISO_3166-1.SA"
+msgstr "Arabiya Sawudite"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Igihugu cy'Arabiya Sawudite"
+
+msgid "ISO_3166-1.SB"
+msgstr "Ibirwa bya Solomoni"
+
+msgid "ISO_3166-1.SC"
+msgstr "Seyishele"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Repubulika ya Seyishele"
+
+msgid "ISO_3166-1.SD"
+msgstr "Sudani"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Repubulika ya Sudani"
+
+msgid "ISO_3166-1.SE"
+msgstr "Suwede"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Igihugu cya Suwedi"
+
+msgid "ISO_3166-1.SG"
+msgstr "Singapore"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Repubulika ya Singapore"
+
+msgid "ISO_3166-1.SI"
+msgstr "Siloveniya"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Repubulika ya Siloveniya"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Sivalibadi na Jani Mayeni"
+
+msgid "ISO_3166-1.SK"
+msgstr "Silovakiya"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Repubulika ya Silovakiya"
+
+msgid "ISO_3166-1.SL"
+msgstr "Siyera Lewone"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Repubulika ya Siyera Lewone"
+
+msgid "ISO_3166-1.SM"
+msgstr "Mutagatifu Marino"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Repubulika ya Mutagatifu Marino"
+
+msgid "ISO_3166-1.SN"
+msgstr "Senegali"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Repubulika ya Senegali"
+
+msgid "ISO_3166-1.SO"
+msgstr "Somaliya"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Repubulika Ishyizehamwe y'Ubudage"
+
+msgid "ISO_3166-1.SR"
+msgstr "Surinamu"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Repubulika ya Surinamu"
+
+msgid "ISO_3166-1.SS"
+msgstr "Repubulika ya Sudani"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Repubulika ya Sudani"
+
+msgid "ISO_3166-1.ST"
+msgstr "Sawo Tome na Purensipe"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "Repubulika Iharanira Demokarasi ya Sawo Tome na Purinsipe"
+
+msgid "ISO_3166-1.SV"
+msgstr "Eli Saluvadoro"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Repubulika ya Saluvadoro"
+
+msgid "ISO_3166-1.SY"
+msgstr "Repubulika Nyarabu ya Siriya"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Swazilande"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Igihugu cya Swazilande"
+
+msgid "ISO_3166-1.TC"
+msgstr "Ibirwa bya Takisi na Kayikosi"
+
+msgid "ISO_3166-1.TD"
+msgstr "Cade"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Repubulika ya Cade"
+
+msgid "ISO_3166-1.TF"
+msgstr "Ibihugu by'Amajyepfo Nyamfaransa"
+
+msgid "ISO_3166-1.TG"
+msgstr "Togo"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Repubulika ya Togo"
+
+msgid "ISO_3166-1.TH"
+msgstr "Tayilande"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Igihugu cya Tayilande"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Tajikisitani"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Repubulika ya Tajikisitani"
+
+msgid "ISO_3166-1.TK"
+msgstr "Tokelawu"
+
+msgid "ISO_3166-1.TL"
+msgstr "Timoro-Lesite"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Repubulika Iharanira Demokarasi ya Timoro-Leste"
+
+msgid "ISO_3166-1.TM"
+msgstr "Turikimenisitani"
+
+msgid "ISO_3166-1.TN"
+msgstr "Tunisiya"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Repubulika ya Tunisiya"
+
+msgid "ISO_3166-1.TO"
+msgstr "Tonga"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Igihugu cya Tonga"
+
+msgid "ISO_3166-1.TR"
+msgstr "Turukiya"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Repubulika ya Turukiya"
+
+msgid "ISO_3166-1.TT"
+msgstr "Tirinida na Tobago"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Repubulika ya Tirinida na Tobago"
+
+msgid "ISO_3166-1.TV"
+msgstr "Tuvalu"
+
+msgid "ISO_3166-1.TW"
+msgstr "Tayiwani"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Tanzaniya, Repubulika Yunze Ubumwe ya"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Repubulika Yunze Ubumwe ya Tanzaniya"
+
+msgid "ISO_3166-1.UA"
+msgstr "Ikerene"
+
+msgid "ISO_3166-1.UG"
+msgstr "Yuganda"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Repubulika ya Yuganda"
+
+msgid "ISO_3166-1.UM"
+msgstr "Ibirwa Bito Bikikije Leta Zunze Ubumwe"
+
+msgid "ISO_3166-1.US"
+msgstr "Leta Zunze Ubumwe"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Leta Zunze Ubumwe z'Amerika"
+
+msgid "ISO_3166-1.UY"
+msgstr "Irigwe"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Repubulika y'Uburasizuba ya Irigwe"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Uzubekisitani"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Repubulika ya Uzubekisitani"
+
+msgid "ISO_3166-1.VA"
+msgstr "Inyanja Ntagatifu(Leta y'Umujyi wa Vatikani)"
+
+msgid "ISO_3166-1.VC"
+msgstr "Mutagatifu Visenti na Gerenadine"
+
+msgid "ISO_3166-1.VE"
+msgstr "Venezuwela"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Repubulika ya Venezuwela"
+
+msgid "ISO_3166-1.VG"
+msgstr "Ibirwa bya Virigini, Nyongereza"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Ibirwa bya Virigini Nyongereza"
+
+msgid "ISO_3166-1.VI"
+msgstr "Ibirwa bya Virigini, Leta Zunze Ubumwe"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Ibirwa bya Virigini bya Leta Zunze Ubumwe"
+
+msgid "ISO_3166-1.VN"
+msgstr "Viyetinamu"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Repubulika Gisosiyalisite ya Viyetinamu"
+
+msgid "ISO_3166-1.VU"
+msgstr "Vanuwatu"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Repubulika ya Vanuwatu"
+
+msgid "ISO_3166-1.WF"
+msgstr "Walisi na Fatuna"
+
+msgid "ISO_3166-1.WS"
+msgstr "Samowa"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Leta Yigenga ya Samowa"
+
+msgid "ISO_3166-1.YE"
+msgstr "Yemeni"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Repubulika ya Yemeni"
+
+msgid "ISO_3166-1.YT"
+msgstr "Mayoti"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Afurika yepfo"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Repubulika y'Afurika y'Epfo"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Zambiya"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Repubulika ya Zambiya"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Zimbabwe"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Repubulika ya Zimbabwe"

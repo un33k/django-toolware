@@ -1,0 +1,923 @@
+# Translation of ISO-3166 (country names) to Maltese
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2003
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Translations from KDE:
+#   - Ramon Casha <ramon.casha@linux.org.mt>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2002-01-05 16:40+0000\n"
+"Last-Translator: Ramon Casha <ramon.casha@linux.org.mt>\n"
+"Language-Team: Maltese <mt@li.org>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Andorra"
+
+msgid "ISO_3166-1.AE"
+msgstr "Emirati Għarab Maqgħuda"
+
+msgid "ISO_3166-1.AF"
+msgstr "Afganistan"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigwa u Barbuda"
+
+msgid "ISO_3166-1.AI"
+msgstr "Angwilla"
+
+msgid "ISO_3166-1.AL"
+msgstr "Albanija"
+
+msgid "ISO_3166-1.AM"
+msgstr "Arġentina"
+
+msgid "ISO_3166-1.AO"
+msgstr "Angola"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Antarctica"
+
+msgid "ISO_3166-1.AR"
+msgstr "Arġentina"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.AS"
+msgstr "Amerika ta' Fuq"
+
+msgid "ISO_3166-1.AT"
+msgstr "Awtrija"
+
+msgid "ISO_3166-1.AU"
+msgstr "Awstralja"
+
+msgid "ISO_3166-1.AW"
+msgstr "Aruba"
+
+msgid "ISO_3166-1.AX"
+msgstr "Irlanda"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Ażerbajġan"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Ażerbajġan"
+
+msgid "ISO_3166-1.BA"
+msgstr "Bożnija Ħerżegovina"
+
+msgid "ISO_3166-1.BB"
+msgstr "Barbados"
+
+msgid "ISO_3166-1.BD"
+msgstr "Ingliż"
+
+msgid "ISO_3166-1.BE"
+msgstr "Belġju"
+
+msgid "ISO_3166-1.BF"
+msgstr "Burkina Faso"
+
+msgid "ISO_3166-1.BG"
+msgstr "Bulgarija"
+
+msgid "ISO_3166-1.BH"
+msgstr "Brażil"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Brażil"
+
+msgid "ISO_3166-1.BI"
+msgstr "Burundi"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Benin"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.BM"
+msgstr "Bermuda"
+
+msgid "ISO_3166-1.BO"
+msgstr "Bolivja"
+
+msgid "ISO_3166-1.BR"
+msgstr "Brażil"
+
+msgid "ISO_3166-1.BS"
+msgstr "Panama"
+
+msgid "ISO_3166-1.BT"
+msgstr "Butan"
+
+msgid "ISO_3166-1.BV"
+msgstr "Bouvet Island"
+
+msgid "ISO_3166-1.BW"
+msgstr "Botswana"
+
+msgid "ISO_3166-1.BY"
+msgstr "Peru"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Belġju"
+
+msgid "ISO_3166-1.CA"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.CC"
+msgstr "Cocos (Keeling) Islands"
+
+msgid "ISO_3166-1.CF"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.CG"
+msgstr "Kongo"
+
+msgid "ISO_3166-1.CH"
+msgstr "Svizzera"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.CK"
+msgstr "Cook Islands"
+
+msgid "ISO_3166-1.CL"
+msgstr "Ċile"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.CM"
+msgstr "Kamerun"
+
+msgid "ISO_3166-1.CN"
+msgstr "Ċina"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.CO"
+msgstr "Kolumbja"
+
+msgid "ISO_3166-1.CR"
+msgstr "Kosta Rika"
+
+msgid "ISO_3166-1.CU"
+msgstr "Kolumbja"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.CV"
+msgstr "Kape Verde"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.CX"
+msgstr "Christmas Island"
+
+msgid "ISO_3166-1.CY"
+msgstr "Ċipru"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.DE"
+msgstr "Ġermanja"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Ġibuti"
+
+msgid "ISO_3166-1.DK"
+msgstr "Danimarka"
+
+msgid "ISO_3166-1.DM"
+msgstr "Rumanija"
+
+msgid "ISO_3166-1.DO"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Bulgarija"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ekwador"
+
+msgid "ISO_3166-1.EE"
+msgstr "Estonja"
+
+msgid "ISO_3166-1.EG"
+msgstr "Konsum"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.EH"
+msgstr "Sahara tal-Punent"
+
+msgid "ISO_3166-1.ER"
+msgstr "Eritreja"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Stati Uniti"
+
+msgid "ISO_3166-1.ES"
+msgstr "Spanja"
+
+msgid "ISO_3166-1.ET"
+msgstr "Estonja"
+
+msgid "ISO_3166-1.FI"
+msgstr "Finlandja"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Fiġi"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.FO"
+msgstr "Irlanda"
+
+msgid "ISO_3166-1.FR"
+msgstr "Franza"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.GA"
+msgstr "Gabon"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.GB"
+msgstr "Ingilterra"
+
+msgid "ISO_3166-1.GD"
+msgstr "Grenada"
+
+msgid "ISO_3166-1.GE"
+msgstr "Serbja"
+
+msgid "ISO_3166-1.GF"
+msgstr "Gujana Franċiża"
+
+msgid "ISO_3166-1.GH"
+msgstr "Ċina"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.GI"
+msgstr "Gibraltar"
+
+msgid "ISO_3166-1.GL"
+msgstr "Grenada"
+
+msgid "ISO_3166-1.GM"
+msgstr "Ġamajka"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.GN"
+msgstr "Gineja"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.GP"
+msgstr "Gwadelupe"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Ginea Ekwatorjali"
+
+msgid "ISO_3166-1.GR"
+msgstr "Greċja"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.GS"
+msgstr "South Georgia and the South Sandwich Islands"
+
+msgid "ISO_3166-1.GT"
+msgstr "Gwatemala"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Gwatemala"
+
+msgid "ISO_3166-1.GU"
+msgstr "Gwatemala"
+
+msgid "ISO_3166-1.GW"
+msgstr "Ginea-Bissaw"
+
+msgid "ISO_3166-1.GY"
+msgstr "Gujana"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.HM"
+msgstr "Heard Island and McDonald Islands"
+
+msgid "ISO_3166-1.HN"
+msgstr "Ħonduras"
+
+msgid "ISO_3166-1.HR"
+msgstr "Kroazja"
+
+msgid "ISO_3166-1.HT"
+msgstr "Ħaiti"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.HU"
+msgstr "Ungerija"
+
+msgid "ISO_3166-1.ID"
+msgstr "Ikoni"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Ikoni"
+
+msgid "ISO_3166-1.IE"
+msgstr "Irlanda"
+
+msgid "ISO_3166-1.IL"
+msgstr "Iżrael"
+
+msgid "ISO_3166-1.IN"
+msgstr "Ikoni"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.IO"
+msgstr "British Indian Ocean Territory"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Iżrael"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.IR"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.IS"
+msgstr "Islandja"
+
+msgid "ISO_3166-1.IT"
+msgstr "Italja"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.JM"
+msgstr "Ġamajka"
+
+msgid "ISO_3166-1.JO"
+msgstr "Korean"
+
+msgid "ISO_3166-1.JP"
+msgstr "Ġappun"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kenja"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.KG"
+msgstr "Kirgistan"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.KH"
+msgstr "Kolumbja"
+
+msgid "ISO_3166-1.KI"
+msgstr "Kiribati"
+
+msgid "ISO_3166-1.KM"
+msgstr "Komoros"
+
+msgid "ISO_3166-1.KN"
+msgstr "St. Kitts u Nevis"
+
+msgid "ISO_3166-1.KR"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.KW"
+msgstr "Kuwajt"
+
+msgid "ISO_3166-1.KY"
+msgstr "Cayman Islands"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Tajwan"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Tajwan"
+
+msgid "ISO_3166-1.LB"
+msgstr "Libanu"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.LC"
+msgstr "St. Luċija"
+
+msgid "ISO_3166-1.LI"
+msgstr "Liechtenstein"
+
+msgid "ISO_3166-1.LK"
+msgstr "Sri Lanka"
+
+msgid "ISO_3166-1.LR"
+msgstr "Serbja"
+
+msgid "ISO_3166-1.LS"
+msgstr "Lesoto"
+
+msgid "ISO_3166-1.LT"
+msgstr "Litwanja"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Litwanja"
+
+msgid "ISO_3166-1.LU"
+msgstr "Lussemburgu"
+
+msgid "ISO_3166-1.LV"
+msgstr "Latvja"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.LY"
+msgstr "Serbja"
+
+msgid "ISO_3166-1.MA"
+msgstr "Marokk"
+
+msgid "ISO_3166-1.MC"
+msgstr "Monako"
+
+msgid "ISO_3166-1.MD"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.ME"
+msgstr "Montserrat"
+
+msgid "ISO_3166-1.MG"
+msgstr "Madagaskar"
+
+msgid "ISO_3166-1.MH"
+msgstr "Gżejjer ta' Marshall"
+
+msgid "ISO_3166-1.MK"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.ML"
+msgstr "Malta"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.MM"
+msgstr "Panama"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.MN"
+msgstr "Mongolja"
+
+msgid "ISO_3166-1.MO"
+msgstr "Malta"
+
+msgid "ISO_3166-1.MP"
+msgstr "Gżejjer Marjana ta' Fuq"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Martinik"
+
+msgid "ISO_3166-1.MR"
+msgstr "Litwanja"
+
+msgid "ISO_3166-1.MS"
+msgstr "Montserrat"
+
+msgid "ISO_3166-1.MT"
+msgstr "Malta"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.MU"
+msgstr "Litwanja"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Litwanja"
+
+msgid "ISO_3166-1.MV"
+msgstr "Malta"
+
+msgid "ISO_3166-1.MW"
+msgstr "Malta"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.MX"
+msgstr "Messiku"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Stati Uniti"
+
+msgid "ISO_3166-1.MY"
+msgstr "Malta"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Możambik"
+
+msgid "ISO_3166-1.NA"
+msgstr "Namibja"
+
+msgid "ISO_3166-1.NC"
+msgstr "Maċedonja"
+
+msgid "ISO_3166-1.NE"
+msgstr "Niġer"
+
+msgid "ISO_3166-1.NF"
+msgstr "Norfolk Island"
+
+msgid "ISO_3166-1.NG"
+msgstr "Serbja"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.NI"
+msgstr "Paragwaj"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Paragwaj"
+
+msgid "ISO_3166-1.NL"
+msgstr "Netherlands"
+
+msgid "ISO_3166-1.NO"
+msgstr "Norveġja"
+
+msgid "ISO_3166-1.NP"
+msgstr "Nepal"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nauru"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.NU"
+msgstr "Niue"
+
+msgid "ISO_3166-1.NZ"
+msgstr "New Zealand"
+
+msgid "ISO_3166-1.OM"
+msgstr "Oman"
+
+msgid "ISO_3166-1.PA"
+msgstr "Panama"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.PE"
+msgstr "Peru"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.PF"
+msgstr "Polinesja Franċiża"
+
+msgid "ISO_3166-1.PG"
+msgstr "Papwa-Ginea Ġdida"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Papwa-Ginea Ġdida"
+
+msgid "ISO_3166-1.PH"
+msgstr "Filippini"
+
+msgid "ISO_3166-1.PK"
+msgstr "Pakistan"
+
+msgid "ISO_3166-1.PL"
+msgstr "Polonja"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.PM"
+msgstr "Saint Pierre and Miquelon"
+
+msgid "ISO_3166-1.PN"
+msgstr "Pitcairn"
+
+msgid "ISO_3166-1.PR"
+msgstr "Puerto Rico"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Stati Uniti"
+
+msgid "ISO_3166-1.PT"
+msgstr "Portugall"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.PW"
+msgstr "Paragwaj"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.PY"
+msgstr "Paragwaj"
+
+msgid "ISO_3166-1.QA"
+msgstr "Malta"
+
+msgid "ISO_3166-1.RO"
+msgstr "Rumanija"
+
+msgid "ISO_3166-1.RS"
+msgstr "Serbja"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Ażerbajġan"
+
+msgid "ISO_3166-1.RW"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.SA"
+msgstr "Għarabja Sawdita"
+
+msgid "ISO_3166-1.SB"
+msgstr "Solomon Islands"
+
+msgid "ISO_3166-1.SC"
+msgstr "Seychelles"
+
+msgid "ISO_3166-1.SD"
+msgstr "Ħoss"
+
+msgid "ISO_3166-1.SE"
+msgstr "Svezja"
+
+msgid "ISO_3166-1.SG"
+msgstr "Singapor"
+
+msgid "ISO_3166-1.SI"
+msgstr "Slovenja"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Svalbard and Jan Mayen"
+
+msgid "ISO_3166-1.SK"
+msgstr "Slovakk"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.SL"
+msgstr "Sierra Leone"
+
+msgid "ISO_3166-1.SM"
+msgstr "San Marino"
+
+msgid "ISO_3166-1.SN"
+msgstr "Senegal"
+
+msgid "ISO_3166-1.SO"
+msgstr "Rumanija"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.SR"
+msgstr "Surinam"
+
+msgid "ISO_3166-1.SS"
+msgstr "Afrika t'Isfel"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Afrika t'Isfel"
+
+msgid "ISO_3166-1.ST"
+msgstr "Sao Tome and Principe"
+
+msgid "ISO_3166-1.SV"
+msgstr "El Salvador"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "El Salvador"
+
+msgid "ISO_3166-1.SY"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Tajlandja"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Tajlandja"
+
+msgid "ISO_3166-1.TC"
+msgstr "Turks and Caicos Islands"
+
+msgid "ISO_3166-1.TD"
+msgstr "Ċina"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.TF"
+msgstr "Territorji Franċiżi ta' Nofsinhar"
+
+msgid "ISO_3166-1.TG"
+msgstr "Togo"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.TH"
+msgstr "Tajlandja"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Tajwan"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Tajwan"
+
+msgid "ISO_3166-1.TK"
+msgstr "Tokelaw"
+
+msgid "ISO_3166-1.TL"
+msgstr "Timor tal-Lvant"
+
+msgid "ISO_3166-1.TM"
+msgstr "Turkmenistan"
+
+msgid "ISO_3166-1.TN"
+msgstr "Russja"
+
+msgid "ISO_3166-1.TO"
+msgstr "Tonga"
+
+msgid "ISO_3166-1.TR"
+msgstr "Turkija"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.TT"
+msgstr "Trinidad u Tobago"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Trinidad u Tobago"
+
+msgid "ISO_3166-1.TV"
+msgstr "Tuvalu"
+
+msgid "ISO_3166-1.TW"
+msgstr "Tajwan"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.UA"
+msgstr "Ukranja"
+
+msgid "ISO_3166-1.UG"
+msgstr "Kanada"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.UM"
+msgstr "Stati Uniti"
+
+msgid "ISO_3166-1.US"
+msgstr "Stati Uniti"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Stati Uniti"
+
+msgid "ISO_3166-1.UY"
+msgstr "Urugwaj"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Użbekistan"
+
+msgid "ISO_3166-1.VC"
+msgstr "St. Vinċenz u l-Grenadini"
+
+msgid "ISO_3166-1.VE"
+msgstr "Veneżwela"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Finlandja"
+
+msgid "ISO_3166-1.VI"
+msgstr "Finlandja"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Finlandja"
+
+msgid "ISO_3166-1.VN"
+msgstr "Dwieli"
+
+msgid "ISO_3166-1.VU"
+msgstr "Vanwatu"
+
+msgid "ISO_3166-1.WF"
+msgstr "Wallis and Futuna"
+
+msgid "ISO_3166-1.WS"
+msgstr "Samoa"
+
+msgid "ISO_3166-1.YE"
+msgstr "Jemen"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.YT"
+msgstr "Majotte"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Afrika t'Isfel"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Afrika t'Isfel"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Ġamajka"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Repubblika Dominikana"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Żimbabwe"

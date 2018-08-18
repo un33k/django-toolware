@@ -1,0 +1,1254 @@
+# translation of iso-codes_iso_3166.po to Arabic
+# Arabic translations of ISO-3166 element names
+# Copyright (C) 2001,2003, 2004, 2006, 2008 Free Software Foundation, Inc.
+# Translations taken from KDE desktop.mo
+#
+# Alastair McKinstry <mckinstry@computer.org>, 2002F.
+# Abdulaziz Al-Arfaj <alarfaj0@yahoo.com>, 2004.
+# Ossama M. Khayat <okhayat@yahoo.com>, 2006, 2008, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2010-08-14 15:04+0300\n"
+"Last-Translator: Ossama M. Khayat <okhayat@yahoo.com>\n"
+"Language-Team: Arabic <support@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "أندورا"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "إمارة أندورا"
+
+msgid "ISO_3166-1.AE"
+msgstr "الإمارات العربيّة المتحدّة"
+
+msgid "ISO_3166-1.AF"
+msgstr "أفغانستان"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "جمهوريّة أفغانستان الإسلاميّة"
+
+msgid "ISO_3166-1.AG"
+msgstr "أنتيغوا و باربودا"
+
+msgid "ISO_3166-1.AI"
+msgstr "أنغويلا"
+
+msgid "ISO_3166-1.AL"
+msgstr "ألبانيا"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "جمهوريّة ألبانيا"
+
+msgid "ISO_3166-1.AM"
+msgstr "أرمينيا"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "جمهوريّة أرمينيا"
+
+msgid "ISO_3166-1.AO"
+msgstr "أنغولا"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "جمهوريّة أنغولا"
+
+msgid "ISO_3166-1.AQ"
+msgstr "القطب الجنوبي"
+
+msgid "ISO_3166-1.AR"
+msgstr "الأرجنتين"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "الجمهوريّة الأرجنتينيّة"
+
+msgid "ISO_3166-1.AS"
+msgstr "صاموا الأمريكيّة"
+
+msgid "ISO_3166-1.AT"
+msgstr "النّمسا"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "جمهوريّة النّمسا"
+
+msgid "ISO_3166-1.AU"
+msgstr "أستراليا"
+
+msgid "ISO_3166-1.AW"
+msgstr "أروبا"
+
+msgid "ISO_3166-1.AX"
+msgstr "جزر آلاند"
+
+msgid "ISO_3166-1.AZ"
+msgstr "أذربيجان"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "جمهوريّة أذربيجان"
+
+msgid "ISO_3166-1.BA"
+msgstr "البوسنة و الهرسك"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "جمهوريّة البوسنة و الهرسك"
+
+msgid "ISO_3166-1.BB"
+msgstr "بربادوس"
+
+msgid "ISO_3166-1.BD"
+msgstr "بنغلادش"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "جمهوريّة بنغلادش الشّعبيّة"
+
+msgid "ISO_3166-1.BE"
+msgstr "بلجيكا"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "مملكة بلجيكا"
+
+msgid "ISO_3166-1.BF"
+msgstr "بوركينا فاصو"
+
+msgid "ISO_3166-1.BG"
+msgstr "بلغاريا"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "جمهوريّة بلغاريا"
+
+msgid "ISO_3166-1.BH"
+msgstr "البحرين"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "مملكة البحرين"
+
+msgid "ISO_3166-1.BI"
+msgstr "بوروندي"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "جمهوريّة بوروندي"
+
+msgid "ISO_3166-1.BJ"
+msgstr "بنين"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "جمهوريّة بنين"
+
+msgid "ISO_3166-1.BL"
+msgstr "سان بارتليمي"
+
+msgid "ISO_3166-1.BM"
+msgstr "برمودا"
+
+msgid "ISO_3166-1.BN"
+msgstr "بروناي دار السّلام"
+
+msgid "ISO_3166-1.BO"
+msgstr "بوليفيا"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "جمهورية بوليفيا"
+
+msgid "ISO_3166-1.BR"
+msgstr "البرازيل"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "جمهوريّة البرازيل الاتّحاديّة"
+
+msgid "ISO_3166-1.BS"
+msgstr "جزر البهاما"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "كومنولث البهاما"
+
+msgid "ISO_3166-1.BT"
+msgstr "بوتان"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "مملكة بوتان"
+
+msgid "ISO_3166-1.BV"
+msgstr "جزيرة بوفي"
+
+msgid "ISO_3166-1.BW"
+msgstr "بوتسوانا"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "جمهوريّة بوتسوانا"
+
+msgid "ISO_3166-1.BY"
+msgstr "روسيا البيضاء"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "جمهوريّة روسيا البيضاء"
+
+msgid "ISO_3166-1.BZ"
+msgstr "بيليز"
+
+msgid "ISO_3166-1.CA"
+msgstr "كندا"
+
+msgid "ISO_3166-1.CC"
+msgstr "جزر الكوكوس"
+
+msgid "ISO_3166-1.CD"
+msgstr "الكونغو، جمهوريّة الكونغو الدّيموقراطيّة"
+
+msgid "ISO_3166-1.CF"
+msgstr "جمهورية إفريقيّا الوسطى"
+
+msgid "ISO_3166-1.CG"
+msgstr "الكونغو"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "جمهوريّة الكونغو"
+
+msgid "ISO_3166-1.CH"
+msgstr "سويسرا"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "الاتّحاد السّويسري"
+
+msgid "ISO_3166-1.CI"
+msgstr "ساحل العاج"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "جمهوريّة ساحل العاج"
+
+msgid "ISO_3166-1.CK"
+msgstr "جزر كوك"
+
+msgid "ISO_3166-1.CL"
+msgstr "تشيلي"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "جمهوريّة تشيلي"
+
+msgid "ISO_3166-1.CM"
+msgstr "الكاميرون"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "جمهوريّة الكاميرون"
+
+msgid "ISO_3166-1.CN"
+msgstr "الصّين"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "جمهوريّة الصّين الشّعبيّة"
+
+msgid "ISO_3166-1.CO"
+msgstr "كولومبيا"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "جمهوريّة كولومبيا"
+
+msgid "ISO_3166-1.CR"
+msgstr "كوستاريكا"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "جمهوريّة كوستاريكا"
+
+msgid "ISO_3166-1.CU"
+msgstr "كوبا"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "جمهوريّة كوبا"
+
+msgid "ISO_3166-1.CV"
+msgstr "كاب فيرد"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "جمهوريّة كاب فيرد"
+
+msgid "ISO_3166-1.CX"
+msgstr "جزر الكريسماس"
+
+msgid "ISO_3166-1.CY"
+msgstr "قبرص"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "جمهوريّة قبرص"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "جمهوريّة التّشيك"
+
+msgid "ISO_3166-1.DE"
+msgstr "ألمانيا"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "جمهوريّة ألمانيا الاتّحاديّة"
+
+msgid "ISO_3166-1.DJ"
+msgstr "جيبوتي"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "جمهوريّة جيبوتي"
+
+msgid "ISO_3166-1.DK"
+msgstr "الدّنمارك"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "مملكة الدّنمارك"
+
+msgid "ISO_3166-1.DM"
+msgstr "دومينيكا"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "كومنولث دومينيكا"
+
+msgid "ISO_3166-1.DO"
+msgstr "جمهوريّة الدّومينيكان"
+
+msgid "ISO_3166-1.DZ"
+msgstr "الجزائر"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "جمهوريّة الجزائر الدّيموقراطيّة الشّعبيّة"
+
+msgid "ISO_3166-1.EC"
+msgstr "الإكوادور"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "جمهوريّة الإكوادور"
+
+msgid "ISO_3166-1.EE"
+msgstr "إستونيا"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "جمهوريّة إستونيا"
+
+msgid "ISO_3166-1.EG"
+msgstr "مصر"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "جمهوريّة مصر العربيّة"
+
+msgid "ISO_3166-1.EH"
+msgstr "الصّحراء الغربيّة"
+
+msgid "ISO_3166-1.ER"
+msgstr "إريتريا"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "الولايات المتّحدة الأميركيّة"
+
+msgid "ISO_3166-1.ES"
+msgstr "إسبانيا"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "مملكة إسبانيا"
+
+msgid "ISO_3166-1.ET"
+msgstr "إثيوبيا"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "جمهوريّة إثيوبيا الدّيموقراطيّة الاتّحاديّة"
+
+msgid "ISO_3166-1.FI"
+msgstr "فنلندا"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "جمهوريّة فنلندا"
+
+msgid "ISO_3166-1.FJ"
+msgstr "فيجي"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "جمهوريّة هايتي"
+
+msgid "ISO_3166-1.FK"
+msgstr "جزر فولكلاند (مالفيناس)"
+
+msgid "ISO_3166-1.FM"
+msgstr "ميكرونيزيا، ولايات ميكرونيزيا الموحّدة"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "ولايات ميكرونيزيا الموحّدة"
+
+msgid "ISO_3166-1.FO"
+msgstr "جزر الفارو"
+
+msgid "ISO_3166-1.FR"
+msgstr "فرنسا"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "جمهوريّة الفرنسيّة"
+
+msgid "ISO_3166-1.GA"
+msgstr "الغابون"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "الجمهوريّة الغابونيّة"
+
+msgid "ISO_3166-1.GB"
+msgstr "المملكة المتّحدة"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "المملكة المتّحدة لبريطانيا العظمى و أيرلندا الشّماليّة"
+
+msgid "ISO_3166-1.GD"
+msgstr "غرينادا"
+
+msgid "ISO_3166-1.GE"
+msgstr "جورجيا"
+
+msgid "ISO_3166-1.GF"
+msgstr "غيانا الفرنسيّة"
+
+msgid "ISO_3166-1.GG"
+msgstr "جزيرة جويرزني"
+
+msgid "ISO_3166-1.GH"
+msgstr "غانا"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "جمهوريّة غانا"
+
+msgid "ISO_3166-1.GI"
+msgstr "جبل طارق"
+
+msgid "ISO_3166-1.GL"
+msgstr "غرينلاند"
+
+msgid "ISO_3166-1.GM"
+msgstr "غامبيا"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "جمهوريّة غامبيا"
+
+msgid "ISO_3166-1.GN"
+msgstr "غينيا"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "جمهوريّة غينيا"
+
+msgid "ISO_3166-1.GP"
+msgstr "جوادالوبّي"
+
+msgid "ISO_3166-1.GQ"
+msgstr "غينيا الاستوائيّة"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "جمهوريّة غينيا الاستوائيّة"
+
+msgid "ISO_3166-1.GR"
+msgstr "اليونان"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "الجمهوريّة الهلنستيّة"
+
+msgid "ISO_3166-1.GS"
+msgstr "جورجيا الجنوبيّة و جزر ساندويتش الجنوبيّة"
+
+msgid "ISO_3166-1.GT"
+msgstr "غواتيمالا"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "جمهوريّة غواتيمالا"
+
+msgid "ISO_3166-1.GU"
+msgstr "جوام"
+
+msgid "ISO_3166-1.GW"
+msgstr "غينيا بيساو"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "جمهوريّة غينيا بيساو"
+
+msgid "ISO_3166-1.GY"
+msgstr "غويانا"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "جمهوريّة غويانا"
+
+msgid "ISO_3166-1.HK"
+msgstr "هونغ كونغ"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "هونج كونج المنطقة الصّينيّة الإداريّة الخاصّة"
+
+msgid "ISO_3166-1.HM"
+msgstr "جزيرة هيرد وجزر مَكْدونالد"
+
+msgid "ISO_3166-1.HN"
+msgstr "هندوراس"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "جمهوريّة هندوراس"
+
+msgid "ISO_3166-1.HR"
+msgstr "كرواتيا"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "جمهوريّة كرواتيا"
+
+msgid "ISO_3166-1.HT"
+msgstr "هايتي"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "جمهوريّة هايتي"
+
+msgid "ISO_3166-1.HU"
+msgstr "المجر (هنغاريا)"
+
+msgid "ISO_3166-1.ID"
+msgstr "إندونيسيا"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "جمهوريّة اندونيسيا"
+
+msgid "ISO_3166-1.IE"
+msgstr "أيرلندا"
+
+msgid "ISO_3166-1.IL"
+msgstr "إسرائيل"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "دولة إسرائيل"
+
+msgid "ISO_3166-1.IM"
+msgstr "آيزل أف مان"
+
+msgid "ISO_3166-1.IN"
+msgstr "الهند"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "جمهوريّة الهند"
+
+msgid "ISO_3166-1.IO"
+msgstr "مقاطعة المحيط الهندي البريطانيّة"
+
+msgid "ISO_3166-1.IQ"
+msgstr "العراق"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "جمهوريّة العراق"
+
+msgid "ISO_3166-1.IR"
+msgstr "إيران، الجمهوريّة الإسلاميّة الإيرانيّة"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "الجمهورية الإسلاميّة الإيرانيّة"
+
+msgid "ISO_3166-1.IS"
+msgstr "آيسلندا"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "جمهوريّة آيسلندا"
+
+msgid "ISO_3166-1.IT"
+msgstr "إيطاليا"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "الجمهوريّة الإيطاليّة"
+
+msgid "ISO_3166-1.JE"
+msgstr "جيرسي"
+
+msgid "ISO_3166-1.JM"
+msgstr "جامايكا"
+
+msgid "ISO_3166-1.JO"
+msgstr "الأردن"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "المملكة الأردنيّة الهاشميّة"
+
+msgid "ISO_3166-1.JP"
+msgstr "اليابان"
+
+msgid "ISO_3166-1.KE"
+msgstr "كينيا"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "جمهوريّة كينيا"
+
+msgid "ISO_3166-1.KG"
+msgstr "قيرغزستان"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "الجمهوريّة القيرغزيّة"
+
+msgid "ISO_3166-1.KH"
+msgstr "كمبوديا"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "مملكة كمبوديا"
+
+msgid "ISO_3166-1.KI"
+msgstr "كيريباتي"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "جمهوريّة كيريباتي"
+
+msgid "ISO_3166-1.KM"
+msgstr "جزر القمر"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "إتّحاد جزر القمر"
+
+msgid "ISO_3166-1.KN"
+msgstr "سانت كيتس و نيفس"
+
+msgid "ISO_3166-1.KP"
+msgstr "كوريا، جمهورية كوريا الشّعبيّة الدّيموقراطيّة"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "جمهوريّة كوريا الشّعبيّة الدّيموقراطيّة"
+
+msgid "ISO_3166-1.KR"
+msgstr "كوريا، جمهوريّة كوريا"
+
+msgid "ISO_3166-1.KW"
+msgstr "الكويت"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "دولة الكويت"
+
+msgid "ISO_3166-1.KY"
+msgstr "جزر الكيمان"
+
+msgid "ISO_3166-1.KZ"
+msgstr "كازاخستان"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "جمهوريّة كازاخستان"
+
+msgid "ISO_3166-1.LA"
+msgstr "جمهوريّة لاو الدّيموقراطيّة الشّعبيّة"
+
+msgid "ISO_3166-1.LB"
+msgstr "لبنان"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "الجمهوريّة اللّبنانيّة"
+
+msgid "ISO_3166-1.LC"
+msgstr "سانت لوسيا"
+
+msgid "ISO_3166-1.LI"
+msgstr "ليشتنشتاين"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "إمارة ليشتنشتاين"
+
+msgid "ISO_3166-1.LK"
+msgstr "سريلانكا"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "جمهوريّة سريلانكا الاشتراكيّة الدّيموقراطيّة"
+
+msgid "ISO_3166-1.LR"
+msgstr "ليبيريا"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "جمهوريّة ليبيريا"
+
+msgid "ISO_3166-1.LS"
+msgstr "ليسوتو"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "مملكة ليسوتو"
+
+msgid "ISO_3166-1.LT"
+msgstr "لثوانيا"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "جمهوريّة لثوانيا"
+
+msgid "ISO_3166-1.LU"
+msgstr "لوكسمبورغ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "دوقيّة لوكسمبورغ الكبرى"
+
+msgid "ISO_3166-1.LV"
+msgstr "لاتفيا"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "جمهوريّة لاتفيا"
+
+msgid "ISO_3166-1.LY"
+msgstr "ليبيا"
+
+msgid "ISO_3166-1.MA"
+msgstr "المغرب"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "المملكة المغربيّة"
+
+msgid "ISO_3166-1.MC"
+msgstr "موناكو"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "إمارة موناكو"
+
+msgid "ISO_3166-1.MD"
+msgstr "المالديف"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "جمهوريّة مولدوفا"
+
+msgid "ISO_3166-1.ME"
+msgstr "المنتنيغرو"
+
+msgid "ISO_3166-1.MF"
+msgstr "سانت مارتين (القطاع الفرنسي)"
+
+msgid "ISO_3166-1.MG"
+msgstr "مدغشقر"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "جمهوريّة مدغشقر"
+
+msgid "ISO_3166-1.MH"
+msgstr "جزر المارشال"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "جمهوريّة جزر المارشال"
+
+msgid "ISO_3166-1.MK"
+msgstr "مقدونيا، جمهوريّة مقدونيا اليوغوسلافيّة السّابقة"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "جمهوريّة مقدونيا اليوغوسلافيّة السّابقة"
+
+msgid "ISO_3166-1.ML"
+msgstr "مالي"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "جمهوريّة مالي"
+
+msgid "ISO_3166-1.MM"
+msgstr "ميانمار"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "جمهوريّة غويانا"
+
+msgid "ISO_3166-1.MN"
+msgstr "منغوليا"
+
+msgid "ISO_3166-1.MO"
+msgstr "مكّاو"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "مكّاو المنطقة الصّينيّة الإداريّة الخاصّة"
+
+msgid "ISO_3166-1.MP"
+msgstr "جزر ماريانا الشّماليّة"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "كومنولث جزر ماريانا الشّماليّة"
+
+msgid "ISO_3166-1.MQ"
+msgstr "مارتينيك"
+
+msgid "ISO_3166-1.MR"
+msgstr "موريتانيا"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "جمهوريّة موريتانيا الإسلاميّة"
+
+msgid "ISO_3166-1.MS"
+msgstr "مونتسيرات"
+
+msgid "ISO_3166-1.MT"
+msgstr "مالطة"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "جمهوريّة مالطة"
+
+msgid "ISO_3166-1.MU"
+msgstr "موريشيوس"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "جمهوريّة موريشيوس"
+
+msgid "ISO_3166-1.MV"
+msgstr "جزر المالديف"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "جمهوريّة جزر المالديف"
+
+msgid "ISO_3166-1.MW"
+msgstr "ملاوي"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "جمهوريّة ملاوي"
+
+msgid "ISO_3166-1.MX"
+msgstr "المكسيك"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "الولايات المكسيكيّة المتّحدة"
+
+msgid "ISO_3166-1.MY"
+msgstr "ماليزيا"
+
+msgid "ISO_3166-1.MZ"
+msgstr "موزمبيق"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "جمهوريّة موزمبيق"
+
+msgid "ISO_3166-1.NA"
+msgstr "ناميبيا"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "جمهوريّة ناميبيا"
+
+msgid "ISO_3166-1.NC"
+msgstr "نيو قلدونيا"
+
+msgid "ISO_3166-1.NE"
+msgstr "النّيجر"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "جمهوريّة النّيجر"
+
+msgid "ISO_3166-1.NF"
+msgstr "جزيرة نورفولك"
+
+msgid "ISO_3166-1.NG"
+msgstr "نيجيريا"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "جمهوريّة نيجيريا الاتّحاديّة"
+
+msgid "ISO_3166-1.NI"
+msgstr "نيكاراجوا"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "جمهوريّة نيكاراغوا"
+
+msgid "ISO_3166-1.NL"
+msgstr "هولندا"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "مملكة هولندا"
+
+msgid "ISO_3166-1.NO"
+msgstr "النّرويج"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "مملكة النّرويج"
+
+msgid "ISO_3166-1.NP"
+msgstr "نيبال"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "جمهورية النيبال الاتحادية الديموقراطيّة"
+
+msgid "ISO_3166-1.NR"
+msgstr "ناورو"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "جمهوريّة ناورو"
+
+msgid "ISO_3166-1.NU"
+msgstr "نيوي"
+
+msgid "ISO_3166-1.NZ"
+msgstr "نيوزيلاندا"
+
+msgid "ISO_3166-1.OM"
+msgstr "عمان"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "سلطنة عمان"
+
+msgid "ISO_3166-1.PA"
+msgstr "بنما"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "جمهوريّة بنما"
+
+msgid "ISO_3166-1.PE"
+msgstr "البيرو"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "جمهوريّة البيرو"
+
+msgid "ISO_3166-1.PF"
+msgstr "بولينيسيا الفرنسيّة"
+
+msgid "ISO_3166-1.PG"
+msgstr "بابوا غينيا الجديدة"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "دولة صاموا المستقلّة"
+
+msgid "ISO_3166-1.PH"
+msgstr "الفلبّين"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "جمهوريّة الفيلبّين"
+
+msgid "ISO_3166-1.PK"
+msgstr "باكستان"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "جمهوريّة باكستان الإسلاميّة"
+
+msgid "ISO_3166-1.PL"
+msgstr "بولندا"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "جمهوريّة بولندا"
+
+msgid "ISO_3166-1.PM"
+msgstr "سانت بيير و ميكيلون"
+
+msgid "ISO_3166-1.PN"
+msgstr "بتكيرن"
+
+msgid "ISO_3166-1.PR"
+msgstr "بورتوريكو"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "الولايات المتّحدة الأميركيّة"
+
+msgid "ISO_3166-1.PT"
+msgstr "البرتغال"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "الجمهوريّة البرتغاليّة"
+
+msgid "ISO_3166-1.PW"
+msgstr "بالاو"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "جمهوريّة بالاو"
+
+msgid "ISO_3166-1.PY"
+msgstr "الباراغواي"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "جمهوريّة الباراغواي"
+
+msgid "ISO_3166-1.QA"
+msgstr "قطر"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "دولة قطر"
+
+msgid "ISO_3166-1.RE"
+msgstr "ريونيون"
+
+msgid "ISO_3166-1.RO"
+msgstr "رومانيا"
+
+msgid "ISO_3166-1.RS"
+msgstr "صربية"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "جمهوريّة صربية"
+
+msgid "ISO_3166-1.RU"
+msgstr "الاتّحاد الرّوسي"
+
+msgid "ISO_3166-1.RW"
+msgstr "رواندا"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "الجمهوريّة الرّوانديّة"
+
+msgid "ISO_3166-1.SA"
+msgstr "السّعوديّة"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "المملكة العربيّة السّعوديّة"
+
+msgid "ISO_3166-1.SB"
+msgstr "جزر سولومن"
+
+msgid "ISO_3166-1.SC"
+msgstr "السّيشل"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "جمهوريّة السّيشل"
+
+msgid "ISO_3166-1.SD"
+msgstr "السّودان"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "جمهوريّة السّودان"
+
+msgid "ISO_3166-1.SE"
+msgstr "السّويد"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "مملكة السّويد"
+
+msgid "ISO_3166-1.SG"
+msgstr "سنغافورة"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "جمهوريّة سنغافورة"
+
+msgid "ISO_3166-1.SH"
+msgstr "ساينت هيلينا، تريستان دا كونا"
+
+msgid "ISO_3166-1.SI"
+msgstr "سلوفينيا"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "جمهوريّة سلوفينيا"
+
+msgid "ISO_3166-1.SJ"
+msgstr "سفالبارد و جان ماين"
+
+msgid "ISO_3166-1.SK"
+msgstr "سلوفاكيا"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "جمهورية سلوفاكيا"
+
+msgid "ISO_3166-1.SL"
+msgstr "سيراليون"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "جمهوريّة سيراليون"
+
+msgid "ISO_3166-1.SM"
+msgstr "سان مارينو"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "جمهوريّة سان مارينو"
+
+msgid "ISO_3166-1.SN"
+msgstr "السّنغال"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "جمهوريّة السّنغال"
+
+msgid "ISO_3166-1.SO"
+msgstr "الصّومال"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "جمهوريّة ألمانيا الاتّحاديّة"
+
+msgid "ISO_3166-1.SR"
+msgstr "سورينام"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "جمهوريّة سورينام"
+
+msgid "ISO_3166-1.SS"
+msgstr "جمهوريّة السّودان"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "جمهوريّة السّودان"
+
+msgid "ISO_3166-1.ST"
+msgstr "ساو تومي و برنسبي"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "جمهوريّة ساو تومي و برنسبي الدّيموقراطيّة"
+
+msgid "ISO_3166-1.SV"
+msgstr "السّلفادور"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "جمهوريّة السّلفادور"
+
+msgid "ISO_3166-1.SX"
+msgstr "سانت مارتين (القطاع الفرنسي)"
+
+msgid "ISO_3166-1.SY"
+msgstr "الجمهوريّة العربيّة السّوريّة"
+
+msgid "ISO_3166-1.SZ"
+msgstr "سوازيلاند"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "مملكة سوازيلاند"
+
+msgid "ISO_3166-1.TC"
+msgstr "جزر التّرك و الكايكوس"
+
+msgid "ISO_3166-1.TD"
+msgstr "تشاد"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "جمهوريّة تشاد"
+
+msgid "ISO_3166-1.TF"
+msgstr "المقاطعات الفرنسيّة الجنوبيّة"
+
+msgid "ISO_3166-1.TG"
+msgstr "توغو"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "الجمهوريّة التّوغويّة"
+
+msgid "ISO_3166-1.TH"
+msgstr "تايلاند"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "مملكة تايلاند"
+
+msgid "ISO_3166-1.TJ"
+msgstr "طاجيكستان"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "جمهوريّة طاجيكستان"
+
+msgid "ISO_3166-1.TK"
+msgstr "توكيلاو"
+
+msgid "ISO_3166-1.TL"
+msgstr "تيمور-ليستي"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "جمهوريّة تيمور-ليستي الدّيموقراطيّة"
+
+msgid "ISO_3166-1.TM"
+msgstr "تركمانستان"
+
+msgid "ISO_3166-1.TN"
+msgstr "تونس"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "جمهوريّة تونس"
+
+msgid "ISO_3166-1.TO"
+msgstr "تونغا"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "مملكة تونغا"
+
+msgid "ISO_3166-1.TR"
+msgstr "تركيّا"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "جمهوريّة تركيّا"
+
+msgid "ISO_3166-1.TT"
+msgstr "ترينيداد و توباغو"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "جمهوريّة ترينيداد و توباغو"
+
+msgid "ISO_3166-1.TV"
+msgstr "توفالو"
+
+msgid "ISO_3166-1.TW"
+msgstr "تايوان"
+
+msgid "ISO_3166-1.TZ"
+msgstr "تنزانيا، جمهوريّة تنزانيا المتّحدة"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "جمهوريّة تنزانيا المتّحدة"
+
+msgid "ISO_3166-1.UA"
+msgstr "أوكرانيا"
+
+msgid "ISO_3166-1.UG"
+msgstr "أوغندا"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "جمهوريّة أوغندا"
+
+msgid "ISO_3166-1.UM"
+msgstr "جزر الولايات المتّحدة الصّغرى النّائية"
+
+msgid "ISO_3166-1.US"
+msgstr "الولايات المتّحدة"
+
+msgid "ISO_3166-1.US#official"
+msgstr "الولايات المتّحدة الأميركيّة"
+
+msgid "ISO_3166-1.UY"
+msgstr "الأوروغواي"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "جمهوريّة الأوروغواي الشّرقيّة"
+
+msgid "ISO_3166-1.UZ"
+msgstr "أوزبكستان"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "جمهوريّة أوزبكستان"
+
+msgid "ISO_3166-1.VA"
+msgstr "المقعد المقدّس (ولاية مدينة الفاتيكان)"
+
+msgid "ISO_3166-1.VC"
+msgstr "سانت فنسنت و جزر الغرينادين"
+
+msgid "ISO_3166-1.VE"
+msgstr "فنزويلّا"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "جمهوريّة فنزويلّا"
+
+msgid "ISO_3166-1.VG"
+msgstr "فيرجن، جزر فيرجن البريطانيّة"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "جزر فيرجن البريطانيّة"
+
+msgid "ISO_3166-1.VI"
+msgstr "فيرجن، جزر فيرجن الأميركيّة"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "جزر فيرجن الأميركيّة"
+
+msgid "ISO_3166-1.VN"
+msgstr "الفييتنام"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "جمهوريّة الفييتنام الاشتراكيّة"
+
+msgid "ISO_3166-1.VU"
+msgstr "فانواتو"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "جمهوريّة فانواتو"
+
+msgid "ISO_3166-1.WF"
+msgstr "واليس و فوتونا"
+
+msgid "ISO_3166-1.WS"
+msgstr "صاموا"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "دولة صاموا المستقلّة"
+
+msgid "ISO_3166-1.YE"
+msgstr "اليمن"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "جمهوريّة اليمن"
+
+msgid "ISO_3166-1.YT"
+msgstr "مايوت"
+
+msgid "ISO_3166-1.ZA"
+msgstr "جنوب إفريقيا"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "جمهوريّة جنوب إفريقيا"
+
+msgid "ISO_3166-1.ZM"
+msgstr "زامبيا"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "جمهوريّة زامبيا"
+
+msgid "ISO_3166-1.ZW"
+msgstr "زمبابوي"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "جمهوريّة زمبابوي"

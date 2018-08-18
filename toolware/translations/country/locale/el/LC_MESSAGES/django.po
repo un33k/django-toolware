@@ -1,0 +1,1264 @@
+# Translation of ISO-3166 (country names) to Greek
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Panayotis Pakos <aeikineton@yahoo.com>
+#   Free Software Foundation, Inc., 2004.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Konstantinos Margaritis <markos@debian.org>, 2004.
+#   QUAD-nrg.net <yodesy@quad-nrg.net>, 2006, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-02-12 14:46+0200\n"
+"Last-Translator: Nick Andrik <nick.andrik@gmail.com>\n"
+"Language-Team: Greek <debian-l10n-greek@lists.debian.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Ανδόρρα"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Πριγκιπάτο της Ανδόρρας"
+
+msgid "ISO_3166-1.AE"
+msgstr "Ηνωμένα Αραβικά Εμιράτα"
+
+msgid "ISO_3166-1.AF"
+msgstr "Αφγανιστάν"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Ισλαμική Δημοκρατία του Αφγανιστάν"
+
+msgid "ISO_3166-1.AG"
+msgstr "Αντίγκουα και Μπαρμπούντα"
+
+msgid "ISO_3166-1.AI"
+msgstr "Ανγκουίλα"
+
+msgid "ISO_3166-1.AL"
+msgstr "Αλβανία"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Δημοκρατία της Αλβανίας"
+
+msgid "ISO_3166-1.AM"
+msgstr "Αρμενία"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Δημοκρατία της Αρμενίας"
+
+msgid "ISO_3166-1.AO"
+msgstr "Αγκόλα"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Δημοκρατία της Αγκόλα"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Ανταρκτική"
+
+msgid "ISO_3166-1.AR"
+msgstr "Αργεντινή"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Δημοκρατία της Αργεντινής"
+
+msgid "ISO_3166-1.AS"
+msgstr "Αμερικανική Σαμόα"
+
+msgid "ISO_3166-1.AT"
+msgstr "Αυστρία"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Αυστριακή Δημοκρατία"
+
+msgid "ISO_3166-1.AU"
+msgstr "Αυστραλία"
+
+msgid "ISO_3166-1.AW"
+msgstr "Αρούμπα"
+
+msgid "ISO_3166-1.AX"
+msgstr "Νήσοι Ώλαντ"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Αζερμπαϊτζάν"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Δημοκρατία του Αζερμπαϊτζάν"
+
+msgid "ISO_3166-1.BA"
+msgstr "Βοσνία-Ερζεγοβίνη"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Δημοκρατία της Βοσνίας-Ερζεγοβίνης"
+
+msgid "ISO_3166-1.BB"
+msgstr "Μπαρμπάντος"
+
+msgid "ISO_3166-1.BD"
+msgstr "Μπανγκλαντές"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Λαϊκή Δημοκρατία του Μπανγκλαντές"
+
+msgid "ISO_3166-1.BE"
+msgstr "Βέλγιο"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Βασίλειο του Βελγίου"
+
+msgid "ISO_3166-1.BF"
+msgstr "Μπουρκίνα Φάσο"
+
+msgid "ISO_3166-1.BG"
+msgstr "Βουλγαρία"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Δημοκρατία της Βουλγαρίας"
+
+msgid "ISO_3166-1.BH"
+msgstr "Μπαχρέιν"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Βασίλειο του Μπαχρέιν"
+
+msgid "ISO_3166-1.BI"
+msgstr "Μπουρούντι"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Δημοκρατία του Μπουρούντι"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Μπενίν"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Δημοκρατία του Μπενίν"
+
+msgid "ISO_3166-1.BL"
+msgstr "Άγιος Βαρθολομαίος"
+
+msgid "ISO_3166-1.BM"
+msgstr "Βερμούδες"
+
+msgid "ISO_3166-1.BN"
+msgstr "Μπρουνέι Νταρουσαλάμ"
+
+msgid "ISO_3166-1.BO"
+msgstr "Βολιβία"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Πολυεθνική Πολιτεία της Βολιβίας"
+
+msgid "ISO_3166-1.BQ"
+msgstr "Μποναίρ, Άγιος Ευστράτιος και Σάμπα"
+
+msgid "ISO_3166-1.BR"
+msgstr "Βραζιλία"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Ομόσπονδη Δημοκρατία της Βραζιλίας"
+
+msgid "ISO_3166-1.BS"
+msgstr "Μπαχάμες"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "Κοινοπολιτεία των Μπαχαμών"
+
+msgid "ISO_3166-1.BT"
+msgstr "Μπουτάν"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Βασίλειο του Μπουτάν"
+
+msgid "ISO_3166-1.BV"
+msgstr "Νήσος Μπουβέ"
+
+msgid "ISO_3166-1.BW"
+msgstr "Μποτσουάνα"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Δημοκρατία της Μποτσουάνας"
+
+msgid "ISO_3166-1.BY"
+msgstr "Λευκορωσία"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Δημοκρατία της Λευκορωσίας"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Μπελίζ"
+
+msgid "ISO_3166-1.CA"
+msgstr "Καναδάς"
+
+msgid "ISO_3166-1.CC"
+msgstr "Νήσοι Κόκος (Κήλινγκ)"
+
+msgid "ISO_3166-1.CD"
+msgstr "Κονγκό, Λαϊκή Δημοκρατία του"
+
+msgid "ISO_3166-1.CF"
+msgstr "Δημοκρατία Κεντρικής Αφρικής"
+
+msgid "ISO_3166-1.CG"
+msgstr "Κονγκό"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Δημοκρατία του Κονγκό"
+
+msgid "ISO_3166-1.CH"
+msgstr "Ελβετία"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Ελβετική Συνομοσπονδία"
+
+msgid "ISO_3166-1.CI"
+msgstr "Ακτή Ελεφαντοστού"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Δημοκρατία της Ακτής του Ελεφαντοστού"
+
+msgid "ISO_3166-1.CK"
+msgstr "Νήσοι Κουκ"
+
+msgid "ISO_3166-1.CL"
+msgstr "Χιλή"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Δημοκρατία της Χιλής"
+
+msgid "ISO_3166-1.CM"
+msgstr "Καμερούν"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Δημοκρατία του Καμερούν"
+
+msgid "ISO_3166-1.CN"
+msgstr "Κίνα"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Λαϊκή Δημοκρατία της Κίνας"
+
+msgid "ISO_3166-1.CO"
+msgstr "Κολομβία"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Δημοκρατία της Κολομβίας"
+
+msgid "ISO_3166-1.CR"
+msgstr "Κόστα Ρίκα"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Δημοκρατία της Κόστα Ρίκα"
+
+msgid "ISO_3166-1.CU"
+msgstr "Κούβα"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Δημοκρατία της Κούβας"
+
+msgid "ISO_3166-1.CV"
+msgstr "Πράσινο Ακρωτήριο"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Δημοκρατία του Πράσινου Ακρωτηρίου"
+
+msgid "ISO_3166-1.CW"
+msgstr "Κουρακάο"
+
+msgid "ISO_3166-1.CX"
+msgstr "Νήσοι Χριστουγέννων"
+
+msgid "ISO_3166-1.CY"
+msgstr "Κύπρος"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Κυπριακή Δημοκρατία"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Τσεχική Δημοκρατία"
+
+msgid "ISO_3166-1.DE"
+msgstr "Γερμανία"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Ομοσπονδιακή Δημοκρατία της Γερμανίας"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Τζιμπουτί"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Δημοκρατία του Τζιμπουτί"
+
+msgid "ISO_3166-1.DK"
+msgstr "Δανία"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Βασίλειο της Δανίας"
+
+msgid "ISO_3166-1.DM"
+msgstr "Ντομίνικα"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "Κοινοπολιτεία της Ντομίνικα"
+
+msgid "ISO_3166-1.DO"
+msgstr "Δομινικανή Δημοκρατία"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Αλγερία"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Λαϊκη Δημοκρατία της Αλγερίας"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ισημερινός"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Δημοκρατία του Ισημερινού"
+
+msgid "ISO_3166-1.EE"
+msgstr "Εσθονία"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Δημοκρατία της Εσθονίας"
+
+msgid "ISO_3166-1.EG"
+msgstr "Αίγυπτος"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Αραβική Δημοκρατία της Αιγύπτου"
+
+msgid "ISO_3166-1.EH"
+msgstr "Δυτική Σαχάρα"
+
+msgid "ISO_3166-1.ER"
+msgstr "Ερυθραία"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Κράτος της Ερυθραίας"
+
+msgid "ISO_3166-1.ES"
+msgstr "Ισπανία"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Βασίλειο της Ισπανίας"
+
+msgid "ISO_3166-1.ET"
+msgstr "Αιθιοπία"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Ομοσπονδιακή Λαϊκή Δημοκρατία της Αιθιοπίας"
+
+msgid "ISO_3166-1.FI"
+msgstr "Φινλανδία"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Δημοκρατία της Φινλανδίας"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Φίτζι"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Δημοκρατία των Φίντζι"
+
+msgid "ISO_3166-1.FK"
+msgstr "Νήσοι Φώκλαντ (Μαλβίνες)"
+
+msgid "ISO_3166-1.FM"
+msgstr "Μικρονησία, Ομόσπονδες Πολιτείες της"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "Ομόσπονδες Πολιτείες της Μικρονησίας"
+
+msgid "ISO_3166-1.FO"
+msgstr "Νήσοι Φερόε"
+
+msgid "ISO_3166-1.FR"
+msgstr "Γαλλία"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Γαλλική Δημοκρατία"
+
+msgid "ISO_3166-1.GA"
+msgstr "Γκαμπόν"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Δημοκρατία της Γκαμπόν"
+
+msgid "ISO_3166-1.GB"
+msgstr "Ηνωμένο Βασίλειο"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βόρειας Ιρλανδίας"
+
+msgid "ISO_3166-1.GD"
+msgstr "Γρενάδα"
+
+msgid "ISO_3166-1.GE"
+msgstr "Γεωργία"
+
+msgid "ISO_3166-1.GF"
+msgstr "Γαλλική Γουιάνα"
+
+msgid "ISO_3166-1.GG"
+msgstr "Γκέρνσεϋ"
+
+msgid "ISO_3166-1.GH"
+msgstr "Γκάνα"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Δημοκρατία της Γκάνας"
+
+msgid "ISO_3166-1.GI"
+msgstr "Γιβραλτάρ"
+
+msgid "ISO_3166-1.GL"
+msgstr "Γροιλανδία"
+
+msgid "ISO_3166-1.GM"
+msgstr "Γκάμπια"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Δημοκρατία της Γκάμπια"
+
+msgid "ISO_3166-1.GN"
+msgstr "Γουϊνέα"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Δημοκρατία της Γουινέας"
+
+msgid "ISO_3166-1.GP"
+msgstr "Γουαδελούπη"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Ισημερινή Γουινέα"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Δημοκρατία της Ισημερινής Γουινέας"
+
+msgid "ISO_3166-1.GR"
+msgstr "Ελλάδα"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Ελληνική Δημοκρατία"
+
+msgid "ISO_3166-1.GS"
+msgstr "Νότια Γεωργία και Νήσοι Νότιες Σάντουιτς"
+
+msgid "ISO_3166-1.GT"
+msgstr "Γουατεμάλα"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Δημοκρατία της Γουατεμάλας"
+
+msgid "ISO_3166-1.GU"
+msgstr "Γκουάμ"
+
+msgid "ISO_3166-1.GW"
+msgstr "Γουινέα-Μπισσάου"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Δημοκρατία της Γουινέας-Μπισσάου"
+
+msgid "ISO_3166-1.GY"
+msgstr "Γουιάνα"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Δημοκρατία της Γουιάνας"
+
+msgid "ISO_3166-1.HK"
+msgstr "Χονγκ Κονγκ"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Χονγκ Κονγκ Ειδική Διοικητική Περιοχή της Κίνας"
+
+msgid "ISO_3166-1.HM"
+msgstr "Νήσος Χερντ και Νήσοι ΜακΝτόναλντ"
+
+msgid "ISO_3166-1.HN"
+msgstr "Ονδούρα"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Δημοκρατία της Ονδούρας"
+
+msgid "ISO_3166-1.HR"
+msgstr "Κροατία"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Δημοκρατία της Κροατίας"
+
+msgid "ISO_3166-1.HT"
+msgstr "Αϊτή"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Δημοκρατία της Αϊτής"
+
+msgid "ISO_3166-1.HU"
+msgstr "Ουγγαρία"
+
+msgid "ISO_3166-1.ID"
+msgstr "Ινδονησία"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Δημοκρατία της Ινδονησίας"
+
+msgid "ISO_3166-1.IE"
+msgstr "Ιρλανδία"
+
+msgid "ISO_3166-1.IL"
+msgstr "Ισραήλ"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Κράτος του Ισραήλ"
+
+msgid "ISO_3166-1.IM"
+msgstr "Νήσος του Μαν"
+
+msgid "ISO_3166-1.IN"
+msgstr "Ινδία"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Δημοκρατία της Ινδίας"
+
+msgid "ISO_3166-1.IO"
+msgstr "Βρετανικά Εδάφη του Ινδικού Ωκεανού"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Ιράκ"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Δημοκρατία του Ιράκ"
+
+msgid "ISO_3166-1.IR"
+msgstr "Ιράν, Ισλαμική Δημοκρατία του"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Ισλαμική Δημοκρατία του Ιράν"
+
+msgid "ISO_3166-1.IS"
+msgstr "Ισλανδία"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Δημοκρατία της Ισλανδίας"
+
+msgid "ISO_3166-1.IT"
+msgstr "Ιταλία"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Ιταλική Δημοκρατία"
+
+msgid "ISO_3166-1.JE"
+msgstr "Τζέρσεϋ"
+
+msgid "ISO_3166-1.JM"
+msgstr "Ιαμαϊκή"
+
+msgid "ISO_3166-1.JO"
+msgstr "Ιορδανία"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "Χασεμιτικό Βασίλειο της Ιορδανίας"
+
+msgid "ISO_3166-1.JP"
+msgstr "Ιαπωνία"
+
+msgid "ISO_3166-1.KE"
+msgstr "Κένυα"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Δημοκρατία της Κένυας"
+
+msgid "ISO_3166-1.KG"
+msgstr "Κιργιζία"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Δημοκρατία της Κιργιζίας"
+
+msgid "ISO_3166-1.KH"
+msgstr "Καμπότζη"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Βασίλειο της Καμπότζης"
+
+msgid "ISO_3166-1.KI"
+msgstr "Κιριμπάτι"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Δημοκρατία του Κιριμπάτι"
+
+msgid "ISO_3166-1.KM"
+msgstr "Κομόρες"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Ένωση των Κομορών"
+
+msgid "ISO_3166-1.KN"
+msgstr "Άγιος Χριστόφορος και Νέβις"
+
+msgid "ISO_3166-1.KP"
+msgstr "Κορέα, Λαοκρατική Δημοκρατία της"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Λαοκρατική Δημοκρατία της Κορέας"
+
+msgid "ISO_3166-1.KR"
+msgstr "Κορέα, Δημοκρατία της"
+
+msgid "ISO_3166-1.KW"
+msgstr "Κουβέιτ"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Κράτος του Κουβέιτ"
+
+msgid "ISO_3166-1.KY"
+msgstr "Νήσοι Καϋμάν"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Καζακστάν"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Δημοκρατία του Καζακστάν"
+
+msgid "ISO_3166-1.LA"
+msgstr "Λαϊκή Δημοκρατία του Λάος"
+
+msgid "ISO_3166-1.LB"
+msgstr "Λίβανος"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Δημοκρατία του Λιβάνου"
+
+msgid "ISO_3166-1.LC"
+msgstr "Αγία Λουκία"
+
+msgid "ISO_3166-1.LI"
+msgstr "Λιχτενστάιν"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Πριγκιπάτο του Λιχτενστάιν"
+
+msgid "ISO_3166-1.LK"
+msgstr "Σρι Λάνκα"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Λαϊκή Σοσιαλιστική Δημοκρατία της Σρι Λάνκα"
+
+msgid "ISO_3166-1.LR"
+msgstr "Λιβερία"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Δημοκρατία της Λιβερίας"
+
+msgid "ISO_3166-1.LS"
+msgstr "Λεσόθο"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Βασίλειο του Λεσόθο"
+
+msgid "ISO_3166-1.LT"
+msgstr "Λιθουανία"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Δημοκρατία της Λιθουανίας"
+
+msgid "ISO_3166-1.LU"
+msgstr "Λουξεμβούργο"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Μεγάλο Δουκάτο του Λουξεμβούργου"
+
+msgid "ISO_3166-1.LV"
+msgstr "Λεττονία"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Δημοκρατία της Λετονίας"
+
+msgid "ISO_3166-1.LY"
+msgstr "Λιβύη"
+
+msgid "ISO_3166-1.MA"
+msgstr "Μαρόκο"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Βασίλειο του Μαρόκου"
+
+msgid "ISO_3166-1.MC"
+msgstr "Μονακό"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Πριγκιπάτο του Μονακό"
+
+msgid "ISO_3166-1.MD"
+msgstr "Μολδαβία"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Δημοκρατία της Μολδαβίας"
+
+msgid "ISO_3166-1.ME"
+msgstr "Μαυροβούνιο"
+
+msgid "ISO_3166-1.MF"
+msgstr "Άγιος Μαρτίνος (Γαλλικό τμήμα)"
+
+msgid "ISO_3166-1.MG"
+msgstr "Μαδαγασκάρη"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Δημοκρατία της Μαδαγασκάρης"
+
+msgid "ISO_3166-1.MH"
+msgstr "Νήσοι Μάρσαλ"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Δημοκρατία των Νήσων Μάρσαλ"
+
+msgid "ISO_3166-1.MK"
+msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας"
+
+msgid "ISO_3166-1.ML"
+msgstr "Μάλι"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Δημοκρατία του Μάλι"
+
+msgid "ISO_3166-1.MM"
+msgstr "Μιανμάρ"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Δημοκρατία της Μιανμάρ"
+
+msgid "ISO_3166-1.MN"
+msgstr "Μογγολία"
+
+msgid "ISO_3166-1.MO"
+msgstr "Μακάο"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "Μακάο Ειδική Διοικητική Περιοχή της Κίνας"
+
+msgid "ISO_3166-1.MP"
+msgstr "Νήσοι Βορείων Μαριάννων"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Κοινοπολιτεία των Νήσων Βορείων Μαριάννων"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Μαρτινίκα"
+
+msgid "ISO_3166-1.MR"
+msgstr "Μαυριτανία"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Ισλαμική Δημοκρατία της Μαυριτανίας"
+
+msgid "ISO_3166-1.MS"
+msgstr "Μονσεράτ"
+
+msgid "ISO_3166-1.MT"
+msgstr "Μάλτα"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Δημοκρατία της Μάλτας"
+
+msgid "ISO_3166-1.MU"
+msgstr "Μαυρίκιος"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Δημοκρατία του Μαυρικίου"
+
+msgid "ISO_3166-1.MV"
+msgstr "Μαλδίβες"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Δημοκρατία των Μαλδιβών"
+
+msgid "ISO_3166-1.MW"
+msgstr "Μαλάουι"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Δημοκρατία του Μαλάουι"
+
+msgid "ISO_3166-1.MX"
+msgstr "Μεξικό"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Ηνωμένες Πολιτείες του Μεξικού"
+
+msgid "ISO_3166-1.MY"
+msgstr "Μαλαισία"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Μοζαμβίκη"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Δημοκρατία της Μοζαμβίκης"
+
+msgid "ISO_3166-1.NA"
+msgstr "Ναμίμπια"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Δημοκρατία της Ναμίμπιας"
+
+msgid "ISO_3166-1.NC"
+msgstr "Νέα Καληδονία"
+
+msgid "ISO_3166-1.NE"
+msgstr "Νίγηρας"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Δημοκρατία του Νίγηρα"
+
+msgid "ISO_3166-1.NF"
+msgstr "Νήσος Νόρφολκ"
+
+msgid "ISO_3166-1.NG"
+msgstr "Νιγηρία"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Ομοσπονδιακή Δημοκρατία της Νιγηρίας"
+
+msgid "ISO_3166-1.NI"
+msgstr "Νικαράγουα"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Δημοκρατία της Νικαράγουας"
+
+msgid "ISO_3166-1.NL"
+msgstr "Ολλανδία"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Βασίλειο των Κάτω Χωρών"
+
+msgid "ISO_3166-1.NO"
+msgstr "Νορβηγία"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Βασίλειο της Νορβηγίας"
+
+msgid "ISO_3166-1.NP"
+msgstr "Νεπάλ"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Ομοσπονδιακή Λαϊκή Δημοκρατία του Νεπάλ"
+
+msgid "ISO_3166-1.NR"
+msgstr "Ναουρού"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Δημοκρατία του Ναουρού"
+
+msgid "ISO_3166-1.NU"
+msgstr "Νίουε"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Νέα Ζηλανδία"
+
+msgid "ISO_3166-1.OM"
+msgstr "Ομάν"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Σουλτανάτο του Ομάν"
+
+msgid "ISO_3166-1.PA"
+msgstr "Παναμάς"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Δημοκρατία του Παναμά"
+
+msgid "ISO_3166-1.PE"
+msgstr "Περού"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Δημοκρατία του Περού"
+
+msgid "ISO_3166-1.PF"
+msgstr "Γαλλική Πολυνησία"
+
+msgid "ISO_3166-1.PG"
+msgstr "Παπούα-Νέα Γουινέα"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Ανεξάρτητο Κράτος της Σαμόα"
+
+msgid "ISO_3166-1.PH"
+msgstr "Φιλιππίνες"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Δημοκρατία των Φιλιππινών"
+
+msgid "ISO_3166-1.PK"
+msgstr "Πακιστάν"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Ισλαμική Δημοκρατία του Πακιστάν"
+
+msgid "ISO_3166-1.PL"
+msgstr "Πολωνία"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Δημοκρατία της Πολωνίας"
+
+msgid "ISO_3166-1.PM"
+msgstr "Άγιος Πέτρος και Μικελόν"
+
+msgid "ISO_3166-1.PN"
+msgstr "Πίτκαϊρν"
+
+msgid "ISO_3166-1.PR"
+msgstr "Πουέρτο Ρίκο"
+
+msgid "ISO_3166-1.PS"
+msgstr "Παλαιστίνη"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Κράτος της Παλαιστίνης"
+
+msgid "ISO_3166-1.PT"
+msgstr "Πορτογαλία"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Πορτογαλική Δημοκρατία"
+
+msgid "ISO_3166-1.PW"
+msgstr "Παλάου"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Δημοκρατία του Παλάου"
+
+msgid "ISO_3166-1.PY"
+msgstr "Παραγουάη"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Δημοκρατία της Παραγουάης"
+
+msgid "ISO_3166-1.QA"
+msgstr "Κατάρ"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Κράτος του Κατάρ"
+
+msgid "ISO_3166-1.RE"
+msgstr "Ρεουνιόν"
+
+msgid "ISO_3166-1.RO"
+msgstr "Ρουμανία"
+
+msgid "ISO_3166-1.RS"
+msgstr "Σερβία"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Δημοκρατία της Σερβίας"
+
+msgid "ISO_3166-1.RU"
+msgstr "Ρωσική Ομοσπονδία"
+
+msgid "ISO_3166-1.RW"
+msgstr "Ρουάντα"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Δημοκρατία της Ρουάντα"
+
+msgid "ISO_3166-1.SA"
+msgstr "Σαουδική Αραβία"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Βασίλειο της Σαουδικής Αραβίας"
+
+msgid "ISO_3166-1.SB"
+msgstr "Νήσοι Σολομώντος"
+
+msgid "ISO_3166-1.SC"
+msgstr "Σεϋχέλλες"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Δημοκρατία των Σεϋχελλών"
+
+msgid "ISO_3166-1.SD"
+msgstr "Σουδάν"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Δημοκρατία του Σουδάν"
+
+msgid "ISO_3166-1.SE"
+msgstr "Σουηδία"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Βασίλειο της Σουηδίας"
+
+msgid "ISO_3166-1.SG"
+msgstr "Σιγκαπούρη"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Δημοκρατία της Σιγκαπούρης"
+
+msgid "ISO_3166-1.SH"
+msgstr "Αγία Ελένη, Ascension και Tristan da Cunha"
+
+msgid "ISO_3166-1.SI"
+msgstr "Σλοβενία"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Δημοκρατία της Σλοβενίας"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Σβάλμπαρντ και Γιαν Μαγέν"
+
+msgid "ISO_3166-1.SK"
+msgstr "Σλοβακία"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Δημοκρατία της Σλοβακίας"
+
+msgid "ISO_3166-1.SL"
+msgstr "Σιέρρα Λεόνε"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Δημοκρατία της Σιέρρα Λεόνε"
+
+msgid "ISO_3166-1.SM"
+msgstr "Άγιος Μαρίνος"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Δημοκρατία του Αγίου Μαρίνου"
+
+msgid "ISO_3166-1.SN"
+msgstr "Σενεγάλη"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Δημοκρατία της Σενεγάλης"
+
+msgid "ISO_3166-1.SO"
+msgstr "Σομαλία"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Ομοσπονδιακή Δημοκρατία της Γερμανίας"
+
+msgid "ISO_3166-1.SR"
+msgstr "Σουρινάμ"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Δημοκρατία του Σουρινάμ"
+
+msgid "ISO_3166-1.SS"
+msgstr "Νότιο Σουδάν"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Δημοκρατία του Νότιου Σουδάν"
+
+msgid "ISO_3166-1.ST"
+msgstr "Σάο Τομέ και Πρίνσιπε"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "Λαϊκή Δημοκρατία του Σάο Τομέ και Πρίνσιπε"
+
+msgid "ISO_3166-1.SV"
+msgstr "Ελ Σαλβαδόρ"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Δημοκρατία του Ελ Σαλβαδόρ"
+
+msgid "ISO_3166-1.SX"
+msgstr "Άγιος Μαρτίνος (Ολλανδικό τμήμα)"
+
+msgid "ISO_3166-1.SY"
+msgstr "Αραβική Δημοκρατία της Συρίας"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Σουαζιλάνδη"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Βασίλειο της Σουαζιλάνδης"
+
+msgid "ISO_3166-1.TC"
+msgstr "Νήσοι Τουρκς και Κάικος"
+
+msgid "ISO_3166-1.TD"
+msgstr "Τσαντ"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Δημοκρατία του Τσαντ"
+
+msgid "ISO_3166-1.TF"
+msgstr "Γαλλικά Νότια Εδάφη"
+
+msgid "ISO_3166-1.TG"
+msgstr "Τόγκο"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Δημοκρατία του Τόγκο"
+
+msgid "ISO_3166-1.TH"
+msgstr "Ταϊλάνδη"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Βασίλειο της Ταϊλάνδης"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Τατζικιστάν"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Δημοκρατία του Τατζικιστάν"
+
+msgid "ISO_3166-1.TK"
+msgstr "Τοκελάου"
+
+msgid "ISO_3166-1.TL"
+msgstr "Τιμόρ-Λέστε"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Λαϊκη Δημοκρατία του Ανατολικού Τιμόρ"
+
+msgid "ISO_3166-1.TM"
+msgstr "Τουρκμενιστάν"
+
+msgid "ISO_3166-1.TN"
+msgstr "Τυνησία"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Δημοκρατία της Τυνησίας"
+
+msgid "ISO_3166-1.TO"
+msgstr "Τόνγκα"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Βασίλειο της Τόνγκα"
+
+msgid "ISO_3166-1.TR"
+msgstr "Τουρκία"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Δημοκρατία της Τουρκίας"
+
+msgid "ISO_3166-1.TT"
+msgstr "Τρινιδάδ και Τομπάγκο"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Δημοκρατία Τρινιδάδ και Τομπάγκο"
+
+msgid "ISO_3166-1.TV"
+msgstr "Τουβαλού"
+
+msgid "ISO_3166-1.TW"
+msgstr "Ταϊβάν"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Τανζανία, Ενωμένη Δημοκρατία της"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Ενωμένη Δημοκρατία της Τανζανίας"
+
+msgid "ISO_3166-1.UA"
+msgstr "Ουκρανία"
+
+msgid "ISO_3166-1.UG"
+msgstr "Ουγκάντα"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Δημοκρατία της Ουγκάντας"
+
+msgid "ISO_3166-1.UM"
+msgstr "Μικρές Νήσοι απομεμακρυσμένες από τις Ηνωμένες Πολιτείες"
+
+msgid "ISO_3166-1.US"
+msgstr "Ηνωμένες Πολιτείες"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Ηνωμένες Πολιτείες της Αμερικής"
+
+msgid "ISO_3166-1.UY"
+msgstr "Ουρουγουάη"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Ανατολική Δημοκρατία της Ουρουγουάης"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Ουζμπεκιστάν"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Δημοκρατία του Ουζμπεκιστάν"
+
+msgid "ISO_3166-1.VA"
+msgstr "Αγία Έδρα (το Κράτος της Πόλεως του Βατικανού)"
+
+msgid "ISO_3166-1.VC"
+msgstr "Άγιος Βικέντιος και Γρεναδίνες"
+
+msgid "ISO_3166-1.VE"
+msgstr "Βενεζουέλα"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Βολιβαριανή Δημοκρατία της Βενεζουέλας"
+
+msgid "ISO_3166-1.VG"
+msgstr "Παρθένοι Νήσοι, Βρετανικές"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Βρετανικές Παρθένοι Νήσοι"
+
+msgid "ISO_3166-1.VI"
+msgstr "Παρθένοι Νήσοι, Η.Π.Α."
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Παρθένοι Νήσοι των Ηνωμένων Πολιτειών"
+
+msgid "ISO_3166-1.VN"
+msgstr "Βιετνάμ"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+
+msgid "ISO_3166-1.VU"
+msgstr "Βανουάτου"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Δημοκρατία του Βανουάτου"
+
+msgid "ISO_3166-1.WF"
+msgstr "Ουώλλις και Φουτούνα"
+
+msgid "ISO_3166-1.WS"
+msgstr "Σαμόα"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Ανεξάρτητο Κράτος της Σαμόα"
+
+msgid "ISO_3166-1.YE"
+msgstr "Υεμένη"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Δημοκρατία της Υεμένης"
+
+msgid "ISO_3166-1.YT"
+msgstr "Μαγιότ"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Νότια Αφρική"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Δημοκρατία της Νότιας Αφρικής"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Ζάμπια"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Δημοκρατία της Ζάμπιας"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Ζιμπάμπουε"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Δημοκρατία της Ζιμπάμπουε"
