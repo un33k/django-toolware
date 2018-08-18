@@ -1,3 +1,9 @@
+## 1.0.6
+
+Enhancements:
+
+ -- added profiler utils
+
 ## 1.0.5
 
 Enhancements:
