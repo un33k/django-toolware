@@ -1,0 +1,1251 @@
+# Translation of ISO 3166 (or.po) to Oriya
+# Copyright (C) 2010  Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2010-04-07 12:26+0530\n"
+"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
+"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "ଅଣ୍ଟୋରା"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "ଆଣ୍ଡୋରାର ରାଜା"
+
+msgid "ISO_3166-1.AE"
+msgstr "ସଂଯୁକ୍ତ ଆରବ ଏମିରେଟ"
+
+msgid "ISO_3166-1.AF"
+msgstr "ଆଫଗାନିସ୍ତାନ"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "ଆଫଗାନିସ୍ତାନ ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.AG"
+msgstr "ଏଣ୍ଟିଗୁଆ ଏବଂ ବାର୍ବୁଡା"
+
+msgid "ISO_3166-1.AI"
+msgstr "ଆଙ୍ଗୋଲୀୟା"
+
+msgid "ISO_3166-1.AL"
+msgstr "ଅଲ୍ବାନୀୟା"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "ଅଲବାନିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.AM"
+msgstr "ଆର୍ମେନିୟା"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "ଆର୍ମେନିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.AO"
+msgstr "ଆଙ୍ଗୋଲା"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "ଆଙ୍ଗୋଲା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.AQ"
+msgstr "ଆଣ୍ଟାର୍କଟିକା"
+
+msgid "ISO_3166-1.AR"
+msgstr "ଅାର୍ଜେଣ୍ଟୀନା"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "ଆରଜେଣ୍ଟାଇନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.AS"
+msgstr "ଆମେରିକୀୟ ସାମୋଆ"
+
+msgid "ISO_3166-1.AT"
+msgstr "ଅଷ୍ଟ୍ରିୟା"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "ଅଷ୍ଟ୍ରିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.AU"
+msgstr "ଅଷ୍ଟ୍ରେଲିୟା"
+
+msgid "ISO_3166-1.AW"
+msgstr "ଆଋବା"
+
+msgid "ISO_3166-1.AX"
+msgstr "ଆଲାଣ୍ଡ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.AZ"
+msgstr "ଆଜର୍ବେଜାନ"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "ଆଜର୍ବେଜାନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BA"
+msgstr "ବୋସନିଆ ଏବଂ ହର୍ଜେଗୋଭିନା"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "ବୋସନିଆ ଏବଂ ହର୍ଜେଗୋଭିନା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BB"
+msgstr "ବାର୍ବାଡୋସ"
+
+msgid "ISO_3166-1.BD"
+msgstr "ବାଙ୍ଗଲାଦେଶ"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "ବାଙ୍ଗଲାଦେଶ ଜନସାଧାରଣ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BE"
+msgstr "ବେଲଜିୟମ"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "ବେଲଜିୟମ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.BF"
+msgstr "ବୁର୍କିନା ଫାସୋ"
+
+msgid "ISO_3166-1.BG"
+msgstr "ବୁଲଗାରିୟା"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "ବୁଲଗେରିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BH"
+msgstr "ବାହାରୀନ"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "ବାହାରୀନ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.BI"
+msgstr "ବୁରୁଣ୍ଡି"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "ବୁରୁଣ୍ଡି ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BJ"
+msgstr "ବେନିନ୍"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "ବେନିନ୍ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BL"
+msgstr "ସେଣ୍ଟ ବାର୍ଥେଲେମୀ"
+
+msgid "ISO_3166-1.BM"
+msgstr "ବର୍ମୁଡା"
+
+msgid "ISO_3166-1.BN"
+msgstr "ବ୍ରୁନେଈ ଦାଋସାଲମ"
+
+msgid "ISO_3166-1.BO"
+msgstr "ବୋଲିଭିଆ"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "ବୋଲିଭିଆ ପ୍ଲୁରିନେସନାଲ ରାଜ୍ଯ"
+
+msgid "ISO_3166-1.BR"
+msgstr "ବ୍ରାଜୀଲ"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "ବ୍ରାଜିଲ ଫେଡେରେଟିଭ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BS"
+msgstr "ବାହାମା"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "ବାହାମା ସର୍ବସାଧାରଣ"
+
+msgid "ISO_3166-1.BT"
+msgstr "ଭୁଟାନ"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "ଭୁଟାନ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.BV"
+msgstr "ବୁଭେଟ୍ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.BW"
+msgstr "ବୋସ୍ତ୍ବାନା"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "ବୋସ୍ତ୍ବାନା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BY"
+msgstr "ବେଲାରୁଷ"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "ବେଲାଋଷ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.BZ"
+msgstr "ବେଲିଜ"
+
+msgid "ISO_3166-1.CA"
+msgstr "କାନାଡା"
+
+msgid "ISO_3166-1.CC"
+msgstr "କୋକୋସ (କିଲିଙ୍ଗ) ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.CD"
+msgstr "କୋଙ୍ଗୋ, ମଧ୍ଯ ଆଫ୍ରିକାର"
+
+msgid "ISO_3166-1.CF"
+msgstr "ମଦ୍ଦ୍ଯବର୍ତ୍ତୀ ଆଫ୍ରୀକିୟ ସାଧାରଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CG"
+msgstr "କଙ୍ଗୋ"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "କଙ୍ଗୋ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CH"
+msgstr "ସ୍ବିଟ୍ଜରଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "ସ୍ୱିସ ରାଜ୍ୟମଣ୍ଡଳ"
+
+msgid "ISO_3166-1.CI"
+msgstr "କୋଟ ଡି'ଭୋର"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "କୋଟ ଡିଭଏର ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CK"
+msgstr "କୁକ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.CL"
+msgstr "ଚିଲୀ"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "ଚିଲୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CM"
+msgstr "କାମେଋନ"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "କାମେଋନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CN"
+msgstr "ଚୀନ"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "ଚୀନ ଜନସାଧାରଣ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CO"
+msgstr "କୋଲୋମ୍ବିୟା"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "କୋଲମ୍ବିଆ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CR"
+msgstr "କୋଷ୍ଟା ରିକା"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "କୋଷ୍ଟା ରିକା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CU"
+msgstr "କ୍ଯୁବା"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "କ୍ଯୁବା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CV"
+msgstr "କେପ୍ ଭାର୍ଡେ"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "କେପ ଭର୍ଦେ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CX"
+msgstr "କ୍ରିସ୍ଟମାସ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.CY"
+msgstr "ସାଇପ୍ରସ"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "ସାଇପ୍ରୋସ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "ଚେକ ସାଧାରଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.DE"
+msgstr "ଜର୍ମାନୀ"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "ଜର୍ମାନୀ ଫେଡେରାଲ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.DJ"
+msgstr "ଡିଜବୌଟୀ"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "ଡିଜବୌଟୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.DK"
+msgstr "ଡେନମାର୍କ"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "ଡେନମାର୍କ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.DM"
+msgstr "ଡୋମିନୀକା"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "ଡୋମିନୀକା ସର୍ବସାଧାରଣ"
+
+msgid "ISO_3166-1.DO"
+msgstr "ଡୋମିନୀକାନ ଗଣରାଜ୍ଯ"
+
+msgid "ISO_3166-1.DZ"
+msgstr "ଆଲଜେରିୟା"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "ଅଲଜେରୀୟା ଜନସାଧାରଣ ପ୍ରଜାତାନ୍ତ୍ରିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.EC"
+msgstr "ଏକ୍ଯୁଡୋର"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "ଏକ୍ଯୁଡୋର ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.EE"
+msgstr "ଇଷ୍ଟୋନିୟା"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "ଇଷ୍ଟୋନିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.EG"
+msgstr "ମିଶର"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "ଇଜିପ୍ଟର ଆରବ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.EH"
+msgstr "ପଶ୍ଚିମୀ ସାହାରା"
+
+msgid "ISO_3166-1.ER"
+msgstr "ଇରୀଟ୍ରିୟା"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା"
+
+msgid "ISO_3166-1.ES"
+msgstr "ସ୍ପେନ"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "ସ୍ପେନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.ET"
+msgstr "ଇଥୋପିୟା"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "ଇଥୋପିୟା ଫେଡେରାଲ ସର୍ବସାଧାରଣ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.FI"
+msgstr "ଫିନଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "ଫିନଲ୍ଯାଣ୍ଡ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ଫିଜୀ"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "ହୈତି ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.FK"
+msgstr "ଫାଲ୍କଲ୍ଯାଣ୍ଡ ଦ୍ବୀପ(ମାଲ୍ଭିନାସ)"
+
+msgid "ISO_3166-1.FM"
+msgstr "ମାଇକ୍ରୋନେସିୟା"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "ମାଇକ୍ରୋନେସିୟା ଫେଡେରେଟେଡ ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.FO"
+msgstr "ଫାରୋ ଦ୍ବୀପପୁଞ୍ଜ"
+
+msgid "ISO_3166-1.FR"
+msgstr "ଫ୍ରାନ୍ସ"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "ଫରାସୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.GA"
+msgstr "ଗୈବୋନ"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "ଗାବୋନିଜ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.GB"
+msgstr "ଯୁକ୍ତ ରାଜ୍ଯ"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "ଗ୍ରେଟ ବ୍ରିଟେନ ଏବଂ ଉତ୍ତରି ଆୟରଲ୍ଯାଣ୍ଡ ସଂଯୁକ୍ତ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.GD"
+msgstr "ଗ୍ରେନେଡା"
+
+msgid "ISO_3166-1.GE"
+msgstr "ଜାର୍ଜିୟା"
+
+msgid "ISO_3166-1.GF"
+msgstr "ଫ୍ରେଞ୍ଚ ଗୁଆନା"
+
+msgid "ISO_3166-1.GG"
+msgstr "ଗୁୟେର୍ନସୀ"
+
+msgid "ISO_3166-1.GH"
+msgstr "ଘାନା"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "ଘାନା ଗଣତନ୍ତ୍ର ଗଣତନ୍"
+
+msgid "ISO_3166-1.GI"
+msgstr "ଜିବ୍ରାଲଟର"
+
+msgid "ISO_3166-1.GL"
+msgstr "ଗ୍ରୀନଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.GM"
+msgstr "ଗାମ୍ବିୟା"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "ଗାମ୍ବିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.GN"
+msgstr "ଗିନୀ"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "ଗିନୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.GP"
+msgstr "ଗୁଆଡେଲୋପ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ବିଷୁବରେଖୀୟ ଗିନୀ"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "ବିଷୁବାଞ୍ଚଳ ଗିନୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.GR"
+msgstr "ଗ୍ରୀସ"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "ହେଲେନିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.GS"
+msgstr "ଦକ୍ଷିଣ ଜାର୍ଜିୟା ଏବଂ ଦକ୍ଷିଣ ସେଣ୍ଡୱିଚ ଦ୍ବୀପପୁଞ୍ଜ"
+
+msgid "ISO_3166-1.GT"
+msgstr "ଗ୍ବାଟେମାଲା"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "ଗ୍ବାଟେମାଲା ଗ୍ୱାତେମାଲା"
+
+msgid "ISO_3166-1.GU"
+msgstr "ଗୁଆମ"
+
+msgid "ISO_3166-1.GW"
+msgstr "ଗିନୀ-ବିସୁ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "ଗିନୀ-ବିସାଉ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.GY"
+msgstr "ଗୁୟାନା"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "ଗୁୟାନା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.HK"
+msgstr "ହଙ୍ଗ କଙ୍ଗ"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "ହଙ୍ଗ କଙ୍ଗ ଚୀନର ବିଶେଷ ପ୍ରଶାସନ ଅଞ୍ଚଳ"
+
+msgid "ISO_3166-1.HM"
+msgstr "ହାର୍ଡ ଦ୍ୱୀପ ଏବଂ ମାକ ଡନାଲ୍ଡ ଦ୍ୱୀପ"
+
+msgid "ISO_3166-1.HN"
+msgstr "ହୋଣ୍ଡୁରାସ"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "ହୋଣ୍ଡୁରାସ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.HR"
+msgstr "କ୍ରୋଏଶିଆ"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "କ୍ରୋଏସିଆ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.HT"
+msgstr "ହୈତି"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "ହୈତି ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.HU"
+msgstr "ହଙ୍ଗାରୀ"
+
+msgid "ISO_3166-1.ID"
+msgstr "ଇଣ୍ଡୋନେଶିୟା"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "ଇଣ୍ଡୋନେଶିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.IE"
+msgstr "ଆୟରଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.IL"
+msgstr "ଇଜ୍ରାଇଲ"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "ଇଜରାଈଲ ରାଜ୍ଯ"
+
+msgid "ISO_3166-1.IM"
+msgstr "ଇସ୍ଲେ ଅଫ ମେନ"
+
+msgid "ISO_3166-1.IN"
+msgstr "ଭାରତ"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "ଭାରତୀୟ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.IO"
+msgstr "ବ୍ରିଟିଶ ଇଣ୍ଡିୟାନ ସାମୁଦ୍ରୀକ କ୍ଷେତ୍ର"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ଇରାକ"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "ଇରାକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.IR"
+msgstr "ଇରାନ, ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ଇରାନ ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.IS"
+msgstr "ଆଇସଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "ଆଇସଲ୍ଯାଣ୍ଡ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.IT"
+msgstr "ଇଟାଲୀ"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ଇଟାଲିଆନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.JE"
+msgstr "ଜର୍ସୀ"
+
+msgid "ISO_3166-1.JM"
+msgstr "ଜାମୈକା"
+
+msgid "ISO_3166-1.JO"
+msgstr "ଜୋର୍ଡାନ"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "ଜୋର୍ଡାନ ହାସେମାଇତ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.JP"
+msgstr "ଜାପାନ"
+
+msgid "ISO_3166-1.KE"
+msgstr "କେନିୟା"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "କେନିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.KG"
+msgstr "କିର୍ଗିଜସ୍ତାନ"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "କିରଗିଜ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.KH"
+msgstr "କାମ୍ବୋଡିୟା"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "କାମ୍ବୋଡିୟା ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.KI"
+msgstr "କୀରିବତୀ"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "କୀରିବତୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.KM"
+msgstr "କୋମୋରୋସ"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "ମିଳିତ କୋମୋରୋସ"
+
+msgid "ISO_3166-1.KN"
+msgstr "ସେଣ୍ଟ କିଟ୍ସ ଏବଂ ନେଭିସ"
+
+msgid "ISO_3166-1.KP"
+msgstr "କୋରିଆ, ସର୍ବସାଧାରଣ ଜନସମାଜ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "କୋରିଆ ସର୍ବସାଧାରଣ ଜନସମାଜ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.KR"
+msgstr "କୋରିଆ, ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.KW"
+msgstr "କୁଏତ"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "କୁଏତର ରାଜ୍ଯ"
+
+msgid "ISO_3166-1.KY"
+msgstr "କୈମେନ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.KZ"
+msgstr "କାଜାଖସ୍ତାନ"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "କାଜାଖସ୍ତାନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.LA"
+msgstr "ଲାଓ ଜନସମାଜ ସର୍ବସାଧାରଣ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.LB"
+msgstr "ଲେବାନୋନ"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "ଲାବାନିଜ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.LC"
+msgstr "ସେଣ୍ଟ ଲୁସିୟା"
+
+msgid "ISO_3166-1.LI"
+msgstr "ଲିଚେଂଷ୍ଟାଇନ"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "ଲେଚେଷ୍ଟାଇନ ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.LK"
+msgstr "ଶ୍ରୀଲଙ୍କା"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "ଶ୍ରିଲଙ୍କା ପ୍ରଜାତାନ୍ତ୍ରିକ ସମାଜବାଦୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.LR"
+msgstr "ଲାଇବେରିୟା"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "ଲାଇବେରିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.LS"
+msgstr "ଲେସୋଥୋ"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "ଲେସୋଥୋ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.LT"
+msgstr "ଲିଥୁଆନିୟା"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "ଲିଥୁଆନିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.LU"
+msgstr "ଲେକଜେମ୍ବର୍ଗ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "ଲେକ୍ସମ୍ବର୍ଗ ଗ୍ରାଣ୍ଡ ଡଚି"
+
+msgid "ISO_3166-1.LV"
+msgstr "ଲାଟଭିୟା"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "ଲାଟଭିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.LY"
+msgstr "ଲୀବିୟା"
+
+msgid "ISO_3166-1.MA"
+msgstr "ମୋରକ୍କୋ"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "ମୋରକ୍କୋ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.MC"
+msgstr "ମୋନାକୋ"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "ମୋନାକୋ ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.MD"
+msgstr "ମାଲଡୋଭା"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "ମାଲଡୋଭା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.ME"
+msgstr "ମୋଣ୍ଟେନୀଗ୍ରୋ"
+
+msgid "ISO_3166-1.MF"
+msgstr "ସେଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)"
+
+msgid "ISO_3166-1.MG"
+msgstr "ମାଡାଗାସ୍କାର"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "ମାଡାଗାସ୍କାର ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MH"
+msgstr "ମାର୍ଶଲ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "ମାର୍ଶାଲ ଦ୍ୱିପ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MK"
+msgstr "ମେସିଡୋନିୟା, ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "ମେସିଡୋନିୟାର ପୂର୍ବତନ ୟୁଗୋସ୍ଲାଭ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.ML"
+msgstr "ମାଲୀ"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "ମାଲୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MM"
+msgstr "ବର୍ମା/ମ୍ଯାଂମାର"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "ଗୁୟାନା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MN"
+msgstr "ମଙ୍ଗୋଲିୟା"
+
+msgid "ISO_3166-1.MO"
+msgstr "ମାକାଓ"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "ଚୀନର ମାକାଓ ବିଶେଷ ପ୍ରଶାସନିକ ଅଞ୍ଚଳ"
+
+msgid "ISO_3166-1.MP"
+msgstr "ଉତ୍ତରୀୟ ମାରୀୟାନା ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "ସର୍ବସାଧାରଣ ଉତ୍ତରୀ ମେରିଆନା ଦ୍ୱୀପପୁଞ୍ଜ"
+
+msgid "ISO_3166-1.MQ"
+msgstr "ମାର୍ଟିନୀକ"
+
+msgid "ISO_3166-1.MR"
+msgstr "ମାରୀଟୋନିୟା"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "ମାରୀଟୋନିୟା ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MS"
+msgstr "ମୋଣ୍ଟସେରାଟ"
+
+msgid "ISO_3166-1.MT"
+msgstr "ମାଲ୍ଟା"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "ମାଲଟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MU"
+msgstr "ମରୀଶସ"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "ମରୀସିଓସ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MV"
+msgstr "ମାଲଦୀଭ"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "ମାଲଦୀଭ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MW"
+msgstr "ମାଲାଓ୍ବି"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "ମାଲାୱି ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.MX"
+msgstr "ମେକ୍ସିକୋ"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "ସଂଯୁକ୍ତ ମେକ୍ସିକାନ ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.MY"
+msgstr "ମାଲେଶିୟା"
+
+msgid "ISO_3166-1.MZ"
+msgstr "ମୋଜାମ୍ବିକ"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "ମୋଜାମ୍ବିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.NA"
+msgstr "ନାମୀବିୟା"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "ନାମୀବିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.NC"
+msgstr "ନ୍ଯୁ କାଲେଡୋନିୟା"
+
+msgid "ISO_3166-1.NE"
+msgstr "ନାଇଜର"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "ନାଇଜର ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.NF"
+msgstr "ନୋରଫୋକ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.NG"
+msgstr "ନିଈଜୀରିୟା"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "ନିଈଜୀରିୟା ଫେଡେରାଲ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.NI"
+msgstr "ନିକାରାଗୁଆ"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "ନିକାରାଗୁଆ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.NL"
+msgstr "ନେଦରଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "ନେଦରଲ୍ଯାଣ୍ଡ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.NO"
+msgstr "ନରୱେ"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "ନରୱେ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.NP"
+msgstr "ନେପାଳ"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "ନେପାଳର ଫେଡେରାଲ ସର୍ବସାଧାରଣ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.NR"
+msgstr "ନୌରୁ"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "ନୌରୁ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.NU"
+msgstr "ନୀଓ୍ବେ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "ନ୍ଯୁଜୀଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.OM"
+msgstr "ଓମାନ"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ଓମାନ ସୁଲତାନେତ"
+
+msgid "ISO_3166-1.PA"
+msgstr "ପାନାମା"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "ପାନାମା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.PE"
+msgstr "ପେରୁ"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "ପେରୁ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.PF"
+msgstr "ଫ୍ରେଞ୍ଚ ପୋଲୀନେସିୟା"
+
+msgid "ISO_3166-1.PG"
+msgstr "ପାପୁଆ ନ୍ଯୁ ଗିନୀ"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "ସାମୋଆ ସ୍ୱାଧିନ ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.PH"
+msgstr "ଫିଲିପାଇନ୍ସ"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "ଫିଲୀପୀନ୍ସ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.PK"
+msgstr "ପାକିସ୍ତାନ"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "ପାକିସ୍ତାନ ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.PL"
+msgstr "ପୋଲାଣ୍ଡ"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "ପୋଲାଣ୍ଡ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.PM"
+msgstr "ସେଣ୍ଟ ପିୟେରୀ ଏବଂ ମିକ୍ବୀଲୋନ"
+
+msgid "ISO_3166-1.PN"
+msgstr "ପିଟକେର୍ନ"
+
+msgid "ISO_3166-1.PR"
+msgstr "ପ୍ଯୂରେଟୋ ରିକୋ"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା"
+
+msgid "ISO_3166-1.PT"
+msgstr "ପର୍ତୁଗାଲ"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "ପର୍ତୁଗୀଜ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.PW"
+msgstr "ପଲାଊ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "ପାଲାଉ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.PY"
+msgstr "ପାରାଗ୍ବେ"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "ପାରାଗୁଏ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.QA"
+msgstr "କତାର"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "କତାର ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.RE"
+msgstr "ରିୟୁନିୟନ"
+
+msgid "ISO_3166-1.RO"
+msgstr "ରୋମାନିୟା"
+
+msgid "ISO_3166-1.RS"
+msgstr "ସର୍ବିଆ"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "ସର୍ବିଆ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.RU"
+msgstr "ଋଷୀ ଫେଡରେଶନ"
+
+msgid "ISO_3166-1.RW"
+msgstr "ରଓ୍ବାଣ୍ଡା"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "ରୁୱାଣ୍ଡା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SA"
+msgstr "ସାଉଦୀ ଆରବ"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "ସାଉଦି ଆରବ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.SB"
+msgstr "ସୋଲୋମୋନ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.SC"
+msgstr "ସେଶେଲସ୍"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "ସେଚେଲସ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SD"
+msgstr "ସୂଡାନ"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "ସୂଡାନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SE"
+msgstr "ସ୍ବୀଡେନ"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "ସ୍ବୀଡେନ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.SG"
+msgstr "ସିଙ୍ଗାପୁର"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "ସିଙ୍ଗାପୁର ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SH"
+msgstr "ସେଣ୍ଟ ହେଲେନା, ଏସେନସନ ଏବଂ ତ୍ରିସ୍ଥାନ ଡା କୁନାହ"
+
+msgid "ISO_3166-1.SI"
+msgstr "ସ୍ଲୋଭାନିୟା"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "ସ୍ଲୋଭେନୀୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SJ"
+msgstr "ଭାଲବର୍ଗ ଏବଂ ଜାନ ମାଏନ"
+
+msgid "ISO_3166-1.SK"
+msgstr "ସ୍ଲୋଭାକିୟା"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "ସ୍ଲୋଭକ୍ ରିପବ୍ଳିକ"
+
+msgid "ISO_3166-1.SL"
+msgstr "ସିୟେରା ଲିୟୋନ"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "ସିଏରା ଲିଓନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SM"
+msgstr "ସେନ ମେରୀନୋ"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "ସାନ ମେରିନୋ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SN"
+msgstr "ସେନେଗାଲ"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "ସେନେଗାଲ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SO"
+msgstr "ସୋମାଲିୟା"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "ଜର୍ମାନୀ ଫେଡେରାଲ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SR"
+msgstr "ସୂରୀନାମ"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "ସୂରୀନାମ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SS"
+msgstr "ସୂଡାନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "ସୂଡାନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.ST"
+msgstr "ସାଓ ଟୋମ ଏବଂ ପ୍ରିନସୀପ"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "ସାଓ ତୋମ ଏବଂ ପ୍ରିନସିପ ପ୍ରଜାତାନ୍ତ୍ରିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SV"
+msgstr "ଅଲ ସଲ୍ଭାଡୋର"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "ଏଲ ସାଲଭାଡୋର ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SX"
+msgstr "ସେଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)"
+
+msgid "ISO_3166-1.SY"
+msgstr "ସିରିଆନ ଆରବ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.SZ"
+msgstr "ସ୍ବାଜୀଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "ସ୍ବାଜୀଲ୍ଯାଣ୍ଡ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.TC"
+msgstr "ତୁର୍କ ଏବଂ କୈକୋସ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.TD"
+msgstr "ଚାଡ୍"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "ଚାଡ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.TF"
+msgstr "ଫ୍ରେଞ୍ଚ ଦାକ୍ଷିଣାତ୍ମକ କ୍ଷେତ୍ର"
+
+msgid "ISO_3166-1.TG"
+msgstr "ଟୋଗୋ"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "ତୋଗୋଲିଜ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.TH"
+msgstr "ଥାଇଲ୍ଯାଣ୍ଡ"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "ଥାଇଲ୍ଯାଣ୍ଡ ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.TJ"
+msgstr "ତାଜୀକିସ୍ତାନ"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "ତାଜୀକିସ୍ତାନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.TK"
+msgstr "ଟୋକେଲୋ"
+
+msgid "ISO_3166-1.TL"
+msgstr "ତିମୋର-ଲେଷ୍ଟେ"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "ତିମୋର-ଲେସ୍ତେ ପ୍ରଜାତାନ୍ତ୍ରିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.TM"
+msgstr "ତୁର୍କମେନିସ୍ତାନ"
+
+msgid "ISO_3166-1.TN"
+msgstr "ଟ୍ଯୁନୀଶିୟା"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "ଟ୍ଯୁନୀଶିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.TO"
+msgstr "ଟୋଙ୍ଗା"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "ଟୋଙ୍ଗା ସାମ୍ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.TR"
+msgstr "ତୁର୍କୀ"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "ତୁର୍କୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.TT"
+msgstr "ତ୍ରିନିଦାଦ ଏବଂ ଟୋବାଗୋ"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "ତ୍ରିନୀଦାଦ ଏବଂ ତୋବାକୋ ପ୍ରଜାତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.TV"
+msgstr "ତୁଭାଲୂ"
+
+msgid "ISO_3166-1.TW"
+msgstr "ତାଇଓ୍ବାନ"
+
+msgid "ISO_3166-1.TZ"
+msgstr "ତାଞ୍ଜାନିଆ, ୟୁକ୍ରେନ ସଂଯୁକ୍ତ"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "ତାଞ୍ଜେରୀୟା ସଂଯୁକ୍ତ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.UA"
+msgstr "ୟୁକ୍ରେନ"
+
+msgid "ISO_3166-1.UG"
+msgstr "ୟୁଗାଣ୍ଡା"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "ଉଗାଣ୍ଡା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.UM"
+msgstr "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ମାଈନର ଆଓଟଲେୟିଙ୍ଗ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.US"
+msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର"
+
+msgid "ISO_3166-1.US#official"
+msgstr "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା"
+
+msgid "ISO_3166-1.UY"
+msgstr "ଉରୁଗ୍ବେ"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "ଉରୁଗୁଏ ପୂର୍ବୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ଉଜବେକିସ୍ତାନ"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "ଉଜବେକିସ୍ତାନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.VA"
+msgstr "ହୋଲି ସମୁଦ୍ର (ଭାଟିକାନ ନଗର ରାଜ୍ୟ)"
+
+msgid "ISO_3166-1.VC"
+msgstr "ସେଣ୍ଟ ଭିନସେଣ୍ଟ ଏବଂ ଗ୍ରେନେଡିସ"
+
+msgid "ISO_3166-1.VE"
+msgstr "ଭେନେଜୁଏଲା"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "ଭେନେଜୁଏଲାର ବୋଲଭେରିଆନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.VG"
+msgstr "ଭର୍ଜିନ ଦ୍ବୀପପୁଞ୍ଜ, ବ୍ରିଟୀଶ"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ବ୍ରିଟିଶ ଭର୍ଜିନ ଦ୍ବୀପ"
+
+msgid "ISO_3166-1.VI"
+msgstr "ଭର୍ଜିନ ଦ୍ବୀପପୁଞ୍ଜ, ଯୁକ୍ତରାଷ୍ଟ୍ର"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକାର ଭିରଜିନ ଦ୍ୱିପପୁଞ୍ଜ"
+
+msgid "ISO_3166-1.VN"
+msgstr "ଭିୟେତନାମ"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "ଭିଏତନାମ ସମାଜତନ୍ତ୍ରବାଦୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.VU"
+msgstr "ଭାନେତୁ"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "ଭାନେତୁ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.WF"
+msgstr "ୱାଲିସ ଏବଂ ଫୁତୁନା"
+
+msgid "ISO_3166-1.WS"
+msgstr "ସାମୋଆ"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "ସାମୋଆ ସ୍ୱାଧିନ ରାଜ୍ୟ"
+
+msgid "ISO_3166-1.YE"
+msgstr "ୟମନ"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "ୟେମନ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.YT"
+msgstr "ମେୟୋଟ"
+
+msgid "ISO_3166-1.ZA"
+msgstr "ଦକ୍ଷିଣ ଆଫ୍ରିକା"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "ଦକ୍ଷିଣ ଆଫ୍ରିକା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.ZM"
+msgstr "ଜାମ୍ବିୟା"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "ଜାମ୍ବିୟା ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-1.ZW"
+msgstr "ଜିମ୍ବାଓ୍ବେ"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "ଜିମ୍ବାୱେ ଗଣତନ୍ତ୍ର"

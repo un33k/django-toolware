@@ -1,0 +1,197 @@
+# Translation of ISO-3166 (country names) to Pushto
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2004-08-08 10:00+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Pushto\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AF"
+msgstr "افغانستان"
+
+msgid "ISO_3166-1.AL"
+msgstr "البانیه"
+
+msgid "ISO_3166-1.AO"
+msgstr "انګولا"
+
+msgid "ISO_3166-1.AQ"
+msgstr "انتارکتیکا"
+
+msgid "ISO_3166-1.AT"
+msgstr "اتریش"
+
+msgid "ISO_3166-1.BD"
+msgstr "بنګله‌دیش"
+
+msgid "ISO_3166-1.BG"
+msgstr "بلغاریه"
+
+msgid "ISO_3166-1.CA"
+msgstr "کاناډا"
+
+msgid "ISO_3166-1.CH"
+msgstr "سویس"
+
+msgid "ISO_3166-1.CN"
+msgstr "چین"
+
+msgid "ISO_3166-1.CO"
+msgstr "کولمبیا"
+
+msgid "ISO_3166-1.CU"
+msgstr "کیوبا"
+
+msgid "ISO_3166-1.DE"
+msgstr "المان"
+
+msgid "ISO_3166-1.DK"
+msgstr "ډنمارک"
+
+msgid "ISO_3166-1.DZ"
+msgstr "الجزایر"
+
+msgid "ISO_3166-1.EG"
+msgstr "مصر"
+
+msgid "ISO_3166-1.ES"
+msgstr "هسپانیه"
+
+msgid "ISO_3166-1.ET"
+msgstr "حبشه"
+
+msgid "ISO_3166-1.FI"
+msgstr "فنلینډ"
+
+msgid "ISO_3166-1.FR"
+msgstr "فرانسه"
+
+msgid "ISO_3166-1.GB"
+msgstr "برتانیه"
+
+msgid "ISO_3166-1.GH"
+msgstr "ګانا"
+
+msgid "ISO_3166-1.GN"
+msgstr "ګیانا"
+
+msgid "ISO_3166-1.GR"
+msgstr "یونان"
+
+msgid "ISO_3166-1.GT"
+msgstr "ګواتیمالا"
+
+msgid "ISO_3166-1.HN"
+msgstr "هانډوراس"
+
+msgid "ISO_3166-1.HU"
+msgstr "مجارستان"
+
+msgid "ISO_3166-1.ID"
+msgstr "اندونیزیا"
+
+msgid "ISO_3166-1.IN"
+msgstr "هند"
+
+msgid "ISO_3166-1.IQ"
+msgstr "عراق"
+
+msgid "ISO_3166-1.IS"
+msgstr "آیسلینډ"
+
+msgid "ISO_3166-1.IT"
+msgstr "ایټالیه"
+
+msgid "ISO_3166-1.JM"
+msgstr "جمیکا"
+
+msgid "ISO_3166-1.JP"
+msgstr "جاپان"
+
+msgid "ISO_3166-1.KH"
+msgstr "کمبودیا"
+
+msgid "ISO_3166-1.KW"
+msgstr "کویټ"
+
+msgid "ISO_3166-1.LB"
+msgstr "لبنان"
+
+msgid "ISO_3166-1.LR"
+msgstr "لایبریا"
+
+msgid "ISO_3166-1.LY"
+msgstr "لایبریا"
+
+msgid "ISO_3166-1.MA"
+msgstr "مراکش"
+
+msgid "ISO_3166-1.MN"
+msgstr "مغولستان"
+
+msgid "ISO_3166-1.MY"
+msgstr "مالیزیا"
+
+msgid "ISO_3166-1.NG"
+msgstr "نایجیریا"
+
+msgid "ISO_3166-1.NI"
+msgstr "نکاراګوا"
+
+msgid "ISO_3166-1.NL"
+msgstr "هالېنډ"
+
+msgid "ISO_3166-1.NO"
+msgstr "ناروې"
+
+msgid "ISO_3166-1.NP"
+msgstr "نیپال"
+
+msgid "ISO_3166-1.NZ"
+msgstr "نیوزیلنډ"
+
+msgid "ISO_3166-1.PK"
+msgstr "پاکستان"
+
+msgid "ISO_3166-1.PL"
+msgstr "پولنډ"
+
+msgid "ISO_3166-1.PT"
+msgstr "پورتګال"
+
+msgid "ISO_3166-1.RS"
+msgstr "الجزایر"
+
+msgid "ISO_3166-1.RW"
+msgstr "روندا"
+
+msgid "ISO_3166-1.SA"
+msgstr "سعودی عربستان"
+
+msgid "ISO_3166-1.SE"
+msgstr "سویډن"
+
+msgid "ISO_3166-1.SV"
+msgstr "سالوېډور"
+
+msgid "ISO_3166-1.TJ"
+msgstr "تاجکستان"
+
+msgid "ISO_3166-1.UY"
+msgstr "یوروګوای"
+
+msgid "ISO_3166-1.YE"
+msgstr "یمن"

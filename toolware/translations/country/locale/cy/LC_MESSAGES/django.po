@@ -1,0 +1,1262 @@
+# Translation of ISO-3166 (country names) to Welsh
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   - translations from ICU-3.0
+#   Dafydd Harries <daf@muse.19inch.net>, 2004,2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-03-04 10:54-0000\n"
+"Last-Translator: Dafydd Tomos <l10n@da.fydd.org>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Andorra"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Tywysogaeth Andorra"
+
+msgid "ISO_3166-1.AE"
+msgstr "Emiriaethau Arabaidd Unedig"
+
+msgid "ISO_3166-1.AF"
+msgstr "Afghanistan"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Gweriniaeth Islamaidd Pacistan"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigua ac Barbuda"
+
+msgid "ISO_3166-1.AI"
+msgstr "Anguilla"
+
+msgid "ISO_3166-1.AL"
+msgstr "Albania"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Gweriniaeth Albania"
+
+msgid "ISO_3166-1.AM"
+msgstr "Armenia"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Gweriniaeth Armenia"
+
+msgid "ISO_3166-1.AO"
+msgstr "Angola"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Gweriniaeth Angola"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Antarctica"
+
+msgid "ISO_3166-1.AR"
+msgstr "Yr Ariannin"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Gweriniaeth yr Ariannin"
+
+msgid "ISO_3166-1.AS"
+msgstr "American Samoa"
+
+msgid "ISO_3166-1.AT"
+msgstr "Awstria"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Gweriniaeth Awstria"
+
+msgid "ISO_3166-1.AU"
+msgstr "Awstralia"
+
+msgid "ISO_3166-1.AW"
+msgstr "Aruba"
+
+msgid "ISO_3166-1.AX"
+msgstr "Ynysoedd Åland"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Azerbaijan"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Gweriniaeth Azerbaijan"
+
+msgid "ISO_3166-1.BA"
+msgstr "Bosnia a Herzegovina"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Gweriniaeth Bosnia a Herzegovina"
+
+msgid "ISO_3166-1.BB"
+msgstr "Barbados"
+
+msgid "ISO_3166-1.BD"
+msgstr "Bangladesh"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Gweriniaeth Pobl Bangladesh"
+
+msgid "ISO_3166-1.BE"
+msgstr "Gwlad Belg"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Brenhiniaeth Belg"
+
+msgid "ISO_3166-1.BF"
+msgstr "Burkina Faso"
+
+msgid "ISO_3166-1.BG"
+msgstr "Bwlgaria"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Gweriniaeth Bwlgaria"
+
+msgid "ISO_3166-1.BH"
+msgstr "Bahrain"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Teyrnas Bahrain"
+
+msgid "ISO_3166-1.BI"
+msgstr "Burundi"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Gweriniaeth Burundi"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Benin"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Gweriniaeth Benin"
+
+msgid "ISO_3166-1.BL"
+msgstr "Saint Barthélemy"
+
+msgid "ISO_3166-1.BM"
+msgstr "Bermuda"
+
+msgid "ISO_3166-1.BN"
+msgstr "Brunei Darussalam"
+
+msgid "ISO_3166-1.BO"
+msgstr "Bolifia"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Gwladwriaeth Amlgenedlaethol Bolifia"
+
+msgid "ISO_3166-1.BQ"
+msgstr "Bonaire, Sint Eustatius a Saba"
+
+msgid "ISO_3166-1.BR"
+msgstr "Brasil"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Gweriniaeth Ffedereiddiol Brasil"
+
+msgid "ISO_3166-1.BS"
+msgstr "Y Bahamas"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "Cymanwlad y Bahamas"
+
+msgid "ISO_3166-1.BT"
+msgstr "Bhutan"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Brenhiniaeth Bhutan"
+
+msgid "ISO_3166-1.BV"
+msgstr "Ynys Bouvet"
+
+msgid "ISO_3166-1.BW"
+msgstr "Botswana"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Gweriniaeth Botswana"
+
+msgid "ISO_3166-1.BY"
+msgstr "Belarws"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Gweriniaeth Belarws"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Belîs"
+
+msgid "ISO_3166-1.CA"
+msgstr "Canada"
+
+msgid "ISO_3166-1.CC"
+msgstr "Ynysoedd Cocos (Keeling)"
+
+msgid "ISO_3166-1.CD"
+msgstr "Congo, Gweriniaeth Ddemocrataidd y"
+
+msgid "ISO_3166-1.CF"
+msgstr "Gweriniaeth Canol Affrica"
+
+msgid "ISO_3166-1.CG"
+msgstr "Congo"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Gweriniaeth y Congo"
+
+msgid "ISO_3166-1.CH"
+msgstr "Y Swistir"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Y Conffederasiwn Swisaidd"
+
+msgid "ISO_3166-1.CI"
+msgstr "Côte d'Ivoire"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Gweriniaeth Côte d'Ivoire"
+
+msgid "ISO_3166-1.CK"
+msgstr "Ynysoedd Cook"
+
+msgid "ISO_3166-1.CL"
+msgstr "Chile"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Gweriniaeth Chile"
+
+msgid "ISO_3166-1.CM"
+msgstr "Cameroon"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Gweriniaeth Cameroon"
+
+msgid "ISO_3166-1.CN"
+msgstr "Tsieina"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Gweriniaeth Pobl Tseina"
+
+msgid "ISO_3166-1.CO"
+msgstr "Colombia"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Gweriniaeth Colombia"
+
+msgid "ISO_3166-1.CR"
+msgstr "Costa Rica"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Gweriniaeth Costa Rica"
+
+msgid "ISO_3166-1.CU"
+msgstr "Ciwba"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Gweriniaeth Ciwba"
+
+msgid "ISO_3166-1.CV"
+msgstr "Cape Verde"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Gweriniaeth Cape Verde"
+
+msgid "ISO_3166-1.CW"
+msgstr "Curaçao"
+
+msgid "ISO_3166-1.CX"
+msgstr "Ynys y Nadolig"
+
+msgid "ISO_3166-1.CY"
+msgstr "Cyprus"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Gweriniaeth Cyprus"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Y Weriniaeth Tsiec"
+
+msgid "ISO_3166-1.DE"
+msgstr "Yr Almaen"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Gweriniaeth Ffederal yr Almaen"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Djibouti"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Gweriniaeth Djibouti"
+
+msgid "ISO_3166-1.DK"
+msgstr "Denmarc"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Brenhiniaeth Denmarc"
+
+msgid "ISO_3166-1.DM"
+msgstr "Dominica"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "Cymanwlad Dominica"
+
+msgid "ISO_3166-1.DO"
+msgstr "Gweriniaeth Dominica"
+
+msgid "ISO_3166-1.DZ"
+msgstr "Algeria"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Gweriniaeth Democratic Pobl Algeria"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ecwador"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Gweriniaeth Ecuador"
+
+msgid "ISO_3166-1.EE"
+msgstr "Estonia"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Gweriniaeth Estonia"
+
+msgid "ISO_3166-1.EG"
+msgstr "Yr Aifft"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Gweriniaeth Arabaidd yr Aifft"
+
+msgid "ISO_3166-1.EH"
+msgstr "Gorllewin Sahara"
+
+msgid "ISO_3166-1.ER"
+msgstr "Eritrea"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Gwladwriaeth Eritrea"
+
+msgid "ISO_3166-1.ES"
+msgstr "Sbaen"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Brenhiniaeth Sbaen"
+
+msgid "ISO_3166-1.ET"
+msgstr "Ethiopia"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Gweriniaeth Democratic Ffederal Ethiopia"
+
+msgid "ISO_3166-1.FI"
+msgstr "Y Ffindir"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Gweriniaeth y Ffindir"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Ffiji"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Gweriniaeth Fiji"
+
+msgid "ISO_3166-1.FK"
+msgstr "Ynysoedd y Falklands (Malvinas)"
+
+msgid "ISO_3166-1.FM"
+msgstr "Micronesia, Taleithiau Cyfunol"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "Taleithiau Cyfunol Micronesia"
+
+msgid "ISO_3166-1.FO"
+msgstr "Ynysoedd y Ffaro"
+
+msgid "ISO_3166-1.FR"
+msgstr "Ffrainc"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Gweriniaeth Ffrainc"
+
+msgid "ISO_3166-1.GA"
+msgstr "Gabon"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Gweriniaeth Gabon"
+
+msgid "ISO_3166-1.GB"
+msgstr "Y Deyrnas Unedig"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Teyrnas Unedig Prydain Fawr a Gogledd Iwerddon"
+
+msgid "ISO_3166-1.GD"
+msgstr "Grenada"
+
+msgid "ISO_3166-1.GE"
+msgstr "Georgia"
+
+msgid "ISO_3166-1.GF"
+msgstr "Guiana Ffrangeg"
+
+msgid "ISO_3166-1.GG"
+msgstr "Guernsey"
+
+msgid "ISO_3166-1.GH"
+msgstr "Ghana"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Gweriniaeth Ghana"
+
+msgid "ISO_3166-1.GI"
+msgstr "Gibraltar"
+
+msgid "ISO_3166-1.GL"
+msgstr "Greenland"
+
+msgid "ISO_3166-1.GM"
+msgstr "Gambia"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Gweriniaeth y Gambia"
+
+msgid "ISO_3166-1.GN"
+msgstr "Guinea"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Gweriniaeth Guinea"
+
+msgid "ISO_3166-1.GP"
+msgstr "Guadeloupe"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Guinea Cyhydeddol"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Gweriniaeth Guinea Cyhydeddol"
+
+msgid "ISO_3166-1.GR"
+msgstr "Groeg"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Gweriniaeth Groeg"
+
+msgid "ISO_3166-1.GS"
+msgstr "De Georgia ac Ynysoedd De Sandwich"
+
+msgid "ISO_3166-1.GT"
+msgstr "Gwatemala"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Gweriniaeth Gwatemala"
+
+msgid "ISO_3166-1.GU"
+msgstr "Guam"
+
+msgid "ISO_3166-1.GW"
+msgstr "Guinea-Bissau"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Gweriniaeth Guinea-Bissau"
+
+msgid "ISO_3166-1.GY"
+msgstr "Guyana"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Gweriniaeth Guyana"
+
+msgid "ISO_3166-1.HK"
+msgstr "Hong Kong"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Hong Kong, Rhanbarth Gweinyddol Arbennig o Tseina"
+
+msgid "ISO_3166-1.HM"
+msgstr "Ynys Heard ac Ynysoedd McDonald"
+
+msgid "ISO_3166-1.HN"
+msgstr "Honduras"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Gweriniaeth Honduras"
+
+msgid "ISO_3166-1.HR"
+msgstr "Croatia"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Gweriniaeth Croatia"
+
+msgid "ISO_3166-1.HT"
+msgstr "Haiti"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Gweriniaeth Haiti"
+
+msgid "ISO_3166-1.HU"
+msgstr "Hwngari"
+
+msgid "ISO_3166-1.ID"
+msgstr "Indonesia"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Gweriniaeth Indonesia"
+
+msgid "ISO_3166-1.IE"
+msgstr "Iwerddon"
+
+msgid "ISO_3166-1.IL"
+msgstr "Israel"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Talaith Israel"
+
+msgid "ISO_3166-1.IM"
+msgstr "Ynys Manaw"
+
+msgid "ISO_3166-1.IN"
+msgstr "India"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Gweriniaeth India"
+
+msgid "ISO_3166-1.IO"
+msgstr "British Indian Ocean Territory"
+
+msgid "ISO_3166-1.IQ"
+msgstr "Irac"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Gweriniaeth Irac"
+
+msgid "ISO_3166-1.IR"
+msgstr "Iran, Gweriniaeth Islamaidd"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Gweriniaeth Islamaidd Iran"
+
+msgid "ISO_3166-1.IS"
+msgstr "Gwlad yr Iâ"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Gweriniaeth Gwlad yr Iâ"
+
+msgid "ISO_3166-1.IT"
+msgstr "Yr Eidal"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Gweriniaeth yr Eidal"
+
+msgid "ISO_3166-1.JE"
+msgstr "Jersey"
+
+msgid "ISO_3166-1.JM"
+msgstr "Jamaica"
+
+msgid "ISO_3166-1.JO"
+msgstr "Gwlad Yr Iorddonen"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "Gweriniaeth Hashemeit yr Iorddonen"
+
+msgid "ISO_3166-1.JP"
+msgstr "Japan"
+
+msgid "ISO_3166-1.KE"
+msgstr "Kenya"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Gweriniaeth Kenya"
+
+msgid "ISO_3166-1.KG"
+msgstr "Kyrgyzstan"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Gweriniaeth Kyrgyz"
+
+msgid "ISO_3166-1.KH"
+msgstr "Cambodia"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Brenhiniaeth Cambodia"
+
+msgid "ISO_3166-1.KI"
+msgstr "Kiribati"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Gweriniaeth y Kiribati"
+
+msgid "ISO_3166-1.KM"
+msgstr "Comoros"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Undeb y Comoros"
+
+msgid "ISO_3166-1.KN"
+msgstr "Saint Kitts a Nevis"
+
+msgid "ISO_3166-1.KP"
+msgstr "Korea (Gweriniaeth Democrataidd Pobl)"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Gweriniaeth Democratic Corëa"
+
+msgid "ISO_3166-1.KR"
+msgstr "Corëa, Gweriniaeth"
+
+msgid "ISO_3166-1.KW"
+msgstr "Coweit"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Talaith Coweit"
+
+msgid "ISO_3166-1.KY"
+msgstr "Ynysoedd y Cayman"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Kazakhstan"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Gweriniaeth Kazakhstan"
+
+msgid "ISO_3166-1.LA"
+msgstr "Gweriniaeth Ddemocrataidd y Bobl Lao"
+
+msgid "ISO_3166-1.LB"
+msgstr "Lebanon"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Gweriniaeth Lebanon"
+
+msgid "ISO_3166-1.LC"
+msgstr "Saint Lucia"
+
+msgid "ISO_3166-1.LI"
+msgstr "Liechtenstein"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Tywysogaeth Liechtenstein"
+
+msgid "ISO_3166-1.LK"
+msgstr "Sri Lanka"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Gweriniaeth Sosialaidd Democrataidd Sri Lanka"
+
+msgid "ISO_3166-1.LR"
+msgstr "Liberia"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Gweriniaeth Liberia"
+
+msgid "ISO_3166-1.LS"
+msgstr "Lesotho"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Brenhiniaeth Lesotho"
+
+msgid "ISO_3166-1.LT"
+msgstr "Lithwania"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Gweriniaeth Lithwania"
+
+msgid "ISO_3166-1.LU"
+msgstr "Lwcsembwrg"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Archddugiaeth Lwcsembwrg"
+
+msgid "ISO_3166-1.LV"
+msgstr "Latfia"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Gweriniaeth Latfia"
+
+msgid "ISO_3166-1.LY"
+msgstr "Libya"
+
+msgid "ISO_3166-1.MA"
+msgstr "Moroco"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Brenhiniaeth Morocco"
+
+msgid "ISO_3166-1.MC"
+msgstr "Monaco"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Tywysogaeth Monaco"
+
+msgid "ISO_3166-1.MD"
+msgstr "Moldofa"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Gweriniaeth Moldova"
+
+msgid "ISO_3166-1.ME"
+msgstr "Montenegro"
+
+msgid "ISO_3166-1.MF"
+msgstr "Saint Martin (rhan Ffrengig)"
+
+msgid "ISO_3166-1.MG"
+msgstr "Madagascar"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Gweriniaeth Madagascar"
+
+msgid "ISO_3166-1.MH"
+msgstr "Ynysoedd Marshall"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Gweriniaeth Ynysoedd Marshall"
+
+msgid "ISO_3166-1.MK"
+msgstr "Macedonia, Gweriniaeth"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Cyn-weriniaeth Iwgoslafaidd Macedonia"
+
+msgid "ISO_3166-1.ML"
+msgstr "Mali"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Gweriniaeth Mali"
+
+msgid "ISO_3166-1.MM"
+msgstr "Myanmar"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Gweriniaeth Myanmar"
+
+msgid "ISO_3166-1.MN"
+msgstr "Mongolia"
+
+msgid "ISO_3166-1.MO"
+msgstr "Macao"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "Rhanbarth Gweinyddol Arbennig o Tseina Macao"
+
+msgid "ISO_3166-1.MP"
+msgstr "Ynysoedd Northern Mariana"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Cymanwlad Ynysoedd Gogleddol Mariana"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Martinique"
+
+msgid "ISO_3166-1.MR"
+msgstr "Mauritania"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Gweriniaeth Islamaidd Mauritania"
+
+msgid "ISO_3166-1.MS"
+msgstr "Montserrat"
+
+msgid "ISO_3166-1.MT"
+msgstr "Malta"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Gweriniaeth Malta"
+
+msgid "ISO_3166-1.MU"
+msgstr "Mauritius"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Gweriniaeth Mauritius"
+
+msgid "ISO_3166-1.MV"
+msgstr "Maldives"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Gweriniaeth y Maldives"
+
+msgid "ISO_3166-1.MW"
+msgstr "Malawi"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Gweriniaeth Malawi"
+
+msgid "ISO_3166-1.MX"
+msgstr "Mecsico"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Taleithiau Unedig Mecsico"
+
+msgid "ISO_3166-1.MY"
+msgstr "Malaysia"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Mozambique"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Gweriniaeth Mozambique"
+
+msgid "ISO_3166-1.NA"
+msgstr "Namibia"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Gweriniaeth Namibia"
+
+msgid "ISO_3166-1.NC"
+msgstr "Caledonia Newydd"
+
+msgid "ISO_3166-1.NE"
+msgstr "Niger"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Gweriniaeth Nigeria"
+
+msgid "ISO_3166-1.NF"
+msgstr "Ynys Norfolk"
+
+msgid "ISO_3166-1.NG"
+msgstr "Nigeria"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Gweriniaeth Ffederal Nigeria"
+
+msgid "ISO_3166-1.NI"
+msgstr "Nicaragua"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Gweriniaeth Nicaragua"
+
+msgid "ISO_3166-1.NL"
+msgstr "Yr Iseldiroedd"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Brenhiniaeth yr Iseldiroedd"
+
+msgid "ISO_3166-1.NO"
+msgstr "Norwy"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Brenhiniaeth Norwy"
+
+msgid "ISO_3166-1.NP"
+msgstr "Nepal"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Gweriniaeth Ddemocrataidd Ffederal Nepal"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nauru"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Gweriniaeth Nauru"
+
+msgid "ISO_3166-1.NU"
+msgstr "Niue"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Seland Newydd"
+
+msgid "ISO_3166-1.OM"
+msgstr "Oman"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Swltaniaeth Oman"
+
+msgid "ISO_3166-1.PA"
+msgstr "Panama"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Gweriniaeth Panama"
+
+msgid "ISO_3166-1.PE"
+msgstr "Periw"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Gweriniaeth Periw"
+
+msgid "ISO_3166-1.PF"
+msgstr "Polynesia Ffrangeg"
+
+msgid "ISO_3166-1.PG"
+msgstr "Papua Guinea Newydd"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Talaith Annibynol Samoa"
+
+msgid "ISO_3166-1.PH"
+msgstr "Pilipinas"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Gweriniaeth y Pilipinas"
+
+msgid "ISO_3166-1.PK"
+msgstr "Pacistan"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Gweriniaeth Islamaidd Pacistan"
+
+msgid "ISO_3166-1.PL"
+msgstr "Gwlad Pwyl"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Gweriniaeth Gwlad Pwyl"
+
+msgid "ISO_3166-1.PM"
+msgstr "Saint Pierre a Miquelon"
+
+msgid "ISO_3166-1.PN"
+msgstr "Pitcairn"
+
+msgid "ISO_3166-1.PR"
+msgstr "Puerto Rico"
+
+msgid "ISO_3166-1.PS"
+msgstr "Palestina, Gwladwriaeth"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Gwladwriaeth Palesteina"
+
+msgid "ISO_3166-1.PT"
+msgstr "Portiwgal"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Gweriniaeth Portiwgal"
+
+msgid "ISO_3166-1.PW"
+msgstr "Palau"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Gweriniaeth Palau"
+
+msgid "ISO_3166-1.PY"
+msgstr "Paraguay"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Gweriniaeth Paraguay"
+
+msgid "ISO_3166-1.QA"
+msgstr "Qatar"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Talaith Qatar"
+
+msgid "ISO_3166-1.RE"
+msgstr "Réunion"
+
+msgid "ISO_3166-1.RO"
+msgstr "Rwmania"
+
+msgid "ISO_3166-1.RS"
+msgstr "Serbia"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Gweriniaeth Serbia"
+
+msgid "ISO_3166-1.RU"
+msgstr "Ffederasiwn Rwsia"
+
+msgid "ISO_3166-1.RW"
+msgstr "Rwanda"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Gweriniaeth Rwanda"
+
+msgid "ISO_3166-1.SA"
+msgstr "Saudi Arabia"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Gweriniaeth Saudi Arabia"
+
+msgid "ISO_3166-1.SB"
+msgstr "Ynysoedd Solomon"
+
+msgid "ISO_3166-1.SC"
+msgstr "Seychelles"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Gweriniaeth y Seychelles"
+
+msgid "ISO_3166-1.SD"
+msgstr "Y Swdan"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Gweriniaeth y Swdan"
+
+msgid "ISO_3166-1.SE"
+msgstr "Sweden"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Gweriniaeth y Swdan"
+
+msgid "ISO_3166-1.SG"
+msgstr "Singapore"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Gweriniaeth Singapore"
+
+msgid "ISO_3166-1.SH"
+msgstr "Saint Helena, Dyrchafael a Tristan da Cunha"
+
+msgid "ISO_3166-1.SI"
+msgstr "Slofenia"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Gweriniaeth Slofenia"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Svalbard a Jan Mayen"
+
+msgid "ISO_3166-1.SK"
+msgstr "Slofacia"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Gweriniaeth Slofacaidd"
+
+msgid "ISO_3166-1.SL"
+msgstr "Sierra Leone"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Gweriniaeth Sierra Leone"
+
+msgid "ISO_3166-1.SM"
+msgstr "San Marino"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Gweriniaeth San Marino"
+
+msgid "ISO_3166-1.SN"
+msgstr "Senegal"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Gweriniaeth Senegal"
+
+msgid "ISO_3166-1.SO"
+msgstr "Somalia"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Gweriniaeth Ffederal yr Almaen"
+
+msgid "ISO_3166-1.SR"
+msgstr "Suriname"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Gweriniaeth y Suriname"
+
+msgid "ISO_3166-1.SS"
+msgstr "De Swdan"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Gweriniaeth De Swdan"
+
+msgid "ISO_3166-1.ST"
+msgstr "Sao Tome a Principe"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "Gweriniaeth Democrataidd Sao Tome a Principe"
+
+msgid "ISO_3166-1.SV"
+msgstr "El Salvador"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Gweriniaeth El Salvador"
+
+msgid "ISO_3166-1.SX"
+msgstr "Sint Maarten (Rhan Iseldiraidd)"
+
+msgid "ISO_3166-1.SY"
+msgstr "Gweriniaeth Arabaidd Syria"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Swaziland"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Brenhiniaeth Swaziland"
+
+msgid "ISO_3166-1.TC"
+msgstr "Ynysoedd y Turks a Caicos"
+
+msgid "ISO_3166-1.TD"
+msgstr "Chad"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Gweriniaeth Chad"
+
+msgid "ISO_3166-1.TF"
+msgstr "French Southern Territories"
+
+msgid "ISO_3166-1.TG"
+msgstr "Togo"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Gweriniaeth Togo"
+
+msgid "ISO_3166-1.TH"
+msgstr "Gwlad Thai"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Brenhiniaeth Gwlad Thai"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Tajikistan"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Gweriniaeth Tajikistan"
+
+msgid "ISO_3166-1.TK"
+msgstr "Tokelau"
+
+msgid "ISO_3166-1.TL"
+msgstr "Timor-Leste"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Gweriniaeth Democratic Timor-Leste"
+
+msgid "ISO_3166-1.TM"
+msgstr "Turkmenistan"
+
+msgid "ISO_3166-1.TN"
+msgstr "Twnisia"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Gweriniaeth Twnisia"
+
+msgid "ISO_3166-1.TO"
+msgstr "Tonga"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Brenhiniaeth Tonga"
+
+msgid "ISO_3166-1.TR"
+msgstr "Twrci"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Gweriniaeth Twrci"
+
+msgid "ISO_3166-1.TT"
+msgstr "Trinidad a Tobago"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Gweriniaeth Trinidad a Tobago"
+
+msgid "ISO_3166-1.TV"
+msgstr "Tuvalu"
+
+msgid "ISO_3166-1.TW"
+msgstr "Taiwan"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Tanzania, Gweriniaeth Unedig"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Gweriniaeth Unedig Tanzania"
+
+msgid "ISO_3166-1.UA"
+msgstr "Wcrain"
+
+msgid "ISO_3166-1.UG"
+msgstr "Uganda"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Gweriniaeth Uganda"
+
+msgid "ISO_3166-1.UM"
+msgstr "Mân Ynysoedd Pellenig yr Unol Daleithiau"
+
+msgid "ISO_3166-1.US"
+msgstr "Yr Unol Daleithiau"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Unol Daleithiau America"
+
+msgid "ISO_3166-1.UY"
+msgstr "Uruguay"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Gweriniaeth Dwyreiniol Uruguay"
+
+msgid "ISO_3166-1.UZ"
+msgstr "Wsbecistan"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Gweriniaeth Wsbecistan"
+
+msgid "ISO_3166-1.VA"
+msgstr "Yr Esgobaeth Sanctaidd (Talaith Dinas y Fatican)"
+
+msgid "ISO_3166-1.VC"
+msgstr "Saint Vincent a'r Grenadines"
+
+msgid "ISO_3166-1.VE"
+msgstr "Venezuela"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Gweriniaeth Bolifiaraidd Venezuela"
+
+msgid "ISO_3166-1.VG"
+msgstr "Ynysoedd Virgin, Prydeinig"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Ynysoedd Virgin Prydain"
+
+msgid "ISO_3166-1.VI"
+msgstr "Ynysoedd Virgin, U.D.A."
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Ynysoedd Virgin Unol Daleithiau America"
+
+msgid "ISO_3166-1.VN"
+msgstr "Fietnam"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Gweriniaeth Sosialaidd Fietnam"
+
+msgid "ISO_3166-1.VU"
+msgstr "Vanuatu"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Gweriniaeth Vanuatu"
+
+msgid "ISO_3166-1.WF"
+msgstr "Wallis a Futuna"
+
+msgid "ISO_3166-1.WS"
+msgstr "Samoa"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Talaith Annibynol Samoa"
+
+msgid "ISO_3166-1.YE"
+msgstr "Yemen"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Gweriniaeth Yemen"
+
+msgid "ISO_3166-1.YT"
+msgstr "Mayotte"
+
+msgid "ISO_3166-1.ZA"
+msgstr "De Affrica"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Gweriniaeth De Affrica"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Zambia"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Gweriniaeth Zambia"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Zimbabwe"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Gweriniaeth Zimbabwe"

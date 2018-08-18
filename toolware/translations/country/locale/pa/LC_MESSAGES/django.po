@@ -1,0 +1,1246 @@
+# Translation of ISO-3166 (country names) to Panjabi
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Amanpreet Singh Alam[ਆਲਮ] <amanpreetalam@yahoo.com>, 2005.
+# A S Alam <apbrar@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2009-05-29 05:58+0530\n"
+"Last-Translator: A S Alam <apbrar@gmail.com>\n"
+"Language-Team: Punjabi <punjabi-l10n@lists.sourceforge.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "ਅਡੂਰਾ"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "ਅਡੂਰਾ ਦਾ ਖੇਤਰ"
+
+msgid "ISO_3166-1.AE"
+msgstr "ਸੰਯੁਕਤ ਰਾਜ ਅਮੀਰਾਤ"
+
+msgid "ISO_3166-1.AF"
+msgstr "ਅਫਗਾਨਿਸਤਾਨ"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "ਇਸਲਾਮੀ ਗਣਰਾਜ ਅਫਗਾਨਿਸਤਾਨ"
+
+msgid "ISO_3166-1.AG"
+msgstr "ਐਟੀਗੂਆ ਤੇ ਬਾਰਬੂਡਾ"
+
+msgid "ISO_3166-1.AI"
+msgstr "ਅੰਗੂਲੀਆਂ"
+
+msgid "ISO_3166-1.AL"
+msgstr "ਅਲਬੀਨਾ"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "ਅਲਬਾਨੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.AM"
+msgstr "ਅਰਮੀਨਾ"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "ਅਰਮੀਨੀਅਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.AO"
+msgstr "ਅੰਗੋਲਾ"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "ਅੰਗੋਲਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.AQ"
+msgstr "ਅੰਟਾਰਿਕਟਾ"
+
+msgid "ISO_3166-1.AR"
+msgstr "ਅਰਜਨਟੀਨਾ"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "ਅਰਜਨਟੀਨਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.AS"
+msgstr "ਅਮਰੀਕੀ ਸਾਮੋਨਾ"
+
+msgid "ISO_3166-1.AT"
+msgstr "ਆਸਟਰੀਆ"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "ਆਸਟਰੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.AU"
+msgstr "ਅਸਟਰੇਲੀਆ"
+
+msgid "ISO_3166-1.AW"
+msgstr "ਅਰੂਬਾ"
+
+msgid "ISO_3166-1.AX"
+msgstr "ਏਲੈਂਡ ਟਾਪੂ"
+
+msgid "ISO_3166-1.AZ"
+msgstr "ਅਜ਼ਰਬਾਈਜਾਨ"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "ਅਜਰਬਾਈਜਾਨੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BA"
+msgstr "ਬੋਸਨੀਆ ਤੇ ਹਰਜ਼ੀਗੋਨੀਆ"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "ਬੋਸਨੀਆ ਤੇ ਹਰਜ਼ੀਗੋਨੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BB"
+msgstr "ਬਾਰਬਾਡਾਸ"
+
+msgid "ISO_3166-1.BD"
+msgstr "ਬੰਗਲਾਦੇਸ਼"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "ਬੰਗਲਾਦੇਸ਼ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BE"
+msgstr "ਬੈਲਜੀਅਮ"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "ਬੈਲਜੀਅਮ ਰਾਜ"
+
+msgid "ISO_3166-1.BF"
+msgstr "ਬੂਪਕੀਨਾ ਫਾਸੋ"
+
+msgid "ISO_3166-1.BG"
+msgstr "ਬੁਲਗਾਰੀਆ"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "ਬੁਲਗਾਰੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BH"
+msgstr "ਬਹਿਰਾਨ"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "ਬਹਿਰਾਨ ਰਾਜ"
+
+msgid "ISO_3166-1.BI"
+msgstr "ਬੂਰੂਮਾਡੀ"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "ਬੂਰੂਮਾਡੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BJ"
+msgstr "ਬੀਨਾਨ"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "ਬੀਨਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BL"
+msgstr "ਸੇਂਟ ਬਰਥੀਲੀਮੇ"
+
+msgid "ISO_3166-1.BM"
+msgstr "ਬਾਰਾਮੂਡਾ"
+
+msgid "ISO_3166-1.BN"
+msgstr "ਬਰੂਨਈ ਡਾਰੂਸ਼ਲਾਮ"
+
+msgid "ISO_3166-1.BO"
+msgstr "ਬੋਲੋਵੀਆ"
+
+msgid "ISO_3166-1.BR"
+msgstr "ਬਰਾਜ਼ੀਲ"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "ਬਰਾਜ਼ੀਲ ਸੰਘੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BS"
+msgstr "ਬਾਹਾਮਾਸ"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "ਬਾਹਾਮਾਸ ਦਾ ਸੰਘ"
+
+msgid "ISO_3166-1.BT"
+msgstr "ਭੁਟਾਨ"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "ਭੁਟਾਨ ਰਾਜ"
+
+msgid "ISO_3166-1.BV"
+msgstr "ਬੂਟਵਟ ਟਾਪੂ"
+
+msgid "ISO_3166-1.BW"
+msgstr "ਬੂਟਸਵਾਨਾ"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "ਬੂਟਸਵਾਨਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BY"
+msgstr "ਬੇਲਾਰੂਸ"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "ਬੇਲਾਰੂਸ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.BZ"
+msgstr "ਬੀਲੀਜ਼ੀ"
+
+msgid "ISO_3166-1.CA"
+msgstr "ਕੈਨੇਡਾ"
+
+msgid "ISO_3166-1.CC"
+msgstr "ਕੋਕੋਸ(ਕਿਲਿੰਗ) ਟਾਪੂ"
+
+msgid "ISO_3166-1.CD"
+msgstr "ਕੌਂਗੋ, ਇਸ ਦਾ ਜਮਹੂਰੀ ਲੋਕਤੰਤਰ"
+
+msgid "ISO_3166-1.CF"
+msgstr "ਕੇਂਦਰੀ ਅਫਰੀਕਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CG"
+msgstr "ਕਾਂਗੋ"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "ਕਾਂਗੋ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CH"
+msgstr "ਸਵਿਟਰਜ਼ਰਲੈਂਡ"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "ਸਵਿਸ ਕੰਫੈਡਰੇਸ਼ਨ"
+
+msgid "ISO_3166-1.CI"
+msgstr "ਕੋਟ ਡੀਵੋਈਰੀ"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "ਕੋਟ ਡੀਵੋਈਰੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CK"
+msgstr "ਕੁੱਕ ਟਾਪੂ"
+
+msgid "ISO_3166-1.CL"
+msgstr "ਚਿੱਲੀ"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "ਚਿੱਲੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CM"
+msgstr "ਕੈਮਰੂਨ"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "ਕੈਮਰੂਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CN"
+msgstr "ਚੀਨ"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "ਚੀਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CO"
+msgstr "ਕੋਲੰਬੀਆ"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "ਕੋਲੰਬੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CR"
+msgstr "ਕਾਸਟ ਰੀਕਾ"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "ਕਾਸਟ ਰੀਕਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CU"
+msgstr "ਕਿਊਬਾ"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "ਕਿਊਬਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CV"
+msgstr "ਕੇਪ ਵਾਰਡੀ"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "ਕੇਪ ਵਾਰਡੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CX"
+msgstr "ਕ੍ਰਿਸਮਿਸ ਟਾਪੂ"
+
+msgid "ISO_3166-1.CY"
+msgstr "ਕਿਊਰੂਸ"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "ਕਿਊਰੂਸ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "ਚੈੱਕ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.DE"
+msgstr "ਜਰਮਨੀ"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "ਸੰਘੀ ਜਰਮਨੀ"
+
+msgid "ISO_3166-1.DJ"
+msgstr "ਡਜੀਬੂਟੀ"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "ਡਜੀਬੂਟੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.DK"
+msgstr "ਡੈਨਮਾਰਕ"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "ਡੈਨਮਾਰਕ ਰਾਜ"
+
+msgid "ISO_3166-1.DM"
+msgstr "ਡੋਮੀਨੀਆ"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "ਡੋਮੀਨੀਆ ਸੰਘ"
+
+msgid "ISO_3166-1.DO"
+msgstr "ਡੋਮੀਨੀਆਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.DZ"
+msgstr "ਅਲਜੀਰੀਆ"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "ਅਲਜੀਰੀਆ ਦਾ ਲੋਕਤੰਤਰ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.EC"
+msgstr "ਏਕਵੇਡਰ"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "ਏਕਵੇਡਰ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.EE"
+msgstr "ਈਸਟੋਨੀਆ"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "ਈਸਟੋਨੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.EG"
+msgstr "ਮਿਸਰ"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "ਮਿਸਰ ਅਰਬ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.EH"
+msgstr "ਦੱਖਣੀ ਸਹਾਰਾ"
+
+msgid "ISO_3166-1.ER"
+msgstr "ਈਰਟੀਰਆ"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ"
+
+msgid "ISO_3166-1.ES"
+msgstr "ਸਪੇਨ"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "ਸਪੇਨ ਦੇਸ਼"
+
+msgid "ISO_3166-1.ET"
+msgstr "ਈਥੋਪਈਆ"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "ਈਥੋਪਈਆ ਦਾ ਸੰਘੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.FI"
+msgstr "ਫ਼ਿਨਲੈਂਡ"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "ਫਿਨਲੈਂਡ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ਫਿਜ਼ੀ"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "ਹਾਈਟੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.FK"
+msgstr "ਫਾਕਲੈਂਡ ਟਾਪੂ (ਮਾਲਵੀਨਸ)"
+
+msgid "ISO_3166-1.FM"
+msgstr "ਮਾਈਕਰੋਨੇਸਿਆ, ਸੰਘ"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "ਮਾਈਕਰੋਨੇਸਿਆ ਦੇ ਸੰਘੀ ਸੂਬੇ"
+
+msgid "ISO_3166-1.FO"
+msgstr "ਫਾਰੀਓ ਟਾਪੂ"
+
+msgid "ISO_3166-1.FR"
+msgstr "ਫਰਾਂਸ"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "ਫਰੈਂਚ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GA"
+msgstr "ਗਾਬੋਨ"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "ਗਬੋਨੀਸੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GB"
+msgstr "ਬਰਤਾਨੀਆ"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "ਬਰਤਾਨੀਆ ਅਤੇ ਉੱਤਰੀ ਆਈਰਲੈਂਡ ਦਾ ਸੰਯੁਕਤ ਦੇਸ਼"
+
+msgid "ISO_3166-1.GD"
+msgstr "ਗਰੀਨਾਡਾਆ"
+
+msgid "ISO_3166-1.GE"
+msgstr "ਜਾਰਜੀਆ"
+
+msgid "ISO_3166-1.GF"
+msgstr "ਫਰੈਂਚ ਗੁਆਨਾ"
+
+msgid "ISO_3166-1.GG"
+msgstr "ਗੁਰੀਨਸੇ"
+
+msgid "ISO_3166-1.GH"
+msgstr "ਘਾਨਾ"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "ਘਾਨਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GI"
+msgstr "ਗੀਬਰਾਲਟਰ"
+
+msgid "ISO_3166-1.GL"
+msgstr "ਗਰੀਨਲੈਂਡ"
+
+msgid "ISO_3166-1.GM"
+msgstr "ਗਾਬੀਆ"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "ਗੈਂਬੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GN"
+msgstr "ਗੂਈਨੀਆ"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "ਗੂਈਨੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GP"
+msgstr "ਗੁਆਡੀਲੂਪੀ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ਭੂ-ਖੰਡੀ ਗੁਆਨਾ"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "ਭੂ-ਖੰਡੀ ਗੁਆਨਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GR"
+msgstr "ਗਰੀਸ"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "ਹਿੱਲਨਿਕ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GS"
+msgstr "ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂਡਵਿਚ ਟਾਪੂ"
+
+msgid "ISO_3166-1.GT"
+msgstr "ਗੁਆਟੇਮਾਲਾ"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "ਗੁਆਟੇਮਾਲਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GU"
+msgstr "ਗੁਆਮ"
+
+msgid "ISO_3166-1.GW"
+msgstr "ਗੁਨੇਆ-ਬਿਸਾਉ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "ਗੁਨੇਆ-ਬਿਸਾਉ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.GY"
+msgstr "ਗੁਆਨਾ"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "ਗੁਆਨਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.HK"
+msgstr "ਹਾਂਗ ਕਾਂਗ"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "ਹਾਂਗ ਕਾਂਗ ਖਾਸ ਚੀਨੀ ਪਰਸ਼ਾਸਕੀ ਖੇਤਰ"
+
+msgid "ISO_3166-1.HM"
+msgstr "ਹਾਰਡ ਟਾਪੂ ਅਤੇ ਮੈਕਡਾਨਲਡ ਟਾਪੂ"
+
+msgid "ISO_3166-1.HN"
+msgstr "ਹਾਨਡੂਰਸ"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "ਹਾਨਡੂਰਸ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.HR"
+msgstr "ਕਰੋਟੀਆ"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "ਕਰੋਟੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.HT"
+msgstr "ਹਾਈਟੀ"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "ਹਾਈਟੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.HU"
+msgstr "ਹੰਗਰੀ"
+
+msgid "ISO_3166-1.ID"
+msgstr "ਇੰਡੋਨੇਸ਼ੀਆ"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "ਇੰਡੋਨੇਸ਼ੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.IE"
+msgstr "ਆਈਰਲੈਂਡ"
+
+msgid "ISO_3166-1.IL"
+msgstr "ਇਜ਼ਰਾਈਲ"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "ਇਸਰਾਇਲ ਸੂਬਾ"
+
+msgid "ISO_3166-1.IM"
+msgstr "ਇਸਲੇ ਆਫ ਮੈਨ"
+
+msgid "ISO_3166-1.IN"
+msgstr "ਭਾਰਤ"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "ਭਾਰਤ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.IO"
+msgstr "ਬਰਤਾਨੀਆ ਭਾਰਤੀ ਸਮੁੰਦਰੀ ਖੇਤਰ"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ਇਰਾਕ"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "ਇਰਾਕ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.IR"
+msgstr "ਈਰਾਨ, ਮੁਸਲਮਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ਈਰਾਨ ਇਸਲਾਮਿਕ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.IS"
+msgstr "ਆਈਸਲੈਂਡ"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "ਆਈਸਲੈਂਡ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.IT"
+msgstr "ਇਟਲੀ"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ਇਤਾਲਵੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.JE"
+msgstr "ਜਰਸੀ"
+
+msgid "ISO_3166-1.JM"
+msgstr "ਜੈਮਾਈਕਾ"
+
+msgid "ISO_3166-1.JO"
+msgstr "ਜਾਰਡਨ"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "ਜਾਰਡਨ ਦਾ ਹਾਸ਼ੀਮਿਟੀ ਖੇਤਰ"
+
+msgid "ISO_3166-1.JP"
+msgstr "ਜਾਪਾਨ"
+
+msgid "ISO_3166-1.KE"
+msgstr "ਕੀਨੀਆ"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "ਕੀਨੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.KG"
+msgstr "ਕਿਰਗਸਤਾਨ"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "ਕਿਰਗਸਤਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.KH"
+msgstr "ਕੋਲੰਬੀਆ"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "ਕੋਲੰਬੀਆ ਰਾਜ"
+
+msgid "ISO_3166-1.KI"
+msgstr "ਕੀਰੀਬਾਟੀ"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "ਕੀਰੀਬਾਟੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.KM"
+msgstr "ਕੋਮੋਰਸ"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "ਕੋਮੋਰਸ ਸੰਘ"
+
+msgid "ISO_3166-1.KN"
+msgstr "ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵੀਸ"
+
+msgid "ISO_3166-1.KP"
+msgstr "ਕੋਰੀਆ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "ਕੋਰੀਆ ਦਾ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.KR"
+msgstr "ਕੋਰੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.KW"
+msgstr "ਕੁਵੈਤ"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "ਕੁਵੈਤ ਸੂਬਾ"
+
+msgid "ISO_3166-1.KY"
+msgstr "ਕਾਯਮਨ ਟਾਪੂ"
+
+msgid "ISO_3166-1.KZ"
+msgstr "ਕਜ਼ਾਕਸਤਾਨ"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "ਕਜ਼ਾਕਸਤਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.LA"
+msgstr "ਲਿਓ ਪੀਪਲ ਦਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.LB"
+msgstr "ਲੀਬਨਾਨ"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "ਲੀਬਾਂਈਸ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.LC"
+msgstr "ਸੇਂਟ ਲੂਸੀਆ"
+
+msgid "ISO_3166-1.LI"
+msgstr "ਲੀਚਟੀਨੀਆ"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "ਲੀਚਟੀਨੀਆ ਖੇਤਰ"
+
+msgid "ISO_3166-1.LK"
+msgstr "ਸ੍ਰੀਲੰਕਾ"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "ਸ੍ਰੀਲੰਕਾ ਸਮਾਜਵਾਦੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.LR"
+msgstr "ਲੀਬਾਰੀਆ"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "ਲੀਬਾਰੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.LS"
+msgstr "ਲੀਸੋਥੋ"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "ਲੀਸੋਥੋ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.LT"
+msgstr "ਲੀਥੂਨੀਆ"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "ਲੀਥੂਨੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.LU"
+msgstr "ਲ਼ਕਸ਼ਬਰਗ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "ਲ਼ਕਸ਼ਬਰਗ ਦਾ ਖੇਤਰ"
+
+msgid "ISO_3166-1.LV"
+msgstr "ਲਾਟੀਵਾਆ"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "ਲਾਟੀਵਾਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.LY"
+msgstr "ਲੀਬਾਰੀਆ"
+
+msgid "ISO_3166-1.MA"
+msgstr "ਮੋਰੋਸ਼ਸੋ"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "ਮੋਰੋਸ਼ਸੋ ਰਾਜ"
+
+msgid "ISO_3166-1.MC"
+msgstr "ਮੋਨਕੋ"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "ਮੋਨਕੋ ਖੇਤਰ"
+
+msgid "ISO_3166-1.MD"
+msgstr "ਮੋਲਡੀਵਾ"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "ਮੋਲਡੋਵਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.ME"
+msgstr "ਮੋਨਟੇਨੇਗਰੋ"
+
+msgid "ISO_3166-1.MF"
+msgstr "ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)"
+
+msgid "ISO_3166-1.MG"
+msgstr "ਮੈਡਾਗਾਸਕਰ"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "ਮੈਡਾਗਾਸਕਰ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MH"
+msgstr "ਮਾਰਸ਼ਲ ਟਾਪੂ"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "ਮਾਰਸ਼ਲ ਟਾਪੂ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MK"
+msgstr "ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "ਮੈਕਡੋਨੀਆ ਦਾ ਪੁਰਾਣਾ ਯੂਗੋਸਲਾਵ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.ML"
+msgstr "ਮਾਲੀ"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "ਮਾਲੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MM"
+msgstr "ਮਿਆਂਮਾਰ"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "ਗੁਆਨਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MN"
+msgstr "ਮੰਗੋਲੀਆ"
+
+msgid "ISO_3166-1.MO"
+msgstr "ਮੈਕੋ"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "ਮੈਕੋ ਚੀਨ ਦਾ ਖਾਸ ਪਰਸ਼ਾਸਕੀ ਖੇਤਰ"
+
+msgid "ISO_3166-1.MP"
+msgstr "ਉੱਤਰੀ ਮਰੀਵੀਆਨਾ ਟਾਪੂ"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "ਸੰਘੀ ਉੱਤਰੀ ਮਰੀਵੀਆਨਾ ਟਾਪੂ"
+
+msgid "ISO_3166-1.MQ"
+msgstr "ਮਾਰਟੀਨੀਕਿਊ"
+
+msgid "ISO_3166-1.MR"
+msgstr "ਮਾਓਰੀਟਆਨਾ"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "ਮਾਓਰੀਟਆਨਾ ਇਸਲਾਮੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MS"
+msgstr "ਮੋਨਟਸ਼ਟੀਟ"
+
+msgid "ISO_3166-1.MT"
+msgstr "ਮਾਲਟਾ"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "ਮਾਲਟਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MU"
+msgstr "ਮਾਓਟੀਸ"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "ਮਾਓਟੀਸ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MV"
+msgstr "ਮਾਲਦੀਵ"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "ਮਾਲਦੀਵ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MW"
+msgstr "ਮਾਲਾਵੀਆ"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "ਮਾਲਾਵੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.MX"
+msgstr "ਮੈਕਸੀਕੋ"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "ਸੰਯੁਕਤ ਮੈਕਸਕੀ ਸੂਬੇ"
+
+msgid "ISO_3166-1.MY"
+msgstr "ਮਲੇਸ਼ੀਆ"
+
+msgid "ISO_3166-1.MZ"
+msgstr "ਮੋਜ਼ਾਮਬੀਕਿਉ"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "ਮੋਜ਼ਾਮਬੀਕਿਉ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.NA"
+msgstr "ਨੀਮੀਬੀਆ"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "ਨੀਮੀਬੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.NC"
+msgstr "ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ"
+
+msgid "ISO_3166-1.NE"
+msgstr "ਨੀਜ਼ਰ"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "ਨੀਜ਼ਰ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.NF"
+msgstr "ਨੋਰਫੋਕ ਟਾਪੂ"
+
+msgid "ISO_3166-1.NG"
+msgstr "ਨੀਜ਼ੀਰਆ"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "ਨੀਜ਼ੀਰਆ ਸੰਘੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.NI"
+msgstr "ਨਿਕਾਰਗੁਆ"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "ਨਿਕਾਰਗੁਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.NL"
+msgstr "ਨੀਂਦਰਲੈਂਡ"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "ਨੀਂਦਰਲੈਂਡ "
+
+msgid "ISO_3166-1.NO"
+msgstr "ਨਾਰਵੇ"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "ਨਾਰਵੇ ਰਾਜ"
+
+msgid "ISO_3166-1.NP"
+msgstr "ਨੇਪਾਲ"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "ਨੇਪਾਲ ਸੰਘੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.NR"
+msgstr "ਨੀਓਰੂ"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "ਨੀਓਰੂ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.NU"
+msgstr "ਨੀਊਈ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "ਨਿਊਜ਼ੀਲੈਂਡ"
+
+msgid "ISO_3166-1.OM"
+msgstr "ਓਮਾਨ"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ਓਮਾਨ ਦਾ ਸਲਨਾਟੀ"
+
+msgid "ISO_3166-1.PA"
+msgstr "ਪੈਨਾਮਾ"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "ਪੈਨਾਮਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.PE"
+msgstr "ਪੇਰੂ"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "ਪੇਰੂ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.PF"
+msgstr "ਫਰੈਚ ਪੋਲੀਸੇਲੇਵੀਆ"
+
+msgid "ISO_3166-1.PG"
+msgstr "ਪਾਪੂਆ ਨਵਾਂ ਗੂਈਨਿਆ"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "ਸਮੋਆ ਦਾ ਅਜ਼ਾਦ ਸੂਬਾ"
+
+msgid "ISO_3166-1.PH"
+msgstr "ਫਿਲਿਪੀਨੀਜ਼"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "ਫਿਲਿਪੀਨੀਜ਼ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.PK"
+msgstr "ਪਾਕਿਸਤਾਨ"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "ਪਾਕਿਸਤਾਨ ਇਸਲਾਮੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.PL"
+msgstr "ਪੋਲੈਂਡ"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "ਪੋਲੈਂਡ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.PM"
+msgstr "ਸੇਂਟ ਪਿੱਰੇ ਅਤੇ ਮੀਕੇਲੋਨ"
+
+msgid "ISO_3166-1.PN"
+msgstr "ਪਿਟਸਾਰਨ"
+
+msgid "ISO_3166-1.PR"
+msgstr "ਪੁਈਰਟੋ ਰੀਸੋ"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ"
+
+msgid "ISO_3166-1.PT"
+msgstr "ਪੁਰਤਗਾਲ"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "ਪੁਰਤਗਾਲ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.PW"
+msgstr "ਪਲਾਊ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "ਪਲਾਊ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.PY"
+msgstr "ਪੇਰੂਗਵੇ"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "ਪੇਰੂਗਵੇ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.QA"
+msgstr "ਕਤਰ"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "ਕਤਰ ਸੂਬਾ"
+
+msgid "ISO_3166-1.RE"
+msgstr "ਰੀਯੁਨੀਅਨ"
+
+msgid "ISO_3166-1.RO"
+msgstr "ਰੋਮਾਨੀਆ"
+
+msgid "ISO_3166-1.RS"
+msgstr "ਸੀਰਬੀਆ"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "ਸੀਰਬੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.RU"
+msgstr "ਰੂਸੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.RW"
+msgstr "ਰਵਾਂਡਾ"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "ਰਵਾਂਡਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SA"
+msgstr "ਸਾਊਦੀ ਅਰਬ"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "ਸਾਊਦੀ ਅਰਬ"
+
+msgid "ISO_3166-1.SB"
+msgstr "ਸੋਲੋਮੋਨ ਟਾਪੂ"
+
+msgid "ISO_3166-1.SC"
+msgstr "ਸੀਆਚਿਲਸ"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "ਸੀਆਚਿਲਸ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SD"
+msgstr "ਸੂਡਾਨ"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "ਸੂਡਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SE"
+msgstr "ਸਵੀਡਨ"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "ਸਵੀਡਨ ਖੇਤਰ"
+
+msgid "ISO_3166-1.SG"
+msgstr "ਸਿੰਘਾਪੁਰ"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "ਸਿੰਘਾਪੁਰ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SI"
+msgstr "ਸਲੋਵੀਨੀਆ"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "ਸਲੋਵੀਨੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SJ"
+msgstr "ਸਵਾਲਬਰਡ ਅਤੇ ਜਨ ਮਾਯੀਨ"
+
+msgid "ISO_3166-1.SK"
+msgstr "ਸਲੋਵਾਕੀਆ"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "ਸਲੋਵਾਕ ਲੋਕਤੰਤਰ"
+
+msgid "ISO_3166-1.SL"
+msgstr "ਸੀਈਰਆ ਲਿਏਨ"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "ਸੀਈਰਆ ਲਿਏਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SM"
+msgstr "ਸਾਨ ਮਾਰੀਨੂ"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "ਸਾਨ ਮਾਰੀਨੂ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SN"
+msgstr "ਸੈਨੇਗਾਲ"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "ਸੈਨੇਗਾਲ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SO"
+msgstr "ਸੋਮਾਲੀਆ"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "ਸੰਘੀ ਜਰਮਨੀ"
+
+msgid "ISO_3166-1.SR"
+msgstr "ਸੂਰੀਨੇਮ"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "ਸੂਰੀਨੇਮ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SS"
+msgstr "ਸੂਡਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "ਸੂਡਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.ST"
+msgstr "ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿਨਸਾਈਪ"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿਨਸਾਈਪ ਦਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SV"
+msgstr "ਈਲ ਸਾਲੇਵਡੋਰ"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "ਈਲ ਸਾਲੇਵਡੋਰ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SX"
+msgstr "ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)"
+
+msgid "ISO_3166-1.SY"
+msgstr "ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.SZ"
+msgstr "ਸਵਰਜ਼ਲੈਂਡ"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "ਸਵਰਜ਼ਲੈਂਡ ਟਾਪੂ"
+
+msgid "ISO_3166-1.TC"
+msgstr "ਤੁਰਕਸ ਅਤੇ ਕੇਈਕੋਸ ਟਾਪੂ"
+
+msgid "ISO_3166-1.TD"
+msgstr "ਚਾਦ"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "ਚਾਦ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TF"
+msgstr "ਫਰੈਂਚ ਦੱਖਣੀ ਖੇਤਰ"
+
+msgid "ISO_3166-1.TG"
+msgstr "ਟੋਗੋ"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "ਟੋਗੋ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TH"
+msgstr "ਥਾਈਲੈਂਡ"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "ਥਾਈਲੈਂਡ ਦੇਸ਼"
+
+msgid "ISO_3166-1.TJ"
+msgstr "ਤਜ਼ਾਕਸਤਾਨ"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "ਤਜ਼ਾਕਸਤਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TK"
+msgstr "ਟੂਕੀਲਾਊ"
+
+msgid "ISO_3166-1.TL"
+msgstr "ਟੀਮੁਰ-ਲੀਸਟੀ"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "ਵਟੀਮੁਰ-ਲੀਸਟੀ ਦਾ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TM"
+msgstr "ਤੁਰਕਮਸਤਾਨ"
+
+msgid "ISO_3166-1.TN"
+msgstr "ਟਿਊਨੀਸ਼ੀਆ"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "ਟਿਊਨੀਸ਼ੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TO"
+msgstr "ਟਾਂਗਾ"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "ਟਾਂਗਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TR"
+msgstr "ਤੁਰਕੀ"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "ਤੁਰਕ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TT"
+msgstr "ਟਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੇਗੋ"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "ਟਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੇਗੋ ਦਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TV"
+msgstr "ਟੂਵਾਲੂ"
+
+msgid "ISO_3166-1.TW"
+msgstr "ਤਾਈਵਾਨ"
+
+msgid "ISO_3166-1.TZ"
+msgstr "ਤਨਜ਼ਾਨੀਆ, ਸੰਯੁਕਤ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "ਤਨਜ਼ਾਨੀਆ ਸੰਯੁਕਤ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.UA"
+msgstr "ਯੂਕਰੇਨ"
+
+msgid "ISO_3166-1.UG"
+msgstr "ਯੂਗਾਂਡਾ"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "ਯੂਗਾਂਡਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.UM"
+msgstr "ਅਮਰੀਕਾ ਦੇ ਛੋਟੇ ਟਾਪੂ"
+
+msgid "ISO_3166-1.US"
+msgstr "ਅਮਰੀਕਾ"
+
+msgid "ISO_3166-1.US#official"
+msgstr "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ"
+
+msgid "ISO_3166-1.UY"
+msgstr "ਉਰੂਗਵੇ"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "ਉਰੂਗਵੇ ਪੂਰਬੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ਉਜ਼ੇਬਕਸਤਾਨ"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "ਉਜ਼ੇਬਕਸਤਾਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.VA"
+msgstr "ਹੋਲੀ ਸੀ (ਵੇਟੀਕੈਨ ਸਿਟੀ ਪ੍ਰਾਂਤ)"
+
+msgid "ISO_3166-1.VC"
+msgstr "ਸੇਂਟ ਵਿਨਸਨਟ ਅਤੇ ਗਰੇਨਾਡਾਈਨਸ"
+
+msgid "ISO_3166-1.VE"
+msgstr "ਵੈਨੂਜੇਏਲਾ"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "ਵੈਨੂਜੇਏਲਾ ਦਾ ਬੋਲੀਵਾਰੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.VG"
+msgstr "ਵਿਰਗਿਨ ਟਾਪੂ ਬਰਤਾਨੀਆ"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ਬਰਿਟਿਸ਼ ਵੀਰਗਿਨ ਟਾਪੂ"
+
+msgid "ISO_3166-1.VI"
+msgstr "ਵਿਰਗਿਨ ਟਾਪੂ, ਅਮਰੀਕਾ"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "ਅਮਰੀਕੀ ਵੀਰਗੀਨ ਟਾਪੂ"
+
+msgid "ISO_3166-1.VN"
+msgstr "ਵੀਅਤਨਾਮ"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "ਵੀਅਤਨਾਮ ਸਮਾਜਵਾਦੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.VU"
+msgstr "ਵਾਨੂਟੂ"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "ਵਾਨੂਟੂ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.WF"
+msgstr "ਵਿੱਲਸ ਅਤੇ ਫੂਟੂਨਾ"
+
+msgid "ISO_3166-1.WS"
+msgstr "ਸਾਮੀਆ"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "ਸਮੋਆ ਦਾ ਅਜ਼ਾਦ ਸੂਬਾ"
+
+msgid "ISO_3166-1.YE"
+msgstr "ਯਮਨ"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "ਯਮਨ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.YT"
+msgstr "ਮਾਈਟੀ"
+
+msgid "ISO_3166-1.ZA"
+msgstr "ਦੱਖਣੀ ਅਫਰੀਕਾ"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "ਦੱਖਣੀ ਅਫਰੀਕਾ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.ZM"
+msgstr "ਜ਼ੈਬੀਆ"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "ਜੈਂਬੀਆ ਗਣਰਾਜ"
+
+msgid "ISO_3166-1.ZW"
+msgstr "ਜਿੰਬਾਬਾਵੇ"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "ਜਿੰਬਾਬਵੇ ਗਣਰਾਜ"

@@ -1,0 +1,1267 @@
+# Translation of ISO-3166 (country names) to Korean
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2001,2003
+#   Jaegeum Choe <baedaron@hananet.net>, 2001.
+#   (translations from drakfw)
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Sunjae Park <darehanl@gmail.com>, 2006-2007.
+#   Changwoo Ryu <cwryu@debian.org>, 2004, 2008-2013, 2015.
+#
+# 위키백과 페이지 참고
+# http://ko.wikipedia.org/wiki/ISO_3166
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2015-08-13 17:09+0900\n"
+"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
+"Language-Team: Korean <translation-team-ko@googlegroups.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "안도라"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "안도라 공국"
+
+msgid "ISO_3166-1.AE"
+msgstr "아랍에미리트연합"
+
+msgid "ISO_3166-1.AF"
+msgstr "아프가니스탄"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "아프가니스탄 이슬람 공화국"
+
+msgid "ISO_3166-1.AG"
+msgstr "안티가 바부다"
+
+msgid "ISO_3166-1.AI"
+msgstr "앙귈라"
+
+msgid "ISO_3166-1.AL"
+msgstr "알바니아"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "알바니아 공화국"
+
+msgid "ISO_3166-1.AM"
+msgstr "아르메니아"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "아르메니아 공화국"
+
+msgid "ISO_3166-1.AO"
+msgstr "앙골라"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "앙골라 공화국"
+
+msgid "ISO_3166-1.AQ"
+msgstr "남극"
+
+msgid "ISO_3166-1.AR"
+msgstr "아르헨티나"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "아르헨티나 공화국"
+
+msgid "ISO_3166-1.AS"
+msgstr "미국령 사모아"
+
+msgid "ISO_3166-1.AT"
+msgstr "오스트리아"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "오스트리아 공화국"
+
+msgid "ISO_3166-1.AU"
+msgstr "오스트레일리아"
+
+msgid "ISO_3166-1.AW"
+msgstr "아루바"
+
+msgid "ISO_3166-1.AX"
+msgstr "알랜드 제도"
+
+msgid "ISO_3166-1.AZ"
+msgstr "아제르바이잔"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "아제르바이잔 공화국"
+
+msgid "ISO_3166-1.BA"
+msgstr "보스니아 헤르체코비나"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "보스니아 헤르체코비나 공화국"
+
+msgid "ISO_3166-1.BB"
+msgstr "바르바도스"
+
+msgid "ISO_3166-1.BD"
+msgstr "방글라데시"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "방글라데시 인민 공화국"
+
+msgid "ISO_3166-1.BE"
+msgstr "벨기에"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "벨기에 왕국"
+
+msgid "ISO_3166-1.BF"
+msgstr "부르키나 파소"
+
+msgid "ISO_3166-1.BG"
+msgstr "불가리아"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "불가리아 공화국"
+
+msgid "ISO_3166-1.BH"
+msgstr "바레인"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "바레인 왕국"
+
+msgid "ISO_3166-1.BI"
+msgstr "부룬디"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "부룬디 공화국"
+
+msgid "ISO_3166-1.BJ"
+msgstr "베닌"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "베닌 공화국"
+
+msgid "ISO_3166-1.BL"
+msgstr "쌩 바르텔레미"
+
+msgid "ISO_3166-1.BM"
+msgstr "버뮤다"
+
+msgid "ISO_3166-1.BN"
+msgstr "브루나이 다루살람"
+
+msgid "ISO_3166-1.BO"
+msgstr "볼리비아"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "볼리비아 다국가 연합국"
+
+msgid "ISO_3166-1.BQ"
+msgstr "보네르, 신트외스타티위스, 사바 섬"
+
+msgid "ISO_3166-1.BR"
+msgstr "브라질"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "브라질 연방 공화국"
+
+msgid "ISO_3166-1.BS"
+msgstr "바하마"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "바하마 연방"
+
+msgid "ISO_3166-1.BT"
+msgstr "부탄"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "부탄 왕국"
+
+msgid "ISO_3166-1.BV"
+msgstr "보우벳 섬"
+
+msgid "ISO_3166-1.BW"
+msgstr "보츠와나"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "보츠와나 공화국"
+
+msgid "ISO_3166-1.BY"
+msgstr "벨라루스"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "벨라루스 공화국"
+
+msgid "ISO_3166-1.BZ"
+msgstr "벨리즈"
+
+msgid "ISO_3166-1.CA"
+msgstr "캐나다"
+
+msgid "ISO_3166-1.CC"
+msgstr "코코스 (킬링) 제도"
+
+msgid "ISO_3166-1.CD"
+msgstr "콩고 민주 공화국"
+
+msgid "ISO_3166-1.CF"
+msgstr "중앙 아프리카 공화국"
+
+msgid "ISO_3166-1.CG"
+msgstr "콩고"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "콩고 공화국"
+
+msgid "ISO_3166-1.CH"
+msgstr "스위스"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "스위스 연방"
+
+msgid "ISO_3166-1.CI"
+msgstr "코트 디브와르"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "코트 디브와르 공화국"
+
+msgid "ISO_3166-1.CK"
+msgstr "쿡 제도"
+
+msgid "ISO_3166-1.CL"
+msgstr "칠레"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "칠레 공화국"
+
+msgid "ISO_3166-1.CM"
+msgstr "카메룬"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "카메룬 공화국"
+
+msgid "ISO_3166-1.CN"
+msgstr "중국"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "중화인민공화국"
+
+msgid "ISO_3166-1.CO"
+msgstr "콜롬비아"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "콜롬비아 공화국"
+
+msgid "ISO_3166-1.CR"
+msgstr "코스타리카"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "코스타리카 공화국"
+
+msgid "ISO_3166-1.CU"
+msgstr "쿠바"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "쿠바 공화국"
+
+msgid "ISO_3166-1.CV"
+msgstr "케이프 베르드"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "케이프 베르드 공화국"
+
+msgid "ISO_3166-1.CW"
+msgstr "퀴라소"
+
+msgid "ISO_3166-1.CX"
+msgstr "크리스마스 섬"
+
+msgid "ISO_3166-1.CY"
+msgstr "사이프러스"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "사이프러스 공화국"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "체코 공화국"
+
+msgid "ISO_3166-1.DE"
+msgstr "독일"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "독일 연방 공화국"
+
+msgid "ISO_3166-1.DJ"
+msgstr "지부티"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "지부티 공화국"
+
+msgid "ISO_3166-1.DK"
+msgstr "덴마크"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "덴마크 왕국"
+
+msgid "ISO_3166-1.DM"
+msgstr "도미니카"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "도미니카 연방"
+
+msgid "ISO_3166-1.DO"
+msgstr "도미니카 공화국"
+
+msgid "ISO_3166-1.DZ"
+msgstr "알제리"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "알제리 인민 민주주의 공화국"
+
+msgid "ISO_3166-1.EC"
+msgstr "에콰도르"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "에콰도르 공화국"
+
+msgid "ISO_3166-1.EE"
+msgstr "에스토니아"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "에스토니아 공화국"
+
+msgid "ISO_3166-1.EG"
+msgstr "이집트"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "이집트 아랍 공화국"
+
+msgid "ISO_3166-1.EH"
+msgstr "서부 사하라"
+
+msgid "ISO_3166-1.ER"
+msgstr "에리트리아"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "에리트리아 공화국"
+
+msgid "ISO_3166-1.ES"
+msgstr "스페인"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "스페인 왕국"
+
+msgid "ISO_3166-1.ET"
+msgstr "에티오피아"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "에티오피아 연방 민주 공화국"
+
+msgid "ISO_3166-1.FI"
+msgstr "핀란드"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "핀란드 공화국"
+
+msgid "ISO_3166-1.FJ"
+msgstr "피지"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "피지 공화국"
+
+msgid "ISO_3166-1.FK"
+msgstr "포클랜드 제도 (말비나스)"
+
+msgid "ISO_3166-1.FM"
+msgstr "미크로네시아 연방"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "미크로네시아 연방"
+
+msgid "ISO_3166-1.FO"
+msgstr "패로 제도"
+
+msgid "ISO_3166-1.FR"
+msgstr "프랑스"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "프랑스 공화국"
+
+msgid "ISO_3166-1.GA"
+msgstr "가봉"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "가봉 공화국"
+
+msgid "ISO_3166-1.GB"
+msgstr "영국"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "대영제국"
+
+msgid "ISO_3166-1.GD"
+msgstr "그레나다"
+
+msgid "ISO_3166-1.GE"
+msgstr "조지아"
+
+msgid "ISO_3166-1.GF"
+msgstr "프랑스령 기아나"
+
+msgid "ISO_3166-1.GG"
+msgstr "건지섬"
+
+msgid "ISO_3166-1.GH"
+msgstr "가나"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "가나 공화국"
+
+msgid "ISO_3166-1.GI"
+msgstr "지브롤터"
+
+msgid "ISO_3166-1.GL"
+msgstr "그린랜드"
+
+msgid "ISO_3166-1.GM"
+msgstr "잠비아"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "잠비아 공화국"
+
+msgid "ISO_3166-1.GN"
+msgstr "기니"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "기니 공화국"
+
+msgid "ISO_3166-1.GP"
+msgstr "과달루프"
+
+msgid "ISO_3166-1.GQ"
+msgstr "적도기니"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "적도기니 공화국"
+
+msgid "ISO_3166-1.GR"
+msgstr "그리스"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "그리스 공화국"
+
+msgid "ISO_3166-1.GS"
+msgstr "남 조지아 남 샌드위치 제도"
+
+msgid "ISO_3166-1.GT"
+msgstr "과테말라"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "과테말라 공화국"
+
+msgid "ISO_3166-1.GU"
+msgstr "괌"
+
+msgid "ISO_3166-1.GW"
+msgstr "기니비사우"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "기니비사우 공화국"
+
+msgid "ISO_3166-1.GY"
+msgstr "가이아나"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "가이아나 공화국"
+
+msgid "ISO_3166-1.HK"
+msgstr "홍콩"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "홍콩, 중국의 특별 자치 구역"
+
+msgid "ISO_3166-1.HM"
+msgstr "허드 맥도널드 제도"
+
+msgid "ISO_3166-1.HN"
+msgstr "혼두라스"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "혼두라스 공화국"
+
+msgid "ISO_3166-1.HR"
+msgstr "크로아티아"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "크로아티아 공화국"
+
+msgid "ISO_3166-1.HT"
+msgstr "하이티"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "하이티 공화국"
+
+msgid "ISO_3166-1.HU"
+msgstr "헝가리"
+
+msgid "ISO_3166-1.ID"
+msgstr "인도네시아"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "인도네시아 공화국"
+
+msgid "ISO_3166-1.IE"
+msgstr "아일랜드"
+
+msgid "ISO_3166-1.IL"
+msgstr "이스라엘"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "이스라엘"
+
+msgid "ISO_3166-1.IM"
+msgstr "맨섬"
+
+msgid "ISO_3166-1.IN"
+msgstr "인도"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "인도 공화국"
+
+msgid "ISO_3166-1.IO"
+msgstr "영국령 인도양 식민지"
+
+msgid "ISO_3166-1.IQ"
+msgstr "이라크"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "이라크 공화국"
+
+msgid "ISO_3166-1.IR"
+msgstr "이란 이슬람 공화국"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "이란 이슬람 공화국"
+
+msgid "ISO_3166-1.IS"
+msgstr "아이슬랜드"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "아이슬랜드 공화국"
+
+msgid "ISO_3166-1.IT"
+msgstr "이탈리아"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "이탈리아 공화국"
+
+msgid "ISO_3166-1.JE"
+msgstr "저지섬"
+
+msgid "ISO_3166-1.JM"
+msgstr "자메이카"
+
+msgid "ISO_3166-1.JO"
+msgstr "요르단"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "요르단 하심 왕국"
+
+msgid "ISO_3166-1.JP"
+msgstr "일본"
+
+msgid "ISO_3166-1.KE"
+msgstr "케냐"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "케냐 공화국"
+
+msgid "ISO_3166-1.KG"
+msgstr "키르기즈스탄"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "키르기즈 공화국"
+
+msgid "ISO_3166-1.KH"
+msgstr "캄보디아"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "캄보디아 왕국"
+
+msgid "ISO_3166-1.KI"
+msgstr "키리바티"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "키리바티 공화국"
+
+msgid "ISO_3166-1.KM"
+msgstr "코모로스"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "코모로스 연방"
+
+msgid "ISO_3166-1.KN"
+msgstr "세인트 키츠 네비스"
+
+msgid "ISO_3166-1.KP"
+msgstr "조선민주주의인민공화국"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "조선민주주의인민공화국"
+
+msgid "ISO_3166-1.KR"
+msgstr "대한민국"
+
+msgid "ISO_3166-1.KW"
+msgstr "쿠웨이트"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "쿠웨이트"
+
+msgid "ISO_3166-1.KY"
+msgstr "케이만 제도"
+
+msgid "ISO_3166-1.KZ"
+msgstr "카자흐스탄"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "카자흐스탄 공화국"
+
+msgid "ISO_3166-1.LA"
+msgstr "라오 인민 민주주의 공화국"
+
+msgid "ISO_3166-1.LB"
+msgstr "레바논"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "레바논 공화국"
+
+msgid "ISO_3166-1.LC"
+msgstr "세인트 루시아"
+
+msgid "ISO_3166-1.LI"
+msgstr "리히텐슈타인"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "리히텐슈타인 공국"
+
+msgid "ISO_3166-1.LK"
+msgstr "스리랑카"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "스리랑카 민주 사회주의 공화국"
+
+msgid "ISO_3166-1.LR"
+msgstr "라이베리아"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "라이베리아 공화국"
+
+msgid "ISO_3166-1.LS"
+msgstr "레소토"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "레소토 왕국"
+
+msgid "ISO_3166-1.LT"
+msgstr "리투아니아"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "리투아니아 공화국"
+
+msgid "ISO_3166-1.LU"
+msgstr "룩셈부르크"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "룩셈부르크 대공국"
+
+msgid "ISO_3166-1.LV"
+msgstr "라트비아"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "라트비아 공화국"
+
+msgid "ISO_3166-1.LY"
+msgstr "리비아"
+
+msgid "ISO_3166-1.MA"
+msgstr "모로코"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "모로코 왕국"
+
+msgid "ISO_3166-1.MC"
+msgstr "모나코"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "모나코 공국"
+
+msgid "ISO_3166-1.MD"
+msgstr "몰도바"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "몰도바 공화국"
+
+msgid "ISO_3166-1.ME"
+msgstr "몬테네그로"
+
+msgid "ISO_3166-1.MF"
+msgstr "쌩 마르텡 (프랑스령)"
+
+msgid "ISO_3166-1.MG"
+msgstr "마다가스카르"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "마다가스카르 공화국"
+
+msgid "ISO_3166-1.MH"
+msgstr "마샬 제도"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "마샬 제도 공화국"
+
+msgid "ISO_3166-1.MK"
+msgstr "마케도니아, 전 유고슬라비아 공화국"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "전 유고슬라비아 공화국 마케도니아"
+
+msgid "ISO_3166-1.ML"
+msgstr "말리"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "말리 공화국"
+
+msgid "ISO_3166-1.MM"
+msgstr "미얀마"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "미얀마 공화국"
+
+msgid "ISO_3166-1.MN"
+msgstr "몽골라"
+
+msgid "ISO_3166-1.MO"
+msgstr "마카오"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "마카오, 중국의 특별 자치 구역"
+
+msgid "ISO_3166-1.MP"
+msgstr "북 마리아나 제도"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "북 마리아나 제도 연방"
+
+msgid "ISO_3166-1.MQ"
+msgstr "마르띠니크"
+
+msgid "ISO_3166-1.MR"
+msgstr "모리타니아"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "모리타니아 이슬람 공화국"
+
+msgid "ISO_3166-1.MS"
+msgstr "몽세라트"
+
+msgid "ISO_3166-1.MT"
+msgstr "몰타"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "몰타 공화국"
+
+msgid "ISO_3166-1.MU"
+msgstr "모리셔스"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "모리셔스 공화국"
+
+msgid "ISO_3166-1.MV"
+msgstr "몰디브"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "몰디브 공화국"
+
+msgid "ISO_3166-1.MW"
+msgstr "말라위"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "말라위 공화국"
+
+msgid "ISO_3166-1.MX"
+msgstr "멕시코"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "멕시코 합중국"
+
+msgid "ISO_3166-1.MY"
+msgstr "말레이시아"
+
+msgid "ISO_3166-1.MZ"
+msgstr "모잠비크"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "모잠비크 공화국"
+
+msgid "ISO_3166-1.NA"
+msgstr "나미비아"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "나미비아 공화국"
+
+msgid "ISO_3166-1.NC"
+msgstr "뉴 칼레도니아"
+
+msgid "ISO_3166-1.NE"
+msgstr "니제르"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "니제르 공화국"
+
+msgid "ISO_3166-1.NF"
+msgstr "노퍽 섬"
+
+msgid "ISO_3166-1.NG"
+msgstr "나이지리아"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "나이지리아 연방 공화국"
+
+msgid "ISO_3166-1.NI"
+msgstr "니카라과"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "니카라과 공화국"
+
+msgid "ISO_3166-1.NL"
+msgstr "네덜란드"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "네덜란드 왕국"
+
+msgid "ISO_3166-1.NO"
+msgstr "노르웨이"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "노르웨이 왕국"
+
+msgid "ISO_3166-1.NP"
+msgstr "네팔"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "네팔 연방 민주 공화국"
+
+msgid "ISO_3166-1.NR"
+msgstr "나우루"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "나우루 공화국"
+
+msgid "ISO_3166-1.NU"
+msgstr "니우에"
+
+msgid "ISO_3166-1.NZ"
+msgstr "뉴질랜드"
+
+msgid "ISO_3166-1.OM"
+msgstr "오만"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "오만 이슬람왕국"
+
+msgid "ISO_3166-1.PA"
+msgstr "파나마"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "파나마 공화국"
+
+msgid "ISO_3166-1.PE"
+msgstr "페루"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "페루 공화국"
+
+msgid "ISO_3166-1.PF"
+msgstr "프랑스령 폴리네시아"
+
+msgid "ISO_3166-1.PG"
+msgstr "파푸아뉴기니"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "파푸아뉴기니 독립국"
+
+msgid "ISO_3166-1.PH"
+msgstr "필리핀"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "필리핀 공화국"
+
+msgid "ISO_3166-1.PK"
+msgstr "파키스탄"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "파키스탄 이슬람 공화국"
+
+msgid "ISO_3166-1.PL"
+msgstr "폴란드"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "폴란드 공화국"
+
+msgid "ISO_3166-1.PM"
+msgstr "쌩 피에르 미켈론"
+
+msgid "ISO_3166-1.PN"
+msgstr "피트케언"
+
+msgid "ISO_3166-1.PR"
+msgstr "푸에르토리코"
+
+msgid "ISO_3166-1.PS"
+msgstr "팔레스타인"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "팔레스타인"
+
+msgid "ISO_3166-1.PT"
+msgstr "포르투갈"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "포르투갈 공화국"
+
+msgid "ISO_3166-1.PW"
+msgstr "팔라우"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "팔라우 공화국"
+
+msgid "ISO_3166-1.PY"
+msgstr "파라과이"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "파라과이 공화국"
+
+msgid "ISO_3166-1.QA"
+msgstr "카타르"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "카타르"
+
+msgid "ISO_3166-1.RE"
+msgstr "레위니옹"
+
+msgid "ISO_3166-1.RO"
+msgstr "루마니아"
+
+msgid "ISO_3166-1.RS"
+msgstr "세르비아"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "세르비아 공화국"
+
+msgid "ISO_3166-1.RU"
+msgstr "러시아 연방"
+
+msgid "ISO_3166-1.RW"
+msgstr "르완다"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "르완다 공화국"
+
+msgid "ISO_3166-1.SA"
+msgstr "사우디아라비아"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "사우디아라비아 왕국"
+
+msgid "ISO_3166-1.SB"
+msgstr "솔로몬 제도"
+
+msgid "ISO_3166-1.SC"
+msgstr "세이셸"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "세이셸 공화국"
+
+msgid "ISO_3166-1.SD"
+msgstr "수단"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "수단 공화국"
+
+msgid "ISO_3166-1.SE"
+msgstr "스웨덴"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "스웨덴 왕국"
+
+msgid "ISO_3166-1.SG"
+msgstr "싱가포르"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "싱가포르 공화국"
+
+msgid "ISO_3166-1.SH"
+msgstr "세인트 헬레나 어센션 트리탄다쿠냐"
+
+msgid "ISO_3166-1.SI"
+msgstr "슬로베니아"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "슬로베니아 공화국"
+
+msgid "ISO_3166-1.SJ"
+msgstr "스발바르드 얀마이엔"
+
+msgid "ISO_3166-1.SK"
+msgstr "슬로바키아"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "슬로바키아 공화국"
+
+msgid "ISO_3166-1.SL"
+msgstr "시에라리온"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "시에라리온 공화국"
+
+msgid "ISO_3166-1.SM"
+msgstr "산마리노"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "산마리노 공화국"
+
+msgid "ISO_3166-1.SN"
+msgstr "세네갈"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "세네갈 공화국"
+
+msgid "ISO_3166-1.SO"
+msgstr "소말리아"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "소말리아 연방 공화국"
+
+msgid "ISO_3166-1.SR"
+msgstr "수리남"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "수리남 공화국"
+
+msgid "ISO_3166-1.SS"
+msgstr "남수단"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "남수단 공화국"
+
+msgid "ISO_3166-1.ST"
+msgstr "상투메 프린시페"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "상투메 프린시페 민주 공화국"
+
+msgid "ISO_3166-1.SV"
+msgstr "엘 살바도르"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "엘 살바도르 공화국"
+
+msgid "ISO_3166-1.SX"
+msgstr "신트마르턴 (네덜란드령)"
+
+msgid "ISO_3166-1.SY"
+msgstr "시리아 아랍 공화국"
+
+msgid "ISO_3166-1.SZ"
+msgstr "스와질란드"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "스와질란드 왕국"
+
+msgid "ISO_3166-1.TC"
+msgstr "터크 스케이커스 제도"
+
+msgid "ISO_3166-1.TD"
+msgstr "챠드"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "챠드 공화국"
+
+msgid "ISO_3166-1.TF"
+msgstr "프랑스령 남 자치구역"
+
+msgid "ISO_3166-1.TG"
+msgstr "토고"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "토고 공화국"
+
+msgid "ISO_3166-1.TH"
+msgstr "태국"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "타일랜드 왕국"
+
+msgid "ISO_3166-1.TJ"
+msgstr "타지키스탄"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "타지키스탄 공화국"
+
+msgid "ISO_3166-1.TK"
+msgstr "토켈로"
+
+msgid "ISO_3166-1.TL"
+msgstr "동티모르"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "동티모르 민주 공화국"
+
+msgid "ISO_3166-1.TM"
+msgstr "투르크멘"
+
+msgid "ISO_3166-1.TN"
+msgstr "튀니지"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "튀니지 공화국"
+
+msgid "ISO_3166-1.TO"
+msgstr "통가"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "통가 왕국"
+
+msgid "ISO_3166-1.TR"
+msgstr "터키"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "터키 공화국"
+
+msgid "ISO_3166-1.TT"
+msgstr "트리니다드 토바고"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "트리니다드 토바고 공화국"
+
+msgid "ISO_3166-1.TV"
+msgstr "투발루"
+
+msgid "ISO_3166-1.TW"
+msgstr "타이완"
+
+msgid "ISO_3166-1.TZ"
+msgstr "탄자니아"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "탄자니아 연방 공화국"
+
+msgid "ISO_3166-1.UA"
+msgstr "우크라이나"
+
+msgid "ISO_3166-1.UG"
+msgstr "우간다"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "우간다 공화국"
+
+msgid "ISO_3166-1.UM"
+msgstr "미국령 소군도"
+
+msgid "ISO_3166-1.US"
+msgstr "미국"
+
+msgid "ISO_3166-1.US#official"
+msgstr "미합중국"
+
+msgid "ISO_3166-1.UY"
+msgstr "우루과이"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "동 우루과이 공화국"
+
+msgid "ISO_3166-1.UZ"
+msgstr "우즈베키스탄"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "우즈베키스탄 공화국"
+
+msgid "ISO_3166-1.VA"
+msgstr "바티칸 시티 (Holy See)"
+
+msgid "ISO_3166-1.VC"
+msgstr "세인트 빈센트 그레나다인즈"
+
+msgid "ISO_3166-1.VE"
+msgstr "베네수엘라"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "베네수엘라 볼리베리안 공화국"
+
+msgid "ISO_3166-1.VG"
+msgstr "버진 제도, 영국령"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "영국령 버진 제도"
+
+msgid "ISO_3166-1.VI"
+msgstr "버진 제도, 미국령"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "미국령 버진 제도"
+
+msgid "ISO_3166-1.VN"
+msgstr "베트남"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "베트남 사회주의 공화국"
+
+msgid "ISO_3166-1.VU"
+msgstr "바누아투"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "바누아투 공화국"
+
+msgid "ISO_3166-1.WF"
+msgstr "왈리스 후투나"
+
+msgid "ISO_3166-1.WS"
+msgstr "사모아"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "사모아"
+
+msgid "ISO_3166-1.YE"
+msgstr "예멘"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "예멘 공화국"
+
+msgid "ISO_3166-1.YT"
+msgstr "마요트"
+
+msgid "ISO_3166-1.ZA"
+msgstr "남아프리카"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "남아프리카 공화국"
+
+msgid "ISO_3166-1.ZM"
+msgstr "잠비아"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "잠비아 공화국"
+
+msgid "ISO_3166-1.ZW"
+msgstr "짐바브웨"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "짐바브웨 공화국"

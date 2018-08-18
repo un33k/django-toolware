@@ -1,0 +1,396 @@
+# Translation of ISO-3166 (country names) to Geez
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   - translations from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2004-08-08 10:00+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Geez\n"
+"Language: gez\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "አንዶራ"
+
+msgid "ISO_3166-1.AE"
+msgstr "የተባበሩት፡አረብ፡ኤምሬትስ"
+
+msgid "ISO_3166-1.AL"
+msgstr "አልባኒያ"
+
+msgid "ISO_3166-1.AM"
+msgstr "አርሜኒያ"
+
+msgid "ISO_3166-1.AR"
+msgstr "አርጀንቲና"
+
+msgid "ISO_3166-1.AT"
+msgstr "ኦስትሪያ"
+
+msgid "ISO_3166-1.AU"
+msgstr "አውስትሬሊያ"
+
+msgid "ISO_3166-1.AZ"
+msgstr "አዘርባጃን"
+
+msgid "ISO_3166-1.BA"
+msgstr "ቦስኒያ፡እና፡ሄርዞጎቪኒያ"
+
+msgid "ISO_3166-1.BB"
+msgstr "ባርቤዶስ"
+
+msgid "ISO_3166-1.BE"
+msgstr "ቤልጄም"
+
+msgid "ISO_3166-1.BG"
+msgstr "ቡልጌሪያ"
+
+msgid "ISO_3166-1.BH"
+msgstr "ባህሬን"
+
+msgid "ISO_3166-1.BM"
+msgstr "ቤርሙዳ"
+
+msgid "ISO_3166-1.BO"
+msgstr "ቦሊቪያ"
+
+msgid "ISO_3166-1.BR"
+msgstr "ብራዚል"
+
+msgid "ISO_3166-1.BT"
+msgstr "ቡህታን"
+
+msgid "ISO_3166-1.BY"
+msgstr "ቤላሩስ"
+
+msgid "ISO_3166-1.BZ"
+msgstr "ቤሊዘ"
+
+msgid "ISO_3166-1.CF"
+msgstr "የመካከለኛው፡አፍሪካ፡ሪፐብሊክ"
+
+msgid "ISO_3166-1.CH"
+msgstr "ስዊዘርላንድ"
+
+msgid "ISO_3166-1.CL"
+msgstr "ቺሊ"
+
+msgid "ISO_3166-1.CM"
+msgstr "ካሜሩን"
+
+msgid "ISO_3166-1.CN"
+msgstr "ቻይና"
+
+msgid "ISO_3166-1.CO"
+msgstr "ኮሎምቢያ"
+
+msgid "ISO_3166-1.CV"
+msgstr "ኬፕ፡ቬርዴ"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "ዶሚኒክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.CY"
+msgstr "ሳይፕረስ"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "ቼክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.DE"
+msgstr "ጀርመን"
+
+msgid "ISO_3166-1.DK"
+msgstr "ዴንማርክ"
+
+msgid "ISO_3166-1.DM"
+msgstr "ዶሚኒካ"
+
+msgid "ISO_3166-1.DO"
+msgstr "ዶሚኒክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.DZ"
+msgstr "አልጄሪያ"
+
+msgid "ISO_3166-1.EC"
+msgstr "ኢኳዶር"
+
+msgid "ISO_3166-1.EE"
+msgstr "ኤስቶኒያ"
+
+msgid "ISO_3166-1.EG"
+msgstr "ግብጽ"
+
+msgid "ISO_3166-1.EH"
+msgstr "ምዕራባዊ፡ሳህራ"
+
+msgid "ISO_3166-1.ER"
+msgstr "ኤርትራ"
+
+msgid "ISO_3166-1.ES"
+msgstr "ስፔን"
+
+msgid "ISO_3166-1.ET"
+msgstr "ኢትዮጵያ"
+
+msgid "ISO_3166-1.FI"
+msgstr "ፊንላንድ"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ፊጂ"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "ዶሚኒክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.GB"
+msgstr "እንግሊዝ"
+
+msgid "ISO_3166-1.GE"
+msgstr "ጆርጂያ"
+
+msgid "ISO_3166-1.GF"
+msgstr "የፈረንሳይ፡ጉዊአና"
+
+msgid "ISO_3166-1.GM"
+msgstr "ጋምቢያ"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "ዶሚኒክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.GN"
+msgstr "ጊኒ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ኢኳቶሪያል፡ጊኒ"
+
+msgid "ISO_3166-1.GR"
+msgstr "ግሪክ"
+
+msgid "ISO_3166-1.GW"
+msgstr "ቢሳዎ"
+
+msgid "ISO_3166-1.GY"
+msgstr "ጉያና"
+
+msgid "ISO_3166-1.HR"
+msgstr "ክሮኤሽያ"
+
+msgid "ISO_3166-1.HT"
+msgstr "ሀይቲ"
+
+msgid "ISO_3166-1.HU"
+msgstr "ሀንጋሪ"
+
+msgid "ISO_3166-1.ID"
+msgstr "ኢንዶኔዢያ"
+
+msgid "ISO_3166-1.IE"
+msgstr "አየርላንድ"
+
+msgid "ISO_3166-1.IL"
+msgstr "እስራኤል"
+
+msgid "ISO_3166-1.IN"
+msgstr "ህንድ"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ኢራቅ"
+
+msgid "ISO_3166-1.IS"
+msgstr "አይስላንድ"
+
+msgid "ISO_3166-1.IT"
+msgstr "ጣሊያን"
+
+msgid "ISO_3166-1.JM"
+msgstr "ጃማይካ"
+
+msgid "ISO_3166-1.JO"
+msgstr "ጆርዳን"
+
+msgid "ISO_3166-1.JP"
+msgstr "ጃፓን"
+
+msgid "ISO_3166-1.KH"
+msgstr "ካምቦዲያ"
+
+msgid "ISO_3166-1.KM"
+msgstr "ኮሞሮስ"
+
+msgid "ISO_3166-1.KW"
+msgstr "ክዌት"
+
+msgid "ISO_3166-1.LB"
+msgstr "ሊባኖስ"
+
+msgid "ISO_3166-1.LT"
+msgstr "ሊቱዌኒያ"
+
+msgid "ISO_3166-1.LV"
+msgstr "ላትቪያ"
+
+msgid "ISO_3166-1.MA"
+msgstr "ሞሮኮ"
+
+msgid "ISO_3166-1.MD"
+msgstr "ዶሚኒክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.MK"
+msgstr "ዶሚኒክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.MN"
+msgstr "ሞንጎሊያ"
+
+msgid "ISO_3166-1.MR"
+msgstr "ሞሪቴኒያ"
+
+msgid "ISO_3166-1.MT"
+msgstr "ማልታ"
+
+msgid "ISO_3166-1.MU"
+msgstr "ማሩሸስ"
+
+msgid "ISO_3166-1.MX"
+msgstr "ሜክሲኮ"
+
+msgid "ISO_3166-1.MY"
+msgstr "ማሌዢያ"
+
+msgid "ISO_3166-1.NA"
+msgstr "ናሚቢያ"
+
+msgid "ISO_3166-1.NC"
+msgstr "ኒው፡ካሌዶኒያ"
+
+msgid "ISO_3166-1.NG"
+msgstr "ናይጄሪያ"
+
+msgid "ISO_3166-1.NL"
+msgstr "ኔዘርላንድ"
+
+msgid "ISO_3166-1.NO"
+msgstr "ኖርዌ"
+
+msgid "ISO_3166-1.NP"
+msgstr "ኔፓል"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "የመካከለኛው፡አፍሪካ፡ሪፐብሊክ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "ኒው፡ዚላንድ"
+
+msgid "ISO_3166-1.PE"
+msgstr "ፔሩ"
+
+msgid "ISO_3166-1.PF"
+msgstr "የፈረንሳይ፡ፖሊኔዢያ"
+
+msgid "ISO_3166-1.PG"
+msgstr "ፓፑዋ፡ኒው፡ጊኒ"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "ፓፑዋ፡ኒው፡ጊኒ"
+
+msgid "ISO_3166-1.PL"
+msgstr "ፖላንድ"
+
+msgid "ISO_3166-1.PR"
+msgstr "ፖርታ፡ሪኮ"
+
+msgid "ISO_3166-1.RO"
+msgstr "ሮሜኒያ"
+
+msgid "ISO_3166-1.RS"
+msgstr "አዘርባጃን"
+
+msgid "ISO_3166-1.SA"
+msgstr "ሳውድአረቢያ"
+
+msgid "ISO_3166-1.SD"
+msgstr "ሱዳን"
+
+msgid "ISO_3166-1.SE"
+msgstr "ስዊድን"
+
+msgid "ISO_3166-1.SG"
+msgstr "ሲንጋፖር"
+
+msgid "ISO_3166-1.SI"
+msgstr "ስሎቬኒያ"
+
+msgid "ISO_3166-1.SK"
+msgstr "ስሎቫኪያ"
+
+msgid "ISO_3166-1.SN"
+msgstr "ሴኔጋል"
+
+msgid "ISO_3166-1.SO"
+msgstr "ሱማሌ"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "የመካከለኛው፡አፍሪካ፡ሪፐብሊክ"
+
+msgid "ISO_3166-1.SS"
+msgstr "ዶሚኒክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "ዶሚኒክ፡ሪፑብሊክ"
+
+msgid "ISO_3166-1.TD"
+msgstr "ቻድ"
+
+msgid "ISO_3166-1.TF"
+msgstr "የፈረንሳይ፡ደቡባዊ፡ግዛቶች"
+
+msgid "ISO_3166-1.TH"
+msgstr "ታይላንድ"
+
+msgid "ISO_3166-1.TJ"
+msgstr "ታጃኪስታን"
+
+msgid "ISO_3166-1.TL"
+msgstr "ምስራቅ፡ቲሞር"
+
+msgid "ISO_3166-1.TN"
+msgstr "ቱኒዚያ"
+
+msgid "ISO_3166-1.TR"
+msgstr "ቱርክ"
+
+msgid "ISO_3166-1.TT"
+msgstr "ትሪኒዳድ፡እና፡ቶባጎ"
+
+msgid "ISO_3166-1.UG"
+msgstr "ዩጋንዳ"
+
+msgid "ISO_3166-1.US"
+msgstr "አሜሪካ"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ዩዝበኪስታን"
+
+msgid "ISO_3166-1.VE"
+msgstr "ቬንዙዌላ"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "የእንግሊዝ፡ድንግል፡ደሴቶች"
+
+msgid "ISO_3166-1.YE"
+msgstr "የመን"
+
+msgid "ISO_3166-1.ZA"
+msgstr "ደቡብ፡አፍሪካ"
+
+msgid "ISO_3166-1.ZM"
+msgstr "ዛምቢያ"

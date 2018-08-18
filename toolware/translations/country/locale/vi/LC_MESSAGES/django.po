@@ -1,0 +1,1261 @@
+# Vietnamese translation for iso_3166.
+# Copyright © 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Nguyễn Hùng Vũ <vuhung16@bigfoot.com>
+# Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
+# Hoang Nguyen <Minhhoang1004@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2013-08-19 16:27+0100\n"
+"Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
+"Language-Team: Vietnamese <>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "Ăn-đoa-râ"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "Chức vương Ăn-đoa-râ"
+
+msgid "ISO_3166-1.AE"
+msgstr "Các Tiểu Vương Quốc A-rập Thống Nhất"
+
+msgid "ISO_3166-1.AF"
+msgstr "A Phú Hãn"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Cộng Hoà Hồi Giáo A Phú Hãn"
+
+msgid "ISO_3166-1.AG"
+msgstr "Ănh-thí-gua và Ba-bu-đa"
+
+msgid "ISO_3166-1.AI"
+msgstr "Ăng-ouí-la"
+
+msgid "ISO_3166-1.AL"
+msgstr "An-ba-ni"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "Cộng Hoà An-ba-ni"
+
+msgid "ISO_3166-1.AM"
+msgstr "Ac-mê-ni"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "Nước Cộng Hoà Ac-mê-ni"
+
+msgid "ISO_3166-1.AO"
+msgstr "Ăng-gô-la"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Cộng hoà Ăng-gô-la"
+
+msgid "ISO_3166-1.AQ"
+msgstr "Nam Cực"
+
+msgid "ISO_3166-1.AR"
+msgstr "Á-căn-đình"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Cộng hoà Á-căn-đình"
+
+msgid "ISO_3166-1.AS"
+msgstr "Xa-mô-a Mỹ"
+
+msgid "ISO_3166-1.AT"
+msgstr "Ao"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "Cộng hoà Ao"
+
+msgid "ISO_3166-1.AU"
+msgstr "Úc"
+
+msgid "ISO_3166-1.AW"
+msgstr "Ă-ru-ba"
+
+msgid "ISO_3166-1.AX"
+msgstr "Quần đảo A-lanh"
+
+msgid "ISO_3166-1.AZ"
+msgstr "Ai-xợ-bai-gianh"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "Nước Cộng Hoà Ai-xợ-bai-gianh"
+
+msgid "ISO_3166-1.BA"
+msgstr "Bô-xni-a và Hẻ-xê-gô-vi-na"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "Nước Cộng Hoà Bô-xni-a và Hẻ-xê-gô-vi-na"
+
+msgid "ISO_3166-1.BB"
+msgstr "Bă-ba-đôxợ"
+
+msgid "ISO_3166-1.BD"
+msgstr "Bang-la-đesợ"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "Nước Cộng Hoà Nhân Dân Bang-la-đesợ"
+
+msgid "ISO_3166-1.BE"
+msgstr "Bỉ"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "Vương quốc Bỉ"
+
+msgid "ISO_3166-1.BF"
+msgstr "Buốc-khi-na Pha-xô"
+
+msgid "ISO_3166-1.BG"
+msgstr "Bua-ga-ri"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "Nước Cộng Hoà Bua-ga-ri"
+
+msgid "ISO_3166-1.BH"
+msgstr "Ba-rainh"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "Vương Quốc Ba-rainh"
+
+msgid "ISO_3166-1.BI"
+msgstr "Bu-run-đi"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "Cộng hoà Bu-run-đi"
+
+msgid "ISO_3166-1.BJ"
+msgstr "Bê-ninh"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Cộng hoà Bê-ninh"
+
+msgid "ISO_3166-1.BL"
+msgstr "Saint Barthélemy"
+
+msgid "ISO_3166-1.BM"
+msgstr "Be-mu-đa"
+
+msgid "ISO_3166-1.BN"
+msgstr "Bợru-này Đa-ru-xa-làm"
+
+msgid "ISO_3166-1.BO"
+msgstr "Bô-li-vi-a"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "Quốc gia Đa Dân tộc Bô-li-vi-a"
+
+msgid "ISO_3166-1.BQ"
+msgstr "Bông-Ne, Xin E-u-xờ-ta-ti-tút và Xa-ba"
+
+msgid "ISO_3166-1.BR"
+msgstr "Bra-xin"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "Cộng hoà Liên bang Bra-xin"
+
+msgid "ISO_3166-1.BS"
+msgstr "Ba-ha-ma"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "Liên bang Ba-ha-ma"
+
+msgid "ISO_3166-1.BT"
+msgstr "Bu-thănh"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "Vương Quốc Bu-thănh"
+
+msgid "ISO_3166-1.BV"
+msgstr "Quần đảo Bu-vê"
+
+msgid "ISO_3166-1.BW"
+msgstr "Bốt-xoă-na"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "Nước Cộng Hoà Bốt-xoă-na"
+
+msgid "ISO_3166-1.BY"
+msgstr "Be-la-ruxợ"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "Nước Cộng Hoà Be-la-ruxợ"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Bê-li-xê"
+
+msgid "ISO_3166-1.CA"
+msgstr "Ca-na-đa"
+
+msgid "ISO_3166-1.CC"
+msgstr "Quần đảo Co-co-xợ (Khi-lịng)"
+
+msgid "ISO_3166-1.CD"
+msgstr "Cộng hoà Dân chủ Công-gô"
+
+msgid "ISO_3166-1.CF"
+msgstr "Nước Cộng Hoà Trung Phi"
+
+msgid "ISO_3166-1.CG"
+msgstr "Công-gô"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "Cộng hoà Công-gô"
+
+msgid "ISO_3166-1.CH"
+msgstr "Thụy Sĩ"
+
+msgid "ISO_3166-1.CH#official"
+msgstr "Liên Bang Thụy Sĩ"
+
+msgid "ISO_3166-1.CI"
+msgstr "Cốt đi-vouă"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Cộng Hoà Cốt đi-vouă"
+
+msgid "ISO_3166-1.CK"
+msgstr "Quần đảo Khu-khợ"
+
+msgid "ISO_3166-1.CL"
+msgstr "Chi-lê"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Cộng hoà Chi-lê"
+
+msgid "ISO_3166-1.CM"
+msgstr "Ca-mơ-runh"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "Nước Cộng Hoà Ca-mơ-runh"
+
+msgid "ISO_3166-1.CN"
+msgstr "Trung Quốc"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Nước Cộng Hoà Nhân Dân Trung Quốc"
+
+msgid "ISO_3166-1.CO"
+msgstr "Cô-lôm-bi-a"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "Cộng hoà Cô-lôm-bi-a"
+
+msgid "ISO_3166-1.CR"
+msgstr "Cốt-x-tha Ri-ca"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "Cộng hoà Cốt-x-tha Ri-ca"
+
+msgid "ISO_3166-1.CU"
+msgstr "Cu-ba"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Cộng hoà Cu-ba"
+
+msgid "ISO_3166-1.CV"
+msgstr "Cáp-ve-đẹ"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Nước Cộng Hoà Cáp-ve-đẹ"
+
+msgid "ISO_3166-1.CW"
+msgstr "Cu-ra-cao"
+
+msgid "ISO_3166-1.CX"
+msgstr "Đảo Kh-ri-xợ-mà-xợ"
+
+msgid "ISO_3166-1.CY"
+msgstr "Síp"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Cộng hoà Síp"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Cộng hoà Séc"
+
+msgid "ISO_3166-1.DE"
+msgstr "Đức"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Cộng hoà Liên bang Đức"
+
+msgid "ISO_3166-1.DJ"
+msgstr "Gi-bu-ti"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "Cộng hoà Gi-bu-ti"
+
+msgid "ISO_3166-1.DK"
+msgstr "Đan Mạch"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "Vương Quốc Đan Mạch"
+
+msgid "ISO_3166-1.DM"
+msgstr "Đô-mi-ni-cạ"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "Liên bang Đô-mi-ni-cạ"
+
+msgid "ISO_3166-1.DO"
+msgstr "Cộng hoà Đô-mi-ni-cạ"
+
+msgid "ISO_3166-1.DZ"
+msgstr "An-giê-ri"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "Cộng Hoà Dân Chủ Nhân Dân An-giê-ri"
+
+msgid "ISO_3166-1.EC"
+msgstr "Ê-cu-a-đoa"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "Cộng hoà Ê-cu-a-đoa"
+
+msgid "ISO_3166-1.EE"
+msgstr "E-xợ-tô-ni-a"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "Nước Cộng Hoà E-xợ-tô-ni-a"
+
+msgid "ISO_3166-1.EG"
+msgstr "Ai Cập"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Cộng hoà A-rập Ai-cập"
+
+msgid "ISO_3166-1.EH"
+msgstr "Tây Sa-ha-ra"
+
+msgid "ISO_3166-1.ER"
+msgstr "Ê-ri-tơ-rê-a"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "Quốc gia Eritrea"
+
+msgid "ISO_3166-1.ES"
+msgstr "Tây Ban Nha"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "Vương Quốc Tay Ban Nha"
+
+msgid "ISO_3166-1.ET"
+msgstr "Ê-ti-ô-pi-a"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "Cộng hoà Nhân dân Liên bang Ê-ti-ô-pi-a"
+
+msgid "ISO_3166-1.FI"
+msgstr "Phần Lan"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "Nước Cộng Hoà Phần Lan"
+
+msgid "ISO_3166-1.FJ"
+msgstr "Phi-gi"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Cộng hoà Phi gi"
+
+msgid "ISO_3166-1.FK"
+msgstr "Quần Đảo Phoa-kh-lận-đợ (Man-vi-na)"
+
+msgid "ISO_3166-1.FM"
+msgstr "Mi-khợ-rô-nê-xi-a, Liên Bang"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "Liên Bang Mi-khợ-rô-nê-xi-a"
+
+msgid "ISO_3166-1.FO"
+msgstr "Quần đảo Pha-rô"
+
+msgid "ISO_3166-1.FR"
+msgstr "Pháp"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Cộng hoà Pháp"
+
+msgid "ISO_3166-1.GA"
+msgstr "Ga-bon"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Nước Cộng Hoà Ga-bon"
+
+msgid "ISO_3166-1.GB"
+msgstr "Vương Quốc Anh Thống Nhất"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "Vương Quốc Thống Nhất Anh va Bắc Ái Nhĩ Lan"
+
+msgid "ISO_3166-1.GD"
+msgstr "Gợ-rê-na-đa"
+
+msgid "ISO_3166-1.GE"
+msgstr "Gi-oa-gi-a"
+
+msgid "ISO_3166-1.GF"
+msgstr "Ghi-a-na Pháp"
+
+msgid "ISO_3166-1.GG"
+msgstr "Gơnh-xị"
+
+msgid "ISO_3166-1.GH"
+msgstr "Ga-na"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Cộng hoà Ga-na"
+
+msgid "ISO_3166-1.GI"
+msgstr "Gi-boa-tha"
+
+msgid "ISO_3166-1.GL"
+msgstr "Đảo Băng"
+
+msgid "ISO_3166-1.GM"
+msgstr "Găm-bi-a"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Cộng hoà Găm-bi-a"
+
+msgid "ISO_3166-1.GN"
+msgstr "Ghi-nê"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Cộng hoà Ghi-nê"
+
+msgid "ISO_3166-1.GP"
+msgstr "Gu-a-đe-lup"
+
+msgid "ISO_3166-1.GQ"
+msgstr "Ghi-nê Xích Đạo"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "Nước Cộng Hoà Ghi-nê Xích Đạo"
+
+msgid "ISO_3166-1.GR"
+msgstr "Hy Lạp"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Nước Cộng Hoà Hy Lạp"
+
+msgid "ISO_3166-1.GS"
+msgstr "Nam Gi-oa-gi-a va Nam Quần Đảo Xan-oui-chợ"
+
+msgid "ISO_3166-1.GT"
+msgstr "Gua-tê-ma-la"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "Cộng hoà Gua-tê-ma-la"
+
+msgid "ISO_3166-1.GU"
+msgstr "Gu-ăm"
+
+msgid "ISO_3166-1.GW"
+msgstr "Ghi-nê Bi-xau"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "Nước Cộng Hoà Ghi-nê Bi-xau"
+
+msgid "ISO_3166-1.GY"
+msgstr "Guy-a-na"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Cộng hoà Guy-a-na"
+
+msgid "ISO_3166-1.HK"
+msgstr "Hông Kông"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "Miền Quản Lý Đặc Biệt Hông Kông của Trung Quốc"
+
+msgid "ISO_3166-1.HM"
+msgstr "Đảo He-ợ-đợ và Quần Đảo Mợc-đo-nậ-đợ"
+
+msgid "ISO_3166-1.HN"
+msgstr "Hôn-đu-ra-xợ"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "Nước Cộng Hoà Hôn-đu-ra-xợ"
+
+msgid "ISO_3166-1.HR"
+msgstr "Cợ-rô-a-ti-a"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "Nước Cộng Hoà Cợ-rô-a-ti-a"
+
+msgid "ISO_3166-1.HT"
+msgstr "Ha-i-ti"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Cộng hoà Ha-i-ti"
+
+msgid "ISO_3166-1.HU"
+msgstr "Hun-ga-ri"
+
+msgid "ISO_3166-1.ID"
+msgstr "Nam Dương"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "Cộng hoà Nam Dương"
+
+msgid "ISO_3166-1.IE"
+msgstr "Ái Nhĩ Lan"
+
+msgid "ISO_3166-1.IL"
+msgstr "Do Thái"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "Quốc Gia Do Thái"
+
+msgid "ISO_3166-1.IM"
+msgstr "Đảo Man"
+
+msgid "ISO_3166-1.IN"
+msgstr "Ấn-độ"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Cộng hoà Ấn-độ"
+
+msgid "ISO_3166-1.IO"
+msgstr "Miền Đại Dương Ấn-độ Anh"
+
+msgid "ISO_3166-1.IQ"
+msgstr "I-rắc"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Cộng hoà I-rắc"
+
+msgid "ISO_3166-1.IR"
+msgstr "Ba Tư, Cộng hoà Hồi giáo"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Cộng hoà Hồi giáo Ba Tư"
+
+msgid "ISO_3166-1.IS"
+msgstr "Băng Đảo"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "Nước Cộng Hoà Băng Đảo"
+
+msgid "ISO_3166-1.IT"
+msgstr "Ý"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Nước Cộng Hoà Ý"
+
+msgid "ISO_3166-1.JE"
+msgstr "Giơ-xị"
+
+msgid "ISO_3166-1.JM"
+msgstr "Gia-mê-ca"
+
+msgid "ISO_3166-1.JO"
+msgstr "Gi-oa-đanh"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "Vương Quốc Ha-se-mai-th Gi-oa-đanh"
+
+msgid "ISO_3166-1.JP"
+msgstr "Nhật"
+
+msgid "ISO_3166-1.KE"
+msgstr "Khi-ni-a"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Cộng hoà Khi-nia"
+
+msgid "ISO_3166-1.KG"
+msgstr "Khư-rơ-gư-xtanh"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Nước Cộng Hoà Khư-rơ-gư-xtanh"
+
+msgid "ISO_3166-1.KH"
+msgstr "Căm Bốt"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "Vương Quốc Căm Bốt"
+
+msgid "ISO_3166-1.KI"
+msgstr "Ki-ri-ba-ti"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "Cộng hoà Ki-ri-ba-ti"
+
+msgid "ISO_3166-1.KM"
+msgstr "Cô-mô-rô-xợ"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "Liên Bang Cô-mô-rô-xợ"
+
+msgid "ISO_3166-1.KN"
+msgstr "Xan-kít và Nê-vi"
+
+msgid "ISO_3166-1.KP"
+msgstr "Bắc Hàn, Cộng hoà Nhân dân Dân chủ"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "Cộng hoà Nhân dân Dân chủ Bắc Hàn"
+
+msgid "ISO_3166-1.KR"
+msgstr "Cộng hoà Nam Hàn"
+
+msgid "ISO_3166-1.KW"
+msgstr "Cu-ouai-thợ"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "Quốc Gia Cu-ouai-thợ"
+
+msgid "ISO_3166-1.KY"
+msgstr "Quần đảo Cay-man"
+
+msgid "ISO_3166-1.KZ"
+msgstr "Kha-xa-kh-x-thanh"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "Nước Cộng Hoà Kha-xa-kh-x-thanh"
+
+msgid "ISO_3166-1.LA"
+msgstr "Cộng hoà Nhân dân Dân chủ Lào"
+
+msgid "ISO_3166-1.LB"
+msgstr "Le-ba-non"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Nước Cộng Hoà Le-ba-non"
+
+msgid "ISO_3166-1.LC"
+msgstr "Xan Lu-xi"
+
+msgid "ISO_3166-1.LI"
+msgstr "Likh-ten-xtainh"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "Chức Vương Likh-ten-xtainh"
+
+msgid "ISO_3166-1.LK"
+msgstr "Tích Lan"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "Cộng Hoà Xã hội Nhân Dân Tích Lan"
+
+msgid "ISO_3166-1.LR"
+msgstr "Li-bê-ri-a"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "Cộng hoà Li-bê-ri-a"
+
+msgid "ISO_3166-1.LS"
+msgstr "Lê-xô-thô"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "Vương quốc Lê-xô-thô"
+
+msgid "ISO_3166-1.LT"
+msgstr "Li-tu-a-ni-a"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "Cộng hoà Li-tu-a-ni-a"
+
+msgid "ISO_3166-1.LU"
+msgstr "Lục Xâm Bảo"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "Đất công tước trên Lục Xâm Bảo"
+
+msgid "ISO_3166-1.LV"
+msgstr "Lát-vi-a"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Cộng hoà Lát-vi-a"
+
+msgid "ISO_3166-1.LY"
+msgstr "Li-bi"
+
+msgid "ISO_3166-1.MA"
+msgstr "Mo-ro-cô"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "Vương Quốc Mo-ro-cô"
+
+msgid "ISO_3166-1.MC"
+msgstr "Mo-na-cô"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "Chức Vương Mo-na-cô"
+
+msgid "ISO_3166-1.MD"
+msgstr "Mon-đô-va"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "Cộng hoà Moa-đô-va"
+
+msgid "ISO_3166-1.ME"
+msgstr "Mon-te-nê-gợ-rô"
+
+msgid "ISO_3166-1.MF"
+msgstr "Saint Martin (vùng Pháp)"
+
+msgid "ISO_3166-1.MG"
+msgstr "Ma-đa-ga-xợ-ca"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "Nước Cộng Hoà Ma-đa-ga-xợ-ca"
+
+msgid "ISO_3166-1.MH"
+msgstr "Quần Đảo Ma-san"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "Nước Cộng Hoà Quần Đảo Ma-san"
+
+msgid "ISO_3166-1.MK"
+msgstr "Nước Cộng Hoà Ma-xê-đô-ni"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "Nước Cộng Hoà Nguyên Nam Tư Ma-xê-đô-ni"
+
+msgid "ISO_3166-1.ML"
+msgstr "Ma-li"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Cộng hoà Ma-li"
+
+msgid "ISO_3166-1.MM"
+msgstr "Miến Điện"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Cộng hoà Miến Điện"
+
+msgid "ISO_3166-1.MN"
+msgstr "Mông Cổ"
+
+msgid "ISO_3166-1.MO"
+msgstr "Ma-cao"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "Miền Quản Lý Đặc Biệt Ma-cao của Trung Quốc"
+
+msgid "ISO_3166-1.MP"
+msgstr "Bắc Quần Đảo Ma-ri-a-na"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "Liên Bang Bắc Quần Đảo Ma-ri-a-na"
+
+msgid "ISO_3166-1.MQ"
+msgstr "Ma-thi-ni-khợ"
+
+msgid "ISO_3166-1.MR"
+msgstr "Mô-ri-ta-ni-a"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "Cộng hoà Hồi giáo Mô-ri-ta-ni-a"
+
+msgid "ISO_3166-1.MS"
+msgstr "Mon-xe-rạc"
+
+msgid "ISO_3166-1.MT"
+msgstr "Moa-ta"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Cộng hoà Moa-ta"
+
+msgid "ISO_3166-1.MU"
+msgstr "Mô-ri-sơ-xợ"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "Nước Cộng Hoà Mô-ri-sơ-xợ"
+
+msgid "ISO_3166-1.MV"
+msgstr "Mal-đi-vợx"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "Cộng hoà Mal-đi-vợx"
+
+msgid "ISO_3166-1.MW"
+msgstr "Ma-la-uy"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Cộng hoà Ma-la-uy"
+
+msgid "ISO_3166-1.MX"
+msgstr "Mê-hi-cô"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "Liên Bang Mê-hi-cô"
+
+msgid "ISO_3166-1.MY"
+msgstr "Ma-lai-xi-a"
+
+msgid "ISO_3166-1.MZ"
+msgstr "Mô-xam-bí-khợ"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "Nước Cộng Hoà Mô-xam-bí-khợ"
+
+msgid "ISO_3166-1.NA"
+msgstr "Na-mi-bi-a"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "Cộng hoà Na-mi-bi-a"
+
+msgid "ISO_3166-1.NC"
+msgstr "Niu Ca-lê-đô-ni-a"
+
+msgid "ISO_3166-1.NE"
+msgstr "Ni-gie"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "Nước Cộng Hoà Ni-gie"
+
+msgid "ISO_3166-1.NF"
+msgstr "Đảo Noa-phọ-khợ"
+
+msgid "ISO_3166-1.NG"
+msgstr "Ni-giê-ri-a"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Cộng hoà Liên bang Ni-giê-ri-a"
+
+msgid "ISO_3166-1.NI"
+msgstr "Ni-ca-ra-gua"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "Cộng hoà Ni-ca-ra-gua"
+
+msgid "ISO_3166-1.NL"
+msgstr "Hoà Lan"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "Vương Quốc Hoà Lan"
+
+msgid "ISO_3166-1.NO"
+msgstr "Na Uy"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "Vương Quốc Na Uy"
+
+msgid "ISO_3166-1.NP"
+msgstr "Nê-pan"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Cộng hoà Nhân dân Liên bang Ne-pan"
+
+msgid "ISO_3166-1.NR"
+msgstr "Nau-ru"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Cộng hoà Nau-ru"
+
+msgid "ISO_3166-1.NU"
+msgstr "Ni-u-e"
+
+msgid "ISO_3166-1.NZ"
+msgstr "Niu Xi-lân"
+
+msgid "ISO_3166-1.OM"
+msgstr "Ô-man"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "Ngôi vua Ô-man"
+
+msgid "ISO_3166-1.PA"
+msgstr "Pa-na-ma"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Nước Cộng Hoà Pa-na-ma"
+
+msgid "ISO_3166-1.PE"
+msgstr "Pê-ru"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Cộng hoà Pê-ru"
+
+msgid "ISO_3166-1.PF"
+msgstr "Pô-li-nê-xi Pháp"
+
+msgid "ISO_3166-1.PG"
+msgstr "Pa-pu-a Niu Ghi-nê"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "Quốc Gia Độc Lập Papua New Guinea"
+
+msgid "ISO_3166-1.PH"
+msgstr "Phi-li-pi-nợ"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "Công hóa Phi-li-pi-nợ"
+
+msgid "ISO_3166-1.PK"
+msgstr "Pa-ki-xợ-thănh"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "Nước Cộng Hoà Hồi Giáo Pa-ki-xợ-thănh"
+
+msgid "ISO_3166-1.PL"
+msgstr "Ba Lan"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Nước Cộng Hoà Ba Lan"
+
+msgid "ISO_3166-1.PM"
+msgstr "Xan Pi-e và Mi-quê-lon"
+
+msgid "ISO_3166-1.PN"
+msgstr "Pi-thợ-khenh"
+
+msgid "ISO_3166-1.PR"
+msgstr "Pu-éc-thô Ri-cô"
+
+msgid "ISO_3166-1.PS"
+msgstr "Palestine, quốc gia"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "Quốc gia Palestine"
+
+msgid "ISO_3166-1.PT"
+msgstr "Bồ Đào Nha"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Nước Cộng Hoà Bồ Đào Nha"
+
+msgid "ISO_3166-1.PW"
+msgstr "Pa-lau"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Nước Cộng Hoà Pa-lau"
+
+msgid "ISO_3166-1.PY"
+msgstr "Pa-ra-guay"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "Nước Cộng Hoà Pa-ra-guay"
+
+msgid "ISO_3166-1.QA"
+msgstr "Ca-tă"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "Quốc gia Ca-tă"
+
+msgid "ISO_3166-1.RE"
+msgstr "Rê-u-ni-ợnh"
+
+msgid "ISO_3166-1.RO"
+msgstr "Rô-ma-ni"
+
+msgid "ISO_3166-1.RS"
+msgstr "Xéc-bi"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "Cộng hoà Xéc-bi"
+
+msgid "ISO_3166-1.RU"
+msgstr "Liên Bang Nga"
+
+msgid "ISO_3166-1.RW"
+msgstr "Ru-oanh-đa"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Cộng hoà Ru-oanh-đa"
+
+msgid "ISO_3166-1.SA"
+msgstr "A-rập Xau-đi"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "Vương quốc A-rập Xau-đi"
+
+msgid "ISO_3166-1.SB"
+msgstr "Quần đảo Xô-lô-mông"
+
+msgid "ISO_3166-1.SC"
+msgstr "Xây-sen"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "Cộng hoà Xây-sen"
+
+msgid "ISO_3166-1.SD"
+msgstr "Xu-đanh"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "Nước Cộng Hoà Xu-đanh"
+
+msgid "ISO_3166-1.SE"
+msgstr "Thuỵ Điển"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "Vương quốc Thuỵ Điển"
+
+msgid "ISO_3166-1.SG"
+msgstr "Xin-ga-po"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "Cộng hoà Xin-ga-po"
+
+msgid "ISO_3166-1.SH"
+msgstr "Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha"
+
+msgid "ISO_3166-1.SI"
+msgstr "Xlô-ven"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "Cộng hoà Xlô-ven"
+
+msgid "ISO_3166-1.SJ"
+msgstr "Xợ-van-bat và Ian-may-en"
+
+msgid "ISO_3166-1.SK"
+msgstr "Xlô-vác"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Cộng hoà Xlô-vác"
+
+msgid "ISO_3166-1.SL"
+msgstr "Xi-ê-ra Lê-ô-nê"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "Nước Cộng Hoà Xi-ê-ra Lê-ô-nê"
+
+msgid "ISO_3166-1.SM"
+msgstr "Xan Ma-ri-nô"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "Cộng hoà Xan Ma-ri-nô"
+
+msgid "ISO_3166-1.SN"
+msgstr "Xê-nê-gan"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "Cộng hoà Xê-nê-gan"
+
+msgid "ISO_3166-1.SO"
+msgstr "Xo-ma-li"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Cộng hoà Liên bang Xo-ma-li"
+
+msgid "ISO_3166-1.SR"
+msgstr "Xu-ri-na-me"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "Nước Cộng Hoà Xu-ri-na-me"
+
+msgid "ISO_3166-1.SS"
+msgstr "Nam Xu-đăng"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "Nước Cộng Hoà Nam Xu-đăng"
+
+msgid "ISO_3166-1.ST"
+msgstr "Xao Tô-mê và Pợ-rin-xi-pê"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "Nước Cộng Hoà Nhân Dân Xao Tô-mê và Pợ-rin-xi-pê"
+
+msgid "ISO_3166-1.SV"
+msgstr "En-xan-va-đoa"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "Nước Cộng Hoà  En-xan-va-đoa"
+
+msgid "ISO_3166-1.SX"
+msgstr "Xin Mác-Ten (vùng Hà Lan)"
+
+msgid "ISO_3166-1.SY"
+msgstr "Cộng hoà A-rập Xi-ri-a"
+
+msgid "ISO_3166-1.SZ"
+msgstr "Xouă-xi-lan"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "Vương Quốc Xouă-xi-lan"
+
+msgid "ISO_3166-1.TC"
+msgstr "Quần Đảo Tuốc và Cai-cox"
+
+msgid "ISO_3166-1.TD"
+msgstr "Chê-đ"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Nước Cộng Hoà Chê-đ"
+
+msgid "ISO_3166-1.TF"
+msgstr "Miền Nam Pháp"
+
+msgid "ISO_3166-1.TG"
+msgstr "Tô-gô"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Cộng hoà Tô-gô"
+
+msgid "ISO_3166-1.TH"
+msgstr "Thái Lan"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "Vương Quốc Thái Lan"
+
+msgid "ISO_3166-1.TJ"
+msgstr "Tha-gi-ki-xthanh"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "Nước Cộng Hoà Tha-gi-ki-xthanh"
+
+msgid "ISO_3166-1.TK"
+msgstr "To-ke-lau"
+
+msgid "ISO_3166-1.TL"
+msgstr "Thi-moa Le-xợ-te"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "Nước Cộng Hoà Dân Chủ Thi-moa Le-xợ-te"
+
+msgid "ISO_3166-1.TM"
+msgstr "Tuốc-mê-ni-xtanh"
+
+msgid "ISO_3166-1.TN"
+msgstr "Tu-ni-xi-a"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "Cộng hoà Tu-ni-xi-a"
+
+msgid "ISO_3166-1.TO"
+msgstr "Tông-ga"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "Vương quốc Tông-ga"
+
+msgid "ISO_3166-1.TR"
+msgstr "Thổ Nhĩ Kỳ"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Nước Cộng Hoà Thổ Nhĩ Kỳ"
+
+msgid "ISO_3166-1.TT"
+msgstr "Trinh-i-đat và To-ba-gô"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "Cộng hoà Trinh-i-đat và To-ba-gô"
+
+msgid "ISO_3166-1.TV"
+msgstr "Tu-va-lu"
+
+msgid "ISO_3166-1.TW"
+msgstr "Đài Loan"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Nước Cộng Hoà Thống Nhất Than-xa-ni-a"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "Nước Cộng Hoà Thống Nhất Than-xa-ni-a"
+
+msgid "ISO_3166-1.UA"
+msgstr "U-cờ-rai-na"
+
+msgid "ISO_3166-1.UG"
+msgstr "U-gan-đa"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Cộng hoà U-gan-đa"
+
+msgid "ISO_3166-1.UM"
+msgstr "Quần Đảo ở xa nhỏ Mỹ"
+
+msgid "ISO_3166-1.US"
+msgstr "Mỹ"
+
+msgid "ISO_3166-1.US#official"
+msgstr "Mỹ"
+
+msgid "ISO_3166-1.UY"
+msgstr "U-ru-guay"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "Cộng hoà Đông U-ru-guay"
+
+msgid "ISO_3166-1.UZ"
+msgstr "U-xợ-bê-khi-xtanh"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "Nước Cộng Hoà U-xợ-bê-khi-xtanh"
+
+msgid "ISO_3166-1.VA"
+msgstr "Toà Thánh (Bang Thành Phố Va-ti-canh)"
+
+msgid "ISO_3166-1.VC"
+msgstr "Xan Vinh-xen và Gou-en-a-đinh"
+
+msgid "ISO_3166-1.VE"
+msgstr "Ve-ne-xu-ê-la"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la"
+
+msgid "ISO_3166-1.VG"
+msgstr "Quần Đảo Vơ-chin Anh"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "Quần Đảo Vơ-chin Anh"
+
+msgid "ISO_3166-1.VI"
+msgstr "Quần Đảo Vơ-chin Mỹ"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "Quần Đảo Vơ-chin Mỹ"
+
+msgid "ISO_3166-1.VN"
+msgstr "Việt Nam"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "Nước Cộng Hoà Xã Hội Việt Nam"
+
+msgid "ISO_3166-1.VU"
+msgstr "Va-nu-a-tu"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "Cộng hoà Va-nu-a-tu"
+
+msgid "ISO_3166-1.WF"
+msgstr "Oua-li-xợ va Phu-tu-na"
+
+msgid "ISO_3166-1.WS"
+msgstr "Xa-mô-a"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "Quốc Gia Độc Lập Xa-mô-a"
+
+msgid "ISO_3166-1.YE"
+msgstr "Y-ê-men"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Cộng hoà Y-ê-men"
+
+msgid "ISO_3166-1.YT"
+msgstr "May-o-thợ"
+
+msgid "ISO_3166-1.ZA"
+msgstr "Nam Phi"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "Cộng hoà Nam Phi"
+
+msgid "ISO_3166-1.ZM"
+msgstr "Xam-bi-a"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Nước Cộng Hoà Xam-bi-a"
+
+msgid "ISO_3166-1.ZW"
+msgstr "Xim-ba-bu-ê"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "Nước Cộng Hoà Xim-ba-bu-ê"

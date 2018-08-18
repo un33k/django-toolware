@@ -1,0 +1,621 @@
+# Translation of ISO-3166 (country names) to Zulu
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2003
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Translations from KDE:
+#   - Thobile Mhlongo <thobile@translate.org.za>, 2002
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2002-01-05 18:50+0000\n"
+"Last-Translator: Thobile Mhlongo <thobile@translate.org.za>\n"
+"Language-Team: Zulu <zulu@translate.org.za>\n"
+"Language: zu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.AG"
+msgstr "Antigua no Barbuda"
+
+msgid "ISO_3166-1.AM"
+msgstr "I-Argentina"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.AR"
+msgstr "I-Argentina"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.AS"
+msgstr "Melika, Mntla"
+
+msgid "ISO_3166-1.AT"
+msgstr "I-Austriyiya"
+
+msgid "ISO_3166-1.AU"
+msgstr "I-Australiya"
+
+msgid "ISO_3166-1.AX"
+msgstr "I-Irelandi"
+
+msgid "ISO_3166-1.AZ"
+msgstr "I-Azerbayijani"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "I-Azerbayijani"
+
+msgid "ISO_3166-1.BB"
+msgstr "I-Barbados"
+
+msgid "ISO_3166-1.BD"
+msgstr "Isi-Bhangladeshi"
+
+msgid "ISO_3166-1.BE"
+msgstr "Isi-Bhelijiyamu"
+
+msgid "ISO_3166-1.BG"
+msgstr "I-Buligariya"
+
+msgid "ISO_3166-1.BH"
+msgstr "I Brazili"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "I Brazili"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.BO"
+msgstr "I Boliviya"
+
+msgid "ISO_3166-1.BR"
+msgstr "I Brazili"
+
+msgid "ISO_3166-1.BS"
+msgstr "I-Panama"
+
+msgid "ISO_3166-1.BY"
+msgstr "I Bhelarusi"
+
+msgid "ISO_3166-1.BZ"
+msgstr "Isi-Bhelijiyamu"
+
+msgid "ISO_3166-1.CA"
+msgstr "I Khanada"
+
+msgid "ISO_3166-1.CF"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.CH"
+msgstr "I-Switzerland"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.CL"
+msgstr "I-Chile"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.CN"
+msgstr "Isi-Shayina"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.CO"
+msgstr "I Kholombiya"
+
+msgid "ISO_3166-1.CU"
+msgstr "I Kholombiya"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.DE"
+msgstr "Isi-Jalimani"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.DK"
+msgstr "Isi-Denimaki"
+
+msgid "ISO_3166-1.DM"
+msgstr "I-Romaniya"
+
+msgid "ISO_3166-1.DO"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.DZ"
+msgstr "I-Buligariya"
+
+msgid "ISO_3166-1.EC"
+msgstr "Equador"
+
+msgid "ISO_3166-1.EE"
+msgstr "I-Estoniya"
+
+msgid "ISO_3166-1.EG"
+msgstr "Amandla"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "United States ye Melika"
+
+msgid "ISO_3166-1.ES"
+msgstr "Isi-Spayini"
+
+msgid "ISO_3166-1.ET"
+msgstr "I-Estoniya"
+
+msgid "ISO_3166-1.FI"
+msgstr "I-Finilandi"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.FO"
+msgstr "I-Irelandi"
+
+msgid "ISO_3166-1.FR"
+msgstr "Isi Frentshi"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.GD"
+msgstr "I-Grenada"
+
+msgid "ISO_3166-1.GE"
+msgstr "I-Serbiya"
+
+msgid "ISO_3166-1.GH"
+msgstr "Isi-Shayina"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.GL"
+msgstr "I-Grenada"
+
+msgid "ISO_3166-1.GM"
+msgstr "I Jamayikha"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.GR"
+msgstr "I-Grisi"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.GT"
+msgstr "I-Guwathemala"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "I-Guwathemala"
+
+msgid "ISO_3166-1.GU"
+msgstr "I-Guwathemala"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.HN"
+msgstr "I-Hondurasi"
+
+msgid "ISO_3166-1.HR"
+msgstr "I-Crowathiya"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.HU"
+msgstr "I-Hungariya"
+
+msgid "ISO_3166-1.ID"
+msgstr "I-Indoneshiya"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "I-Indoneshiya"
+
+msgid "ISO_3166-1.IE"
+msgstr "I-Irelandi"
+
+msgid "ISO_3166-1.IL"
+msgstr "I-Sirayeli"
+
+msgid "ISO_3166-1.IN"
+msgstr "I-Indoneshiya"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.IQ"
+msgstr "I-Sirayeli"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.IR"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.IS"
+msgstr "I-Icelandi"
+
+msgid "ISO_3166-1.IT"
+msgstr "I-Ithali"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.JM"
+msgstr "I Jamayikha"
+
+msgid "ISO_3166-1.JO"
+msgstr "Isi-Koreyani"
+
+msgid "ISO_3166-1.JP"
+msgstr "I-Japhani"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.KH"
+msgstr "I Kholombiya"
+
+msgid "ISO_3166-1.KN"
+msgstr "St. Kitts no Nevis"
+
+msgid "ISO_3166-1.KR"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.KZ"
+msgstr "I-Tayiwani"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "I-Tayiwani"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.LC"
+msgstr "St. Lucia"
+
+msgid "ISO_3166-1.LR"
+msgstr "I-Serbiya"
+
+msgid "ISO_3166-1.LT"
+msgstr "I-Lithuwaniya"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "I-Lithuwaniya"
+
+msgid "ISO_3166-1.LU"
+msgstr "I-Luxembourg"
+
+msgid "ISO_3166-1.LV"
+msgstr "I-Latviya"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.LY"
+msgstr "I-Serbiya"
+
+msgid "ISO_3166-1.MD"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.MK"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.ML"
+msgstr "I-Malta"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.MM"
+msgstr "I-Panama"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.MO"
+msgstr "I-Malta"
+
+msgid "ISO_3166-1.MR"
+msgstr "I-Lithuwaniya"
+
+msgid "ISO_3166-1.MT"
+msgstr "I-Malta"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.MU"
+msgstr "I-Lithuwaniya"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "I-Lithuwaniya"
+
+msgid "ISO_3166-1.MV"
+msgstr "I-Malta"
+
+msgid "ISO_3166-1.MW"
+msgstr "I-Malta"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.MX"
+msgstr "I-Mexico"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "United States ye Melika"
+
+msgid "ISO_3166-1.MY"
+msgstr "I-Malta"
+
+msgid "ISO_3166-1.NC"
+msgstr "I-Makhedoniya"
+
+msgid "ISO_3166-1.NG"
+msgstr "I-Serbiya"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.NI"
+msgstr "I-Paraguwayi"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "I-Paraguwayi"
+
+msgid "ISO_3166-1.NL"
+msgstr "I-Netherlands"
+
+msgid "ISO_3166-1.NO"
+msgstr "I-Noweyi"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.NZ"
+msgstr "I-New Zealand"
+
+msgid "ISO_3166-1.PA"
+msgstr "I-Panama"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.PE"
+msgstr "I-Peru"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.PL"
+msgstr "I-Polandi"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "United States ye Melika"
+
+msgid "ISO_3166-1.PT"
+msgstr "I-Phothugali"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.PW"
+msgstr "I-Paraguwayi"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.PY"
+msgstr "I-Paraguwayi"
+
+msgid "ISO_3166-1.QA"
+msgstr "I-Malta"
+
+msgid "ISO_3166-1.RO"
+msgstr "I-Romaniya"
+
+msgid "ISO_3166-1.RS"
+msgstr "I-Serbiya"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "I-Azerbayijani"
+
+msgid "ISO_3166-1.RW"
+msgstr "I Khanada"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.SD"
+msgstr "Umsindo"
+
+msgid "ISO_3166-1.SE"
+msgstr "Isi-Swideni"
+
+msgid "ISO_3166-1.SI"
+msgstr "Isi-Sloveniya"
+
+msgid "ISO_3166-1.SK"
+msgstr "Isi-Slovaki"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.SO"
+msgstr "I-Romaniya"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.SS"
+msgstr "I-Mzantsi Afrika"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "I-Mzantsi Afrika"
+
+msgid "ISO_3166-1.SV"
+msgstr "I-El Salvador"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "I-El Salvador"
+
+msgid "ISO_3166-1.SY"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.SZ"
+msgstr "I-Thayilandi"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "I-Thayilandi"
+
+msgid "ISO_3166-1.TD"
+msgstr "Isi-Shayina"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.TH"
+msgstr "I-Thayilandi"
+
+msgid "ISO_3166-1.TJ"
+msgstr "I-Tayiwani"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "I-Tayiwani"
+
+msgid "ISO_3166-1.TN"
+msgstr "Isi-Rashiya"
+
+msgid "ISO_3166-1.TR"
+msgstr "I-Turkey"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.TT"
+msgstr "I-Trinidad ne Tobago"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "I-Trinidad ne Tobago"
+
+msgid "ISO_3166-1.TW"
+msgstr "I-Tayiwani"
+
+msgid "ISO_3166-1.TZ"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.UA"
+msgstr "I-Ukraine"
+
+msgid "ISO_3166-1.UG"
+msgstr "I Khanada"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.UM"
+msgstr "United States ye Melika"
+
+msgid "ISO_3166-1.US"
+msgstr "United States ye Melika"
+
+msgid "ISO_3166-1.US#official"
+msgstr "United States ye Melika"
+
+msgid "ISO_3166-1.UY"
+msgstr "I-Uruguwayi"
+
+msgid "ISO_3166-1.VC"
+msgstr "I-St. Vincent ne Grenadines"
+
+msgid "ISO_3166-1.VE"
+msgstr "I-Venezuwela"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "I-Finilandi"
+
+msgid "ISO_3166-1.VI"
+msgstr "I-Finilandi"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "I-Finilandi"
+
+msgid "ISO_3166-1.VN"
+msgstr "I-Vietnami"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-1.ZA"
+msgstr "I-Mzantsi Afrika"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "I-Mzantsi Afrika"
+
+msgid "ISO_3166-1.ZM"
+msgstr "I Jamayikha"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"

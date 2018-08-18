@@ -1,0 +1,1250 @@
+# Translation of ISO 3166 (country names) to Malayalam
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C) 2006-2008 Praveen A <pravi.a@gmail.com> and contributors listed below,
+# Praveen A <pravi.a@gmail.com>, 2006, 2008.
+#    Translators, if you are not familiar with the PO format, gettext
+#    documentation is worth reading, especially sections dedicated to
+#    this format, e.g. by running:
+#         info -n '(gettext)PO Files'
+#         info -n '(gettext)Header Entry'
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2008-05-30 05:10+0530\n"
+"Last-Translator: Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "അന്‍ഡോറ"
+
+msgid "ISO_3166-1.AD#official"
+msgstr "അന്‍ഡോറ പ്രിന്‍സിപ്പാലിറ്റി"
+
+msgid "ISO_3166-1.AE"
+msgstr "ഐക്യ അറബ് എമിറേറ്റുകള്‍"
+
+msgid "ISO_3166-1.AF"
+msgstr "അഫ്ഗാനിസ്താന്‍"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "അഫ്ഗാനിസ്താന്‍ ഇസ്ലാമിക റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.AG"
+msgstr "ആന്റിഗ്വയും ബര്‍മുഡയും"
+
+msgid "ISO_3166-1.AI"
+msgstr "ആംഗ്വില്ല"
+
+msgid "ISO_3166-1.AL"
+msgstr "അല്‍ബേനിയ"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "അല്‍ബേനിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.AM"
+msgstr "അര്‍മീനിയ"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "അര്‍മീനിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.AO"
+msgstr "അംഗോള"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "അംഗോള റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.AQ"
+msgstr "അന്റാര്‍ട്ടിക്ക"
+
+msgid "ISO_3166-1.AR"
+msgstr "അര്‍ജന്റീന"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "അര്‍ജന്റൈന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.AS"
+msgstr "അമേരിക്കന്‍ സമോവ"
+
+msgid "ISO_3166-1.AT"
+msgstr "ഓസ്ട്രിയ"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "ഓസ്ട്രിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.AU"
+msgstr "ഓസ്ട്രേലിയ"
+
+msgid "ISO_3166-1.AW"
+msgstr "അറൂബ"
+
+msgid "ISO_3166-1.AX"
+msgstr "ലണ്ട് ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.AZ"
+msgstr "അസര്‍ബൈജാന്‍"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "അസര്‍ബൈജാന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.BA"
+msgstr "ബോസ്നിയയും ഹെര്‍സഗോവിനയും"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "ബോസ്നിയയും ഹെര്‍സഗോവിനയും റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.BB"
+msgstr "ബാര്‍ബഡോസ്"
+
+msgid "ISO_3166-1.BD"
+msgstr "ബംഗ്ലാദേശ്"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "പീപ്പിള്‍സ് റിപ്പബ്ലിക് ഓഫ് ബംഗ്ലാദേശ്"
+
+msgid "ISO_3166-1.BE"
+msgstr "ബെല്‍ജിയം"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "ബെല്‍ജിയം രാജ്യം"
+
+msgid "ISO_3166-1.BF"
+msgstr "ബുര്‍ക്കിന ഫാസോ"
+
+msgid "ISO_3166-1.BG"
+msgstr "ബള്‍ഗേറിയ"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "ബള്‍ഗേറിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.BH"
+msgstr "ബഹറൈന്‍"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "ബഹറൈന്‍ രാജ്യം"
+
+msgid "ISO_3166-1.BI"
+msgstr "ബുറുണ്ടി"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "ബുറുണ്ടി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.BJ"
+msgstr "ബെനിന്‍"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "ബെനിന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.BL"
+msgstr "സെയിന്റ് ബാര്‍ത്തെലേമി"
+
+msgid "ISO_3166-1.BM"
+msgstr "ബര്‍മുഡ"
+
+msgid "ISO_3166-1.BN"
+msgstr "ബ്രൂണെയ് ദാറുസ്സലാം"
+
+msgid "ISO_3166-1.BO"
+msgstr "ബൊളീവിയ"
+
+msgid "ISO_3166-1.BR"
+msgstr "ബ്രസീല്‍"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "ബ്രസീലിയന്‍ ഫെഡറേറ്റീവ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.BS"
+msgstr "ബഹാമാസ്"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "ബഹാമാസ് കോമണ്‍ വെല്‍ത്ത്"
+
+msgid "ISO_3166-1.BT"
+msgstr "ബൂട്ടാന്‍"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "ബൂട്ടാന്‍ രാജ്യം"
+
+msgid "ISO_3166-1.BV"
+msgstr "ബൌവെ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.BW"
+msgstr "ബോട്സ്വാന"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "ബോട്സ്വാന റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.BY"
+msgstr "ബെലാറസ്"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "ബെലാറസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.BZ"
+msgstr "ബെലൈസ്"
+
+msgid "ISO_3166-1.CA"
+msgstr "കാനഡ"
+
+msgid "ISO_3166-1.CC"
+msgstr "കൊകോസ് (കീലിങ്ങ്) ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.CD"
+msgstr "കോംഗോ ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CF"
+msgstr "മദ്ധ്യ അഫ്രിക്കന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CG"
+msgstr "കോംഗോ"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "കോംഗോ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CH"
+msgstr "സ്വിറ്റ്സര്‍ലാന്‍ഡ് "
+
+msgid "ISO_3166-1.CH#official"
+msgstr "സ്വിസ്സ് കോണ്‍ഫെഡറേഷന്‍"
+
+msgid "ISO_3166-1.CI"
+msgstr "കോട്ടെ ഡി ലവര്‍"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "കോട്ടെ ഡി ലവര്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CK"
+msgstr "കുക്ക് ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.CL"
+msgstr "ചിലി"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "ചിലി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CM"
+msgstr "കാമറൂണ്‍"
+
+msgid "ISO_3166-1.CM#official"
+msgstr "കാമറൂണ്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CN"
+msgstr "ചൈന"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "ചൈന പീപ്പിള്‍സ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CO"
+msgstr "കൊളംബിയ"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "കൊളംബിയ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CR"
+msgstr "കോസ്റ്റ റിക"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "കോസ്റ്റ റിക റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CU"
+msgstr "ക്യൂബ"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "ക്യൂബന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CV"
+msgstr "കേപ് വെര്‍ഡെ"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "കേപ് വെര്‍ഡെ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CX"
+msgstr "ക്രിസ്തുമസ് ദ്വീപ്"
+
+msgid "ISO_3166-1.CY"
+msgstr "സൈപ്രസ്"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "സൈപ്രസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "ചെക്ക് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.DE"
+msgstr "ജര്‍മനി"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "ജര്‍മന്‍ ഫെഡറല്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.DJ"
+msgstr "ജിബൂട്ടി"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "ജിബൂട്ടി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.DK"
+msgstr "ഡെന്മാര്‍ക്ക്"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "ഡെന്മാര്‍ക്ക് രാജ്യം"
+
+msgid "ISO_3166-1.DM"
+msgstr "ഡൊമിനിക"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "ഡൊമിനിക കോമണ്‍വെല്‍ത്ത്"
+
+msgid "ISO_3166-1.DO"
+msgstr "ഡൊമിനികന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.DZ"
+msgstr "അള്‍ജീരിയ"
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "പീപ്പിള്‍സ് ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക് ഓഫ് അള്‍ജീരിയ"
+
+msgid "ISO_3166-1.EC"
+msgstr "ഇക്വഡോര്‍"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "ഇക്വഡോര്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.EE"
+msgstr "എസ്തോണിയ"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "എസ്തോണിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.EG"
+msgstr "ഈജിപ്ത്"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "ഈജിപ്ത് അറബി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.EH"
+msgstr "പടിഞ്ഞാറന്‍ സഹാറ"
+
+msgid "ISO_3166-1.ER"
+msgstr "എറിട്രിയ"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
+
+msgid "ISO_3166-1.ES"
+msgstr "സ്പെയിന്‍"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "സ്പെയിന്‍ രാജ്യം"
+
+msgid "ISO_3166-1.ET"
+msgstr "എത്യോപ്യ"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "എത്യോപ്യന്‍ ഫെഡറല്‍ ജനാധിപത്യ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.FI"
+msgstr "ഫിന്‍ലന്‍ഡ്"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "ഫിന്‍ലന്‍ഡ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ഫിജി"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "ഹൈതി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.FK"
+msgstr "ഫാക്‍ലാന്‍ഡ്  ദ്വീപുകള്‍ (മാള്‍വിനാസ്)"
+
+msgid "ISO_3166-1.FM"
+msgstr "മൈക്രോനേഷ്യ, ഫെഡറേറ്റഡ് സ്റ്റേറ്റ്സ് ഓഫ്"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "ഫെഡറേറ്റഡ് സ്റ്റേറ്റ്സ് ഓഫ് മൈക്രോനേഷ്യ"
+
+msgid "ISO_3166-1.FO"
+msgstr "ഫറവോ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.FR"
+msgstr "ഫ്രാന്‍സ്"
+
+msgid "ISO_3166-1.FR#official"
+msgstr "ഫ്രഞ്ച് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GA"
+msgstr "ഗാബോണ്‍"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "ഗാബോണീസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GB"
+msgstr "യുണൈറ്റഡ് കിങ്ഡം"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "യുണൈറ്റഡ് കിങ്ഡം ഓഫ് ഗ്രേയ്റ്റ് ബ്രിട്ടന്‍ ആന്‍ഡ് നോര്‍ത്തേണ്‍ അയര്‍ലന്‍ഡ്"
+
+msgid "ISO_3166-1.GD"
+msgstr "ഗ്രനഡ"
+
+msgid "ISO_3166-1.GE"
+msgstr "ജോര്‍ജിയ"
+
+msgid "ISO_3166-1.GF"
+msgstr "ഫ്രഞ്ച് ഗയാന"
+
+msgid "ISO_3166-1.GG"
+msgstr "ജേണ്‍സി"
+
+msgid "ISO_3166-1.GH"
+msgstr "ഘാന"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "ഘാന റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GI"
+msgstr "ജിബ്രാള്‍ട്ടര്‍"
+
+msgid "ISO_3166-1.GL"
+msgstr "ഗ്രീന്‍ ലാന്‍ഡ്"
+
+msgid "ISO_3166-1.GM"
+msgstr "ഗാംബിയ"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "ഗാംബിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GN"
+msgstr "ഗിനിയ"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "ഗിനിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GP"
+msgstr "ഗ്വാഡെലോപ്"
+
+msgid "ISO_3166-1.GQ"
+msgstr "ഇക്വടോറിയല്‍ ഗിനിയ"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "ഇക്വടോറിയല്‍ ഗിനിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GR"
+msgstr "ഗ്രീസ്"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "ഹെലനിക് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GS"
+msgstr "തെക്കന്‍ ജോര്‍ജിയയും തെക്കന്‍ സാന്‍ഡ്‌വിച്ചും ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.GT"
+msgstr "ഗ്വാട്ടിമാല"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "ഗ്വാട്ടിമാല റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GU"
+msgstr "ഗുവാം"
+
+msgid "ISO_3166-1.GW"
+msgstr "ഗിനിയ-ബിസ്സാവു"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "ഗിനിയ-ബിസ്സാവു റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.GY"
+msgstr "ഗയാന"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "ഗയാന റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.HK"
+msgstr "ഹോങ് കോങ്"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "ചൈനയുടെ ഹോങ് കോങ് പ്രത്യേക ഭരണ മേഘല"
+
+msgid "ISO_3166-1.HM"
+msgstr "ഹെര്‍ഡ് ദ്വീപും മക്ഡൊണാള്‍ഡ് ദ്വീപുകളും"
+
+msgid "ISO_3166-1.HN"
+msgstr "ഹോണ്ടുറാസ്"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "ഹോണ്ടുറാസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.HR"
+msgstr "ക്രോയേഷ്യ"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "ക്രോയേഷ്യന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.HT"
+msgstr "ഹൈതി"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "ഹൈതി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.HU"
+msgstr "ഹംഗറി"
+
+msgid "ISO_3166-1.ID"
+msgstr "ഇന്തോനേഷ്യ"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "ഇന്തോനേഷ്യന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.IE"
+msgstr "അയര്‍ലണ്ട്  "
+
+msgid "ISO_3166-1.IL"
+msgstr "ഇസ്രായേല്‍"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "ഇസ്രായേല്‍ സ്റ്റേറ്റ്"
+
+msgid "ISO_3166-1.IM"
+msgstr "ഐല്‍ ഓഫ് മാന്‍"
+
+msgid "ISO_3166-1.IN"
+msgstr "ഇന്ത്യ"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "ഇന്ത്യന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.IO"
+msgstr "ബ്രിട്ടീഷ് ഇന്ത്യന്‍ മഹാസമുദ്ര പ്രദേശം"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ഇറാഖ്"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "ഇറാഖ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.IR"
+msgstr "ഇറാന്‍, ഇസ്ലാമിക് റിപ്പബ്ലിക് ഓഫ്"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ഇസ്ലാമിക് റിപ്പബ്ലിക് ഓഫ് ഇറാന്‍"
+
+msgid "ISO_3166-1.IS"
+msgstr "ഐസ്‌ലാന്‍ഡ്"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "ഐസ്‌ലാന്‍ഡ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.IT"
+msgstr "ഇറ്റലി"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ഇറ്റാലിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.JE"
+msgstr "ജെര്‍സി"
+
+msgid "ISO_3166-1.JM"
+msgstr "ജമൈക്ക"
+
+msgid "ISO_3166-1.JO"
+msgstr "ജോര്‍ഡാന്‍"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "ജോര്‍ഡാന്‍ ഹാഷെമൈറ്റ് രാജ്യം"
+
+msgid "ISO_3166-1.JP"
+msgstr "ജപ്പാന്‍"
+
+msgid "ISO_3166-1.KE"
+msgstr "കെനിയ"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "കെനിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.KG"
+msgstr "കിര്‍ഗിസ്താന്‍"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "കിര്‍ഗിസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.KH"
+msgstr "കമ്പോഡിയ"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "കമ്പോഡിയ രാജ്യം"
+
+msgid "ISO_3166-1.KI"
+msgstr "കിരിബാറ്റി"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "കിരിബാറ്റി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.KM"
+msgstr "കൊമോറോസ്"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "കൊമോറോസ് യൂണിയന്‍"
+
+msgid "ISO_3166-1.KN"
+msgstr "സെയിന്റ് കിറ്റ്സും നെവിസും"
+
+msgid "ISO_3166-1.KP"
+msgstr "കൊറിയ, ഡെമോക്രാറ്റിക് പീപ്പിള്‍സ് റിപ്പബ്ലിക് ഓഫ്"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "ഡെമോക്രാറ്റിക് പീപ്പിള്‍സ് റിപ്പബ്ലിക് ഓഫ് കൊറിയ"
+
+msgid "ISO_3166-1.KR"
+msgstr "കൊറിയ, റിപ്പബ്ലിക് ഓഫ്"
+
+msgid "ISO_3166-1.KW"
+msgstr "കുവൈത്ത്"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "കുവൈത്ത് സ്റ്റേറ്റ്"
+
+msgid "ISO_3166-1.KY"
+msgstr "കയ്‌മാന്‍ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.KZ"
+msgstr "കസാഖിസ്താന്‍"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "കസാഖിസ്താന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.LA"
+msgstr "ലാവോ പീപ്പിള്‍സ് ജനാധിപത്യ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.LB"
+msgstr "ലെബനോണ്‍"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "ലെബനീസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.LC"
+msgstr "സെയിന്റ് ലുസിയ"
+
+msgid "ISO_3166-1.LI"
+msgstr "ലിചെസ്റ്റൈന്‍"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "ലിചെസ്റ്റൈന്‍ പ്രിന്‍സിപ്പാലിറ്റി"
+
+msgid "ISO_3166-1.LK"
+msgstr "ശ്രീലങ്ക"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "ശ്രീലങ്കന്‍ ജനാധിപത്യ സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.LR"
+msgstr "ലൈബീരിയ"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "ലൈബീരിയ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.LS"
+msgstr "ലെസോത്തോ"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "ലെസോത്തോ രാജ്യം"
+
+msgid "ISO_3166-1.LT"
+msgstr "ലിത്വാനിയ"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "ലിത്വാനിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.LU"
+msgstr "ലക്സെംബര്‍ഗ്"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "ലക്സെംബര്‍ഗ് ഗ്രാന്‍ഡ് ഡച്ചി"
+
+msgid "ISO_3166-1.LV"
+msgstr "ലാത്വിയ"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "ലാത്വിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.LY"
+msgstr "ലൈബീരിയ"
+
+msgid "ISO_3166-1.MA"
+msgstr "മൊറോക്കോ"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "മൊറോക്കോ രാജ്യം"
+
+msgid "ISO_3166-1.MC"
+msgstr "മൊണാക്കോ"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "മൊണാക്കോ പ്രിന്‍സിപ്പാലിറ്റി"
+
+msgid "ISO_3166-1.MD"
+msgstr "മോള്‍ഡോവ"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "മോള്‍ഡോവ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.ME"
+msgstr "മോണ്ടിനെഗ്രോ"
+
+msgid "ISO_3166-1.MF"
+msgstr "സെയിന്റ് മാര്‍ട്ടിന്‍ (ഫ്രഞ്ച് ഭാഗം)"
+
+msgid "ISO_3166-1.MG"
+msgstr "മഡഗാസ്കര്‍"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "മഡഗാസ്കര്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MH"
+msgstr "മാര്‍ഷല്‍ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "മാര്‍ഷല്‍ ദ്വീപുകള്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MK"
+msgstr "മാസിഡോണിയ, റിപ്പബ്ലിക് ഓഫ്"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "ദി ഫോര്‍മര്‍ യുഗോസ്ലാവ് റിപ്പബ്ലിക് ഓഫ് മാസിഡോണിയ"
+
+msgid "ISO_3166-1.ML"
+msgstr "മാലി"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "മാലി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MM"
+msgstr "മ്യാന്മാര്‍"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "ഗയാന റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MN"
+msgstr "മംഗോളിയ"
+
+msgid "ISO_3166-1.MO"
+msgstr "മകാവോ"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "മകാവോ ചൈനീസ് പ്രത്യേക ഭരണ മേഘല"
+
+msgid "ISO_3166-1.MP"
+msgstr "വടക്കന്‍ മരിയാന ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "വടക്കന്‍ മരിയാന ദ്വീപുകളുടെ കോമണ്‍ വെല്‍ത്ത്"
+
+msgid "ISO_3166-1.MQ"
+msgstr "മാര്‍ട്ടിനിക്ക്"
+
+msgid "ISO_3166-1.MR"
+msgstr "മൌറിട്ടാനിയ"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "മൌറിട്ടാനിയ ഇസ്ലാമിക് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MS"
+msgstr "മോണ്ട്സെറാറ്റ്"
+
+msgid "ISO_3166-1.MT"
+msgstr "മാള്‍ട്ട"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "മാള്‍ട്ട റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MU"
+msgstr "മൌറീഷ്യസ്"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "മൌറീഷ്യസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MV"
+msgstr "മാല്‍ഡീവ്സ്"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "മാല്‍ഡീവ്സ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MW"
+msgstr "മലാവി"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "മലാവി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.MX"
+msgstr "മെക്സികോ"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "ഐക്യ മെക്സിക്കന്‍ സ്റ്റേറ്റുകള്‍"
+
+msgid "ISO_3166-1.MY"
+msgstr "മലേഷ്യ"
+
+msgid "ISO_3166-1.MZ"
+msgstr "മൊസാമ്പിക്"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "മൊസാമ്പിക് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.NA"
+msgstr "നമീബിയ"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "നമീബിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.NC"
+msgstr "ന്യൂ കാലിഡോമിയ"
+
+msgid "ISO_3166-1.NE"
+msgstr "നൈജര്‍"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "നൈജര്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.NF"
+msgstr "നോര്‍ഫോക് ദ്വീപ്"
+
+msgid "ISO_3166-1.NG"
+msgstr "നൈജീരിയ"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "നൈജീരിയന്‍ ഫെഡറല്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.NI"
+msgstr "നികരാഗ്വ"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "നികരാഗ്വ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.NL"
+msgstr "നെതര്‍ലന്‍ഡ്സ്"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "നെതര്‍ലന്‍ഡ്സ് രാജ്യം"
+
+msgid "ISO_3166-1.NO"
+msgstr "നോര്‍വേ"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "നോര്‍വേ രാജ്യം"
+
+msgid "ISO_3166-1.NP"
+msgstr "നേപാള്‍"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "എത്യോപ്യന്‍ ഫെഡറല്‍ ജനാധിപത്യ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.NR"
+msgstr "നൌറു"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "നൌറു റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.NU"
+msgstr "നിയു"
+
+msgid "ISO_3166-1.NZ"
+msgstr "ന്യൂസിലാന്‍ഡ്"
+
+msgid "ISO_3166-1.OM"
+msgstr "ഒമാന്‍"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ഒമാന്‍ സുല്‍ത്താനേറ്റ്"
+
+msgid "ISO_3166-1.PA"
+msgstr "പനാമ"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "പനാമ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.PE"
+msgstr "പെറു"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "പെറു റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.PF"
+msgstr "ഫ്രഞ്ച് പോളിനേഷ്യ"
+
+msgid "ISO_3166-1.PG"
+msgstr "പാപുവ ന്യൂ ഗിനിയ"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "സമോവ സ്വതന്ത്ര സ്റ്റേറ്റ്"
+
+msgid "ISO_3166-1.PH"
+msgstr "ഫിലിപ്പൈന്‍സ്"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "ഫിലിപ്പൈന്‍സ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.PK"
+msgstr "പാകിസ്താന്‍"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "പാകിസ്താന്‍ ഇസ്ലാമിക റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.PL"
+msgstr "പോളണ്ട്"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "പോളണ്ട് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.PM"
+msgstr "സെയിന്റ് പിയറിയും മിക്വലെനും"
+
+msgid "ISO_3166-1.PN"
+msgstr "പിറ്റ്കയേണ്‍"
+
+msgid "ISO_3166-1.PR"
+msgstr "പ്യൂര്‍ട്ടോ റികോ"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
+
+msgid "ISO_3166-1.PT"
+msgstr "പോര്‍ച്ചുഗല്‍"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "പോര്‍ച്ചുഗീസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.PW"
+msgstr "പലാവു"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "പലാവു റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.PY"
+msgstr "പരാഗ്വേ"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "പരാഗ്വേ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.QA"
+msgstr "ഖത്തര്‍"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "ഖത്തര്‍ സ്റ്റേറ്റ്"
+
+msgid "ISO_3166-1.RE"
+msgstr "റീയൂണിയന്‍"
+
+msgid "ISO_3166-1.RO"
+msgstr "റൊമാനിയ"
+
+msgid "ISO_3166-1.RS"
+msgstr "സെര്‍ബിയ"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "സെര്‍ബിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.RU"
+msgstr "റഷ്യന്‍ ഫെഡറേഷന്‍"
+
+msgid "ISO_3166-1.RW"
+msgstr "റുവാണ്ട"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "റുവാണ്ടീസ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SA"
+msgstr "സൌദി അറേബ്യ"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "സൌദി അറേബ്യന്‍ രാജ്യം"
+
+msgid "ISO_3166-1.SB"
+msgstr "സോളമന്‍ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.SC"
+msgstr "സെയ്ഷെല്‍സ്"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "സെയ്ഷെല്‍സ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SD"
+msgstr "സുഡാന്‍"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "സുഡാന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SE"
+msgstr "സ്വീഡന്‍"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "സ്വീഡന്‍ രാജ്യം"
+
+msgid "ISO_3166-1.SG"
+msgstr "സിംഗപ്പൂര്‍"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "സിംഗപ്പൂര്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SI"
+msgstr "സ്ലോവേനിയ"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "സ്ലോവേനിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SJ"
+msgstr "സ്വാല്‍ബാര്‍ഡും യാന്‍ മായെനും"
+
+msgid "ISO_3166-1.SK"
+msgstr "സ്ലോവാക്യ"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "സ്ലോവാക് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SL"
+msgstr "സിയേറ ലിയോണ്‍"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "സിയേറ ലിയോണ്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SM"
+msgstr "സന്‍ മരിനോ"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "സന്‍ മരിനോ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SN"
+msgstr "സെനഗല്‍"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "സെനഗല്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SO"
+msgstr "സോമാലിയ"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "ജര്‍മന്‍ ഫെഡറല്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SR"
+msgstr "സൂരിനാം"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "സൂരിനാം റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SS"
+msgstr "സുഡാന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "സുഡാന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.ST"
+msgstr "സാവോ ടോമും പ്രിന്‍സിപ്പിയും"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "സാവോ ടോമും പ്രിന്‍സിപ്പിയും ജനാധിപത്യ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SV"
+msgstr "എല്‍ സാല്‍വഡോര്‍"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "എല്‍ സാല്‍വഡോര്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SX"
+msgstr "സെയിന്റ് മാര്‍ട്ടിന്‍ (ഫ്രഞ്ച് ഭാഗം)"
+
+msgid "ISO_3166-1.SY"
+msgstr "സിറിയന്‍ അറബ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.SZ"
+msgstr "സ്വാസിലാന്‍ഡ്"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "സ്വാസിലാന്‍ഡ് രാജ്യം"
+
+msgid "ISO_3166-1.TC"
+msgstr "തുര്‍ക്ക്സും കൈകോസും ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.TD"
+msgstr "ഛാഡ്"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "ഛാഡ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.TF"
+msgstr "ഫ്രഞ്ച് തെക്കന്‍ പ്രദേശങ്ങള്‍"
+
+msgid "ISO_3166-1.TG"
+msgstr "ടോഗോ"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "ടോഗോ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.TH"
+msgstr "തായ്‌ലന്‍ഡ്"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "തായ്‌ലന്‍ഡ് രാജ്യം"
+
+msgid "ISO_3166-1.TJ"
+msgstr "താജികിസ്താന്‍"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "താജികിസ്താന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.TK"
+msgstr "ടെകേലു"
+
+msgid "ISO_3166-1.TL"
+msgstr "തിമൂര്‍-ലെസ്തെ"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "തിമൂര്‍-ലെസ്തെ ജനാധിപത്യ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.TM"
+msgstr "തുര്‍ക്‌മെനിസ്താന്‍"
+
+msgid "ISO_3166-1.TN"
+msgstr "ടുണീഷ്യ"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "ടുണീഷ്യന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.TO"
+msgstr "ടോങ്ക"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "ടോങ്ക രാജ്യം"
+
+msgid "ISO_3166-1.TR"
+msgstr "തുര്‍ക്കി"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "തുര്‍ക്കി റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.TT"
+msgstr "ട്രിനിഡാഡും ടൊബാഗോയും"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "ട്രിനിഡാഡും ടൊബാഗോയും റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.TV"
+msgstr "ടുവാലു"
+
+msgid "ISO_3166-1.TW"
+msgstr "തായ്‌വാന്‍"
+
+msgid "ISO_3166-1.TZ"
+msgstr "ടാന്‍സാനിയ, യുണൈറ്റഡ് റിപ്പബ്ലിക് ഓഫ്"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "ഐക്യ ടാന്‍സാനിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.UA"
+msgstr "ഉക്രൈന്‍"
+
+msgid "ISO_3166-1.UG"
+msgstr "ഉഗാണ്ട"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "ഉഗാണ്ടന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.UM"
+msgstr "യുണെറ്റഡ് സ്റ്റേറ്റ്സ് മൈനര്‍ ഔട്ട്‌ലയിങ്ങ് ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.US"
+msgstr "ഐക്യനാടുകള്‍"
+
+msgid "ISO_3166-1.US#official"
+msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
+
+msgid "ISO_3166-1.UY"
+msgstr "ഉറുഗ്വേ"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "ഉറുഗ്വേ കിഴക്കന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.UZ"
+msgstr "ഉസ്ബേക്കിസ്താന്‍"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "ഉസ്ബേക്കിസ്താന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.VA"
+msgstr "ഹോളി സീ (വത്തിക്കാന്‍ സിറ്റി സ്റ്റേറ്റ്)"
+
+msgid "ISO_3166-1.VC"
+msgstr "സെയിന്റ് വിന്‍സന്റും ഗ്രനഡൈന്‍സും"
+
+msgid "ISO_3166-1.VE"
+msgstr "വെനിസ്വേല"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "വെനിസ്വേല ബൊളിവേറിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.VG"
+msgstr "വിര്‍ജിന്‍ ദ്വീപുകള്‍, ബ്രിട്ടീഷ്"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ബ്രിട്ടീഷ് വിര്‍ജിന്‍ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.VI"
+msgstr "വിര്‍ജിന്‍ ദ്വീപുകള്‍, യു.എസ്."
+
+msgid "ISO_3166-1.VI#official"
+msgstr "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് വിര്‍ജിന്‍ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-1.VN"
+msgstr "വിയറ്റ്നാം"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "വിയറ്റ്നാം സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.VU"
+msgstr "വന്വാട്ടു"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "വന്വാട്ടു റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.WF"
+msgstr "വാലിസും ഫ്യൂചുനയും"
+
+msgid "ISO_3166-1.WS"
+msgstr "സമോവ"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "സമോവ സ്വതന്ത്ര സ്റ്റേറ്റ്"
+
+msgid "ISO_3166-1.YE"
+msgstr "യെമന്‍"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "യെമന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.YT"
+msgstr "മയോട്ടെ"
+
+msgid "ISO_3166-1.ZA"
+msgstr "സൌത്ത് ആഫ്രിക്ക"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "സൌത്ത് ആഫ്രിക്കന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.ZM"
+msgstr "സാംബിയ"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "സാംബിയന്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-1.ZW"
+msgstr "സിംബാബ്‌വേ"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "സിംബാബ്‌വേ റിപ്പബ്ലിക്"

@@ -1,0 +1,1251 @@
+# Translation of ISO 3166 (country names) to Assamese
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Amitakhya Phukan <aphukan@fedoraproject.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-11-15 20:32+0100\n"
+"PO-Revision-Date: 2010-04-05 17:41+0530\n"
+"Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_3166-1.AD"
+msgstr "এণ্ডোৰা   "
+
+msgid "ISO_3166-1.AD#official"
+msgstr "প্ৰিঞ্চিপালিটি অফ এণ্ডোৰা   "
+
+msgid "ISO_3166-1.AE"
+msgstr "ইউনাইটেড আৰৱ ইমিৰেটছ"
+
+msgid "ISO_3166-1.AF"
+msgstr "আফগানিস্থান"
+
+msgid "ISO_3166-1.AF#official"
+msgstr "আফগানিস্থানৰ ইছ্‌লামিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.AG"
+msgstr "এন্টিগুৱা আৰু বাৰবুডা"
+
+msgid "ISO_3166-1.AI"
+msgstr "এংগুইলা"
+
+msgid "ISO_3166-1.AL"
+msgstr "আলবেনিয়া"
+
+msgid "ISO_3166-1.AL#official"
+msgstr "আলবেনিয়াৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.AM"
+msgstr "আৰ্মেনিয়া"
+
+msgid "ISO_3166-1.AM#official"
+msgstr "আৰ্মেনিয়াৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.AO"
+msgstr "এংগোলা"
+
+msgid "ISO_3166-1.AO#official"
+msgstr "এঙ্গোলাৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.AQ"
+msgstr "আনটাৰ্কটিকা"
+
+msgid "ISO_3166-1.AR"
+msgstr "আৰ্জেনটিনা"
+
+msgid "ISO_3166-1.AR#official"
+msgstr "আৰ্জেন্টাইন প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.AS"
+msgstr "আমেৰিকান ছামোআ"
+
+msgid "ISO_3166-1.AT"
+msgstr "অস্ট্ৰিয়া"
+
+msgid "ISO_3166-1.AT#official"
+msgstr "অস্ট্ৰিয়াৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.AU"
+msgstr "অস্ট্ৰেলিয়া"
+
+msgid "ISO_3166-1.AW"
+msgstr "আৰুবা"
+
+msgid "ISO_3166-1.AX"
+msgstr "আলান্ড দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.AZ"
+msgstr "আজেৰ্বেইজান"
+
+msgid "ISO_3166-1.AZ#official"
+msgstr "আজেৰ্বেইজানৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.BA"
+msgstr "বোছনীযা আৰু হাৰজেগোইনা"
+
+msgid "ISO_3166-1.BA#official"
+msgstr "বোছনীযা আৰু হাৰজেগোইনাৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.BB"
+msgstr "বাৰ্বাডোছ "
+
+msgid "ISO_3166-1.BD"
+msgstr "বাংলাদেশ"
+
+msgid "ISO_3166-1.BD#official"
+msgstr "পিপলছ্ ৰিপাব্লিক অফ বাংলাদেশ"
+
+msgid "ISO_3166-1.BE"
+msgstr "বেলজিয়াম"
+
+msgid "ISO_3166-1.BE#official"
+msgstr "বেলজিয়াম ৰাজ্য"
+
+msgid "ISO_3166-1.BF"
+msgstr "বুৰ্কিনা ফাসো"
+
+msgid "ISO_3166-1.BG"
+msgstr "বুলগাৰিয়া"
+
+msgid "ISO_3166-1.BG#official"
+msgstr "বুলগাৰিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.BH"
+msgstr "বাহৰেইন"
+
+msgid "ISO_3166-1.BH#official"
+msgstr "বাহৰেইৰ ৰাজ্য"
+
+msgid "ISO_3166-1.BI"
+msgstr "বুৰুন্ডি"
+
+msgid "ISO_3166-1.BI#official"
+msgstr "বুৰুন্ডি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.BJ"
+msgstr "বেনিন"
+
+msgid "ISO_3166-1.BJ#official"
+msgstr "বেনিন প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.BL"
+msgstr "চেন্ট বাৰ্থেলেমি"
+
+msgid "ISO_3166-1.BM"
+msgstr "বাৰ্মুডা"
+
+msgid "ISO_3166-1.BN"
+msgstr "ব্ইচ্‌লামিকুনেই ডাৰুছালাম"
+
+msgid "ISO_3166-1.BO"
+msgstr "বলীভিয়া"
+
+msgid "ISO_3166-1.BO#official"
+msgstr "প্লুৰিনেছনেল ৰাষ্ট্ৰ বোলিভিয়া"
+
+msgid "ISO_3166-1.BR"
+msgstr "ব্ৰাজিল"
+
+msgid "ISO_3166-1.BR#official"
+msgstr "প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ ব্ৰাজিল"
+
+msgid "ISO_3166-1.BS"
+msgstr "বাহামাছ"
+
+msgid "ISO_3166-1.BS#official"
+msgstr "বাহামাছৰ ৰাষ্ট্ৰমণ্ডল"
+
+msgid "ISO_3166-1.BT"
+msgstr "ভুটান"
+
+msgid "ISO_3166-1.BT#official"
+msgstr "ভুটান ৰাজ্য"
+
+msgid "ISO_3166-1.BV"
+msgstr "বোভেট দ্বীপ"
+
+msgid "ISO_3166-1.BW"
+msgstr "বটছোৱানা"
+
+msgid "ISO_3166-1.BW#official"
+msgstr "বটছোৱানাৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.BY"
+msgstr "বেলাৰছ"
+
+msgid "ISO_3166-1.BY#official"
+msgstr "বেলাৰছৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.BZ"
+msgstr "বেলিজ"
+
+msgid "ISO_3166-1.CA"
+msgstr "কানাডা"
+
+msgid "ISO_3166-1.CC"
+msgstr "কোকোচ (কিলিং) দ্বীপ"
+
+msgid "ISO_3166-1.CD"
+msgstr "কঙ্গো, গণতান্ত্ৰিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CF"
+msgstr "মধ্য আফ্ৰিকান প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CG"
+msgstr "কঙ্গো"
+
+msgid "ISO_3166-1.CG#official"
+msgstr "কঙ্গো প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CH"
+msgstr "ছুইজাৰলেণ্ড "
+
+msgid "ISO_3166-1.CH#official"
+msgstr "চুইচ মৈত্ৰীসংঘ"
+
+msgid "ISO_3166-1.CI"
+msgstr "আইভৰি কোস্ট"
+
+msgid "ISO_3166-1.CI#official"
+msgstr "আইভৰি কোস্ট প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CK"
+msgstr "কুক দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.CL"
+msgstr "চিলি"
+
+msgid "ISO_3166-1.CL#official"
+msgstr "চিলি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CM"
+msgstr "কেমেৰুণ "
+
+msgid "ISO_3166-1.CM#official"
+msgstr "কেমেৰুণ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CN"
+msgstr "চীন"
+
+msgid "ISO_3166-1.CN#official"
+msgstr "গণপ্ৰজাতন্ত্ৰী চীন"
+
+msgid "ISO_3166-1.CO"
+msgstr "কোলোম্বিয়া"
+
+msgid "ISO_3166-1.CO#official"
+msgstr "কোলোম্বিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CR"
+msgstr "কোস্টা ৰিকা"
+
+msgid "ISO_3166-1.CR#official"
+msgstr "কোস্টা ৰিকা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CU"
+msgstr "কিউবা"
+
+msgid "ISO_3166-1.CU#official"
+msgstr "কিউবা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CV"
+msgstr "কেপ ভাৰ্ডি"
+
+msgid "ISO_3166-1.CV#official"
+msgstr "কেপ ভাৰ্ডি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CX"
+msgstr "ক্ৰিস্টমাছ দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.CY"
+msgstr "ছাইপ্ৰাছ"
+
+msgid "ISO_3166-1.CY#official"
+msgstr "ছাইপ্ৰাছ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.CZ#official"
+msgstr "চেক প্ৰজাতন্ত্ৰৰ"
+
+msgid "ISO_3166-1.DE"
+msgstr "জাইচ্‌লামিক্মানী"
+
+msgid "ISO_3166-1.DE#official"
+msgstr "প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ জাইচ্‌লামিক্মানী"
+
+msgid "ISO_3166-1.DJ"
+msgstr "জিবুতি"
+
+msgid "ISO_3166-1.DJ#official"
+msgstr "জিবুতি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.DK"
+msgstr "ডেনমাৰ্ক"
+
+msgid "ISO_3166-1.DK#official"
+msgstr "ডেনমাৰ্ক ৰাজ্য"
+
+msgid "ISO_3166-1.DM"
+msgstr "ডোমিনিকা"
+
+msgid "ISO_3166-1.DM#official"
+msgstr "ডেমিনিকা ৰাষ্ট্ৰমণ্ডল"
+
+msgid "ISO_3166-1.DO"
+msgstr "ডোমিনিকান প্ৰজান্ত্ৰ্ৰ"
+
+msgid "ISO_3166-1.DZ"
+msgstr "আলজেৰিযা "
+
+msgid "ISO_3166-1.DZ#official"
+msgstr "পিপল্চ ডেমক্ৰেটিক ৰিপাব্লিক অফ আলজেৰিয়া"
+
+msgid "ISO_3166-1.EC"
+msgstr "ইকোৱেড'ৰ"
+
+msgid "ISO_3166-1.EC#official"
+msgstr "ইকোৱেড'ৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.EE"
+msgstr "এস্তোনিয়া"
+
+msgid "ISO_3166-1.EE#official"
+msgstr "এস্তোনিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.EG"
+msgstr "মিশ্ৰ"
+
+msgid "ISO_3166-1.EG#official"
+msgstr "আৰব প্ৰজাতন্ত্ৰ মিশ্ৰ"
+
+msgid "ISO_3166-1.EH"
+msgstr "পশ্চিম ছাহাৰা"
+
+msgid "ISO_3166-1.ER"
+msgstr "এৰিট্ৰিয়া"
+
+msgid "ISO_3166-1.ER#official"
+msgstr "আমেৰিকা মাৰ্কিন যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.ES"
+msgstr "স্পেইন"
+
+msgid "ISO_3166-1.ES#official"
+msgstr "স্পেইন ৰাজ্য"
+
+msgid "ISO_3166-1.ET"
+msgstr "ইথিওপিয়া"
+
+msgid "ISO_3166-1.ET#official"
+msgstr "গণতান্ত্ৰিক প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ ইথিওপিয়া"
+
+msgid "ISO_3166-1.FI"
+msgstr "ফিনলেণ্ড"
+
+msgid "ISO_3166-1.FI#official"
+msgstr "ফিনলেণ্ড প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.FJ"
+msgstr "ফিজি"
+
+msgid "ISO_3166-1.FJ#official"
+msgstr "হাইতি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.FK"
+msgstr "ফাকলেণ্ড দ্বীপ (মাল্‌ভিনাছ)"
+
+msgid "ISO_3166-1.FM"
+msgstr "মাইক্ৰোনেছিয়া যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.FM#official"
+msgstr "মাইক্ৰোনেছিয়া যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.FO"
+msgstr "ফাৰো দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.FR"
+msgstr "ফ্ইচ্‌লামিকান্স "
+
+msgid "ISO_3166-1.FR#official"
+msgstr "ফ্ৰেঞ্চ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GA"
+msgstr "গেবন"
+
+msgid "ISO_3166-1.GA#official"
+msgstr "গেবনিছ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GB"
+msgstr "যুক্তৰাজ্য"
+
+msgid "ISO_3166-1.GB#official"
+msgstr "গ্ৰেট ব্ৰিটেন আৰু উত্তৰ আয়াৰ্লেন্ড যুক্তৰাজ্য"
+
+msgid "ISO_3166-1.GD"
+msgstr "গ্ৰেনাডা"
+
+msgid "ISO_3166-1.GE"
+msgstr "জৰ্জিয়া"
+
+msgid "ISO_3166-1.GF"
+msgstr "ফ্ৰেঞ্চ গায়ানা"
+
+msgid "ISO_3166-1.GG"
+msgstr "গুয়েৰ্ন্সে"
+
+msgid "ISO_3166-1.GH"
+msgstr "ঘানা"
+
+msgid "ISO_3166-1.GH#official"
+msgstr "ঘানা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GI"
+msgstr "জিব্ৰাল্টাৰ"
+
+msgid "ISO_3166-1.GL"
+msgstr "গ্ৰীনলেণ্ড"
+
+msgid "ISO_3166-1.GM"
+msgstr "গাম্বিয়া"
+
+msgid "ISO_3166-1.GM#official"
+msgstr "গাম্বিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GN"
+msgstr "গিনি"
+
+msgid "ISO_3166-1.GN#official"
+msgstr "গিনি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GP"
+msgstr "গুৱাডেলোপ"
+
+msgid "ISO_3166-1.GQ"
+msgstr "বিষুবীয় গিনি"
+
+msgid "ISO_3166-1.GQ#official"
+msgstr "বিষুবীয় গিনি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GR"
+msgstr "গ্ইচ্‌লামিকীচ"
+
+msgid "ISO_3166-1.GR#official"
+msgstr "হেলেনিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GS"
+msgstr "দক্ষিণ জৰ্জিয়া আৰু দক্ষিণ চেন্ডউইচ দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.GT"
+msgstr "গুৱাটেমালা"
+
+msgid "ISO_3166-1.GT#official"
+msgstr "গুৱাটেমালা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GU"
+msgstr "গুৱাম"
+
+msgid "ISO_3166-1.GW"
+msgstr "গিনি-বিছাউ"
+
+msgid "ISO_3166-1.GW#official"
+msgstr "গিনি-বিছাউ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.GY"
+msgstr "গায়ানা"
+
+msgid "ISO_3166-1.GY#official"
+msgstr "গায়ানা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.HK"
+msgstr "হংকং"
+
+msgid "ISO_3166-1.HK#official"
+msgstr "হংকং, চীনৰ বিশেষ প্ৰশাসনিক অঞ্চল"
+
+msgid "ISO_3166-1.HM"
+msgstr "হাৰ্ড দ্বীপ আৰু মেকডোনাল্ড দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.HN"
+msgstr "হণ্ডুৰাছ"
+
+msgid "ISO_3166-1.HN#official"
+msgstr "হণ্ডুৰাছ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.HR"
+msgstr "ক্ৰোয়েছিয়া"
+
+msgid "ISO_3166-1.HR#official"
+msgstr "ক্ৰোয়েছিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.HT"
+msgstr "হাইতি"
+
+msgid "ISO_3166-1.HT#official"
+msgstr "হাইতি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.HU"
+msgstr "হাংগেৰী"
+
+msgid "ISO_3166-1.ID"
+msgstr "ইণ্ডোনেছিয়া"
+
+msgid "ISO_3166-1.ID#official"
+msgstr "ইণ্ডোনেছিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.IE"
+msgstr "আয়াৰ্লেণ্ড"
+
+msgid "ISO_3166-1.IL"
+msgstr "ইজ্ৰাইল"
+
+msgid "ISO_3166-1.IL#official"
+msgstr "ইজ্ৰাইল ৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.IM"
+msgstr "আইল অফ মেন"
+
+msgid "ISO_3166-1.IN"
+msgstr "ভাৰত"
+
+msgid "ISO_3166-1.IN#official"
+msgstr "ভাৰতীয় প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.IO"
+msgstr "ব্ৰিটিশ্ব ভাৰতীয় মহাসাগৰীয় অঞ্চল"
+
+msgid "ISO_3166-1.IQ"
+msgstr "ইৰাক"
+
+msgid "ISO_3166-1.IQ#official"
+msgstr "ইৰাক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.IR"
+msgstr "ইৰান, ইচ্‌লামিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.IR#official"
+msgstr "ইচ্‌লামিক প্ৰজাতন্ত্ৰ ইৰান"
+
+msgid "ISO_3166-1.IS"
+msgstr "আইচলেণ্ড"
+
+msgid "ISO_3166-1.IS#official"
+msgstr "আইচলেণ্ড প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.IT"
+msgstr "ইটালি"
+
+msgid "ISO_3166-1.IT#official"
+msgstr "ইটালিয়ান প্ৰজান্ত্ৰ"
+
+msgid "ISO_3166-1.JE"
+msgstr "জাৰ্চী"
+
+msgid "ISO_3166-1.JM"
+msgstr "জামাইকা"
+
+msgid "ISO_3166-1.JO"
+msgstr "জৰ্ডান"
+
+msgid "ISO_3166-1.JO#official"
+msgstr "হাছেমাইট ৰাজ্য জৰ্ডান"
+
+msgid "ISO_3166-1.JP"
+msgstr "জাপান"
+
+msgid "ISO_3166-1.KE"
+msgstr "কেনিয়া"
+
+msgid "ISO_3166-1.KE#official"
+msgstr "কেনিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.KG"
+msgstr "কিৰ্গিজস্তান"
+
+msgid "ISO_3166-1.KG#official"
+msgstr "কিৰ্গিজ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.KH"
+msgstr "কম্বোডিয়া"
+
+msgid "ISO_3166-1.KH#official"
+msgstr "কম্বোডিয়া ৰাজ্য"
+
+msgid "ISO_3166-1.KI"
+msgstr "কিৰিবাটি"
+
+msgid "ISO_3166-1.KI#official"
+msgstr "কিৰিবাটি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.KM"
+msgstr "কমোৰছ"
+
+msgid "ISO_3166-1.KM#official"
+msgstr "সংযুক্ত কোমোৰোছ"
+
+msgid "ISO_3166-1.KN"
+msgstr "চেন্ট কিট্‌স আৰু নেভিচ"
+
+msgid "ISO_3166-1.KP"
+msgstr "কোৰিয়া, গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী"
+
+msgid "ISO_3166-1.KP#official"
+msgstr "গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী কোৰিয়া"
+
+msgid "ISO_3166-1.KR"
+msgstr "কোৰিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.KW"
+msgstr "কুৱেইট"
+
+msgid "ISO_3166-1.KW#official"
+msgstr "কুৱেইট ৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.KY"
+msgstr "কেমেন দ্বীপ"
+
+msgid "ISO_3166-1.KZ"
+msgstr "কাজাখিস্তান"
+
+msgid "ISO_3166-1.KZ#official"
+msgstr "কাজাখিস্তান প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.LA"
+msgstr "গণপ্ৰজাতন্ত্ৰী লাও"
+
+msgid "ISO_3166-1.LB"
+msgstr "লেবানন"
+
+msgid "ISO_3166-1.LB#official"
+msgstr "লেবানিচ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.LC"
+msgstr "চেন্ট লুচিয়া"
+
+msgid "ISO_3166-1.LI"
+msgstr "লাইচেষ্টেইন"
+
+msgid "ISO_3166-1.LI#official"
+msgstr "সাংবিধানিক ৰাজতন্ত্ৰ লাইচেষ্টেইন"
+
+msgid "ISO_3166-1.LK"
+msgstr "শ্ৰীলঙ্কা"
+
+msgid "ISO_3166-1.LK#official"
+msgstr "গণতান্ত্ৰিক সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ শ্ৰীলঙ্কা"
+
+msgid "ISO_3166-1.LR"
+msgstr "লাইবেৰিয়া"
+
+msgid "ISO_3166-1.LR#official"
+msgstr "লাইবেৰিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.LS"
+msgstr "লেছোথো"
+
+msgid "ISO_3166-1.LS#official"
+msgstr "লেছোথো ৰাজ্য"
+
+msgid "ISO_3166-1.LT"
+msgstr "লিথুৱানিয়া"
+
+msgid "ISO_3166-1.LT#official"
+msgstr "লিথুৱানিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.LU"
+msgstr "লাক্সেমবুৰ্গ"
+
+msgid "ISO_3166-1.LU#official"
+msgstr "লাক্সেমবুৰ্গ গ্ৰেন্ড ডাচি"
+
+msgid "ISO_3166-1.LV"
+msgstr "লাটভিয়া"
+
+msgid "ISO_3166-1.LV#official"
+msgstr "লাটভিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.LY"
+msgstr "লিবিয়া"
+
+msgid "ISO_3166-1.MA"
+msgstr "মৰোক্কো"
+
+msgid "ISO_3166-1.MA#official"
+msgstr "মৰোক্কো ৰাজ্য"
+
+msgid "ISO_3166-1.MC"
+msgstr "মোনাকো"
+
+msgid "ISO_3166-1.MC#official"
+msgstr "সাংবিধানিক ৰাজতন্ত্ৰ মোনাকো"
+
+msgid "ISO_3166-1.MD"
+msgstr "মোলডোভা"
+
+msgid "ISO_3166-1.MD#official"
+msgstr "মোলডোভা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.ME"
+msgstr "মন্টেনেগ্ৰো"
+
+msgid "ISO_3166-1.MF"
+msgstr "চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)"
+
+msgid "ISO_3166-1.MG"
+msgstr "মাডাগাস্কাৰ"
+
+msgid "ISO_3166-1.MG#official"
+msgstr "মাডাগাস্কাৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MH"
+msgstr "মাৰ্শ্বেল দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.MH#official"
+msgstr "মাৰ্শ্বেল দ্বীপপুঞ্জ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MK"
+msgstr "মেচিডোনিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MK#official"
+msgstr "পূৰ্ববৰ্তী যুগোস্লাভ প্ৰজাতন্ত্ৰ মেচিডোনিয়া"
+
+msgid "ISO_3166-1.ML"
+msgstr "মালি"
+
+msgid "ISO_3166-1.ML#official"
+msgstr "মালি প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MM"
+msgstr "মায়ান্মাৰ"
+
+msgid "ISO_3166-1.MM#official"
+msgstr "গায়ানা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MN"
+msgstr "মঙ্গোলিয়া"
+
+msgid "ISO_3166-1.MO"
+msgstr "মেকাও"
+
+msgid "ISO_3166-1.MO#official"
+msgstr "মেকাও, চীনৰ বিশেষ প্ৰশাসনিক অঞ্চল"
+
+msgid "ISO_3166-1.MP"
+msgstr "উত্তৰ মাৰিয়ানা দ্বীপ"
+
+msgid "ISO_3166-1.MP#official"
+msgstr "উত্তৰ মাৰিয়ানা দ্বীপপুঞ্জৰ ৰাষ্ট্ৰমণ্ডল"
+
+msgid "ISO_3166-1.MQ"
+msgstr "মাৰ্টিনিক"
+
+msgid "ISO_3166-1.MR"
+msgstr "ম'ৰিটানিয়া"
+
+msgid "ISO_3166-1.MR#official"
+msgstr "ইসলামিক প্ৰজাতন্ত্ৰ মৰিটানিয়া"
+
+msgid "ISO_3166-1.MS"
+msgstr "মন্টছেৰাট"
+
+msgid "ISO_3166-1.MT"
+msgstr "মাল্টা"
+
+msgid "ISO_3166-1.MT#official"
+msgstr "মাল্টা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MU"
+msgstr "মৰিছাছ"
+
+msgid "ISO_3166-1.MU#official"
+msgstr "মৰিছাছ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MV"
+msgstr "মালডিভ্‌চ"
+
+msgid "ISO_3166-1.MV#official"
+msgstr "মালডিভ্‌চ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MW"
+msgstr "মালাৱী"
+
+msgid "ISO_3166-1.MW#official"
+msgstr "মালাউই প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.MX"
+msgstr "মেক্সিকো"
+
+msgid "ISO_3166-1.MX#official"
+msgstr "মেক্সিকান যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.MY"
+msgstr "মালেছিয়া"
+
+msgid "ISO_3166-1.MZ"
+msgstr "মোজাম্বিক"
+
+msgid "ISO_3166-1.MZ#official"
+msgstr "মোজাম্বিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.NA"
+msgstr "নামিবিয়া"
+
+msgid "ISO_3166-1.NA#official"
+msgstr "নামিবিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.NC"
+msgstr "নিউ কেলেডনিয়া"
+
+msgid "ISO_3166-1.NE"
+msgstr "নাইজাৰ"
+
+msgid "ISO_3166-1.NE#official"
+msgstr "নাইজাৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.NF"
+msgstr "নৰফোল্ক দ্বীপ"
+
+msgid "ISO_3166-1.NG"
+msgstr "নাইজেৰিয়া"
+
+msgid "ISO_3166-1.NG#official"
+msgstr "প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ নাইজেৰিয়া"
+
+msgid "ISO_3166-1.NI"
+msgstr "নিকৰ্গুৱা"
+
+msgid "ISO_3166-1.NI#official"
+msgstr "নিকৰ্গুৱা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.NL"
+msgstr "নেডাৰলেণ্ড"
+
+msgid "ISO_3166-1.NL#official"
+msgstr "নেডাৰলেণ্ড ৰাজ্য"
+
+msgid "ISO_3166-1.NO"
+msgstr "নৰৱে"
+
+msgid "ISO_3166-1.NO#official"
+msgstr "নৰৱে ৰাজ্য"
+
+msgid "ISO_3166-1.NP"
+msgstr "নেপাল"
+
+msgid "ISO_3166-1.NP#official"
+msgstr "গণতান্ত্ৰিক প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ নেপাল"
+
+msgid "ISO_3166-1.NR"
+msgstr "নাউৰু"
+
+msgid "ISO_3166-1.NR#official"
+msgstr "নাউৰু প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.NU"
+msgstr "নিউ"
+
+msgid "ISO_3166-1.NZ"
+msgstr "নিউজিলেণ্ড"
+
+msgid "ISO_3166-1.OM"
+msgstr "ওমান"
+
+msgid "ISO_3166-1.OM#official"
+msgstr "ওমান চুলতানত"
+
+msgid "ISO_3166-1.PA"
+msgstr "পানামা"
+
+msgid "ISO_3166-1.PA#official"
+msgstr "পানামা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.PE"
+msgstr "পেৰু"
+
+msgid "ISO_3166-1.PE#official"
+msgstr "পেৰু প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.PF"
+msgstr "ফ্ৰেঞ্চ পলিনেছিয়া"
+
+msgid "ISO_3166-1.PG"
+msgstr "পাপুৱা নিউ গিনি"
+
+msgid "ISO_3166-1.PG#official"
+msgstr "স্বতন্ত্ৰ ৰাষ্ট্ৰ ছামোৱা"
+
+msgid "ISO_3166-1.PH"
+msgstr "ফিলিপাইনছ"
+
+msgid "ISO_3166-1.PH#official"
+msgstr "ফিলিপাইনছ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.PK"
+msgstr "পাকিস্তান"
+
+msgid "ISO_3166-1.PK#official"
+msgstr "ইচ্‌লামিক প্ৰজাতন্ত্ৰ পাকিস্তান"
+
+msgid "ISO_3166-1.PL"
+msgstr "পলেণ্ড"
+
+msgid "ISO_3166-1.PL#official"
+msgstr "পলেণ্ড প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.PM"
+msgstr "চেন্ট পিয়েৰ আৰু মিকেলন"
+
+msgid "ISO_3166-1.PN"
+msgstr "পিটকেইৰ্ণ"
+
+msgid "ISO_3166-1.PR"
+msgstr "পূৱেৰ্টো ৰিকো"
+
+msgid "ISO_3166-1.PS#official"
+msgstr "আমেৰিকা মাৰ্কিন যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.PT"
+msgstr "পোর্টুগাল"
+
+msgid "ISO_3166-1.PT#official"
+msgstr "প'ৰ্টুগিছ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.PW"
+msgstr "পালাউ"
+
+msgid "ISO_3166-1.PW#official"
+msgstr "পালাউ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.PY"
+msgstr "পাৰাগুৱে"
+
+msgid "ISO_3166-1.PY#official"
+msgstr "পাৰাগুৱে প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.QA"
+msgstr "কাটাৰ"
+
+msgid "ISO_3166-1.QA#official"
+msgstr "কাটাৰ ৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.RE"
+msgstr "ৰিইউনিয়ান"
+
+msgid "ISO_3166-1.RO"
+msgstr "ৰোমানিয়া"
+
+msgid "ISO_3166-1.RS"
+msgstr "চাৰ্বিয়া"
+
+msgid "ISO_3166-1.RS#official"
+msgstr "চাৰ্বিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.RU"
+msgstr "ৰুচ যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.RW"
+msgstr "ৰৱান্ডা"
+
+msgid "ISO_3166-1.RW#official"
+msgstr "ৰৱান্ডিচ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SA"
+msgstr "ছৌডি আৰব"
+
+msgid "ISO_3166-1.SA#official"
+msgstr "ছৌডি আৰব ৰাজ্য"
+
+msgid "ISO_3166-1.SB"
+msgstr "ছলোমন দ্বীপ"
+
+msgid "ISO_3166-1.SC"
+msgstr "ছেয়চেলছ"
+
+msgid "ISO_3166-1.SC#official"
+msgstr "ছেয়চেলছ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SD"
+msgstr "ছুদান"
+
+msgid "ISO_3166-1.SD#official"
+msgstr "ছুদান প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SE"
+msgstr "ছুইডেন"
+
+msgid "ISO_3166-1.SE#official"
+msgstr "ছুইডেন ৰাজ্য"
+
+msgid "ISO_3166-1.SG"
+msgstr "ছিংগাপুৰ"
+
+msgid "ISO_3166-1.SG#official"
+msgstr "ছিংগাপুৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SH"
+msgstr "ছেইন্ট হেলেনা, এচেঞ্চন আৰু ট্ৰিস্টান ডা কুন্হা"
+
+msgid "ISO_3166-1.SI"
+msgstr "স্লোভেনিয়া"
+
+msgid "ISO_3166-1.SI#official"
+msgstr "স্লোভেনিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SJ"
+msgstr "চয়ালবাৰ্ড আৰু ইয়ানমায়েন"
+
+msgid "ISO_3166-1.SK"
+msgstr "স্লোভাকিয়া"
+
+msgid "ISO_3166-1.SK#official"
+msgstr "স্লোভাক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SL"
+msgstr "চিয়েৰা লিওন"
+
+msgid "ISO_3166-1.SL#official"
+msgstr "চিয়েৰা লিওন প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SM"
+msgstr "চান মাৰিনো"
+
+msgid "ISO_3166-1.SM#official"
+msgstr "চান মাৰিনো প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SN"
+msgstr "ছেনেগাল"
+
+msgid "ISO_3166-1.SN#official"
+msgstr "ছেনেগাল প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SO"
+msgstr "ছোমালিয়া"
+
+msgid "ISO_3166-1.SO#official"
+msgstr "প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ জাইচ্‌লামিক্মানী"
+
+msgid "ISO_3166-1.SR"
+msgstr "চুৰিনাম"
+
+msgid "ISO_3166-1.SR#official"
+msgstr "চুৰিনাম প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SS"
+msgstr "ছুদান প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SS#official"
+msgstr "ছুদান প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.ST"
+msgstr "চাও টোমে আৰু প্ৰিন্সিপে"
+
+msgid "ISO_3166-1.ST#official"
+msgstr "গণতান্ত্ৰিক প্ৰজাতন্ত্ৰ চাও টোমে আৰু প্ৰিন্সিপে"
+
+msgid "ISO_3166-1.SV"
+msgstr "এল ছেলভেড'ৰ"
+
+msgid "ISO_3166-1.SV#official"
+msgstr "এল ছেলভেড'ৰ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SX"
+msgstr "চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)"
+
+msgid "ISO_3166-1.SY"
+msgstr "চিৰিয়ান আৰব প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.SZ"
+msgstr "স্বাজিলেণ্ড"
+
+msgid "ISO_3166-1.SZ#official"
+msgstr "স্বাজিলেণ্ড ৰাজ্য"
+
+msgid "ISO_3166-1.TC"
+msgstr "টুৰ্কছ আৰু কেইকোছ দ্বীপ"
+
+msgid "ISO_3166-1.TD"
+msgstr "চাড"
+
+msgid "ISO_3166-1.TD#official"
+msgstr "চাড প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.TF"
+msgstr "ফ্ৰেঞ্চ দক্ষিণ অঞ্চল"
+
+msgid "ISO_3166-1.TG"
+msgstr "টোগো"
+
+msgid "ISO_3166-1.TG#official"
+msgstr "টোগোলিচ প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.TH"
+msgstr "থাইলেণ্ড"
+
+msgid "ISO_3166-1.TH#official"
+msgstr "থাইলেণ্ড ৰাজ্য"
+
+msgid "ISO_3166-1.TJ"
+msgstr "তাজিকিস্তান"
+
+msgid "ISO_3166-1.TJ#official"
+msgstr "তাজিকিস্তান প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.TK"
+msgstr "টকেলাউ"
+
+msgid "ISO_3166-1.TL"
+msgstr "টিমোৰ-লেস্তে"
+
+msgid "ISO_3166-1.TL#official"
+msgstr "গণপ্ৰজাতন্ত্ৰী টিমোৰ-লেস্তে"
+
+msgid "ISO_3166-1.TM"
+msgstr "তুৰ্কমেনিস্তান"
+
+msgid "ISO_3166-1.TN"
+msgstr "টিউনিছিয়া"
+
+msgid "ISO_3166-1.TN#official"
+msgstr "টিউনিছিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.TO"
+msgstr "টোঙ্গা"
+
+msgid "ISO_3166-1.TO#official"
+msgstr "টোঙ্গা ৰাজ্য"
+
+msgid "ISO_3166-1.TR"
+msgstr "তুৰস্ক"
+
+msgid "ISO_3166-1.TR#official"
+msgstr "তুৰস্ক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.TT"
+msgstr "ট্ৰিনিডাড আৰু টোবাগো"
+
+msgid "ISO_3166-1.TT#official"
+msgstr "ট্ৰিনিডাড আৰু টোবাগো প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.TV"
+msgstr "টুভালু"
+
+msgid "ISO_3166-1.TW"
+msgstr "তাইৱান"
+
+msgid "ISO_3166-1.TZ"
+msgstr "তাঞ্জানিয়া, সংযুক্ত প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.TZ#official"
+msgstr "সংযুক্ত প্ৰজাতন্ত্ৰ তাঞ্জানিয়া"
+
+msgid "ISO_3166-1.UA"
+msgstr "ইউক্ৰেইন"
+
+msgid "ISO_3166-1.UG"
+msgstr "উগাণ্ডা"
+
+msgid "ISO_3166-1.UG#official"
+msgstr "উগাণ্ডা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.UM"
+msgstr "মাৰ্কিন যুক্তৰাষ্ট্ৰ বহিস্থিত ক্ষুদ্ৰ দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-1.US"
+msgstr "মাৰ্কিন যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.US#official"
+msgstr "আমেৰিকা মাৰ্কিন যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-1.UY"
+msgstr "উৰুগুৱে"
+
+msgid "ISO_3166-1.UY#official"
+msgstr "পূৰ্বীয় প্ৰজাতন্ত্ৰ উৰুগুৱে"
+
+msgid "ISO_3166-1.UZ"
+msgstr "উজ্বেকিস্তান"
+
+msgid "ISO_3166-1.UZ#official"
+msgstr "উজ্বেকিস্তান প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.VA"
+msgstr "হোলি ছি (ভেটিকান)"
+
+msgid "ISO_3166-1.VC"
+msgstr "চেন্ট ভিনচেন্ট আৰু গ্ৰেনাডিনচ"
+
+msgid "ISO_3166-1.VE"
+msgstr "ভেনেজুৱেলা"
+
+msgid "ISO_3166-1.VE#official"
+msgstr "বোলিভাৰিয়ান প্ৰজাতন্ত্ৰ ভেনেজুৱেলা"
+
+msgid "ISO_3166-1.VG"
+msgstr "ব্ৰিটিশ্ব ভাৰ্জিন দ্বীপ"
+
+msgid "ISO_3166-1.VG#official"
+msgstr "ব্ৰিটিশ্ব ভাৰ্জিন দ্বীপ"
+
+msgid "ISO_3166-1.VI"
+msgstr "মাৰ্কিন যুক্তৰাষ্ট্ৰ ভাৰ্জিন দ্বীপ"
+
+msgid "ISO_3166-1.VI#official"
+msgstr "মাৰ্কিন যুক্তৰাষ্ট্ৰ ভাৰ্জিন দ্বীপ"
+
+msgid "ISO_3166-1.VN"
+msgstr "ভিয়েতনাম"
+
+msgid "ISO_3166-1.VN#official"
+msgstr "সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ ভিয়েতনাম"
+
+msgid "ISO_3166-1.VU"
+msgstr "ভানুৱাটুুু"
+
+msgid "ISO_3166-1.VU#official"
+msgstr "ভানুৱাটুুু প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.WF"
+msgstr "ৱালিচ আৰু ফুটুনা"
+
+msgid "ISO_3166-1.WS"
+msgstr "ছামোৱা"
+
+msgid "ISO_3166-1.WS#official"
+msgstr "স্বতন্ত্ৰ ৰাষ্ট্ৰ ছামোৱা"
+
+msgid "ISO_3166-1.YE"
+msgstr "য়েমেন"
+
+msgid "ISO_3166-1.YE#official"
+msgstr "য়েমেন প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.YT"
+msgstr "মেওতে"
+
+msgid "ISO_3166-1.ZA"
+msgstr "দক্ষিণ আফ্ৰিকা"
+
+msgid "ISO_3166-1.ZA#official"
+msgstr "দক্ষিণ আফ্ৰিকা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.ZM"
+msgstr "জাম্বিয়া"
+
+msgid "ISO_3166-1.ZM#official"
+msgstr "জাম্বিয়া প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-1.ZW"
+msgstr "জিম্বাবোৱে"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr "জিম্বাবোৱে প্ৰজাতন্ত্ৰ"
